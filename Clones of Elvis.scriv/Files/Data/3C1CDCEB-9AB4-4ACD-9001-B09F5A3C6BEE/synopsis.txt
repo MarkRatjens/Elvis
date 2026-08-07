@@ -1,0 +1,18 @@
+**Locations**: The CEO’s suite, a long way above the weather — one wall all screens, and every screen is Bent Street (the couch, the kitchens, the bedsheets, the singing supplied by a directional microphone in unfortunate high fidelity.
+
+**Register**: Comic-grotesque two-hander — NOT thriller. Dunhilton is bluster played for laughs; Gerry keeps his canon tells (milky coffee Dunhilton has never forgiven, dry needling, performed deference over mutinous interior). Tone anchor (Dunhilton): “When the dishwasher floods the kitchen, you do not stand about admiring the water feature. You pull the plug and you mop.”
+
+**Function**: The pressure beat that turns the vigil into Operation Cleanse. Dunhilton orders the TMinus deployment; Gerry resists on tactical grounds (unfinished testing) and loses. Bridges Get Bent Street (the vigil) to Operation Cleanse (the deployment).
+
+**Outline** (Monday, 12 November):
+1. The government of Ulyssia meets the situation with the full machinery of the meritocratic state: it holds a meeting. Gerry arrives with tablet and coffee; Dunhilton at the glass, back to the room, having slept badly at a great altitude.
+2. The vocabulary problem as comic set-piece: “piglicious” has defeated the entire security apparatus — Security’s databases return nothing, Legal spends the weekend drafting injunctions against an offence nobody can define, the retained linguistics professor asks in writing to be released from his NDA. Gerry slows things down on purpose (his principal contribution to national security).
+3. The song: “Religious Minds” is No. 1 in the Ghetto by breakfast, the Pale by dinner, climbing every chart, overseas markets open tonight. Dunhilton’s molar goes; he books the dentist (the button planted at Get Bent Street pays here — first of the three emergency visits).
+4. The deadline reckoning: Cup Day was the deal and it is now the twelfth; the Cup has been run, the horse retired, and Dunhilton’s street is full of singing. He wants it cleared before the board sits Thursday.
+5. Gerry’s resistance is tactical, not moral: testing isn’t finished, a street is not a lab (wind, for one thing), the dispersal units are still in trials, and half that plaza is shareholders’ children. Dunhilton overrides — the kids will “catch a sniffle and a story for their inheritance lunches”; the menace stays comic, delivered as affection (“I would hate to run out of ways to keep caring about you”).
+6. Dunhilton orders Wednesday. Gerry says “Yes, CEO” and drinks his milky coffee. [He will deploy Thursday — the one-day slip is his quiet mutiny, one more day of testing; it pays off at the head of Operation Cleanse.]
+7. Button: alone, Dunhilton mutes the screens and becomes aware of a low, tuneful sound in the room — himself, humming the one thing everyone in Ulyssia is humming. He clamps his jaw; the molar goes again; it is the nature of a chorus to come around again, and it does. End.
+
+**Guardrails**: Comic-grotesque, never thriller. Keep Gerry’s canon tells. No heist (Part 6; nothing has happened yet). TMinus is the long-planned MAIN weapon — Gerry’s reluctance is about unfinished testing, not conscience. Sarah, Chanta, the High Elvis and Eloise stay off-page. Australian spelling; smart quotes.
+
+**Open (resolve before drafting)**: Wednesday vs Thursday. Proposal is that Dunhilton ORDERS Wednesday here (“the board sits Thursday — I want a clean street”) and Gerry DEPLOYS Thursday in the next scene, a day late — quiet mutiny, one more day of testing. This satisfies your stated Thursday while keeping the KB’s Wednesday order live. Confirm; if Thursday is to be hard canon, sweep gerry.md, dunhilton.md, timeline.md, the decisions log and tminus-virus.md (the “deadline + 8 days” gag becomes +9).

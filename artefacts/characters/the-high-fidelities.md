@@ -1,0 +1,5 @@
+# The High Fidelities
+
+The night's headline act at Rock Against Revival — [[the-high-elvis|The High Elvis]] fronts them on the page (his band; his brass and rhythm sections). [[chanta|Chanta]] never once wonders whether the name is a clone joke. (scene: "The Sages hijack the stage")
+
+**Decisions:** Work Chanta's scrawled lyrics up in the green room with tremendous conviction — blind alleys, flat and sharp, audacious intervals to dodge anything already in Sir Paul McCartney's repertoire, rhythms the lyrics could never scan to — until, with no discernible turning moment, the tune is simply there: "the kind of tune Sir Paul might have written, if only he was American." Open the set with a fast rockabilly tune few of the less mutant universes could play as well; on the plug-pull that ends [[kleo|Kleo]]'s ukulele solo, relaunch within a heartbeat and go on with the program. (scene: "The Sages hijack the stage") Learned "Religious Minds" the afternoon of its premiere — the song new and unperformed anywhere, "not once, not anywhere, not even for the band until this afternoon." (scene: "Religious Minds" [Rock Against Revival])

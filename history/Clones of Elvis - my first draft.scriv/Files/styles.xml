@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Styles>
+    <Style Name="Attribution" ID="E6DEAC69-658C-4357-8458-357FE2FA171D" Type="Para" FontChange="Size" Shortcut="">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Palatino-Roman;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx720\tx1080\tx1440\li720\sl264\slmult1\sa240\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Attributes}]]></Format>
+    </Style>
+    <Style Name="Code Span" ID="DD0DE1F9-A105-4E75-95F2-1967425A4631" Type="Char" FontChange="Face+Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx720\tx1080\tx1440\tx1800\tx2160\li720\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf0 Attributes}]]></Format>
+    </Style>
+    <Style Name="Caption" ID="8EB60081-96AE-4A30-B8ED-37BED6AF63DA" Type="Para" FontChange="Size" Shortcut="3">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Palatino-Roman;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl264\slmult1\sa160\pardirnatural\qc\partightenfactor0
+
+\f0\fs26 \cf0 Attributes}]]></Format>
+    </Style>
+    <Style Name="Emphasis" ID="4707FB65-F502-4128-9DC7-6CE4AE8F3466" Type="Char">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Palatino-Italic;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\fi360\sl264\slmult1\pardirnatural\partightenfactor0
+
+\f0\i\fs26 \cf0 Attributes}]]></Format>
+    </Style>
+    <Style Name="Body" ID="C8883BB4-52BE-4C55-A473-E2AE1733C9D5" Type="Para+Char" FontChange="Face+Size" Next="C8883BB4-52BE-4C55-A473-E2AE1733C9D5" Shortcut="9">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Cochin;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\deftab720
+\pard\pardeftab720\fi360\sl220\qj\partightenfactor0
+
+\f0\fs22 \cf2 \expnd0\expndtw0\kerning0
+<$ScrKeepWithNextSplittable>Attributes}]]></Format>
+    </Style>
+    <Style Name="definition" ID="71CCEE75-3919-43D4-AFC9-4EF85ABEBCD2" Type="Para+Char" FontChange="Face+Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\deftab720
+\pard\pardeftab720\sl500\partightenfactor0
+
+\f0\fs20 \cf0 \expnd0\expndtw0\kerning0
+Attributes}]]></Format>
+    </Style>
+    <Style Name="Verse" ID="BEF439F3-8A20-4D2B-A0D3-5123FF05BC89" Type="Para+Char" FontChange="Face+Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Cochin-Italic;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\li360\fi-360\sl264\slmult1\pardirnatural\partightenfactor0
+
+\f0\i\fs24 \cf0 Attributes}]]></Format>
+    </Style>
+    <Style Name="Song Title" ID="C87390BC-72DA-45AE-A04B-24E46A549329" Type="Para+Char" FontChange="Face+Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 GurmukhiMN;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\sl264\slmult1\sb40\sa220\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf0 Attributes}]]></Format>
+    </Style>
+    <Style Name="Email" ID="3B4742A2-B525-440A-AED5-8B2DD3E78835" Type="Para+Char" FontChange="Face+Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Avenir-Book;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\deftab720
+\pard\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\pardeftab720\fi360\sl264\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs18 \cf0 Attributes}]]></Format>
+    </Style>
+    <Style Name="Scene Break" ID="4419A479-F141-44B6-9B0E-6DFBF02B3A6B" Type="Para+Char" FontChange="Face+Size" Next="C8883BB4-52BE-4C55-A473-E2AE1733C9D5">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 BookmanOldStyle;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\deftab360
+\pard\pardeftab360\sl360\slmult1\partightenfactor0
+
+\f0\fs24 \cf0 Attributes}]]></Format>
+    </Style>
+    <Style Name="Notes" ID="0E0CED66-8203-43EC-AC29-A08F6CE5ACC3" Type="Para+Char" FontChange="Face+Size" Next="0E0CED66-8203-43EC-AC29-A08F6CE5ACC3">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\deftab720
+\pard\pardeftab720\fi360\sl220\qj\partightenfactor0
+
+\f0\fs20 \cf2 \expnd0\expndtw0\kerning0
+<$ScrKeepWithNextSplittable>Attributes}]]></Format>
+    </Style>
+    <Style Name="Quote" ID="AB78FCA2-E4DF-4842-AF91-826B47A04A3E" Type="Para+Char" FontChange="Face+Size" Next="AB78FCA2-E4DF-4842-AF91-826B47A04A3E">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Cochin;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\deftab720
+\pard\pardeftab720\li360\ri-3620\sl220\qj\partightenfactor0
+
+\f0\fs22 \cf2 \expnd0\expndtw0\kerning0
+<$ScrKeepWithNextSplittable>Attributes}]]></Format>
+    </Style>
+    <Style Name="CurrentStateTable" ID="BAD85B68-69E6-4A62-B30F-F1A05CC33FED" Type="Para+Char" FontChange="Face+Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 AvenirNext-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\deftab720
+\pard\pardeftab720\sl260\slleading20\sb60\sa60\partightenfactor0
+
+\f0\fs18 \cf0 \expnd0\expndtw0\kerning0
+Attributes}]]></Format>
+    </Style>
+</Styles>

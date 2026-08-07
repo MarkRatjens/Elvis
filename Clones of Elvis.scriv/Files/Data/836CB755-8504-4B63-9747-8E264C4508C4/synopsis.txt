@@ -1,0 +1,18 @@
+**Locations**: The Bent Street plaza above the Layer — the vigil, now into its fifth day (Thursday) and still holding. A dispersal/lab setup in and around Tramp Tower; the CEO’s suite.
+
+**Register**: Comic-grotesque — this is the scene the OLD draft got most wrong (stoic war-criminal Gerry, gloating-Bond-villain Dunhilton, Elvi dying of organ failure on the page). That register is FORBIDDEN by the character files. Play genocide as household chore / bureaucratic housekeeping. Tone anchor (Dunhilton): “When the dishwasher floods the kitchen, you do not stand about admiring the water feature. You pull the plug and you mop.”
+
+**Function**: The payoff of the long-planned main weapon (ledger S155 — “Operation Cleanse is the main deployment”). The TMinus Virus finally fires — INTO the vigil crowd. The cross-class body the concert united is violently re-sorted along exactly the lines it had erased. This is the beat the whole part has built toward, and it triggers everything after: Kathy isolating the virus, the Humpening as Sarah’s covert counter, the Pillow scene, Dunhilton’s war declaration.
+
+**Outline** (Thursday):
+1. Gerry deploys a day late — Thursday, not the ordered Wednesday: one more day of testing, quiet mutiny, very him. Testing still unfinished — dramatise the improvisation as FARCE, not thriller: dispersal units misbehaving, the wind, the “bacterial outbreak” cover fraying. The machinery of atrocity as a job that keeps going wrong.
+2. Release into the plaza (distributed by air/water/food; targets the Elvi clone genotype; everyone else gets cold symptoms — which is the cover).
+3. It works within HOURS, not days (load-bearing — see biology.md). Elvi start sickening mid-vigil — a drummer falters, a singer sits down heavily.
+4. The crowd realises the sickness is selective. Solidarity collapses; Health-Department cordons physically re-segregate the ill Elvi from their allies — the class lines the vigil erased, redrawn in quarantine tape.
+5. Deaths are real but blunted — many of the sick go home and disperse before anyone can count them. Toll never pinned.
+6. Dunhilton’s satisfaction stays bluster-for-laughs (clones as disposable appliances; mice out of the grain silo), never sincere villainy. Gerry engineers the outcome without appearing to act — no “clinical detachment” voiceover; keep his canon tells (milky coffee, dry needling, mutinous interior).
+7. Close on the image that hands the baton to the next chapter (“Kathy Figures it Out” / the Humpening): abandoned instruments, the plaza emptying.
+
+**Guardrails**: The Humpening is the RESPONSE this deployment triggers (next chapter) — Sarah’s covert strategy via Kathy’s hints, fronted by the High Elvis; do NOT confirm TPlus or Chanta’s spread on the page (Gerry may SUSPECT via surveillance; the narrator never confirms). No heist. No sealed-canon leaks (TPlus/Hardy provenance, Little Clinton’s non-human biology, the Dunhilton-connects-TPlus-to-Chanta passage flagged for cutting). Chanta is “Chanta” in narration — only Sarah calls him Tony. Australian spelling; smart quotes.
+
+**Open**: Thursday vs the KB’s hard-coded Wednesday (14 Nov), which is set in five files (gerry.md, dunhilton.md, timeline.md, the decisions log, tminus-virus.md) on a deliberate “deadline + 8 days” gag. Thursday = +9 days, which breaks the arithmetic. If Thursday stands, sweep those five files.

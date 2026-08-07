@@ -1,0 +1,59 @@
+# Characters Index
+Last updated: 2026-07-20
+
+## Characters
+- [[abe]] — Abe
+- [[agent-jones]] — Agent Jones (Ajent / "Ah-zhant")
+- [[alexander]] — Alexander (Shakti)
+- [[andrea]] — Andrea (Novetine)
+- [[ashby-prynne]] — Ashby-Prynne (Roderick)
+- [[avi]] — Avi (Grubler)
+- [[betty-lee]] — Betty Lee
+- [[blake-mudrake]] — Blake Mudrake
+- [[chanta]] — Chanta (Tony / Anthony Chantara)
+- [[chilo]] — Chilo
+- [[chip]] — Chip Stockwell
+- [[commissioner]] — Commissioner (of Traffic Movement
+  and Property Security Incorporated)
+- [[console-clinician]] — Console Clinician
+- [[danny-sue]] — Danny-Sue
+- [[dick]] — Dick
+- [[dr-john]] — Dr John (Change of Habit Series)
+- [[dunhilton]] — Dunhilton (Piotr)
+- [[eloise]] — Eloise (Shakti)
+- [[fisher]] — Fisher (King Creole Series, Starborne One majordomo)
+- [[emil]] — Emil (Kalheri)
+- [[gerry]] — Gerry Hardman (G. Hardman)
+- [[halo]] — Halo
+- [[hamish-hammersmith]] — Hamish Hammersmith
+- [[hayley]] — Hayley Lanning
+- [[heinrich]] — Heinrich (Eloise's Liechtenstein operative)
+- [[humble]] — Pastor Rex Humble (gospel-schism preacher)
+- [[jamison-hardy]] — Jamison Hardy (referenced only — Chanta's estate benefactor)
+- [[joe-lightcloud]] — Joe Lightcloud (Stay Away Joe Series — Chanta's Head of IT)
+- [[johnny-stoat]] — Johnny Stoat
+- [[kathy]] — Kathy (Dr Katherine Logan)
+- [[kleo]] — Kleo (Kleoboulos Windus)
+- [[little-clinton]] — Little Clinton (Sarah's unborn son)
+- [[lonnie]] — Lonnie
+- [[major]] — Major
+- [[nancy]] — Nancy
+- [[narc-elvis]] — Narc Elvis
+- [[ortolan]] — Orion Ortolan (Dr / "Uh-oh")
+- [[pink-thai-jones]] — Pink Thai Jones (Agent Jones pink-tie variant; boxed battalion, revived for Sublime Point)
+- [[rick]] — Rick
+- [[rusty]] — Rusty (Girl Happy Series)
+- [[sarah]] — Sarah
+- [[sman]] — Sman (Constable Mark)
+- [[solo]] — Solo
+- [[steve]] — Steve (Speedway Series)
+- [[ted]] — Ted (Easy Come Easy Go Series)
+- [[the-elvi]] — The Elvi (collective)
+- [[the-high-elvis]] — The High Elvis
+- [[the-high-fidelities]] — The High Fidelities (Rock Against Revival headline band)
+- [[travis-teh]] — Travis Teh
+- [[tulsa-mclean]] — Tulsa McLean
+- [[valerie]] — Valerie
+- [[velvet-elvis]] — Velvet Elvis
+- [[very-arch-bishop]] — Very Arch Bishop d'Molesto
+- [[walter]] — Walter (young Elvi fan, Rock Against Revival)

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Favorites Version="1.0">
+    <MoveTo>
+        <Recent>
+            <UUID Date="2025-05-10 17:46:47 +1000">3BB54039-9E7B-41CC-899C-296DC6FAE2A7</UUID>
+            <UUID Date="2022-05-15 16:02:22 +1000">97C6EED7-F5DD-46E5-A9B3-F4D4C379E0C2</UUID>
+        </Recent>
+        <Popular>
+            <UUID Used="4" Date="2022-01-28 19:04:29 +1100">A012E55C-A5C9-4A96-8143-34E6620CC9AC</UUID>
+            <UUID Used="1" Date="2025-05-10 17:46:47 +1000">3BB54039-9E7B-41CC-899C-296DC6FAE2A7</UUID>
+            <UUID Used="1" Date="2022-05-15 16:02:22 +1000">97C6EED7-F5DD-46E5-A9B3-F4D4C379E0C2</UUID>
+        </Popular>
+    </MoveTo>
+</Favorites>
