@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-08-07 16:39:03 +1000" ModID="540BC2BD-9A69-40C1-8C5F-804DFC2F1066">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-08-07 16:48:33 +1000" ModID="14B7B286-A375-47A6-BF28-3EAE82A0FCB4">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -2323,7 +2323,7 @@
                                         <TextSelection>10453,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="03ED52CD-7333-43BE-8BA0-3C887585099A" Type="Text" Created="2025-05-10 13:37:55 +1000" Modified="2026-08-06 10:25:47 +1000">
+                                <BinderItem UUID="03ED52CD-7333-43BE-8BA0-3C887585099A" Type="Text" Created="2025-05-10 13:37:55 +1000" Modified="2026-08-07 16:48:33 +1000">
                                     <Title>The VorpalTech Contingency</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -5617,11 +5617,11 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-08-08 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-08-07 16:33:03 +1000"/>
+        <PreviousSession Words="15" Characters="80" Date="2026-08-07 16:33:03 +1000"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2026-08-07 00:00:00 +1000">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>-8</DraftCharCount>
+        <DraftWordCount>15</DraftWordCount>
+        <DraftCharCount>72</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>-296</OtherCharCount>
     </RecentWritingHistory>
