@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-08-07 20:33:09 +1000" ModID="32F9B2F9-D29C-4666-A67E-89023BD6C8C9">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-08-08 09:46:50 +1000" ModID="AA129FB2-6254-4984-8363-41D5293A7EC4">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -2579,7 +2579,7 @@
                                 <NotesTextSelection>0,1929</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>16865,0</TextSelection>
                             </TextSettings>
                             <Children>
                                 <BinderItem UUID="830B2088-DF70-4DFC-81D4-B05E73C48121" Type="Text" Created="2023-06-24 12:30:51 +1000" Modified="2026-08-06 10:25:47 +1000">
@@ -2661,7 +2661,7 @@
                                 <SelectedSubdocumentUUIDs>849CC8EB-E2E4-4195-8C2A-60205AFF2231</SelectedSubdocumentUUIDs>
                             </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem UUID="4F10E387-960B-4B41-88BD-2CB96BAFF050" Type="Text" Created="2025-12-29 17:14:40 +1100" Modified="2026-08-06 10:25:47 +1000">
+                                <BinderItem UUID="4F10E387-960B-4B41-88BD-2CB96BAFF050" Type="Text" Created="2025-12-29 17:14:40 +1100" Modified="2026-08-08 09:30:11 +1000">
                                     <Title>the High Elvis calls a meeting</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -2669,10 +2669,10 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>8424,0</TextSelection>
+                                        <TextSelection>6299,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="849CC8EB-E2E4-4195-8C2A-60205AFF2231" Type="Text" Created="2025-04-27 14:17:01 +1000" Modified="2026-08-07 18:34:46 +1000">
+                                <BinderItem UUID="849CC8EB-E2E4-4195-8C2A-60205AFF2231" Type="Text" Created="2025-04-27 14:17:01 +1000" Modified="2026-08-08 09:32:35 +1000">
                                     <Title>Kathy Gives Sarah a Medical</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3263,7 +3263,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="B71F35AC-BDBC-419B-9AB3-A7AE64228AE1" Type="Text" Created="2022-09-16 14:27:59 +1000" Modified="2026-08-06 10:25:47 +1000">
+                                <BinderItem UUID="B71F35AC-BDBC-419B-9AB3-A7AE64228AE1" Type="Text" Created="2022-09-16 14:27:59 +1000" Modified="2026-08-08 09:46:50 +1000">
                                     <Title>Elvis</Title>
                                     <MetaData>
                                         <LabelID>8</LabelID>
@@ -4462,7 +4462,7 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
                         <IndexCardBinderUUID Position="1.083916,1.93986" TimeStamp="2023-04-10 16:16:21 +1000">C941BC3E-6CB1-4C6F-85C2-627D568AC096</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="2.248252,1.322378" TimeStamp="2023-04-10 16:16:21 +1000">6089D095-2834-4369-937C-511ADA7A6A13</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="2.248252,0.673427" TimeStamp="2023-04-10 16:16:21 +1000">8CEBCECC-8A20-4904-AA7D-E5291FCE1E30</IndexCardBinderUUID>
-                        <IndexCardBinderUUID Position="0.059441,1.374825" TimeStamp="2023-04-10 16:16:21 +1000">D2B7E2CA-B86D-48AE-95C2-DD3534ABC84B</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="3.258741,0.673427" TimeStamp="2023-04-10 16:16:21 +1000">EA83A6D0-37D3-4C4E-8218-6D302CC91630</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="2.167832,0.08042" TimeStamp="2023-04-10 16:16:21 +1000">6C9BD06D-4DD7-48F3-B6DD-4067679ED7CB</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="4.328671,1.346853" TimeStamp="2023-04-10 16:16:21 +1000">65A7DCD4-8B8D-4D52-8726-E1F5922B0297</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="4.286713,0.087413" TimeStamp="2023-04-10 16:16:21 +1000">643655C6-6D84-4106-9CE0-9867DD45C7BC</IndexCardBinderUUID>
@@ -4476,7 +4476,7 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
                         <IndexCardBinderUUID Position="0.059441,1.93986" TimeStamp="2023-04-10 16:16:21 +1000">2B2D5DA4-5CDA-4445-8985-576563A24D80</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="2.237762,1.988811" TimeStamp="2023-04-10 16:16:21 +1000">DA0694DC-E72A-49C3-A142-967FC147A466</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="3.13986,1.985315" TimeStamp="2023-04-10 16:16:21 +1000">4F95C2E7-93A1-4DE1-9515-CB1AB3A472CF</IndexCardBinderUUID>
-                        <IndexCardBinderUUID Position="3.258741,0.673427" TimeStamp="2023-04-10 16:16:21 +1000">EA83A6D0-37D3-4C4E-8218-6D302CC91630</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="0.059441,1.374825" TimeStamp="2023-04-10 16:16:21 +1000">D2B7E2CA-B86D-48AE-95C2-DD3534ABC84B</IndexCardBinderUUID>
                     </FreeformCorkboardDocuments>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
@@ -5349,11 +5349,11 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
         </BinderItem>
     </Binder>
     <Collections>
-        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.190666 0.172706 0.216531">
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">Mr.</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">well, it's stupid.</SearchSettings>
         </Collection>
-        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.091141 0.091141 0.091141">
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
             <Title>Binder</Title>
         </Collection>
     </Collections>
@@ -5616,14 +5616,14 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-08-08 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="30" Characters="150" Date="2026-08-07 20:31:40 +1000"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-08-09 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="3" Characters="18" Date="2026-08-08 09:20:16 +1000"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-08-07 00:00:00 +1000">
-        <DraftWordCount>30</DraftWordCount>
-        <DraftCharCount>142</DraftCharCount>
+    <RecentWritingHistory Date="2026-08-08 00:00:00 +1000">
+        <DraftWordCount>3</DraftWordCount>
+        <DraftCharCount>18</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>-334</OtherCharCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
-    <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="9280829F-D8F7-48D1-A52F-B75B91E52C04" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+    <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="A07B5329-304B-4202-AE44-ADCAB52EAFDD" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
