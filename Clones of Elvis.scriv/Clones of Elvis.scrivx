@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-08-07 16:48:33 +1000" ModID="14B7B286-A375-47A6-BF28-3EAE82A0FCB4">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-08-07 18:38:59 +1000" ModID="22CBA119-13CE-48FD-83E0-6CF859E2B37A">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -638,7 +638,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="0BB0EF7E-FDAC-4D7C-9A07-9BCEC6304055" Type="Text" Created="2022-05-28 11:55:53 +1000" Modified="2026-08-06 10:25:47 +1000">
+                                <BinderItem UUID="0BB0EF7E-FDAC-4D7C-9A07-9BCEC6304055" Type="Text" Created="2022-05-28 11:55:53 +1000" Modified="2026-08-07 18:34:46 +1000">
                                     <Title>Chip investigates a stasis anomaly</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -2051,7 +2051,7 @@
                                         <TextSelection>431,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="DDDC0B25-50CD-400D-814F-35CD6FF73449" Type="Text" Created="2023-04-27 09:50:37 +1000" Modified="2026-08-06 10:25:47 +1000">
+                                <BinderItem UUID="DDDC0B25-50CD-400D-814F-35CD6FF73449" Type="Text" Created="2023-04-27 09:50:37 +1000" Modified="2026-08-07 18:34:46 +1000">
                                     <Title>Dunhilton reviews a vid of the inauguration of the High Elvis</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
@@ -2483,7 +2483,7 @@
                                 <SelectedSubdocumentUUIDs>744254E7-E892-4F08-B1A0-CD04CB20A087</SelectedSubdocumentUUIDs>
                             </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem UUID="2DD102E6-4A49-475A-9954-843A640CB552" Type="Text" Created="2025-04-27 14:26:55 +1000" Modified="2026-08-06 10:25:47 +1000">
+                                <BinderItem UUID="2DD102E6-4A49-475A-9954-843A640CB552" Type="Text" Created="2025-04-27 14:26:55 +1000" Modified="2026-08-07 18:34:46 +1000">
                                     <Title>The Chuglinghams' barbecue</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -2492,10 +2492,10 @@
                                         <NotesTextSelection>285,24</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>9490,5</TextSelection>
+                                        <TextSelection>15233,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="91A7CEEC-8A38-45A3-AC9A-A6BB193E7218" Type="Text" Created="2025-06-09 15:15:11 +1000" Modified="2026-08-06 10:25:47 +1000">
+                                <BinderItem UUID="91A7CEEC-8A38-45A3-AC9A-A6BB193E7218" Type="Text" Created="2025-06-09 15:15:11 +1000" Modified="2026-08-07 18:34:46 +1000">
                                     <Title>Johnny gatecrashes the BBQ</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -2506,7 +2506,7 @@
                                         <TextSelection>1572,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="744254E7-E892-4F08-B1A0-CD04CB20A087" Type="Text" Created="2025-04-27 14:32:19 +1000" Modified="2026-08-06 10:25:47 +1000">
+                                <BinderItem UUID="744254E7-E892-4F08-B1A0-CD04CB20A087" Type="Text" Created="2025-04-27 14:32:19 +1000" Modified="2026-08-07 18:38:59 +1000">
                                     <Title>After the Barbecue</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -2622,7 +2622,7 @@
                                 <SelectedSubdocumentUUIDs>58D7AE9A-E2AB-4833-A89E-E28B3A3D5FAF</SelectedSubdocumentUUIDs>
                             </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem UUID="3E5825A8-484B-42C0-87EF-6F4294722E3C" Type="Text" Created="2025-05-03 13:51:03 +1000" Modified="2026-08-07 10:32:44 +1000">
+                                <BinderItem UUID="3E5825A8-484B-42C0-87EF-6F4294722E3C" Type="Text" Created="2025-05-03 13:51:03 +1000" Modified="2026-08-07 18:34:46 +1000">
                                     <Title>Tony invites Sarah to the penthouse</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -2672,7 +2672,7 @@
                                         <TextSelection>8424,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="849CC8EB-E2E4-4195-8C2A-60205AFF2231" Type="Text" Created="2025-04-27 14:17:01 +1000" Modified="2026-08-06 10:25:47 +1000">
+                                <BinderItem UUID="849CC8EB-E2E4-4195-8C2A-60205AFF2231" Type="Text" Created="2025-04-27 14:17:01 +1000" Modified="2026-08-07 18:34:46 +1000">
                                     <Title>Kathy Gives Sarah a Medical</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3089,7 +3089,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="D431244D-E066-4FA4-8330-FF723A042A6E" Type="Text" Created="2025-05-03 16:31:25 +1000" Modified="2026-06-30 22:02:43 +1000">
+                                <BinderItem UUID="D431244D-E066-4FA4-8330-FF723A042A6E" Type="Text" Created="2025-05-03 16:31:25 +1000" Modified="2026-08-07 18:34:46 +1000">
                                     <Title>Morning of Discoveries</Title>
                                     <TextSettings>
                                         <TextSelection>3028,0</TextSelection>
@@ -3101,13 +3101,13 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="49C2D8C7-4B57-4044-969A-30E38E8EAFF8" Type="Text" Created="2025-05-03 16:32:17 +1000" Modified="2026-06-30 22:02:43 +1000">
+                                <BinderItem UUID="49C2D8C7-4B57-4044-969A-30E38E8EAFF8" Type="Text" Created="2025-05-03 16:32:17 +1000" Modified="2026-08-07 18:34:46 +1000">
                                     <Title>Eloise Measures Risk</Title>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="3784818B-5580-41C2-BA50-7C9E13D7491F" Type="Text" Created="2025-05-03 16:32:54 +1000" Modified="2026-06-30 22:02:43 +1000">
+                                <BinderItem UUID="3784818B-5580-41C2-BA50-7C9E13D7491F" Type="Text" Created="2025-05-03 16:32:54 +1000" Modified="2026-08-07 18:34:46 +1000">
                                     <Title>The Bunker Ultimatum</Title>
                                     <TextSettings>
                                         <TextSelection>592,0</TextSelection>
@@ -3225,7 +3225,7 @@
                                         <TextSelection>0,7800</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="D4EE2431-9475-44DD-967E-D60B1D76A44F" Type="Text" Created="2025-05-03 17:24:54 +1000" Modified="2026-06-30 22:02:43 +1000">
+                                <BinderItem UUID="D4EE2431-9475-44DD-967E-D60B1D76A44F" Type="Text" Created="2025-05-03 17:24:54 +1000" Modified="2026-08-07 18:34:46 +1000">
                                     <Title>Chip vs Johnny</Title>
                                     <TextSettings>
                                         <TextSelection>766,0</TextSelection>
@@ -3383,7 +3383,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="2860897C-F4A8-49AF-A0DD-B8749DCD39AA" Type="Folder" Created="2025-05-10 17:47:35 +1000" Modified="2025-06-07 13:47:06 +1000">
+                        <BinderItem UUID="2860897C-F4A8-49AF-A0DD-B8749DCD39AA" Type="Folder" Created="2025-05-10 17:47:35 +1000" Modified="2026-08-07 18:34:46 +1000">
                             <Title>The Unexpected Hero</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -4462,7 +4462,7 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
                         <IndexCardBinderUUID Position="1.083916,1.93986" TimeStamp="2023-04-10 16:16:21 +1000">C941BC3E-6CB1-4C6F-85C2-627D568AC096</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="2.248252,1.322378" TimeStamp="2023-04-10 16:16:21 +1000">6089D095-2834-4369-937C-511ADA7A6A13</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="2.248252,0.673427" TimeStamp="2023-04-10 16:16:21 +1000">8CEBCECC-8A20-4904-AA7D-E5291FCE1E30</IndexCardBinderUUID>
-                        <IndexCardBinderUUID Position="0.059441,1.374825" TimeStamp="2023-04-10 16:16:21 +1000">D2B7E2CA-B86D-48AE-95C2-DD3534ABC84B</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="3.258741,0.673427" TimeStamp="2023-04-10 16:16:21 +1000">EA83A6D0-37D3-4C4E-8218-6D302CC91630</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="2.167832,0.08042" TimeStamp="2023-04-10 16:16:21 +1000">6C9BD06D-4DD7-48F3-B6DD-4067679ED7CB</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="4.328671,1.346853" TimeStamp="2023-04-10 16:16:21 +1000">65A7DCD4-8B8D-4D52-8726-E1F5922B0297</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="4.286713,0.087413" TimeStamp="2023-04-10 16:16:21 +1000">643655C6-6D84-4106-9CE0-9867DD45C7BC</IndexCardBinderUUID>
@@ -4475,8 +4475,8 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
                         <IndexCardBinderUUID Position="0.167832,0.683916" TimeStamp="2023-04-10 16:16:21 +1000">E653B5BE-8AC0-4A1B-A821-9B0C827CF212</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="0.059441,1.93986" TimeStamp="2023-04-10 16:16:21 +1000">2B2D5DA4-5CDA-4445-8985-576563A24D80</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="2.237762,1.988811" TimeStamp="2023-04-10 16:16:21 +1000">DA0694DC-E72A-49C3-A142-967FC147A466</IndexCardBinderUUID>
-                        <IndexCardBinderUUID Position="3.258741,0.673427" TimeStamp="2023-04-10 16:16:21 +1000">EA83A6D0-37D3-4C4E-8218-6D302CC91630</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="3.13986,1.985315" TimeStamp="2023-04-10 16:16:21 +1000">4F95C2E7-93A1-4DE1-9515-CB1AB3A472CF</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="0.059441,1.374825" TimeStamp="2023-04-10 16:16:21 +1000">D2B7E2CA-B86D-48AE-95C2-DD3534ABC84B</IndexCardBinderUUID>
                     </FreeformCorkboardDocuments>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
@@ -4640,7 +4640,7 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="C0D6171C-857C-47AF-BC5A-D0653E101D85" Type="Text" Created="2017-04-20 07:08:06 +1000" Modified="2025-11-02 19:17:04 +1100">
+                <BinderItem UUID="C0D6171C-857C-47AF-BC5A-D0653E101D85" Type="Text" Created="2017-04-20 07:08:06 +1000" Modified="2026-08-07 18:34:46 +1000">
                     <Title>Agent Jones</Title>
                     <MetaData>
                         <LabelID>6</LabelID>
@@ -5349,11 +5349,11 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
         </BinderItem>
     </Binder>
     <Collections>
-        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.190666 0.172706 0.216531">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">be able to access it until</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">Mr.</SearchSettings>
         </Collection>
-        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.091141 0.091141 0.091141">
             <Title>Binder</Title>
         </Collection>
     </Collections>
@@ -5617,13 +5617,13 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-08-08 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="15" Characters="80" Date="2026-08-07 16:33:03 +1000"/>
+        <PreviousSession Words="15" Characters="68" Date="2026-08-07 18:36:13 +1000"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2026-08-07 00:00:00 +1000">
         <DraftWordCount>15</DraftWordCount>
-        <DraftCharCount>72</DraftCharCount>
+        <DraftCharCount>60</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>-296</OtherCharCount>
+        <OtherCharCount>-311</OtherCharCount>
     </RecentWritingHistory>
-    <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="11B022AC-08C8-4D5E-9046-80AB6E2988F1" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+    <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="AB3FDF39-1CD2-4444-B283-3E558D6D041D" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

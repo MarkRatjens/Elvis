@@ -23,3 +23,5 @@
 - The Frogurt Yurt gets **two simple statements at most**.
 - Thereafter Walter is injected in **single sentences anywhere** in the occupation scenes — especially **offering frogurt to the riot cops** ("The Monday conversation," alongside the fried-sandwich and fool's-gold offerings). The release scene stays untouched per standing decree.
 - Author's beat, near-verbatim: the frogurt turned out to be **the best way Walter had ever met girls** — he almost forgot [[kathy|Kathy]] — and **he loved to watch them eat the stuff**.
+
+**DRAFTED (2026-08-07):** the injections are in the bundle. "Occupy Bent Street": election + Frogurt Yurt paragraph after the crowd swells to many thousands; the girls sentence after the Elvine's evolution testimony. "The Monday conversation": Mayor Walter offers frogurt along the riot-squad couch line, on the house. A proposed press-conference beat was rejected and cut — Walter has no beat during Dunhilton's address. Operation Cleanse untouched.
