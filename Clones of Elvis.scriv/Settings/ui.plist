@@ -362,8 +362,8 @@
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {252, 889}}</string>
-		<string>{{253, 0}, {1259, 889}}</string>
+		<string>{{0, 0}, {236.5, 889}}</string>
+		<string>{{237.5, 0}, {1274.5, 889}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -2760,8 +2760,8 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {994.5, 859}}</string>
-		<string>{{995.5, 0}, {263.5, 859}}</string>
+		<string>{{0, 0}, {1010, 859}}</string>
+		<string>{{1011, 0}, {263.5, 859}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>229.5</real>
@@ -2838,7 +2838,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{-21.333333333333332, 2874}, {662.66666666666663, 532.66666666666652}}</string>
+	<string>{{-26.666666666666664, 1840}, {673.33333333333326, 532.66666666666652}}</string>
 	<key>mainDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -2887,7 +2887,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>184.5</real>
+			<real>200</real>
 		</dict>
 	</dict>
 	<key>selectedCollectionTabIndex</key>
