@@ -1,6 +1,6 @@
 # Object Locations
 
-Last updated: 2026-07-20 | Scope: Parts 1–4 complete + Part 5 through "The Rock Against Revival"
+Last updated: 2026-08-07 | Scope: Parts 1–4 complete + Part 5 through "Piglicious Minds" (closing-chapter survey in progress)
 
 | Object | Last known location | Scene | Notes |
 |--------|---------------------|-------|-------|
@@ -56,3 +56,9 @@ Last updated: 2026-07-20 | Scope: Parts 1–4 complete + Part 5 through "The Roc
 | Colonel Tom Porker (pig dirigible) | Aloft over the Domain crowd, moored to the engineering tower | "Religious Minds" [Rock Against Revival] | Gassed-up pig dirigible the size of a delivery van — saturated pink, oversized Stetson, cigar puffing smoke rings (Kathy guesses an internal fog unit); mooring cable as thick as a boy's wrist; turned and puffed overhead on his tether through the headline set ("The Sages hijack the stage"); aloft "since noon" per the closing address — "asking nothing of any man but his percentage" / "taking his percentage of the air"; still on his tether at chapter end, puffing a ring "up at the first clear stars." |
 | Biblical Shears | [[humble|Rex Humble]]'s hand, New Graceland (walk-in cooler beneath a Ghetto bar) | "Religious Minds" [Rock Against Revival] | Orange-handled; blessed that morning; "indistinguishable to the untutored eye" from chip-bag scissors. |
 | Cut-glass punch bowl | Out at New Graceland, half-deep in shorn sideburns | "Religious Minds" [Rock Against Revival] | "The dark curling harvest of shorn sideburns." |
+| [[chanta|Chanta]]'s Cadillac | Kerb at Bent Street Plaza | Occupy Bent Street | "The colour of the flesh of an avocado that had been left too long in the bowl." |
+| OCCUPY BENT STREET / GET BENT tarpaulins | Bent Street Plaza; images circulating on Instagroan | Occupy Bent Street | Painted by an unnamed lad and girl; posted with protest invitations. |
+| Occupation stage & amplification | Bent Street Plaza, powered from a basement substation the [[the-elvi|Elvi]] jacked into | Occupy Bent Street | Improvised; "its second source of power." Go-kart racing confined to the Spring Street end. |
+| Esky of iced beer (one of six) | Carried off stage by Chanta at his exit | Occupy Bent Street | Six eskies brought on stage by six Elvi at his croaked request. |
+| GET BENT t-shirts | Distributed free across the plaza crowd | Occupy Bent Street | One design — chimpanzee playing air guitar; cost met by an Airborne start-up that started up on the plaza. |
+| Riot-squad armaments, shields, flak jackets (defectors') | Laid down on Bent Street Plaza | The Monday conversation | Shed by the TRAMPS officers who accepted sandwiches and joined the party. |

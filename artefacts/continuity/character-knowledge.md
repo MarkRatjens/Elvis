@@ -74,6 +74,7 @@ Last updated: 2026-07-20 | Scope: Parts 1–4 complete + Part 5 through "The Roc
 - Now knows [[fisher|Fisher]] disobeyed the order to burn the Jamison Hardy portrait — quietly donated it to the art gallery near the Domain; Chanta learned of the donation only later. (scene: "Chanta's tower")
 - Now knows [[eloise|Eloise]] Shakti is on the festival VIP platform. Sees an unidentified "soft dude" snuggling Kathy (on the page it is [[hayley|Hayley]]) and a "scrawny Elvis dude" ([[walter|Walter]]) on his own throne — "Has Sarah brought a date?"; recognises neither. Cannot see Little Clinton's golden orange aura from the tower (assumes the throne-back obscures it). Reckons the pregnancy "seven months along" — his own personal count, allowed to stand by authorial decree (canon at the festival: thirty-five weeks); in-character and wrong. (scene: "Chanta's tower")
 - Still believes Little Clinton is his wellspring and muse, "who gave him the songs, who had always given him the songs." (scene: "Chanta's tower")
+- Now knows the crowd sings his lyric inverted — "We *must* go on as Elvi / With religious minds," "Praise the Dawkins / He's the one" — and that no correction from the author himself can dislodge it: three attempts on the occupation stage, sung over each time. Authorship confers no control. (scene: "Occupy Bent Street")
 
 ### Agent Jones
 - Knows Gyges Disc exists; was to be retrieved by [[emil|Emil]] from Teh. (scene: "I am not human")
@@ -174,6 +175,8 @@ Last updated: 2026-07-20 | Scope: Parts 1–4 complete + Part 5 through "The Roc
 - Does not know who tampered with the stasis unit or took the disc. (scene: "Chip investigates a stasis anomaly")
 - Does not know about Travis Teh's death or its connection to the disc — passed Unit 15 without interest. (scene: "Chip investigates a stasis anomaly")
 - Now knows [[eloise|Eloise]] has jailbroken his encrypted tablet and neutralised his independent security system — she told him after recruiting him. Knows his signing bonus across anonymous accounts was discovered by Eloise before he knew she'd been watching. (scene: "Chip's Integration into Project Kebab")
+- Knows the Rotherhithe Stasis Collapse — from classified Fridge Force temporal-resonance reports he was never supposed to have access to. Named it in the room and was dismissed as the professionally paranoid. (scene: "Gyges disc pentagram configuration")
+- Now knows [[johnny-stoat|Johnny]] has committed the project to a five-disc pentagonal configuration — escalated from three in front of him, over his objection. Intends to warn [[sarah|Sarah]] ("I need to talk with Ms Jacobson"); the warning is undelivered in the drafted Part 5. (scene: "Gyges disc pentagram configuration")
 - Now knows five Gyges Discs in pentagonal configuration are the goal of Project Kebab. Keeps citing the Rotherhithe Stasis Collapse (catastrophic precedent) but is being marginalised as a doom-sayer. (scene: "Gyges disc pentagram configuration")
 
 ### Kleo
@@ -218,6 +221,7 @@ Last updated: 2026-07-20 | Scope: Parts 1–4 complete + Part 5 through "The Roc
 - Now knows Halo's body is missing — the ambulance team used fake names consistent with known [[legal-framework|PAPER]] grunts; body never delivered to hospital. (scene: "Dunhilton & Hardman review the Scarlet Shower Surgeon situation")
 - Now knows the Elvi parachuted into St Hedges from fixed-wing aircraft operating under the Layer — planes that shouldn't exist. Action was militarily precise; dozens of cheap parachutes tangled in the cathedral roof. [[elvi-and-grayling|Grayling]] encoded skydiving in Elvi DNA. Interprets this as a calculated demonstration of power. (scene: "Dunhilton & Gerry inspect the parachute site")
 - Now knows [[gerry|Gerry Hardman]] controls PAPER — promoted him at war cabinet. (scene: "Dunhilton reconvenes the war cabinet")
+- Now knows the Domain concert's permit was secured under a classical-music characterisation (publicly calls it unlawful); knows shareholders' children are among the Bent Street occupiers and frames them as hostages — the grooming/hostage narrative shows he knows their presence is his political problem. (scene: "The Monday conversation")
 
 ### [[the-high-elvis|The High Elvis]]
 - Knows the gospel contagion is spreading among the [[the-elvi|Elvi]] and recognises it as an existential threat to Elvi culture. (scene: "The High Elvis calls a meeting")

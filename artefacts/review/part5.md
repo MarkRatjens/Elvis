@@ -411,6 +411,22 @@ failure. Readers who solve a puzzle one beat ahead feel clever, not cheated,
 silence. Give them a character who is also wondering, and the early solve becomes
 collaboration; leave them alone with it, and it becomes impatience.
 
+*(Canon correction, 2026-08-07, author: the descendant solve is **wrong**, and the
+manuscript was checked the same day — **nothing on the page hints at descent.** The
+inference chain above is the review's construction of what a theorising reader
+might build from adjacent facts, not a trail the book lays: the only on-page
+Sarah–Hardy link is the terror scene itself, which hints personal history, not
+bloodline, and the heir-hunt exposition is entirely Chanta-directed. That is the
+correct state and must be preserved — the acknowledgment beats may press on the
+question, but nothing may be added that implies descent. The true answer is sealed
+in the KB and stays off review pages.)*
+
+*(Applied, 2026-08-07: the author chose options 1-adjacent and 2 together, plus the
+insert-scene fold. Kathy now asks about the seven-or-eight edge in "Kathy Gives
+Sarah a Medical" and is deflected; Chanta's characterised refusal to ask about the
+portrait is in "Chanta's tower"; his calf non-wonder is in "Chanta's Penthouse
+Days." The held-door beat rides with the planned Chip escalation scene.)*
+
 The single highest-value move remains the one already agreed: fold it into the Chip
 escalation. Sarah admitting the pregnancy is degrading her is one honest admission
 away from the larger one she isn't ready to make, and putting those in the same

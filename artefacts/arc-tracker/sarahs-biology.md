@@ -50,6 +50,35 @@
   feel it). Her invincibility is therefore not to
   be asserted as permanent, unqualified fact. See
   [[../world-rules/biology]].
+- **Canon fence (author, 2026-08-07):** Sarah is
+  **NOT a Hardy descendant.** **Manuscript checked
+  same day: nothing on the page hints at descent**
+  — the only on-page Sarah–Hardy link is the
+  terror scene ("Tony invites Sarah to the
+  penthouse"), which hints personal history, not
+  bloodline; the heir-hunt exposition is entirely
+  Chanta-directed. If a reader assembles a descent
+  theory it is their own leap from adjacent facts,
+  not a planted trail — and it must stay that way:
+  **no beat may be added that implies descent.**
+  The sealed truth — her mother worked in the lab
+  that developed the TPlusVirus and administered
+  it to Sarah at age 7; unwilling test case;
+  terror of Hardy is lived experience — lives in
+  [[../characters/sarah]] SEALED CANON and the
+  dose-gradient entry in [[../world-rules/biology]].
+  The mother's motive is unresolved, flagged.
+- **On-page acknowledgment beats (applied
+  2026-08-07):** Kathy now probes the
+  seven-or-eight edge in "Kathy Gives Sarah a
+  Medical" and is deflected ("We moved around a
+  lot. My mother worked. I stopped getting
+  colds." — the deflection smuggles the mother
+  on-page); Chanta's characterised refusal to ask
+  about the portrait is in "Chanta's tower"; his
+  calf non-wonder is in "Chanta's Penthouse Days."
+  The held door itself is assigned to the planned
+  insert scene ([[chip-stockwell]]).
 - **Next expected beat:** What Little
   Clinton's anomalous biology means; whether
   Sarah's own biology is similarly anomalous

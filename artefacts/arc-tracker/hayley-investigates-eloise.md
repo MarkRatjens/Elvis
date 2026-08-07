@@ -55,10 +55,14 @@ costs one scene.
 ## Open questions for Part 6
 
 - Does Hayley find that Eloise's interest in Little
-  Clinton predates the pregnancy? (This is the thread
-  that could carry the [[sarahs-biology|Hardy]]
-  revelation into Part 6 through an investigator
-  rather than a confession.)
+  Clinton predates the pregnancy? (This is a thread
+  that could carry Sarah's origin revelation into
+  Part 6 through an investigator rather than a
+  confession — noting the canon fence in
+  [[sarahs-biology]]: Sarah is NOT a Hardy
+  descendant; what there is to find is the lab, the
+  mother, and the test case, and the descent reading
+  is misdirection to protect.)
 - Does Eloise know she is being investigated? Given
   her established pattern — she has always thought of
   it first, and takes discovering counter-measures as

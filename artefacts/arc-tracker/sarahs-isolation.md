@@ -52,14 +52,32 @@
   still legally married to Alexander, still
   carrying a child whose biology is
   unexplained.
-- **Next expected beat:** How Sarah navigates
-  Eloise's control as the Gyges Disc
-  weaponisation escalates and her "complicated
-  no" on weapons research is tested.
+- **Next expected beat — PLANNED Part 5 insert
+  (author, 2026-08-07):** Sarah's one decision
+  that costs her something. [[chip-stockwell|Chip]]
+  delivers the five-disc warning to her and
+  [[hayley-investigates-eloise|Hayley]]; afterwards,
+  alone with Hayley, Sarah admits how the pregnancy
+  is degrading her judgement and attention — the
+  sentence she'd rather not say — and commissions
+  Hayley to investigate Eloise's motives. They
+  agree containment is the objective, believing
+  Johnny and the Sages are managing it on their
+  own despite themselves — a belief the reader
+  knows to be exactly wrong. Delegation is the
+  honest form of agency at thirty-five weeks:
+  she cannot go herself, so she pays the cost of
+  admitting why. Context: Sarah being quietly
+  neutralised is unsurprising in-world — people
+  are hired to be neutralised all the time — and
+  she half-suspects her own sub-optimal
+  performance but deceives herself, as people do.
 - **Dormancy risk:** No — arc structurally
   active throughout
 - **Connects to:** Sarah & Chanta, Alexander's
   Romance (marriage as new constraint),
   Sarah's Biology (Kathy knows she's
   invincible), Eloise's Empire (patron/
-  controller dynamic)
+  controller dynamic), Chip Stockwell (the
+  warning scene), Hayley Investigates Eloise
+  (the commissioned investigation)

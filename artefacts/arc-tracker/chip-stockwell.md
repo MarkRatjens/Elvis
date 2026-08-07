@@ -76,6 +76,13 @@
   Johnny and the Sages are managing that on their
   own despite themselves — a belief the reader knows
   to be exactly wrong.
+  **Held-door beat (author, 2026-08-07):** Sarah's
+  admission about the pregnancy is to be written so
+  the reader feels a *second, larger* admission
+  being withheld behind it — a door held shut, not
+  absent. Do not name what's behind it; the canon
+  fence in [[sarahs-biology]] applies (no descent
+  confirmation, no origin leak).
   **Also to establish (one or two sentences, no
   more):** Chip is under house arrest, which Eloise
   frames as being for his own good, with whatever

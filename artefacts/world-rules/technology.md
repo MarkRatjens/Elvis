@@ -1,6 +1,6 @@
 # Technology
 
-Last updated: 2026-07-20 | Scope: Parts 1–4 complete + Part 5 close (Rock Against Revival) surveyed
+Last updated: 2026-08-07 | Scope: Parts 1–4 complete + Part 5 through "Piglicious Minds" (closing-chapter survey in progress)
 
 ### [[gyges-disc|Gyges Disc]]
 
@@ -99,3 +99,6 @@ Last updated: 2026-07-20 | Scope: Parts 1–4 complete + Part 5 close (Rock Agai
 - **TRAMPS database suppression:** Pop-ups with laughing clowns: "THOSE FILES DON'T EXIST, HACKER SCUM." Officers can revoke others' file access.
 - **Tablet advertising:** Force unskippable ads; "Your unwillingness to be a good consumer has been noted."
 - **Travelator propulsion:** QERSE — Quantum Entanglement Rotary Steam Engine, nicknamed "the Curse." Cheapest bid at tender.
+- **Hover-pad stalks contain elevators (new mechanism):** the ground-level "stalks" that house hover-pads also contain **elevators** running up above the Layer; access is credential-gated, and an [[social-structure|Airborne]] credential-holder can bring non-Airborne up — the Airborne young "exploited their credentials in elevators to ferry every Elvis and Cloudborne up" to Bent Street Plaza. On-page mechanism corroborating the recorded Bent Street access ruling ([[geography]]). (scene: "Occupy Bent Street")
+- **Substation jack-in:** the [[the-elvi|Elvi]] power the occupation's improvised amplified stage by jacking directly into a basement substation ("its second source of power"). (scene: "Occupy Bent Street")
+- **Arkansas Motors Grizzly:** vehicle marque — Elvi arrive in "dilapidated Cadillacs, Lincolns and the occasional Arkansas Motors Grizzly." (scene: "Occupy Bent Street")

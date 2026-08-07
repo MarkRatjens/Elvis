@@ -27,6 +27,10 @@
   invincible (lifespan extended, perfect health,
   bones and nerves enhanced). Tony already shows
   TPlusVirus symptoms from Elvi rescue/imprisonment.
+  *(Sealed truth of his vector, 2026-08-07: a
+  diluted dose via Gyges Disc contact — see the
+  dose gradient in [[../world-rules/biology]];
+  the on-page framing above is Gerry's reading.)*
   Scientists Dr Hermann and Anstey entombed alive
   in final lab under the Pale; found dead but
   "well preserved — hair perfect." Gerry given full
@@ -74,32 +78,63 @@
   No further TMinusVirus beats. Arc dormant while
   the gospel gambit plays out through Jones's
   jukebox sabotage.
+  **Part 5 close — THE RELEASE IS NOW DRAFTED
+  (review cycle 2026-08-07):** the virus is
+  released on the Occupy Bent Street plaza and
+  kills several thousand, written entirely from
+  [[gerry|Gerry]]'s window — administrative
+  distance, "Gerry thought he could see blood,"
+  Dunhilton complaining down the phone that the
+  massacre wasn't dramatic enough. **Authorial
+  decree: the release scene stays exactly this
+  short, cold and clinical.** [[../characters/walter|Walter]]
+  is to be seeded into the occupation scenes
+  BEFORE the gas, never into the release scene
+  itself. Staging chosen (author, 2026-08-07):
+  elected Mayor of the Yurt, which he takes
+  seriously and converts into the **Frogurt
+  Yurt** frozen-yoghurt outlet — his forward-
+  looking want. Walter is a Cloudborne fan,
+  **not an Elvi**, so the genotype-targeted
+  virus does not touch him: he survives, and
+  the gas cancels his world (constituency and
+  clientele), not his body. Full staging in
+  his character file.
+  The [[the-high-elvis|High Elvis]]'s death is
+  reported inside Gerry's POV in these chapters.
+  Per author: several thousand Airborne teenagers
+  have not witnessed murder — "they have merely
+  watched an epidemic."
 - **Next expected beat(s):**
-  **[PLANNED — close of Part 5, not yet drafted]**
-  (a) TMinus release at Get Bent Street after
-  Rock Against Revival (Sat 10 Nov) — Elvi fall
-  seriously ill within hours; deaths there reduced
-  (many go home) but real.
+  **[PLANNED — Part 6, revised 2026-08-07; the
+  old close-of-Part-5 staging below is superseded
+  where it conflicts with [[../review-response/part5]]]**
+  (a) The Melbourne Cup Day deadline has passed by
+  about a week (Bent Street dates in November).
+  One remark only, per author — sketch: the
+  release of the virus took about the same time
+  as an average Melbourne Cup race, only a week
+  late.
   (b) The Humpening — the RESPONSE to the TMinus
-  release, and it is **Sarah's covert strategy**:
-  she alone understands (strategically) that Tony
-  already carries and is spreading TPlus, and she
-  guides the counter through guarded hints while
-  the HIGH ELVIS FRONTS it ("go forth and
-  sanctify"). KATHY independently isolates the
-  virus and blood-tests Chanta, corroborating via
-  the verifiable good health of everyone Tony
-  sleeps with; body-to-body TPlus spread; the
-  panacea guard-rail holds. Full mechanism →
-  [[the-gospel-contagion]] / [[../world-rules/biology]];
-  Sarah's originating knowledge SEALED →
-  [[sarahs-biology]].
-  (c) The Pillow scene, then Dunhilton declares
-  open war on Sublime Point ([[dunhiltons-gambit]]).
-  Note: the Part-5 "Operation Cleanse" scene is now
-  the TMinus RELEASE, not a heist-response — the
-  Gyges-disc heist and Fridge Force's response to
-  it have MOVED to Part 6 ([[the-gyges-heist]]).
+  release, still **Sarah's covert strategy**, but
+  the front has changed: **Sarah devises the plan
+  and deflects credit to [[chanta|Chanta]]'s
+  apparent restorative powers, especially with his
+  Elvisettes, covering for herself as the true
+  source — and inadvertently triggers the
+  Humpening.** (The old plan had the High Elvis
+  front it; he is dead.) KATHY independently
+  isolates the virus and blood-tests Chanta,
+  corroborating via the verifiable good health of
+  everyone Tony sleeps with; body-to-body TPlus
+  spread; the panacea guard-rail holds. Full
+  mechanism → [[the-gospel-contagion]] /
+  [[../world-rules/biology]]; Sarah's originating
+  knowledge SEALED → [[sarahs-biology]].
+  (c) Dunhilton declares open war on Sublime
+  Point ([[dunhiltons-gambit]]). The Gyges-disc
+  heist and Fridge Force's response remain
+  Part 6 ([[the-gyges-heist]]).
 - **Dormancy risk:** Low — the gospel gambit
   is already active; viral arc will reopen when
   the TPlusVirus counter-threat is discovered

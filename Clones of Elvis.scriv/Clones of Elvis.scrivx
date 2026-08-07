@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-08-07 10:49:28 +1000" ModID="7A9BCEE0-2CD0-4616-B6B8-CE80F3BB02D2">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-08-07 16:39:03 +1000" ModID="540BC2BD-9A69-40C1-8C5F-804DFC2F1066">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -2312,7 +2312,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="2AA7FCB3-9DE0-4FF8-9D95-05225D06B3EF" Type="Text" Created="2025-05-10 13:06:49 +1000" Modified="2026-08-06 10:25:47 +1000">
+                                <BinderItem UUID="2AA7FCB3-9DE0-4FF8-9D95-05225D06B3EF" Type="Text" Created="2025-05-10 13:06:49 +1000" Modified="2026-08-07 16:39:03 +1000">
                                     <Title> Alexander gets reassigned</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -2393,7 +2393,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>9319,9</TextSelection>
+                                        <TextSelection>7471,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="89749586-B105-4176-9D77-0BA840D1B3E3" Type="Text" Created="2025-12-14 15:28:05 +1100" Modified="2026-08-06 10:25:47 +1000">
@@ -4462,7 +4462,7 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
                         <IndexCardBinderUUID Position="1.083916,1.93986" TimeStamp="2023-04-10 16:16:21 +1000">C941BC3E-6CB1-4C6F-85C2-627D568AC096</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="2.248252,1.322378" TimeStamp="2023-04-10 16:16:21 +1000">6089D095-2834-4369-937C-511ADA7A6A13</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="2.248252,0.673427" TimeStamp="2023-04-10 16:16:21 +1000">8CEBCECC-8A20-4904-AA7D-E5291FCE1E30</IndexCardBinderUUID>
-                        <IndexCardBinderUUID Position="3.258741,0.673427" TimeStamp="2023-04-10 16:16:21 +1000">EA83A6D0-37D3-4C4E-8218-6D302CC91630</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="0.059441,1.374825" TimeStamp="2023-04-10 16:16:21 +1000">D2B7E2CA-B86D-48AE-95C2-DD3534ABC84B</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="2.167832,0.08042" TimeStamp="2023-04-10 16:16:21 +1000">6C9BD06D-4DD7-48F3-B6DD-4067679ED7CB</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="4.328671,1.346853" TimeStamp="2023-04-10 16:16:21 +1000">65A7DCD4-8B8D-4D52-8726-E1F5922B0297</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="4.286713,0.087413" TimeStamp="2023-04-10 16:16:21 +1000">643655C6-6D84-4106-9CE0-9867DD45C7BC</IndexCardBinderUUID>
@@ -4475,8 +4475,8 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
                         <IndexCardBinderUUID Position="0.167832,0.683916" TimeStamp="2023-04-10 16:16:21 +1000">E653B5BE-8AC0-4A1B-A821-9B0C827CF212</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="0.059441,1.93986" TimeStamp="2023-04-10 16:16:21 +1000">2B2D5DA4-5CDA-4445-8985-576563A24D80</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="2.237762,1.988811" TimeStamp="2023-04-10 16:16:21 +1000">DA0694DC-E72A-49C3-A142-967FC147A466</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="3.258741,0.673427" TimeStamp="2023-04-10 16:16:21 +1000">EA83A6D0-37D3-4C4E-8218-6D302CC91630</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="3.13986,1.985315" TimeStamp="2023-04-10 16:16:21 +1000">4F95C2E7-93A1-4DE1-9515-CB1AB3A472CF</IndexCardBinderUUID>
-                        <IndexCardBinderUUID Position="0.059441,1.374825" TimeStamp="2023-04-10 16:16:21 +1000">D2B7E2CA-B86D-48AE-95C2-DD3534ABC84B</IndexCardBinderUUID>
                     </FreeformCorkboardDocuments>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
@@ -5351,7 +5351,7 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
     <Collections>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">Religious MInds</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">be able to access it until</SearchSettings>
         </Collection>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
             <Title>Binder</Title>
@@ -5617,13 +5617,13 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-08-08 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="1" Characters="5" Date="2026-08-07 08:39:32 +1000"/>
+        <PreviousSession Words="0" Characters="0" Date="2026-08-07 16:33:03 +1000"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2026-08-07 00:00:00 +1000">
-        <DraftWordCount>1</DraftWordCount>
-        <DraftCharCount>-2</DraftCharCount>
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>-8</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>-296</OtherCharCount>
     </RecentWritingHistory>
-    <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="4233C26B-69CC-4EBD-9ECF-FACC0A0E22D9" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+    <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="11B022AC-08C8-4D5E-9046-80AB6E2988F1" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

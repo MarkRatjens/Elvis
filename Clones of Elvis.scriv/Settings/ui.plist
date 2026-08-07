@@ -24,7 +24,7 @@
 		</array>
 		<key>2655DDF6-4AB8-42CB-A433-1CD76FC351D2</key>
 		<array>
-			<string>B35E178C-BF00-48F0-A2B8-19B7CE2737E9</string>
+			<string>C6586DA3-5801-4995-9CD6-77D3E16651FD</string>
 		</array>
 		<key>332095B9-1CE1-49DD-B826-E1E5A1FBFC9D</key>
 		<array>
@@ -362,8 +362,8 @@
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {346.5, 889}}</string>
-		<string>{{347.5, 0}, {1164.5, 889}}</string>
+		<string>{{0, 0}, {276.5, 889}}</string>
+		<string>{{277.5, 0}, {1234.5, 889}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -2677,7 +2677,7 @@
 	<true/>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
-		<integer>72</integer>
+		<integer>0</integer>
 	</array>
 	<key>collectionsHeight</key>
 	<real>100</real>
@@ -2760,8 +2760,8 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {899.5, 859}}</string>
-		<string>{{900.5, 0}, {264, 859}}</string>
+		<string>{{0, 0}, {970, 859}}</string>
+		<string>{{971, 0}, {263.5, 859}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>229.5</real>
@@ -2838,7 +2838,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, -8.3333333333333321}, {504.66666666666663, 532.66666666666663}}</string>
+	<string>{{0, 195}, {599.33333333333326, 532.66666666666663}}</string>
 	<key>mainDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>mainDocumentEditor.textEditorState</key>
