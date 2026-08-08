@@ -7,7 +7,6 @@
         <ExpandedItems>
             <ItemID>3BB54039-9E7B-41CC-899C-296DC6FAE2A7</ItemID>
             <ItemID>D9C0C737-99D9-42AD-A72E-7E26B7FD8B20</ItemID>
-            <ItemID>224900F4-F704-4CAE-AF02-01B2A623E1F6</ItemID>
             <ItemID>A0C45776-36F0-4CD8-BDAE-88A28247F7C5</ItemID>
             <ItemID>7AF1083B-525A-409B-8414-09D841633785</ItemID>
             <ItemID>B745F8E9-44A3-43F6-AA17-019C9D41C63C</ItemID>
@@ -167,7 +166,7 @@
                     <HistoryItem Type="BinderItems" ViewMode="Scrivenings" ScriveningsSelection="0,0">F1E25F5F-A619-404C-8C10-AE45B263BB16</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">4F10E387-960B-4B41-88BD-2CB96BAFF050</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">849CC8EB-E2E4-4195-8C2A-60205AFF2231</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Scrivenings" ScriveningsSelection="13504,0">224900F4-F704-4CAE-AF02-01B2A623E1F6</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Scrivenings" ScriveningsSelection="0,0">224900F4-F704-4CAE-AF02-01B2A623E1F6</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Scrivenings">3BB54039-9E7B-41CC-899C-296DC6FAE2A7</HistoryItem>
                 </NavigationHistory>
             </View>
@@ -176,7 +175,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>462490,12</Selection>
+                <Selection>461789,0</Selection>
             </Text>
             <Outliner>
                 <Columns>

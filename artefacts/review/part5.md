@@ -359,10 +359,17 @@ once", "Your **Supreme** Corporateness" (elsewhere consistently *Serene*), and
 "three weeks from Wednesday" spelled "threes weeks". None of these are structural;
 all of them are the kind of thing a reader trips on.
 
-Two binder-hygiene items, both Red-tier and therefore queued rather than touched:
-two scenes are both titled **Religious Minds** (in `Amazing Grass` and in `Wisdom of
-the Sages`), which will make navigation and search ambiguous; and the Part 5 status
-flags are stale relative to a completed draft.
+One binder-hygiene item remains, Red-tier and therefore queued rather than touched:
+the Part 5 status flags are stale relative to a completed draft — the `Amazing
+Grass`, `Blue Howahya`, `Wisdom of the Sages` and `Piglicious Minds` chapter folders
+carry no status at all, and their scenes still sit at First Draft or To Do.
+
+*(Resolved 2026-08-08: this section previously flagged two scenes both titled
+**Religious Minds**, in `Amazing Grass` and `Wisdom of the Sages`. The author has
+since renamed them. Verified against the live binder — no duplicate scene titles
+exist anywhere in the manuscript, and no scene carries that title. "Religious Minds"
+survives correctly as the **song** title throughout the knowledge base; those
+references are not affected.)*
 
 ## On Holding the Hardy Reveal for Part 6
 
