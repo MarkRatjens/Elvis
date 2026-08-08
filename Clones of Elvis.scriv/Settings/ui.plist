@@ -2838,7 +2838,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 130365}, {315.33333333333331, 480}}</string>
+	<string>{{0, 35.666666666666664}, {315.33333333333331, 479.99999999999994}}</string>
 	<key>mainDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>mainDocumentEditor.textEditorState</key>

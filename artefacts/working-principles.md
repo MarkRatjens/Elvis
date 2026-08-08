@@ -91,3 +91,10 @@ Three rules keep the tiers honest:
 ## 14. Plain English — no craft jargon (standing order)
 
 Write to the author in plain English. **No craft or editorial jargon** — not "the turn," "beat," "value flip," "POV," "voice-key," "subtext," "pays and plants," "the spine," "provenance," "load-bearing," "arc." Say the plain thing instead: what changes, step by step, whose eyes we're in, the tone, what's underneath, what it settles and what it starts, what must not slip out. If a plain word does the job, use the plain word. The jargon means nothing to the author and reads as something being smuggled past. This is a standing order, not a one-off.
+
+## 15. The narration is unreliable by design — do not fact-check it
+
+The book is not journalism and does not want to be internally auditable. **Chanta in particular is an unreliable source of information**, and the narration flags its own unreliability constantly, including by breaking the fourth wall ("just add your own concert closing cliché here — we've all been there"; "in less decrepit universes"; "we can't name for legal reasons"). Numbers, distances, dates and recollections voiced through a character are that character's, not the book's.
+
+The standing error to guard against is **treating a character's figure as a continuity bug**. Author ruling, 2026-08-08, on Chanta thinking of the baby as "seven months along" hours after Sarah is described as thirty-five weeks: *let it pass — Chanta is an unreliable information source, and we're not writing journalism.* Before reporting a numeric contradiction, ask whose mouth or head it is in. If it is a character's, it is characterisation, not error. Only figures in the book's own narratorial voice, or in the knowledge base, are held to consistency.
+

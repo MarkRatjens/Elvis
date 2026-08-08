@@ -348,9 +348,7 @@ is all that is needed; everything else in the occupation should survive intact.
 
 **First-draft residue in the closing chapters.** The binder still has Ch 12–14
 (`Blue Howahya`, `Wisdom of the Sages`, `Piglicious Minds`) at First Draft / To Do
-status, and the prose shows it. Worth a clean pass: the High Elvis "waited for
-**Cracker** to look at him squarely" in `Chanta's tower` is a character name from
-another draft; also `Lonny`/`Lonnie` alternating within one scene, `Dr Carpentry`
+status, and the prose shows it. Worth a clean pass: `Lonny`/`Lonnie` alternating within one scene, `Dr Carpentry`
 for Carpenter, `Prisioners`, "the rest of the **drew** stood", "gravity had **aid**
 down for a nap", "accidentally **propelling hum** through a crowd", "insufficient
 for saying any coherent", "as before the bow of a ship or an especially impressive
@@ -358,6 +356,16 @@ for saying any coherent", "as before the bow of a ship or an especially impressi
 once", "Your **Supreme** Corporateness" (elsewhere consistently *Serene*), and
 "three weeks from Wednesday" spelled "threes weeks". None of these are structural;
 all of them are the kind of thing a reader trips on.
+
+*(Progress, 2026-08-08. An earlier draft of this list also named the High Elvis
+waiting for "**Cracker** to look at him squarely" in `Chanta's tower`, a character
+name from another draft; the author has since fixed it, and the live text reads
+"Chanta". Cleared in the chapter-by-chapter sub-edit: `Lonny`/`Lonnie`,
+`Dr Carpentry`, `Prisioners`, "the rest of the **drew** stood", and "bing" for
+"being". Still outstanding, all of them in Ch 14 (`Occupy Bent Street` and
+`Operation Cleanse`): "gravity had **aid** down", "**propelling hum**",
+"saying any coherent", "**gold cart**", "**I** all directions", "Your **Supreme**
+Corporateness", and "threes weeks".)*
 
 One binder-hygiene item remains, Red-tier and therefore queued rather than touched:
 the Part 5 status flags are stale relative to a completed draft — the `Amazing
