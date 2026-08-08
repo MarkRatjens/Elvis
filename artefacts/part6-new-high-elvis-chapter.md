@@ -18,8 +18,7 @@ scene closes the Part and must stay short and cold. **Decision (author,
 - **Walter can be the one who witnesses** the loss — he survives the release (a
   Cloudborne fan, not a genotype target; see [[characters/walter]]).
   **Handling (author, 2026-08-08): the reader sees it over Walter's shoulder —
-  no interiority for Walter.** He is a vantage point, not a viewpoint; he takes
-  the day as a party and the reader does the noticing.
+  no interiority for Walter.** He is a vantage point, not a viewpoint
 - **Hayley and Kathy attend.**
 - **Enough Elvisettes present, and casual comments from Chanta, to realise there
   is something about their health** — the reader assembles it before it is said.
@@ -28,7 +27,11 @@ scene closes the Part and must stay short and cold. **Decision (author,
   to work out what his own admission means** — even Walter is already smirking.
   Consistent with the standing rule that he does not know he is a carrier.
 - **Sarah suggests a cure might be propagated.**
-- **Kathy recommends the sexual solution.**
+- **Kathy recommends the sexual solution.** **Handling (author, 2026-08-08):
+  starts as a joke and takes some persuading, but the pushing is not all hers —
+  there are others in the room more likely to argue for it, even though Kathy
+  enjoys a good dose of promiscuity as much as anyone.** She applies another
+  patch; Hayley snuggles in and gently peels it off again.
 - **The new High Elvis goes forth to "hump."**
 
 ## What it connects to
@@ -49,4 +52,4 @@ possible to replace him, and quietly appalling that it is.
 2. Does Chanta understand what his admission means when he makes it, or is he
    the last to work it out — consistent with him not knowing he is a carrier? -> last to work it out (even Walter was already smirking)
 3. Is Kathy's recommendation played as a gag she means seriously, or does she
-   have to argue it against the room? -> starts a
+   have to argue it against the room? -> starts as a joke, requires some persuasion, but there are others in the room more likely to argue for it, wven though Kathy enjoys a good dose of promosicuity as much as anyone ... She applies anotehr patch, but Hayley snuggles in gentlt peels it off again
