@@ -67,6 +67,17 @@ The author closes up spacing near em-dashes and ellipses. Apply to all new and e
 
 (Em-dashes stay deliberately *minimised* per the voice rules; this governs spacing when one is used, not how often.)
 
+## 16. House style — commas before "and" and "or"
+
+Australian usage, as set by the Australian Government Style Manual and the Snooks & Co. manual. Settled and swept through the whole manuscript on 8 August 2026 (211 changes, logged in `review/comma-conformance-changelog.md`). Four rules, in priority order:
+
+- **Lists of three or more things: no comma before the final *and*/*or*.** "boiled cabbage, wet cats and fried noodles", not "…wet cats, and fried noodles". This is the Australian default and the reason the sweep happened.
+- **Except where the list would be hard to read without it.** Keep the comma when any item is long, already contains its own *and*/*or*, or carries an internal comma — the standard's own clarity exception. "gun in mouth, necktie of computer cable, or overdose on your choice of restricted substance" keeps its comma; so does any list whose last item is a full statement with its own subject.
+- **Two complete statements joined by *and*/*or*: comma.** "The mansion gates swung wide, and a tank rumbled out." Leave it out when both halves are short and tight — "The lift opened and light poured in", "Kleo called to the crowd and the crowd cheered" — where a comma would put a speed bump in a deliberately fast line.
+- **One subject, two verbs: the comma is the author's, not the grammar's.** "she said, and vanished" is a comic beat and stays. So does the pause in a long sentence that has turned a corner by the time it reaches the *and*. Do not strip these to satisfy a rule; the only ones that go are those that turn out to be three-item lists in disguise ("dumped his tablet on his desk, flicked off the lights and squashed his nose against the window").
+
+A comma that pairs with an earlier one is never touched, whatever it sits next to — "he had no idea what, or who, was behind the door", "Maybe they didn't have toilet bowls in Zanzibar, Chanta thought, or whatever country that is". Removing one of a pair breaks the sentence.
+
 ## 12. Currency and provenance — canon, plan, and review are different tiers
 
 The bible is not one undifferentiated pool of truth. It holds three kinds of statement, and the recurring KB failure is letting them bleed together until the author can no longer trust the basis on which creative decisions get made:
