@@ -144,3 +144,9 @@
   (Tony as unwitting TPlusVirus vector),
   Dunhilton's Gambit (Dunhilton driving
   the political mandate)
+- **Part 6 staging (author, 2026-08-08):** the cure's
+  discovery is dramatised at the **inauguration of the
+  new High Elvis** — surviving Elvines as the evidence,
+  Chanta's admission as the diagnosis, Sarah proposing
+  propagation and Kathy prescribing the method. Full
+  brief → [[../part6-new-high-elvis-chapter]].

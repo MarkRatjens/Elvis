@@ -304,7 +304,11 @@ the one place the deflation costs something.** Gerry does not know what the High
 Elvis was. Reported through him, the death is an operational result, and the reader
 is asked to supply the entire loss unassisted, in a scene already working hard to be
 cold. A single Elvi noticing — one line, elsewhere, in the hours after — would let
-the coldness land against something rather than into nothing. The Part 6 plan (a
+the coldness land against something rather than into nothing. *(Resolved
+2026-08-08: reserved for a new Part 6 chapter — the inauguration of the new High
+Elvis, with Walter as the one who witnesses the loss. Nothing is added to
+`Operation Cleanse`, which stays short and cold. Brief →
+`artefacts/part6-new-high-elvis-chapter.md`.)* The Part 6 plan (a
 new High Elvis elected, decreed to be of the same series, character identical) is a
 strong joke and makes the death *more* worth registering, not less: the whole point
 of "they are descended from clones, after all" is that it should be possible to
@@ -336,6 +340,8 @@ catechism and "You are, but what am I?"; the riot squad defeated by laughter and
 fried sandwich; the free t-shirt startup that started up on the plaza. That is a
 different scene about a different thing — the Domain is a concert, Bent Street is a
 society inventing itself in a car park — and it earns its length.
+
+*(Overtaken, 2026-08-08. Checked against the current draft during the chapter-by-chapter edit, none of the three holds. The food beats are different scenes, not a retelling — the Domain one is teenagers felled by cocktails and sun; the plaza one is a breakfast with its own jokes ("This will be better than drugs", the Elvis scrawling *amphetamines* on the grocery list, "Only the Elvi ate the buttermilk biscuits in sawmill gravy"). The Airborne-and-the-ground beat appears at Bent Street only as the clause "so ecstatically down in the mud in their lives" — a callback, not a repeat. And the High Elvis's set is four sentences of summary, not a passage a reader could skip; "ran the same as… without the interruption of the Sages" is doing real work. **Author ruling: no compression.**)*
 
 What actually repeats is narrower, and it is three things. The Airborne-kids-meet-
 Elvi-food routine runs twice at similar length (condensed milk and peanuts at the
