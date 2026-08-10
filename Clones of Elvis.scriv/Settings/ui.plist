@@ -362,8 +362,8 @@
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {269, 810}}</string>
-		<string>{{270, 0}, {800, 810}}</string>
+		<string>{{0, 0}, {330.5, 889}}</string>
+		<string>{{331.5, 0}, {1180.5, 889}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -2810,8 +2810,8 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {402, 780}}</string>
-		<string>{{403, 0}, {397, 780}}</string>
+		<string>{{0, 0}, {782.5, 859}}</string>
+		<string>{{783.5, 0}, {397, 859}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>229.5</real>
@@ -2888,7 +2888,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, -21.333333333333332}, {268, 479.99999999999994}}</string>
+	<string>{{0, -21.333333333333332}, {521.33333333333326, 532.66666666666663}}</string>
 	<key>mainDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>mainDocumentEditor.textEditorState</key>
