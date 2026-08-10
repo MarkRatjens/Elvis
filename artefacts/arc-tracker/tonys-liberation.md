@@ -69,9 +69,9 @@
   personally absent; his words are now decreed
   Elvi law (S199); Eloise forecasts number one,
   every market, by Tuesday (S203).
-- **Next expected beat:** the #1-worldwide /
-  Dunhilton's-dentist button (still owed —
-  planned close beat); what the Great
+- **Next expected beat:** the promised
+  #1-worldwide / Dunhilton's-dentist payoff
+  (still owed — planned for the close); what the Great
   Teacher's legal-canonisation (S199) and the
   warranty discovery (S198) cost him.
 - **Dormancy risk:** No — active throughline

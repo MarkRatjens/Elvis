@@ -60,44 +60,67 @@
   on "I need to talk with Ms Jacobson." Johnny's
   parting shot ("Sarah and I have been the best of
   intimates for years!") lands in the room unanswered.
-- **PLANNED — Part 5 insert (author, 2026-08-07):**
-  **Chip escalates to Sarah and Hayley.** The scene
-  that pays the exit line above. Chip brings his
-  concerns — chiefly the five-disc pentagram —
-  conceding that *more* discs run at *lower*
-  revolutions could actually be the safer
-  configuration, which keeps him an engineer rather
-  than a prophet. Sarah and Hayley then talk alone:
-  Sarah admits how the pregnancy is degrading her
-  judgement and attention; they agree Hayley will
-  start looking into Eloise's motives
-  ([[hayley-investigates-eloise]]); and they agree
-  that *containment* is the objective, believing
-  Johnny and the Sages are managing that on their
-  own despite themselves — a belief the reader knows
-  to be exactly wrong.
+- **Part 5 — "Chip escalates issues with Sarah &
+  Hayley"** (chapter "Chip complains"; author-written
+  2026-08-09). The scene that pays the exit line
+  above. Chip arrives in Sarah's office contemptuous
+  of the Sages — naming Chilo formally as Mr
+  Damagetus, asking whether they are a witch's
+  coven — and argues from what one disc does when it
+  spins too fast. Sarah answers with the project's
+  position rather than reassurance: two discs proved
+  more stable than one, they are testing whether
+  slower speeds get the same result, and the work is
+  cleaning up signals already being received. Chip
+  refuses the frame: "You see patterns. I see weapons
+  development." Hayley signals without a word that
+  the office is not to be treated as private, and
+  Chip spends the rest of the meeting locating where
+  a device would sit. Sarah undertakes the discs will
+  not be developed to blow shit up; Chip notes she
+  works for an arms dealer; Hayley notes all three of
+  them do. Chip delivers that Johnny wants five
+  discs; Sarah answers that the Sages report to her,
+  that Johnny's reports come to her, and that none of
+  them have asked for three more. He names
+  Rotherhithe and is told she has already studied it.
+  He leaves having decided not to underestimate her.
+  **Note:** Chip makes no concession here and offers
+  no safer configuration — the slower-speeds line is
+  the project's, in Sarah's mouth. The earlier
+  "engineer not prophet" framing is superseded by
+  what is written.
+- **Part 5 — "Three sisters discuss watching Eloise"**
+  (second half, split out 2026-08-09; **unrevised
+  draft**, and the author intends to move it to the
+  lookout). Chip is not in it. Sarah admits her
+  judgement and attention are going, stopping the
+  admission short of itself, and commissions Hayley
+  to look into Eloise
+  ([[hayley-investigates-eloise]]).
   **Held-door beat (author, 2026-08-07):** Sarah's
-  admission about the pregnancy is to be written so
-  the reader feels a *second, larger* admission
-  being withheld behind it — a door held shut, not
-  absent. Do not name what's behind it; the canon
-  fence in [[sarahs-biology]] applies (no descent
-  confirmation, no origin leak).
-  **Also to establish (one or two sentences, no
-  more):** Chip is under house arrest, which Eloise
-  frames as being for his own good, with whatever
-  comforts he asks for. This explains his absence
-  from the rest of Part 5 without a scene.
+  admission is written so the reader feels a second,
+  larger admission withheld behind it — a door held
+  shut, not absent. What is behind it is not named;
+  the canon fence in [[sarahs-biology]] applies (no
+  descent confirmation, no origin leak).
+  **Still to establish (one or two sentences, no
+  more):** Chip cannot leave the Sublime Point
+  compound, which Eloise frames as being for his own
+  good. He is not confined to his quarters and still
+  works. Keep it to that — it is there to explain his
+  absence from the rest of Part 5, and nothing else.
 - **Next expected beat:** "Chip vs Johnny"
   (Part 6) — subterfuge fails; direct confrontation.
   Per author: **Chip fails to stop Johnny ending the
   universe, exactly as the Sages planned.** His arc
   is a tragedy of correct warnings delivered at the
-  wrong seniority — the containment agreement above
-  is the mechanism of that failure, not a lapse in
-  it.
+  wrong seniority — heard, answered and not acted
+  on, which is the mechanism of that failure rather
+  than a lapse in it.
 - **Dormancy risk:** Low once the escalation scene
-  lands; house arrest covers the silence after it.
+  lands; the compound restriction covers the
+  silence after it.
 - **Connects to:** The Gyges Disc (Chip's core
   expertise and career), Johnny's Disc Research
   (Chip vs Johnny dynamic), Eloise's Empire

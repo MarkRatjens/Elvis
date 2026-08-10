@@ -100,9 +100,13 @@
   counter-weapon to a massacre, not a spontaneous
   party. **Verifiable evidence:** everyone Tony
   sleeps with is conspicuously, measurably healthy,
-  which is how KATHY (blood-testing Chanta,
-  extrapolating from Sarah's hints) corroborates
-  what Sarah already knew. (No real tension with the enemy side: the villains'
+  which is how KATHY (blood-testing Chanta)
+  corroborates what Sarah already knew. **Kathy is
+  not starting cold** (author, 2026-08-10): she has
+  held both Sarah's and Chanta's blood since Part 2
+  and saw what was in them, so Sarah's hints work as
+  **permission**, not information — see the blood
+  pact in [[../characters/kathy]]. (No real tension with the enemy side: the villains'
   one airing of the idea — Dunhilton floats it, Gerry
   dismisses it — is a sealed-canon leak slated to be
   cut, so no one across the table actually knows;

@@ -36,6 +36,6 @@ in stasis by authorial decree; the arc is reopened.
 - [[humbles-schism|Humble's Schism]]
 - [[dunhiltons-gambit|Dunhilton's Gambit]]
 - [[jones-clones|Jones Clones & ENCHANTED]]
-- [[stajc|STAJC]]
+- [[stajc|STAJC — Chanta and the Jones Clones]]
 - [[gerry-vs-jones|Gerry vs Jones]]
 - [[the-gyges-heist|The Gyges Heist]]

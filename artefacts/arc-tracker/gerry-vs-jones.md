@@ -44,16 +44,13 @@
   Jones's gospel breakdown (knees buckling)
   may signal his capacity to carry the
   conflict forward is compromised.
+- **CUT — author, 2026-08-10.** The Pillow scene
+  (Gerry's side) **will not be written** — the
+  Dunhilton/Gerry dynamic is wearing thin and the
+  pair now supply minimal plot-pushing only.
+  Gerry's retention plays as a given, not a scene.
+  Cross-ref [[dunhiltons-gambit]].
 - **Next expected beat(s):**
-  **[PLANNED — close of Part 5, not yet drafted]**
-  The Pillow scene (Gerry's side) — braced to be
-  pillowed for his two failures (TMinus deadline
-  missed + gospel didn't finish the Elvi), Gerry
-  instead is KEPT: Dunhilton is out of talent and
-  rates him a good operator. Gerry meekly accepts
-  the shared cover story ("only pillows those
-  asleep at the wheel") though he knows it's a lie.
-  Comic register. Cross-ref [[dunhiltons-gambit]].
   **[PLANNED — Part 6]**
   "Ajent vs Gerry" (final confrontations) — direct
   confrontation. Scene exists in binder.

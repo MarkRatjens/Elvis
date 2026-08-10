@@ -14,7 +14,7 @@ Companion to [[part5-close-decisions-log]] (the Part 5 close) and [[part5-closin
 
 - **The novel's last line is: "And that's when Sarah's waters broke."**
 - Everything after it is **an extended epilogue** — a distinct movement, not a chapter of the novel proper.
-- This confirms and fixes the previously-recorded Part 6 button. The timeline already carries the note that Part 6 conflict scenes recur on that line; the ruling here is that it is the **final** occurrence and the book's closing sentence. The birth itself still never happens on the page.
+- This confirms and fixes the previously-recorded recurring Part 6 closing line. The timeline already carries the note that Part 6 conflict scenes end on that line; the ruling here is that it is the **final** occurrence and the book's closing sentence. The birth itself still never happens on the page.
 
 ## B. The ascension
 

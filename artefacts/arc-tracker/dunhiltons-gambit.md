@@ -52,21 +52,22 @@
   **Part 5 (to "Tony's Penthouse Days"):**
   No further Dunhilton scenes. Consolidation
   phase; arc dormant while Gerry implements.
+- **CUT — author, 2026-08-10.** (a) The Pillow
+  scene is **surplus to requirements and will not
+  be written.** The Dunhilton/Gerry dynamic "is
+  wearing thin"; from here the pair supply
+  **minimal plot-pushing only.** Gerry's retention
+  needs no scene — he is visibly still running the
+  operation. Consequence for drafting: the
+  remaining Dunhilton/Gerry scenes ("The Viral
+  Report," "Fridge Force learns of the heist,"
+  the siege command beats) stay lean and
+  functional; no further two-hander comedy is
+  owed. Recorded also in [[gerry-vs-jones]].
 - **Next expected beat(s):**
   **[PLANNED — close of Part 5, not yet drafted]**
-  (a) The Pillow scene — after both of Gerry's
-  gambits fail (TMinus deadline missed + gospel
-  didn't finish the Elvi), Dunhilton settles
-  accounts. He KEEPS Gerry rather than pillowing
-  him: he has already culled the cleverer failed
-  ministers and is out of talent (cabinet-of-
-  fools), and rates Gerry a good operator. Cover
-  story: "I only pillow the ones who were asleep
-  at the wheel," which Gerry accepts meekly while
-  knowing it's a lie ([[gerry-vs-jones]]). Comic-
-  grotesque register, never sincere-thriller.
   (b) "The Viral Report" — Dunhilton declares open
-  war on Sublime Point (the Part-5 closing button).
+  war on Sublime Point (the scene Part 5 closes on).
   **[PLANNED — Part 6]**
   (c) "Final Countdown" — government forces
   surround Sublime Point; the siege begins.

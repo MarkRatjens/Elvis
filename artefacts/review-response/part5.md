@@ -48,8 +48,9 @@ these are logged in the arc-tracker, characters and continuity.
 
 **The Sages' agenda goes unchallenged on the page.** 
 Johnny is easy to manipulate, Chip should escalate to Sarah.
-It could be useful to note for the reader that Chip is currently under
-house arrest, which Eloise explains is probably better for him. If necessary
+It could be useful to note for the reader that Chip is currently restricted
+from leaving the Sublime Point compound, which Eloise explains is probably
+better for him. If necessary
 Chip can be provided with whatever comforts he requires (on or two senteces
 is about all I'd want to spend on that)
 

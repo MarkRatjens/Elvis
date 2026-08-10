@@ -50,6 +50,33 @@
   declaration are the variables outside her control.
   Whatever she has been building at Ruined Castle
   remains undisclosed.
+- **[PLANNED — author, 2026-08-10] Her Part 6 plan
+  is subtle.** She is NOT pursuing direct Gyges-disc
+  weapons applications. Owning the means of
+  communication across universes gives her ownership
+  of the other side's technology — weaponry
+  included. And when the first decoded transmission
+  arrives (the sock message — in Estonian, needing
+  translation, a running gag), the room argues while
+  **Eloise alone reads it correctly**: beings who
+  wear socks and lose them are like us, and
+  therefore relatively safe.
+- **[PLANNED — author, 2026-08-10] The scene where
+  she says it out loud** — the main Project Kebab
+  players plus Eloise. Two challenges, both hers:
+  to Sarah, *"This is the greatest discovery in the
+  history of the world. Do you still think I'm
+  doing this for weapons research?"*; to Hayley,
+  *"I think you can stop investigating behind my
+  back now"* — answered with *"It's not behind your
+  back if you know everything about it."* **Eloise
+  is amused by Hayley pushing back**, and satisfied:
+  she is leaving her legacy in competent hands.
+  Character key, and it governs how she reads
+  everyone: **competency is a prerequisite; value
+  systems are constantly negotiable, and alignment
+  to purpose can come later.** This scene is also
+  where [[hayley-investigates-eloise]] closes.
 - **Dormancy risk:** No
 - **Connects to:** Sarah & Chanta, Alexander's
   Romance, Agent Jones & The Disc, The Elvi &

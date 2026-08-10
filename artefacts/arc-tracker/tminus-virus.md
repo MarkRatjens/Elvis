@@ -124,10 +124,16 @@
   source — and inadvertently triggers the
   Humpening.** (The old plan had the High Elvis
   front it; he is dead.) KATHY independently
-  isolates the virus and blood-tests Chanta,
+  isolates **the TMinus** and blood-tests Chanta,
   corroborating via the verifiable good health of
   everyone Tony sleeps with; body-to-body TPlus
-  spread; the panacea guard-rail holds. Full
+  spread; the panacea guard-rail holds. **She is
+  not meeting the TPlus for the first time**
+  (author, 2026-08-10): she has held Sarah's and
+  Chanta's blood since Part 2 and saw what was in
+  them — so Sarah's hints are permission, not
+  information (blood pact →
+  [[../characters/kathy]]). Full
   mechanism → [[the-gospel-contagion]] /
   [[../world-rules/biology]]; Sarah's originating
   knowledge SEALED → [[sarahs-biology]].

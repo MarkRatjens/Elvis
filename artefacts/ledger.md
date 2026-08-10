@@ -12,7 +12,7 @@ IDs S01–S139 are the earlier walk (Parts 1–2 + Part 3 Ch1-8). IDs **S140–S
 
 - **"Get Bent Street" (`7F9C84D7`) — DRAFTED 2026-07-23** (redraft replacing the AI-slop scene; author-approved to Scrivener). The cross-class vigil above the Layer that the Rock Against Revival sparks. Not a full walk; the relationships it commits:
   - **Pays (planted):** the owed **Humble split-screen** (protest ‖ revival — see [[arc-tracker/humbles-schism]]), now on the page.
-  - **Advances S203** ("Religious Minds" loose in the world / straight-to-#1 / Dunhilton's-dentist button still owed): the street mutates it to **"Piglicious Minds"** and it is "climbing every stream in the Meritocracy" by Sunday evening — the chart-topping and dentist button pay in the next scene ("The Monday conversation").
+  - **Advances S203** ("Religious Minds" loose in the world / straight-to-#1 / Dunhilton's-dentist payoff still owed): the street mutates it to **"Piglicious Minds"** and it is "climbing every stream in the Meritocracy" by Sunday evening — the chart-topping and the dentist joke pay in the next scene ("The Monday conversation").
   - **New plants (assign IDs at next walk):** (a) the **shareholders'-children shield** — the Airborne young in the crowd are why the authorities dare not clear the plaza, which later pushes Dunhilton toward a *deniable* weapon (→ Operation Cleanse); (b) the **"Clean the Domain" → rubbish-as-sandbags** irony (the crowd stacks its tidy rubbish "against a flood nobody could yet put a name to") — the government's answer is a literal *cleanse*.
 
 ---
@@ -195,13 +195,13 @@ Existing setups still owing payoff, with where this walk moved them:
 | S200 | Walter holds Sarah's explicit promise of an introduction to the Great Teacher (Aunt Kathy included) | promise (comic) | "Sarah then Eloise arrives" | also: hails Eloise "Granny," unexplained; "destined to be an entertainer" |
 | S201 | The Sages were wired for sound "hours ago — dunno when," by nobody the crew can name | plant | "The Sages hijack the stage" | small public supernatural tell |
 | S202 | **The Holy Momma's face broadcast ten metres tall + livestreamed across the Meritocracy** — Sarah's face is now public property | plant | "The Sages hijack the stage" / "Religious Minds" [RAR] | exposure feeding S188 — the surveillance state now has the face |
-| S203 | **"Religious Minds" loose in the world** — hook installed in half a million skulls on one play; Eloise's forecast "Number one by Tuesday… Every market. Tax it."; already breaching New Graceland | arc-seed | "Religious Minds" [RAR] | the planned straight-to-#1 / Dunhilton's-dentist button still owed; Humble's response owed; the song's question also lands ON Sarah (her own worship-cult = a church?) — seed for her arc |
+| S203 | **"Religious Minds" loose in the world** — hook installed in half a million skulls on one play; Eloise's forecast "Number one by Tuesday… Every market. Tax it."; already breaching New Graceland | arc-seed | "Religious Minds" [RAR] | the planned straight-to-#1 / Dunhilton's-dentist payoff still owed; Humble's response owed; the song's question also lands ON Sarah (her own worship-cult = a church?) — seed for her arc |
 | S204 | Public advent commitment: the Holy Momma "would deliver Him when the night was right for it and not one hour before" — before half a million witnesses | promise | "Religious Minds" [RAR] | binds Sarah to the eschatology; feeds S149/S103; also the canonical licence for the term elasticity (41 weeks post-Vegas to 25 Dec). Strengthened in the revised close: the High Elvis states he ASKED and the Holy Momma CONFIRMED not-tonight — "the only honest booking in the history of the industry" — presenting the two as publicly coordinated. NOTE: no such exchange with Sarah appears on any page — a stage claim only; whether he actually asked is an open knowledge-gate |
 | S205 | The Hardy portrait survives — Fisher disobeyed the burn order and donated it to the gallery "an axe throw" from the Domain; Chanta idly resolves to burn the gallery "when the concert was over" | plant (comic-setup) | "Chanta's tower" | links S169's sealed Hardy debt from the Chanta side; Fisher's quiet disobedience is its own small character plant |
 
 ### Self-justifying (untracked by design)
 
-The Rock Against Revival Air Guitar (and its derivative on the commodity exchange), Colonel Tom Porker, the Bubble Police's ticket-assisted collapse, the ALLERGIC REACTION incident forms, the "He couldn't write" phone ditty, The High Fidelities name gag, the Sir-Paul-if-only-he-was-American button.
+The Rock Against Revival Air Guitar (and its derivative on the commodity exchange), Colonel Tom Porker, the Bubble Police's ticket-assisted collapse, the ALLERGIC REACTION incident forms, the "He couldn't write" phone ditty, The High Fidelities name gag, the Sir-Paul-if-only-he-was-American joke.
 
 ### Unearned payoffs
 
