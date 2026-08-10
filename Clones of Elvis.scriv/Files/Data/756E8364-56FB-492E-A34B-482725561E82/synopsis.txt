@@ -1,0 +1,84 @@
+### The scene — a form, a needle, a door
+
+**Whose eyes:** Sarah's, eleven, a week short of twelve.
+**What she wants:** a signature.
+
+There is a form. In a world where being sick is a career, everything requires
+one, and this one needs a parent's signature and a doctor's — a school trip, a
+swimming carnival, some ordinary thing every other child is doing. Sarah has
+filled in her half in her best handwriting. She has been not-sick for years now.
+She has run out of reasons to be excluded and she has come to collect.
+
+Her mother will not sign it, because the second signature is a doctor's, and a
+doctor would take blood.
+
+The row is entirely domestic and completely unwinnable. Anstey does not give
+reasons, because she has none she can say. Sarah's case is unanswerable and she
+makes it well: *I'm not sick. You fixed me. So what was the point?* — and that
+is the closest the truth comes to the surface all night. Her mother shuts it
+down the way tired parents do, with nothing, and the argument ends because one
+of them has work.
+
+Then the needle, which is where the scene turns. Sarah refuses it — she is
+nearly twelve, she is not sick, she is finished with all of this, and refusing is
+the only thing left she can win.
+
+Her mother does not argue. She does something she has never done: gives Sarah
+everything that is left, all of it, at once, quickly, with her coat already on.
+No spoon of anything afterwards. Sarah reads it as being punished. The reader
+reads it correctly.
+
+Then: *I'll be back for your birthday.* Then the door.
+
+The scene ends on the door. Nothing after it.
+
+### Optional coda — the birthday
+
+Half a page at most. Cake, an aunt, the aunt's opinions on men, and a chair with
+nobody in it. **No grief on the page.** Sarah at eleven behaves the way Sarah
+behaves at two hundred and twenty-six: she has a piece of cake and says nothing,
+and the flat little nothing is the whole effect. If it can't be that short, cut
+it and end on the door.
+
+### How the past surfaces
+
+**Where it sits:** inside Sarah's confession to Chanta, but not in her mouth.
+She gives him three flat sentences — the mother, the lab, the vials — and while
+he is failing to understand them the book goes there and plays the scene. When
+we come back she has already moved on to something else and he has not managed
+to ask a question. Her under-explaining is exactly in character, and it means the
+scene carries the weight instead of her dialogue.
+
+(The alternative is a chapter of its own placed late. It costs the join to the
+confession and gains nothing; I'd take the first.)
+
+**What the scene shows:** a woman refusing to sign a form. A child arguing about
+a swimming carnival. An injection. A coat. A door.
+
+**What the reader has to assemble:** everything. That the vials were stolen;
+that the hurry was the contractors; that the mother knew she was not coming back;
+that the woman "entombed alive" in Gerry's list two centuries later is the one
+who put her coat on. None of it is stated at the time and none of it is stated
+afterwards.
+
+### Never said aloud
+
+- The words *virus*, *HIBReLabs*, *Hardy*, *lab*, *stolen*, *invincible*.
+  Anstey never names what is in the vial, to Sarah or to herself.
+- Any version of *this is why Sarah has never been ill.*
+- Sarah, at any age, understanding what happened. At eleven she thinks her
+  mother is angry with her. At two hundred and twenty-six she has worked it all
+  out and mentions none of it.
+- Anything that makes Anstey warm. She is stealing a cure for her daughter and
+  running a trial on her, and both are true at once. The scene should let the
+  reader notice that she takes measurements.
+
+### Canon touches this needs
+
+- [[characters/sarah]] records **one injection at age seven**; this makes it a
+  course from about seven to just before twelve. The existing *"never been sick
+  since I was seven or eight"* still anchors it — that is when the doses start
+  working, not when they stop.
+- [[world-rules/biology]]'s dose gradient says "pristine childhood
+  **injection**" (singular). Same change.
+- Dr Janine Anstey has no character file and needs one.
