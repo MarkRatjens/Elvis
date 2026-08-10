@@ -47,19 +47,23 @@ status or compile flags. All of that is binder state. It waits.
 
 ### Procedure for Green edits
 
-Back up every target file into `backups/edits/{date}-{slug}/` before touching
-it, preserving the `{UUID}/{file}` path so a restore is a straight copy back.
-The scratchpad is not a backup; it is session-scoped and evaporates. Apply the
-edits, then read the bytes back and confirm they took. Report the document
-titles — not just UUIDs — so the author knows which pages moved.
+**Git is the safety net. Do not make manual backup copies.** The bundle's
+`.scrivx` and `Files/Data` are tracked, so the previous state of any document
+is already recoverable — `git diff` shows what an edit did and
+`git checkout -- <path>` puts it back. Copying files into a `backups/` tree
+duplicates what git already holds and rots the moment it is out of step.
+
+Before editing, check the target is clean (`git status`) so the diff you leave
+behind is only yours. Apply the edits, then read the bytes back and confirm
+they took. Report the document titles — not just UUIDs — so the author knows
+which pages moved.
 
 Two consequences to state in the report rather than discover later. Project
 search will not find the new text until Scrivener reindexes, because
 `search.indexes` is only rewritten by the app. And if the author happens to
 have one of the edited documents open in an editor, the stale in-memory copy
 will overwrite the fix the moment they type in it — so name the documents and
-say they should be reloaded. Backups exist precisely for the case where that
-race is lost.
+say they should be reloaded. Git is what recovers that race.
 
 ### Approval
 
