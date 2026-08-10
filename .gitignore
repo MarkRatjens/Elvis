@@ -9,6 +9,10 @@ user.lock
 *.scriv/Files/binder.autosave
 *.scriv/QuickLook/
 
+# Compile output. Regenerated from the bundle on demand; half a megabyte of
+# binary churn per commit otherwise. The manuscript of record is the .scriv.
+/*.docx
+
 # Obsidian per-machine workspace state
 .obsidian/workspace.json
 

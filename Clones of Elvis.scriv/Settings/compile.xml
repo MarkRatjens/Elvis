@@ -60,7 +60,7 @@
     </ProjectSettings>
     <CurrentFileType>docx</CurrentFileType>
     <FormatSettings>
-        <Format ID="paperback-6x9">
+        <Format ID="7C4B419C-169E-4C8A-ACCA-D354A71C3406">
             <SectionLayouts>
                 <Type ID="DA299D05-E212-41BE-A82B-88EA3A472C49">F06837C7-95F0-41AF-8050-90874CBAAFD8</Type>
                 <Type ID="417A6CCE-D4E1-44BA-9A8D-038360B4B905">CHAPTER-NUMBER</Type>
@@ -70,7 +70,11 @@
                 <Type ID="4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D">D1848966-5D15-4080-B5FA-EDC5063123B0</Type>
                 <Type ID="C256170C-9607-4380-B84A-86A34F8D32A4">45C71E28-DB3C-4ED8-8E8C-D85E64C375FC</Type>
                 <Type ID="8CA56ABC-1675-44AC-B5C5-FCFBC0C6E87D">AS-IS</Type>
+                <Type ID="21E9A98E-E203-4B46-B188-8B444C243BC0">AS-IS</Type>
             </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter>B2907557-CF1F-44CA-A363-80BFE44BB601</DefaultFrontMatter>
+            </FrontAndBackMatter>
         </Format>
         <Format ID="A00399F4-816C-4BC1-90A0-6EF404E5D1E7">
             <SectionLayouts>
@@ -458,7 +462,7 @@
                 <Type ID="C256170C-9607-4380-B84A-86A34F8D32A4">CD554FF8-258C-4B9E-A8B3-4C3011911B8E</Type>
             </SectionLayouts>
         </Format>
-        <Format ID="7C4B419C-169E-4C8A-ACCA-D354A71C3406">
+        <Format ID="paperback-6x9">
             <SectionLayouts>
                 <Type ID="DA299D05-E212-41BE-A82B-88EA3A472C49">F06837C7-95F0-41AF-8050-90874CBAAFD8</Type>
                 <Type ID="417A6CCE-D4E1-44BA-9A8D-038360B4B905">CHAPTER-NUMBER</Type>
@@ -468,16 +472,12 @@
                 <Type ID="4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D">D1848966-5D15-4080-B5FA-EDC5063123B0</Type>
                 <Type ID="C256170C-9607-4380-B84A-86A34F8D32A4">45C71E28-DB3C-4ED8-8E8C-D85E64C375FC</Type>
                 <Type ID="8CA56ABC-1675-44AC-B5C5-FCFBC0C6E87D">AS-IS</Type>
-                <Type ID="21E9A98E-E203-4B46-B188-8B444C243BC0">AS-IS</Type>
             </SectionLayouts>
-            <FrontAndBackMatter>
-                <DefaultFrontMatter>B2907557-CF1F-44CA-A363-80BFE44BB601</DefaultFrontMatter>
-            </FrontAndBackMatter>
         </Format>
     </FormatSettings>
     <LastUsedFormats>
         <Print>proof-copy</Print>
-        <rtf>outline-document</rtf>
+        <html>DEFAULT</html>
         <epub3>B86D28F8-8C30-47D8-B225-BE476C835C7D</epub3>
         <fdx>script-screenplay</fdx>
         <txt>DEFAULT</txt>
@@ -488,6 +488,6 @@
         <mmd-latex>DEFAULT</mmd-latex>
         <odt>DEFAULT</odt>
         <docx>7C4B419C-169E-4C8A-ACCA-D354A71C3406</docx>
-        <html>DEFAULT</html>
+        <rtf>outline-document</rtf>
     </LastUsedFormats>
 </CompileSettings>

@@ -24,7 +24,7 @@
 		</array>
 		<key>2655DDF6-4AB8-42CB-A433-1CD76FC351D2</key>
 		<array>
-			<string>8DF8C98E-EF9F-44E5-9A08-C0DA8673DD17</string>
+			<string>EE9C7021-0D8F-488B-9988-43653FCDF916</string>
 		</array>
 		<key>332095B9-1CE1-49DD-B826-E1E5A1FBFC9D</key>
 		<array>
@@ -362,8 +362,8 @@
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {258.5, 810}}</string>
-		<string>{{259.5, 0}, {810.5, 810}}</string>
+		<string>{{0, 0}, {269, 810}}</string>
+		<string>{{270, 0}, {800, 810}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -588,6 +588,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>180043FA-E813-4D84-B85B-4D170F1EA386</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>1816DFDB-C912-4628-97D6-81DEF1600F08</key>
 		<dict>
 			<key>Row</key>
@@ -634,6 +639,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>1BD099C0-BFEF-4019-93BC-C8D03D6B06A0</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>1C558415-3191-4A72-9BAF-07CBD922107B</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -1045,6 +1055,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>4B4E5069-629D-4654-B3A8-2652FC3DEFD8</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>4C519CC7-4A50-4315-B511-4CB07B6A8FCE</key>
 		<dict>
 			<key>Row</key>
@@ -1056,6 +1071,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>4C7C7336-7451-4086-B837-A91234F07BCD</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>4C96EDAA-49DD-40CD-83C1-CB935FC85842</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -1335,6 +1355,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>68E7C091-A292-4761-BD49-CC6CE52EEE87</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>699CDF7A-C505-4076-893D-BCEFA5E584C2</key>
 		<dict>
 			<key>Row</key>
@@ -1411,6 +1436,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>754D80BA-7563-4D3A-AFE2-B58DC5821B5A</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>756E8364-56FB-492E-A34B-482725561E82</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -1697,6 +1727,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>97505CA2-BBB1-4D62-A230-FBAC20029E92</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>97A86F56-E48C-4F70-901B-81927BC90B69</key>
 		<dict>
 			<key>Row</key>
@@ -1763,6 +1798,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>A227B487-A943-4624-920F-0E8C68801005</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>A24483AB-B2E7-47F5-A038-FE4AE677A715</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -1883,6 +1923,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>B36BA198-D377-4E0F-B8B7-B7B83F7D45D4</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>B372ABB2-8B18-4B61-ADE8-F598DE303F76</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -2068,6 +2113,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>C941BC3E-6CB1-4C6F-85C2-627D568AC096</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>C9F067D3-5CC8-44A1-A709-1EBF22E560AB</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -2760,8 +2810,8 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {582.5, 780}}</string>
-		<string>{{583.5, 0}, {227, 780}}</string>
+		<string>{{0, 0}, {402, 780}}</string>
+		<string>{{403, 0}, {397, 780}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>229.5</real>
@@ -2838,7 +2888,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, -21.333333333333332}, {358, 479.99999999999994}}</string>
+	<string>{{0, -21.333333333333332}, {268, 479.99999999999994}}</string>
 	<key>mainDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -2887,7 +2937,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>226.5</real>
+			<real>200</real>
 		</dict>
 	</dict>
 	<key>selectedCollectionTabIndex</key>
