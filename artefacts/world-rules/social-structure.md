@@ -81,7 +81,16 @@ Last updated: 2026-08-07 | Scope: Parts 1–4 complete + Part 5 through "Piglici
 - **Elvi genuflection ritual:** to "genuflect in the Elvi way" is to take off one's sunglasses (paired with going down on one knee) — an act of reverence, here directed at the Holy Momma. (scene: "Sarah then Eloise arrives")
 - **Elvi theological seating hierarchy & the "Aunt" honorific:** "In the theology of the Elvi the Holy Momma and the Great Teacher sat enthroned, but aunts sat like everybody else" — Sarah (Holy Momma) and Chanta (Great Teacher) rate thrones; [[kathy|Kathy]] and Hayley are "Aunt Kathy" and "Aunt Hayley" within Elvi kinship-theology — the Holy Family's inner circle below the enthroned pair — and rate ordinary folding chairs. (scene: "Sarah then Eloise arrives")
 - [[elvi-and-grayling|Grayling]] warranty: "never play gospel near ELVIS units." (scene: "Vegas show")
-- **Oath of the Warranty:** Ritual recitation before Vegas Show. Prohibitions: no excess after midnight, no weapons at furniture, always strive for "the perfection of the Music." (scene: "Vegas show") Verbatim couplet (Chanta knows it "verbatim"): "I shall always strive for the perfection of the Music / As long as it is not gospel." Now also recited **publicly by the High Elvis to preface law-making** — before the [[legal-framework|Three Laws]] decree, to solemnise the Elvi while "baffling everyone else" (see [[legal-framework]] for the decree and the oath-vs-warranty gap). (scenes: "The three laws," "Chanta's tower")
+- **Oath of the Warranty — VERBATIM (author-supplied, 2026-08-13; supersedes the earlier "no excess after midnight" paraphrase, which was wrong):** a litany built on the repeated refrain **"After midnight"**, which the recitation returns to before each clause:
+
+  > After midnight
+  > I shall never binge on bacon fat and coffee grounds
+  > After midnight
+  > I shall never consume stimulants
+  > After midnight
+  > I shall never discharge a weapon at furniture, lights or bathroom fixtures
+
+  Plus the known couplet: "I shall always strive for the perfection of the Music / As long as it is not gospel." **Note what the Oath is and is not.** It is a list of *appetites*, and it mirrors the Grayling warranty's void conditions (feeding after midnight, bacon fat and coffee grounds, stimulants) — the Elvi have taken the manufacturer's list of ways to spoil the product and made it a temperance vow about themselves. **It says nothing whatever about sex.** Do not cite it as a prohibition on excess in general; there is no sexual taboo in the Oath to lift or override. Ritual recitation before Vegas Show; (scene: "Vegas show") Verbatim couplet (Chanta knows it "verbatim"): "I shall always strive for the perfection of the Music / As long as it is not gospel." Now also recited **publicly by the High Elvis to preface law-making** — before the [[legal-framework|Three Laws]] decree, to solemnise the Elvi while "baffling everyone else" (see [[legal-framework]] for the decree and the oath-vs-warranty gap). (scenes: "The three laws," "Chanta's tower")
 - **Vegas Show:** Biggest night of the year. Celebrates "Momma's birthday." Rotating vocalists. Held at Graceland. (scene: "Vegas show")
 - "Little Richard" culturally loaded — Tutti Frutti Summit of '69. (scene: "Sarah rejects the Sages")
 - [[dr-john|Dr Nick]]'s Mix: stimulant in Elvi coffee. Named after Elvis's physician. (scene: "Tony's health improves, and he goes to buy coffee.")
