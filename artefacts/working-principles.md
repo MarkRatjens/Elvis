@@ -110,3 +110,13 @@ The book is not journalism and does not want to be internally auditable. **Chant
 
 The standing error to guard against is **treating a character's figure as a continuity bug**. Author ruling, 2026-08-08, on Chanta thinking of the baby as "seven months along" hours after Sarah is described as thirty-five weeks: *let it pass — Chanta is an unreliable information source, and we're not writing journalism.* Before reporting a numeric contradiction, ask whose mouth or head it is in. If it is a character's, it is characterisation, not error. Only figures in the book's own narratorial voice, or in the knowledge base, are held to consistency.
 
+
+## 17. Quantities are the author's — never invent one
+
+§13 covers dates. This covers everything else with a number in it: how many people are in a room, how many attended, how many are left, how old someone is, how long they have owned a thing, how long since something happened, how far apart two places are.
+
+Where prose needs a specific, leave a marked gap and name it. Where reasoning needs one, say the reasoning is waiting on a figure not held — never pick a value and build on it.
+
+The failure this exists to stop is not a wrong number, it is a laundered one: a figure invented to make a sentence work, then read back out of the manuscript in a later session as though the book had established it. "Ninety-odd thousand" Elvi entered the book that way and was later quoted to the author as canon.
+
+Scale is the standing case. Crowds, venues and populations have been sized far too small, repeatedly. Do not estimate them. Ask.
