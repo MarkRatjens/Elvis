@@ -24,7 +24,7 @@
 		</array>
 		<key>2655DDF6-4AB8-42CB-A433-1CD76FC351D2</key>
 		<array>
-			<string>EE9C7021-0D8F-488B-9988-43653FCDF916</string>
+			<string>1DC09FA6-D331-459D-9722-ABE066EF641E</string>
 		</array>
 		<key>332095B9-1CE1-49DD-B826-E1E5A1FBFC9D</key>
 		<array>
@@ -362,8 +362,8 @@
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {330.5, 889}}</string>
-		<string>{{331.5, 0}, {1180.5, 889}}</string>
+		<string>{{0, 0}, {253, 889}}</string>
+		<string>{{254, 0}, {1258, 889}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -539,6 +539,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>0FA9EE3D-AFA0-4CA8-B301-3E8B316BAD3F</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>0FF0BCA2-4D0D-4891-B171-EAC6CBB1FE67</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -1050,6 +1055,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>4995BDD9-85BA-403A-8EA0-DB94F0D96E1D</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>49C2D8C7-4B57-4044-969A-30E38E8EAFF8</key>
 		<dict>
 			<key>Row</key>
@@ -1456,6 +1466,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>76A0EAC7-E050-4939-A81A-4F7227E61E5A</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>787511D1-4F0F-4F86-862D-E7C1C960B0B3</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -2810,8 +2825,8 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {782.5, 859}}</string>
-		<string>{{783.5, 0}, {397, 859}}</string>
+		<string>{{0, 0}, {860.5, 859}}</string>
+		<string>{{861.5, 0}, {396.5, 859}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>229.5</real>
@@ -2888,7 +2903,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, -21.333333333333332}, {521.33333333333326, 532.66666666666663}}</string>
+	<string>{{0, 1567.6666666666665}, {573.33333333333326, 532.66666666666652}}</string>
 	<key>mainDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -2937,7 +2952,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>200</real>
+			<real>220.5</real>
 		</dict>
 	</dict>
 	<key>selectedCollectionTabIndex</key>
