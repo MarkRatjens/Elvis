@@ -15,6 +15,12 @@ IDs S01–S139 are the earlier walk (Parts 1–2 + Part 3 Ch1-8). IDs **S140–S
   - **Advances S203** ("Religious Minds" loose in the world / straight-to-#1 / Dunhilton's-dentist payoff still owed): the street mutates it to **"Piglicious Minds"** and it is "climbing every stream in the Meritocracy" by Sunday evening — the chart-topping and the dentist joke pay in the next scene ("The Monday conversation").
   - **New plants (assign IDs at next walk):** (a) the **shareholders'-children shield** — the Airborne young in the crowd are why the authorities dare not clear the plaza, which later pushes Dunhilton toward a *deniable* weapon (→ Operation Cleanse); (b) the **"Clean the Domain" → rubbish-as-sandbags** irony (the crowd stacks its tidy rubbish "against a flood nobody could yet put a name to") — the government's answer is a literal *cleanse*.
 
+- **"The Inauguration of the new High Elvis" (`DB8939A5`) — Part 6 ch 1, DRAFTING 2026-08-13** (author mid-pass; the observation-and-decree passage drafted to the bundle, author retains final control). Not a walk. The relationships it commits:
+  - **Pays:** the Humpening's origin — the decree now comes from **Chanta as Great Teacher**, not from the High Elvis, after he overhears [[characters/kathy|Kathy]] and [[characters/hayley|Hayley]] reasoning it out. Sets up ch 2.
+  - **New plant — the upstaging [OWED]:** the second High Elvis (Tom Wilson) is crowned on continuity and dignity and is superseded within minutes by the Great Teacher, in his own parliament, with **no reaction shown on the page by authorial decree**. The reaction is owed downstream — see [[characters/the-high-elvis]]. Assign an ID at the next walk.
+  - **New plant — the tells:** old tattoos and long-held scars **clearing** in the TPlus-dosed, onset traceable to about a fortnight. Kathy's term for the agent is **"salutogenic."** Available for re-use whenever the dose gradient needs to be visible without being explained.
+  - **Unplaced, carried in a holding block inside the document:** Dianne Carter's "healthiest thing at four funerals" speech, and **Walter's poster with the signature that is the same one** — a strong payoff currently without a home now that the scene ends on the decree.
+
 ---
 
 ## Newly CLOSED this walk (were open, now paid)
