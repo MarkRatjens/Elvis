@@ -1,5 +1,5 @@
 # Characters Index
-Last updated: 2026-07-20
+Last updated: 2026-08-14
 
 ## Characters
 - [[abe]] — Abe
@@ -36,6 +36,7 @@ Last updated: 2026-07-20
 - [[kleo]] — Kleo (Kleoboulos Windus)
 - [[little-clinton]] — Little Clinton (Sarah's unborn son)
 - [[lonnie]] — Lonnie
+- [[maile-duval]] — Maile Duval (Elvine; the fading burn at the inauguration party)
 - [[major]] — Major
 - [[nancy]] — Nancy
 - [[narc-elvis]] — Narc Elvis

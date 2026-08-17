@@ -9,8 +9,11 @@
 - **Key beats so far:**
   Songs from other universes → Elvi as
   commercial clones (ELVIS Entertainment and
-  Hospitality Units) → Grayling left ticking
-  clocks (defects, allergies) → Blue Hawaii
+  Hospitality Units) → Velvet Elvis repeats the
+  Elvi's "ticking clocks" bar-talk (apocrypha —
+  see [[../world-rules/biology]]; the series
+  allergies are Grayling's, the design and the
+  motive are not established) → Blue Hawaii
   allergy demonstrated → High Elvis promised
   for later → Lonnie as guide/protector →
   Elvi military capability demonstrated

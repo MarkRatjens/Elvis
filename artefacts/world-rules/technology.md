@@ -50,7 +50,7 @@ Last updated: 2026-08-07 | Scope: Parts 1–4 complete + Part 5 through "Piglici
 
 - [[elvi-and-grayling|Grayling Corporation]] sold thousands of ELVIS clones into hospitality and domestic servitude before emancipation. (scene: "Ajent raids the Memphis Mafia Bar")
 - [[the-elvi|The Elvi]] were emancipated. (scene: "Ajent raids the Memphis Mafia Bar")
-- Grayling deliberately engineered "ticking clocks" (defects/vulnerabilities) into Elvi clone lines. (scene: "Vegas show")
+- **Grayling's established engineering of the Elvi is the series allergies, and no further.** The Elvi *say* Grayling "left all sorts of ticking clocks in the 'product'" (Velvet Elvis, scene: "Vegas show") — that is **Elvi apocrypha, not a world rule.** No deliberate term, age or purpose is established for any Grayling defect, and Grayling's motive is not established at all. Ruling and the do-not-write list: [[biology]] → "The Grayling clock is apocrypha."
 - Clone-series-specific allergies: Blue Hawaii series allergic to artificial pineapple. (scene: "Vegas show")
 - Clone-series preferences extend to coffee/drink preparation — vary by series. (scene: "Tony's health improves, and he goes to buy coffee.")
 

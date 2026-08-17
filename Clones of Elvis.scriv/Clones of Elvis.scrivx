@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-08-13 15:14:09 +1000" ModID="D505492F-7B0F-467C-9B4E-A942796BD7FD">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-08-17 18:41:42 +1000" ModID="0E7587FC-C9EC-4891-AF02-B161F59B9229">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -736,7 +736,7 @@
                                         <NotesTextSelection>70,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1387,0</TextSelection>
+                                        <TextSelection>0,24</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -2965,24 +2965,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="DB8939A5-B5F1-41A3-B70A-FC1D3E115D4A" Type="Text" Created="2026-07-08 17:04:45 +1000" Modified="2026-08-13 15:14:09 +1000">
+                                <BinderItem UUID="DB8939A5-B5F1-41A3-B70A-FC1D3E115D4A" Type="Text" Created="2026-07-08 17:04:45 +1000" Modified="2026-08-16 20:56:55 +1000">
                                     <Title>The Inauguration of the new High Elvis</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <NotesTextSelection>4850,0</NotesTextSelection>
+                                        <NotesTextSelection>4849,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>4950,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="4995BDD9-85BA-403A-8EA0-DB94F0D96E1D" Type="Text" Created="2026-07-08 17:04:45 +1000" Modified="2026-08-13 11:20:53 +1000">
-                                    <Title>Holding Block</Title>
-                                    <MetaData>
-                                        <LabelID>4</LabelID>
-                                        <NotesTextSelection>4850,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>26788,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -2993,14 +2983,13 @@
                                 <LabelID>2</LabelID>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>901,0</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="A24483AB-B2E7-47F5-A038-FE4AE677A715" Type="Text" Created="2026-08-08 17:54:26 +1000" Modified="2026-08-08 18:30:20 +1000">
+                                <BinderItem UUID="A24483AB-B2E7-47F5-A038-FE4AE677A715" Type="Text" Created="2026-08-08 17:54:26 +1000" Modified="2026-08-17 18:41:42 +1000">
                                     <Title>H1 — The cure comes up the line</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>2377,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
@@ -3031,7 +3020,6 @@
                                     <Title>H2 — Twelve juniors, seven hours</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -3072,7 +3060,6 @@
                                     <Title>H3 — Hermann comes upstairs</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -3103,7 +3090,6 @@
                                     <Title>H4 — Concrete is cheaper</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -3174,7 +3160,6 @@
                                     <Title>M1 — The yellow form</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>2540,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
@@ -3225,7 +3210,6 @@
                                     <Title>M2 — The bowl and the rules</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -3255,7 +3239,6 @@
                                     <Title>M3 — Five ampoules</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -3325,7 +3308,6 @@
                                     <Title>BC1 — Behind the substation</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>2634,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
@@ -3378,7 +3360,6 @@
                                     <Title>The Greatest Discovery in the History of the World</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -3398,7 +3379,6 @@
                                     <Title>BC2 — The flat eleven floors up</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -3419,7 +3399,6 @@
                                     <Title>The Confession</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -3459,7 +3438,6 @@
                                     <Title>BC3 — Two streets away in a van</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -3626,7 +3604,6 @@
                                     <Title>The Doors Burst Open</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -3636,7 +3613,6 @@
                                     <Title>Sarah confronts Eloise</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -4889,8 +4865,8 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
                         <IndexCardBinderUUID Position="0.167832,0.683916" TimeStamp="2023-04-10 16:16:21 +1000">E653B5BE-8AC0-4A1B-A821-9B0C827CF212</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="0.059441,1.93986" TimeStamp="2023-04-10 16:16:21 +1000">2B2D5DA4-5CDA-4445-8985-576563A24D80</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="2.237762,1.988811" TimeStamp="2023-04-10 16:16:21 +1000">DA0694DC-E72A-49C3-A142-967FC147A466</IndexCardBinderUUID>
-                        <IndexCardBinderUUID Position="3.13986,1.985315" TimeStamp="2023-04-10 16:16:21 +1000">4F95C2E7-93A1-4DE1-9515-CB1AB3A472CF</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="3.258741,0.673427" TimeStamp="2023-04-10 16:16:21 +1000">EA83A6D0-37D3-4C4E-8218-6D302CC91630</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="3.13986,1.985315" TimeStamp="2023-04-10 16:16:21 +1000">4F95C2E7-93A1-4DE1-9515-CB1AB3A472CF</IndexCardBinderUUID>
                     </FreeformCorkboardDocuments>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
@@ -5290,13 +5266,13 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
                         <TextSelection>1816,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="986FAD3B-BC23-42B4-99D7-C085AB18AEB2" Type="Text" Created="2022-11-27 11:48:56 +1100" Modified="2026-08-07 18:53:02 +1000">
+                <BinderItem UUID="986FAD3B-BC23-42B4-99D7-C085AB18AEB2" Type="Text" Created="2022-11-27 11:48:56 +1100" Modified="2026-08-14 11:11:45 +1000">
                     <Title>movie main characters</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1,3</TextSelection>
+                        <TextSelection>562,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="944D5B5F-E9B6-4BDC-9895-D6ABEBF37480" Type="Text" Created="2023-05-02 09:35:35 +1000" Modified="2026-07-09 14:10:51 +1000">
@@ -5781,6 +5757,16 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="4995BDD9-85BA-403A-8EA0-DB94F0D96E1D" Type="Text" Created="2026-07-08 17:04:45 +1000" Modified="2026-08-13 11:20:53 +1000">
+                    <Title>Holding Block</Title>
+                    <MetaData>
+                        <LabelID>4</LabelID>
+                        <NotesTextSelection>4850,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="B745F8E9-44A3-43F6-AA17-019C9D41C63C" Type="Folder" Created="2026-07-23 15:46:58 +1000" Modified="2026-07-23 15:46:58 +1000">
@@ -5807,11 +5793,11 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
         </BinderItem>
     </Binder>
     <Collections>
-        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.190666 0.172706 0.216531">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">Warranty</SearchSettings>
+            <SearchSettings Operator="Exact" Type="Text" CaseSensitive="Yes" IgnoreDiacritics="No">ticking clocks</SearchSettings>
         </Collection>
-        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.091141 0.091141 0.091141">
             <Title>Binder</Title>
         </Collection>
     </Collections>
@@ -6074,14 +6060,14 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-08-14 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-08-13 14:53:50 +1000"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-08-18 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2026-08-17 10:31:45 +1000"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-08-13 00:00:00 +1000">
+    <RecentWritingHistory Date="2026-08-17 00:00:00 +1000">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>-4322</OtherWordCount>
-        <OtherCharCount>-23613</OtherCharCount>
+        <OtherWordCount>-10</OtherWordCount>
+        <OtherCharCount>-43</OtherCharCount>
     </RecentWritingHistory>
-    <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="6AF9A9C7-C726-4206-8C3B-2DFDE35D9119" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+    <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="2020E1DE-EABD-485C-A742-75CE47D96236" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

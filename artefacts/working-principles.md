@@ -120,3 +120,53 @@ Where prose needs a specific, leave a marked gap and name it. Where reasoning ne
 The failure this exists to stop is not a wrong number, it is a laundered one: a figure invented to make a sentence work, then read back out of the manuscript in a later session as though the book had established it. "Ninety-odd thousand" Elvi entered the book that way and was later quoted to the author as canon.
 
 Scale is the standing case. Crowds, venues and populations have been sized far too small, repeatedly. Do not estimate them. Ask.
+
+## 18. Generated material is kept current, never archived (standing order)
+
+Everything generated for the author — outlines, plans, running orders, briefs, character files, world rules, continuity files — describes the work **as it now stands**. When a decision or a draft moves past what one of these says, the file is corrected in the same pass that made the move. Git holds the history and the author does not read it, so nothing is kept back for the record and nothing is left stale with a note pinned to it.
+
+- **Never ask whether to preserve the earlier version.** The earlier version is in git. Asking treats the author as the archive, which is the job git is already doing.
+- **No tombstones.** Not "formerly a tattoo," not "this replaces the earlier plan," not "superseded 2026-08-14." State what is true now, as though the earlier thing had never been written (§8, §10).
+- **Flagging is not updating.** Reporting that a document has gone stale and leaving it stale is the failure this exists to stop. Where a discrepancy is a genuine open question for the author, record the question in the document — do not leave the document describing something the manuscript no longer does.
+
+This is §12.3 stated as a duty rather than an aspiration, and it reaches past the character files to everything in `artefacts/`.
+
+The one carve-out is §12's **frozen reviews**: a `review/part*.md` recap is a dated, reader-side assessment of how a Part read at a point in time, not a description of the current state, so it is banner-superseded rather than rewritten.
+
+## 19. The text moves under you. That is the process (standing order)
+
+The manuscript changes between one pass and the next, often mid-session, and the change is the author's. He is editing continuously and deliberately, including editing agent-written prose out of the book on purpose. **Read the current bytes before touching a passage and treat them as the only state that exists.**
+
+- **No surprise.** A passage that has been rewritten, cut, restaged or reordered since the last pass was rewritten, cut, restaged or reordered on purpose. Assume the author did it. Never say "this changed under me," "you've rewritten this since I last logged it," or anything else that treats his editing as an event.
+- **No baseline.** Agent-drafted prose is raw material, not a version. It has no standing, is not a thing to be preserved, defended, compared against, or mourned when it goes. Do not track which words survived.
+- **Report the work, not the delta.** Say what was done to the text as it now stands. Do not narrate what it used to say, and do not explain a cut back to the person who made it.
+- **Artefacts still get brought current** (§18) — quietly, as a matter of course. Updating them is not an occasion to announce how much has moved.
+
+The one thing still worth raising unprompted is a **genuine contradiction on the page** — two facts that cannot both be true, a character in two places, a payoff whose setup is gone. That is a finding about the manuscript. Churn is not.
+
+## 20. "Spent" is the author's call, and only his
+
+Whether a joke, a running gag or a piece of business has had its run is a judgement about how the book reads whole. The author makes it. It is not delegated, and telling the agent his ruling in one instance is not handing over the category.
+
+- **Never declare something spent** — not in a review, not in a draft note, not as the reason for choosing something else. The agent has no reliable basis for the call.
+- **Never extend a ruling by analogy.** One dish being spent says nothing about the dish beside it on the same list.
+- **Record his rulings where the property lives**, attributed to him and dated, so they are not re-litigated. Fool's Gold, spent at GET BENT (author, 2026-08-15), is in [[world-rules/social-structure]].
+- **If reuse looks like a risk, put it in front of him** rather than quietly routing around it.
+
+This is the general case of a recurring overreach: taking a specific ruling as licence for the class it belongs to.
+
+## 21. Never invent a motive or a shared attitude
+
+Do not put into a character's mouth — or into `artefacts/` — a claim about **why an institution acted** or **what a population feels about something**, unless the manuscript, the knowledge base or an author ruling establishes it. This is §17 (quantities) generalised to everything that isn't a number, and it launders exactly the same way: written to make a sentence work in one session, quoted back as canon in the next.
+
+**The tell to distrust in your own drafting: a sentence that explains a group's psychology in a rhetorical shape.** Chiasmus, paradox, "it's not X, it's Y," an epigram that resolves neatly. The shape carries conviction the evidence does not, and nothing in it can be checked — which is precisely why it was reachable. When a real fact arrives without a rhetorical shape, that is not a defect to be corrected.
+
+**Worked example, so it is not repeated.** Kathy on the Elvi allergies, drafted 2026-08-15 and cut:
+
+> "That's Grayling — that's a switch a person fitted, and it's the one everybody points at, because you can put a name to it and be angry at the name… Grayling found one running and screwed a second one to the wall beside it, so there'd be something to blame that wasn't the merchandise."
+
+Supported: the allergies are Grayling's engineering, the rest was already in the source genome ([[research/elvis-ageing-projection]] §7, [[world-rules/biology]] → "What an Elvi is at forty"). Invented: that the Elvi blame the allergy at all; the epigram about naming and anger; **a motive of blame-deflection for Grayling.** It then reached [[world-rules/biology]] as canon before it was caught.
+
+**And then this entry did it again — corrected 2026-08-15.** The verdict originally recorded here rejected Kathy's line as *contradicted*, on the stated ground that "the engineered defects are ticking clocks serving the Warranty's void-and-reclaim clauses, not a decoy." That ground was itself an invented institutional motive: assembled out of one unsourced bar-line (Velvet Elvis, "Vegas show") and asserted nowhere in the manuscript. The correct objection to Kathy's line was that it invents a motive for Grayling. The objection actually given **invented a different motive for Grayling and stamped it canon inside a rules file** — the worst possible place for it, because it would be quoted back with the authority of a principle rather than the tentativeness of a note. Author ruling: **the Grayling clock is apocrypha**, and Grayling's motive is not established and may not be inferred ([[world-rules/biology]] → "The Grayling clock is apocrypha").
+
+The lesson doubles, and this is why the example is kept. The reflex to explain *why an institution acted* is strong enough to operate **inside the very section that forbids it**, and it is at its most dangerous when it arrives dressed as a correction — because a correction is read as the settled answer and never audited again.
