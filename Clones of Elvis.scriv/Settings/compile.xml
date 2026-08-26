@@ -2,6 +2,7 @@
 <CompileSettings>
     <ProjectSettings>
         <Content Scope="Included" IncludeSelectionDescendants="Yes">
+            <CompileGroup Type="Selection"/>
             <Filter State="Off" Exclude="No" Type="Label">
                 <CollectionID>2655DDF6-4AB8-42CB-A433-1CD76FC351D2</CollectionID>
                 <Label>-1</Label>
@@ -58,17 +59,18 @@
             </MMDMetaData>
         </MetaData>
     </ProjectSettings>
-    <CurrentFileType>epub3</CurrentFileType>
+    <CurrentFileType>txt</CurrentFileType>
     <FormatSettings>
-        <Format ID="FE1A23AA-48CA-47DC-B169-91B6FE11490D">
+        <Format ID="paperback-6x9">
             <SectionLayouts>
-                <Type ID="DA299D05-E212-41BE-A82B-88EA3A472C49">1C661BEC-556C-41FF-9C44-52AEBEF93B2F</Type>
-                <Type ID="417A6CCE-D4E1-44BA-9A8D-038360B4B905">434CE1CE-0D74-44E7-AFB2-5F34FF0B1D3C</Type>
+                <Type ID="DA299D05-E212-41BE-A82B-88EA3A472C49">F06837C7-95F0-41AF-8050-90874CBAAFD8</Type>
+                <Type ID="417A6CCE-D4E1-44BA-9A8D-038360B4B905">CHAPTER-NUMBER</Type>
                 <Type ID="9AFECE21-8C79-45E0-9B9F-D6D62A9729D3">TEXT-SECTION</Type>
-                <Type ID="5770D705-B9A4-4798-AAB1-B2C56190B02E">A7B609FE-0C0D-4CA5-A022-AF6F45F421C7</Type>
+                <Type ID="5770D705-B9A4-4798-AAB1-B2C56190B02E">TEXT-WITH-HEADER</Type>
                 <Type ID="DFBFB5B6-D47F-4913-9E23-FC3950C10171">NEW-PAGE-HEADER</Type>
                 <Type ID="4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D">D1848966-5D15-4080-B5FA-EDC5063123B0</Type>
-                <Type ID="C256170C-9607-4380-B84A-86A34F8D32A4">CD554FF8-258C-4B9E-A8B3-4C3011911B8E</Type>
+                <Type ID="C256170C-9607-4380-B84A-86A34F8D32A4">45C71E28-DB3C-4ED8-8E8C-D85E64C375FC</Type>
+                <Type ID="8CA56ABC-1675-44AC-B5C5-FCFBC0C6E87D">AS-IS</Type>
             </SectionLayouts>
         </Format>
         <Format ID="A00399F4-816C-4BC1-90A0-6EF404E5D1E7">
@@ -446,6 +448,17 @@
                 <Type ID="C256170C-9607-4380-B84A-86A34F8D32A4">NEW-PAGE</Type>
             </SectionLayouts>
         </Format>
+        <Format ID="FE1A23AA-48CA-47DC-B169-91B6FE11490D">
+            <SectionLayouts>
+                <Type ID="DA299D05-E212-41BE-A82B-88EA3A472C49">1C661BEC-556C-41FF-9C44-52AEBEF93B2F</Type>
+                <Type ID="417A6CCE-D4E1-44BA-9A8D-038360B4B905">434CE1CE-0D74-44E7-AFB2-5F34FF0B1D3C</Type>
+                <Type ID="9AFECE21-8C79-45E0-9B9F-D6D62A9729D3">TEXT-SECTION</Type>
+                <Type ID="5770D705-B9A4-4798-AAB1-B2C56190B02E">A7B609FE-0C0D-4CA5-A022-AF6F45F421C7</Type>
+                <Type ID="DFBFB5B6-D47F-4913-9E23-FC3950C10171">NEW-PAGE-HEADER</Type>
+                <Type ID="4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D">D1848966-5D15-4080-B5FA-EDC5063123B0</Type>
+                <Type ID="C256170C-9607-4380-B84A-86A34F8D32A4">CD554FF8-258C-4B9E-A8B3-4C3011911B8E</Type>
+            </SectionLayouts>
+        </Format>
         <Format ID="7C4B419C-169E-4C8A-ACCA-D354A71C3406">
             <SectionLayouts>
                 <Type ID="DA299D05-E212-41BE-A82B-88EA3A472C49">F06837C7-95F0-41AF-8050-90874CBAAFD8</Type>
@@ -462,22 +475,10 @@
                 <DefaultFrontMatter>B2907557-CF1F-44CA-A363-80BFE44BB601</DefaultFrontMatter>
             </FrontAndBackMatter>
         </Format>
-        <Format ID="paperback-6x9">
-            <SectionLayouts>
-                <Type ID="DA299D05-E212-41BE-A82B-88EA3A472C49">F06837C7-95F0-41AF-8050-90874CBAAFD8</Type>
-                <Type ID="417A6CCE-D4E1-44BA-9A8D-038360B4B905">CHAPTER-NUMBER</Type>
-                <Type ID="9AFECE21-8C79-45E0-9B9F-D6D62A9729D3">TEXT-SECTION</Type>
-                <Type ID="5770D705-B9A4-4798-AAB1-B2C56190B02E">TEXT-WITH-HEADER</Type>
-                <Type ID="DFBFB5B6-D47F-4913-9E23-FC3950C10171">NEW-PAGE-HEADER</Type>
-                <Type ID="4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D">D1848966-5D15-4080-B5FA-EDC5063123B0</Type>
-                <Type ID="C256170C-9607-4380-B84A-86A34F8D32A4">45C71E28-DB3C-4ED8-8E8C-D85E64C375FC</Type>
-                <Type ID="8CA56ABC-1675-44AC-B5C5-FCFBC0C6E87D">AS-IS</Type>
-            </SectionLayouts>
-        </Format>
     </FormatSettings>
     <LastUsedFormats>
         <Print>proof-copy</Print>
-        <html>DEFAULT</html>
+        <rtf>outline-document</rtf>
         <epub3>7C4B419C-169E-4C8A-ACCA-D354A71C3406</epub3>
         <fdx>script-screenplay</fdx>
         <txt>DEFAULT</txt>
@@ -488,6 +489,6 @@
         <mmd-latex>DEFAULT</mmd-latex>
         <odt>DEFAULT</odt>
         <docx>7C4B419C-169E-4C8A-ACCA-D354A71C3406</docx>
-        <rtf>outline-document</rtf>
+        <html>DEFAULT</html>
     </LastUsedFormats>
 </CompileSettings>

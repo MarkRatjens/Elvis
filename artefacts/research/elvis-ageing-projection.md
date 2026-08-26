@@ -2,307 +2,359 @@
 
 *Real-world reference. **Not canon.** Source material about the historical Elvis
 Presley, gathered so that the genetics of [[the-elvi]] can rest on something real.
-Nothing here is binding until the author rules on §7.*
+Nothing here is binding until the author rules on §7. Last fact-checked: **18 August
+2026**.*
 
-**The standard this file holds to.** Every graded statement is taken from a source that
-was opened and read, or is arithmetic on one. Alongside those sit uncontroversial general
-medicine, ordinary biography, and anything marked **[PROJECTION]** — none of which carries
-a grade. Where sources conflict, the conflict is shown and no figure is preferred. Where a
-detail could not be pinned down it is absent rather than hedged, so the absence of a number
-is deliberate.
+## Evidence standard
 
----
-
-## 0. What can be known
-
-**The autopsy report — Postmortem #A77-160 — is a private document, and this was
-settled in court.** Two ABC *20/20* journalists sued in Shelby County Chancery Court for
-access to the complete toxicological, pharmacological and autopsy reports; summary
-judgment went against them, and on appeal the **Tennessee Supreme Court ruled in 1982**
-(Justice Ray Brock) that *"the autopsy that was performed was authorized by the father of
-the deceased and, insofar as is disclosed by the record before us, was the private project
-of the family."* It is family property, has never been released, and **has no release
-date.** Every organ finding attributed to it — heart weight, colon dimensions, emphysema,
-fatty liver — cannot be checked against it, and **none of those is used here.**
-
-**But a shorter document is public: the Medical Examiner's Report.** It gives the cause
-of death as **"H.C.V.D. associated with ASHD"** — hypertensive cardiovascular disease
-associated with arteriosclerotic heart disease — and the manner as **natural**. It is
-signed by **Dr J. Francisco, Shelby County Medical Examiner**, and notes the autopsy at
-Baptist Memorial performed with family consent. This is the official public finding, and
-the only medical document about his death anyone outside the family can read. **So
-hypertension and arteriosclerotic disease are documented** — and they carry the cardiac
-account on their own, without any of the excluded material.
-
-**Francisco stated a cause twice, and not identically.** His first public statement gave
-**cardiac arrhythmia** on preliminary findings, with drugs uninvolved — which PBS records
-as having been "subsequently demonstrated not to be the case." The report he signed gives the
-hypertensive and arteriosclerotic finding above. Both are his; only the second is a
-document.
-
-**The Tennessee death certificate** is confidential for fifty years by statute and
-becomes public in **August 2027**. It is the only thing that becomes available then — not
-the autopsy.
-
-What *is* on the public record is the prescribing: found proven by the Tennessee Board
-of Medical Examiners in 1980, and aired in open court in 1981. It is the spine of this
-file.
-
-Also public: vital records, published clinical literature, and the visible facts of
-his body.
+This file distinguishes five kinds of statement:
 
 | Tag | Meaning |
 |---|---|
-| **[DOCUMENTED]** | Read at source; multiple independent sources, or a public record |
-| **[REPORTED]** | Consistently reported, but resting on description rather than record |
-| **[INTERESTED]** | Asserted by a party with a stake in the answer |
-| **[PROJECTION]** | Clinical extrapolation. Nobody's finding, including mine |
+| **[RECORD]** | Directly supported by an official record or a reproduced official document |
+| **[REPORTED]** | Supported by journalism, trial reporting, biography or historical reconstruction rather than the underlying record |
+| **[INTERESTED]** | Asserted by a participant or relative with a stake in the account |
+| **[DISPUTED]** | Materially different accounts survive, or the unavailable primary record prevents resolution |
+| **[PROJECTION]** | Fictional or counterfactual inference, not a clinical finding |
+
+An administrative finding and a criminal verdict answer different questions. A quantity
+prescribed in Presley's name is not necessarily a quantity dispensed to, or swallowed by,
+Presley. A drug detected after death is not, by that fact alone, a cause of death. The
+language below preserves those distinctions.
 
 ---
 
-## 1. Every data point, classified
+## 0. What the surviving records can establish
 
-| # | Data point | Grade |
-|---|---|---|
-| 1 | Nichopoulos was his physician from **1967**, first treating him for "saddle pain" | [DOCUMENTED] |
-| 2 | Prescribing volume — three irreconcilable figures (§2) | [DOCUMENTED] |
-| 3 | Drugs prescribed: Quaalude, Dilaudid, Amytal, Dexedrine, Valium, Demerol, Carbrital, Placidyl, Percodan | [DOCUMENTED] |
-| 4 | **1980** Board of Medical Examiners — guilty of over-prescription; 3 months' suspension, 3 years' probation | [DOCUMENTED] |
-| 5 | **1980** indictment, 14 counts; **acquitted on all** in 1981 | [DOCUMENTED] |
-| 6 | Licence permanently revoked — year given as 1993 and 1995 | [DOCUMENTED] |
-| 7 | Nichopoulos's defence: responsible for only two of the drugs found | [INTERESTED] |
-| 8 | Amphetamines during the Germany posting (arrived **1 October 1958**, discharged 5 March 1960) — introduced by a sergeant while on manoeuvres, for energy, "strength" and weight loss | [DOCUMENTED] |
-| 9 | Drugs in him at death: Dilaudid, Percodan, Demerol, codeine, Quaaludes | [DOCUMENTED] |
-| 10 | Codeine at roughly **ten times** therapeutic | [REPORTED] |
-| 11 | Anterior uveitis, September 1970 and March 1971 | [DOCUMENTED] |
-| 12 | Acute angle-closure glaucoma 1971; **steroid-induced**, on life-long steroid use | [DOCUMENTED] |
-| 12a | **Hypertensive cardiovascular disease and arteriosclerotic heart disease** — the two clinical findings the public record establishes about his body (per 24a) | [DOCUMENTED] |
-| 13 | Obesity in the final years — photographic and universally reported | [REPORTED] |
-| 14 | Never became a drinker; not teetotal | [DOCUMENTED] |
-| 15 | Described as a non-smoker | [REPORTED] |
-| 16 | Born 8 January 1935, died 16 August 1977, **aged 42** | [DOCUMENTED] |
-| 17 | Jesse Garon, stillborn twin | [DOCUMENTED] |
-| 18 | — that the twins were identical | [REPORTED] — could not have been established in 1935 |
-| 19 | Gladys: born 25 April 1912, died 14 August 1958, **aged 46** | [DOCUMENTED] |
-| 20 | — cause: **heart attack**, with liver failure from alcohol a contributing factor; hepatitis that year | [DOCUMENTED] |
-| 21 | Vernon: born 10 April 1916, died 26 June 1979, **aged 63** — **cardiac arrest**, after a heart condition of long standing | [DOCUMENTED] |
-| 22 | Lisa Marie: died 12 January 2023, **aged 54**, small bowel obstruction from bariatric adhesions | [DOCUMENTED] |
-| 23 | Maternal grandparents were **first cousins** | [DOCUMENTED] |
-| 24 | Autopsy #A77-160 is a private document — held so by the **Tennessee Supreme Court, 1982**; family property, unreleased, no release date | [DOCUMENTED] |
-| 24a | Medical Examiner's Report: cause **"H.C.V.D. associated with ASHD"**, manner **natural**, signed by Francisco | [DOCUMENTED] |
-| 24b | Francisco's first public statement: **cardiac arrhythmia**, drugs uninvolved, on preliminary findings | [DOCUMENTED] |
-| 24c | The Tennessee death certificate becomes public in **August 2027** | [DOCUMENTED] |
-| 25 | Organ findings attributed to the sealed autopsy — heart weight, colon, emphysema, fatty liver | *unverifiable; not used* |
-| 26 | The four-layer life expectancy in §5 | [PROJECTION] |
+### The private autopsy material
 
----
+In [*State ex rel. Cole v. Francisco*](https://preslaw.info/state-ex-rel-cole-v-francisco-1982)
+(1982), two ABC *20/20* journalists sought the complete pharmacological,
+toxicological and autopsy reports used by Shelby County Medical Examiner Dr Jerry
+Francisco. The Tennessee Supreme Court held that Francisco neither possessed nor had a
+duty to obtain those reports. The family-authorised autopsy was not an official autopsy
+under the cited Tennessee statutes, and reviewing its reports did not turn them into
+public records. The court called it *"the private project of the family."* **[RECORD]**
 
-## 2. The prescribing — court and regulatory record
+The opinion says that Francisco returned the reports to Baptist Memorial Hospital
+authorities after reviewing them. It does not establish their present custodian, declare
+them property of the Presley family, or set a future release date. The ruling that the
+reports were not public records also does not mean that no copies later circulated:
+[a 1980 account in *Memphis* magazine](https://memphismagazine.com/elvis/elvis-presley-death-abc-news-coverage/)
+describes journalist Charles Thompson copying what appeared to be the complete
+Bio-Science toxicology report from the *Commercial Appeal*'s files. That reported copy
+and the complete private autopsy have not been independently authenticated and reviewed
+for this file. Consequently, claimed organ findings such as a particular heart weight,
+colon diameter, emphysema or fatty liver are not treated as established here.
 
-This is the best-established body of evidence about Elvis Presley's health: examined by
-a regulator that found against him, and aired in a trial that did not.
+### The County Medical Examiner's report
 
-* **Dr George Nichopoulos was his physician from 1967**, having begun treating him for
-  "saddle pain."
-* **The volume. Three figures circulate and they do not reconcile**, so all three are
-  given and none is preferred: over **10,000 doses** in the first eight months of 1977;
-  **19,000 doses** across 1975–77; **12,000 pills and vials** in the final twenty months.
-  The units differ — a vial is not a dose — and the windows overlap, so they cannot be
-  added or compared. What they agree on is order of magnitude: **all three are
-  five-figure quantities**, over windows running from eight months to three years.
-* **What was on the lists**, per contemporaneous reporting of the 1981 trial:
-  **Quaalude, Dilaudid, Amytal, Dexedrine, Valium, Demerol, Carbrital, Placidyl and
-  Percodan** — stimulants, depressants, painkillers and tranquillisers together. Note
-  **Dexedrine**: the amphetamines that began in the Army were still being written at
-  the end.
-* **1980, Tennessee Board of Medical Examiners:** found **guilty of over-prescription**,
-  though not unethical. Three months' suspension, three years' probation.
-* **Indicted 1980 on 14 counts** of over-prescribing — to Presley, Jerry Lee Lewis and
-  others. **Acquitted on all counts** in 1981, the jury concluding he had tried to act
-  in his patients' best interests.
-* **Licence permanently revoked by the Board**, for a years-long practice of
-  over-prescribing to numerous patients. Sources give the year as 1993 and as 1995;
-  it is not settled here.
-* **His own defence**, in a 1981 interview: that he was responsible for prescribing
-  only **two** of the drugs found in Presley's system.
+A [reproduction of Francisco's two-page county report](https://preslaw.info/medical-examiners-report-autopsy-on-the-death-of-elvis-presley)
+records the probable cause as **"H.C.V.D. associated with ASHD"** — hypertensive
+cardiovascular disease associated with arteriosclerotic heart disease — and the manner as
+**natural**. It is dated 20 October 1977 and signed by Francisco. The form says that an
+autopsy was performed at Baptist Memorial Hospital with family consent. It is neither the
+complete autopsy report nor the toxicology report. **[RECORD]**
 
-**The earlier exposure.** Inducted **24 March 1958**; arrived in Germany **1 October
-1958** with Headquarters Company, 1st Medium Tank Battalion, 32d Armor, 3d Armored
-Division, Ray Barracks; discharged **5 March 1960**. There he was *"introduced to
-amphetamines by a sergeant while on maneuvers,"* and became *"practically evangelical
-about their benefits"* — **not only for energy but for "strength" and weight loss** —
-with friends in the outfit joining him. He also found an Army pharmacist willing to
-prescribe them in quantity.
+Francisco's preliminary public explanation was not identical to that later wording. On
+17 August 1977, contemporary reporting described him attributing the death to cardiac
+arrhythmia, with hypertension and coronary disease as possible contributors. On
+27 August he still described chemical tests as incomplete and said he had not then seen
+evidence of a drug contribution. These statements record stages of an investigation, not
+an independent final cause-of-death finding. **[REPORTED]**
 
-So: **stimulants from 1958, opiates from 1967** — nineteen years and ten years
-respectively, to 1977.
-
-**What was in him at death:** the opiates **Dilaudid, Percodan, Demerol and
-codeine**, plus **Quaaludes** — with codeine reported at roughly **ten times
-therapeutic concentration**. Counts of the total number of drugs vary between accounts
-and no figure is given here.
+Tennessee's current guidance says that death records remain with Vital Records for fifty
+years and are then sent to the State Library and Archives. The controlling disclosure
+rule is more conditional: after fifty years a death record **may** be transferred if the
+archive's procedures allow continued safekeeping and public access. Presley's death
+certificate reaches fifty years in **August 2027** and should then be eligible for
+archival transfer; neither its transfer nor the date of public access is guaranteed. This
+eligibility rule does not apply to the private autopsy and toxicology reports. The
+fifty-year rule is **[RECORD]**; the transfer date is **not established**.
 
 ---
 
-## 3. Published clinical literature
+## 1. Prescription drugs: what is supported
 
-Peer-reviewed work drawing on his medical records: Zegers, Liu, Heutink, Tennant and
-Weinreb, *Suspicious eyes — Elvis's glaucoma battle*, **Journal of Medical Biography,
-2024.** A second paper by the same lead author, *Burning eyes — a medical explanation for
-Elvis's iconic sunglasses* (2024), covers his eyes as well.
+### Treatment chronology
 
-* **Anterior uveitis** (then called iritis), September 1970 and March 1971.
-* **An acute angle-closure glaucoma episode in 1971**, treated by subconjunctival
-  injection or by paracentesis with iridotomy; daily drops thereafter.
-* **Steroid-induced glaucoma, on life-long steroid use "both prescribed and
-  self-administered."**
-* David Meyer was his ophthalmologist from 1971 until his death.
+The beginning of Dr George Nichopoulos's treatment is unresolved:
 
-Two things follow that are worth holding. **The eye disease was substantially caused by
-his treatment** — steroid-induced is the paper's own word. And **long-term steroid use
-is separately a driver of weight gain, hyperglycaemia and hypertension**, so it feeds
-everything else.
+* *TIME* reported in 1980 that the association began in **1967**, when Nichopoulos
+  treated saddle sores.
+* A 2016 *Commercial Appeal* account gives **1967**, initially for insomnia, and says
+  Nichopoulos became Presley's full-time physician in the early 1970s.
+* A December 1981 UPI report quotes Nichopoulos saying that Presley became his patient
+  in **1965**.
 
----
+The first-treatment year and reason must therefore remain **[DISPUTED]**. None of these
+accounts establishes the date of Presley's first stimulant, sedative or opioid use.
 
-## 4. Vital records and the visible facts
+### Quantities and their limits
 
-* **Elvis Presley** — born 8 January 1935; died 16 August 1977, **aged 42**. His twin **Jesse
-  Garon** was stillborn shortly before him; the twins are universally described as
-  identical, which could not have been established in 1935.
-* **Obesity in his final years** is not in dispute and needs no document — it is
-  photographic. His weight at death is reported inconsistently and the popular 350 lb
-  figure is folklore-inflated. **Do not use a number.**
-* **He never became a drinker.** Attested by his stepbrother Billy Stanley, who
-  records that he *"didn't even like seeing people walking around Graceland with beer
-  cans in their hands,"* and by Elaine Dundy. **Not teetotal** — occasional wine, and
-  at least one recorded night on margaritas — but nothing approaching a habit.
-* **Consistently described as a non-smoker.** This rests on general description
-  rather than on any record, and is the weakest of the personal-habit claims here.
+The surviving reports do establish prescribing on an extraordinary scale, but their
+totals describe different periods and sometimes conflict:
 
-**The family.**
+* A 2017 legal review says that Nichopoulos wrote prescriptions for more than **8,800
+  dosage units** — capsules, tablets and injectable vials — between 1 January and
+  16 August 1977.
+* Contemporary reports disagree about the final twenty months: *TIME* reported
+  **12,000 pills and vials**, while *The Washington Post* reported **10,000 pills**.
+* UPI trial reporting described about **19,000 uppers, downers and painkillers** over
+  the final thirty-one months.
 
-* **Gladys Presley** (mother) — born 25 April 1912; **died 14 August 1958, aged 46.**
-  Ill through that summer, admitted to hospital on 9 August in a condition described as
-  grave. **The cause was a heart attack**; liver failure from alcohol poisoning was
-  later identified as a contributing factor, and she had developed hepatitis that year.
-  Elvis held the drink to be the cause, and it is the reason given for his own avoidance
-  of it.
-* **Vernon Presley** (father) — born 10 April 1916; **died 26 June 1979, aged 63**, of
-  **cardiac arrest**, having had a heart condition for some time.
-* **Lisa Marie Presley** (daughter) — died 12 January 2023, **aged 54**. Cause released
-  publicly by the medical examiner: small bowel obstruction from adhesions following
-  bariatric surgery, *"a known long term complication of this type of surgery."*
-  **Surgical, not inherited** — she is the second pillar of the "family curse" story and
-  she argues against it.
-* **Elvis died four years younger than his mother did**, and two days after the
-  anniversary of her death.
+These are **[REPORTED]** prescription totals. They must not be added. They also must not
+be converted into a daily consumption rate: the defence said that prescriptions written
+in Presley's name supplied an entourage of roughly 80 to 100 people, while other trial
+testimony attributed much of Presley's supply to Nichopoulos. The public evidence does
+not permit a reliable pill-by-pill reconstruction of what Presley personally received or
+swallowed.
 
-**The familial cardiac pattern, stated exactly.** A mother dead of a **heart attack at
-46**; a father dead of **cardiac arrest at 63** after a heart condition of long standing.
-Both sides carry it. Gladys's death also carries alcohol and hepatitis, so she is not a
-clean genetic data point — but the cardiac event is hers, and it is early.
+The drugs named in contemporary reporting include **Quaalude, Dilaudid, Amytal,
+Dexedrine, Valium, Demerol, Carbrital, Placidyl and Percodan**. The list spans sedatives,
+stimulants and opioid analgesics. **[REPORTED]**
 
-**The consanguinity.** His maternal grandparents — **Robert Lee "Bob" Smith** and
-**Octavia Luvenia "Doll" Mansell** — were **first cousins**; Bob's mother was a Mansell.
-Gladys was one of their children. The genealogy is Elaine Dundy's, and Hoedel builds her
-thesis on it. *Independent genealogies agree on the cousin marriage and disagree on the
-surrounding dates, which are therefore not given.*
+### Regulatory and criminal proceedings
 
-**Where the consanguinity actually lands.** The first-cousin marriage makes **Gladys**
-the child of first cousins, with the elevated homozygosity that carries. **Elvis's own
-parents were not related**, so his own inbreeding coefficient is effectively zero — what
-he inherits is half a genome from an inbred mother, which is a real but diluted effect.
-It raises autosomal-recessive risk modestly. It is a fact about the family tree, not a
-diagnosis.
+In January **1980**, the Tennessee Board of Medical Examiners found Nichopoulos at fault
+on ten of twenty excessive-prescribing counts, suspended his licence for three months and
+placed him on probation for three years. Contemporary reports say that the board rejected
+separate charges concerning competence and professional conduct. **[REPORTED]**
 
----
+A **14-count** criminal indictment went to trial in 1981. Reporting early in the trial
+described fourteen counts; by the close, eleven felony counts remained. The jury acquitted
+Nichopoulos. Jurors said that they believed he had acted in good faith and had tried to
+manage difficult patients. **[REPORTED]**
 
-## 5. How long he might have lived
+The acquittal did not reverse the board's administrative finding, establish that the
+prescriptions caused no harm, or decide Presley's cause of death. Conversely, the board's
+sanction did not establish that the drugs killed Presley. In **1995**, the Tennessee board
+revoked Nichopoulos's licence for later overprescribing involving other patients; that
+action was not an adjudication of Presley's cause of death. **[REPORTED]**
 
-**The estimates here are [PROJECTION]** — built on the graded data in §1, plus
-uncontroversial general medicine and the ordinary biography of a touring life. Ranges, not
-numbers. Where this section cites the record it points to §0, and those citations are not
-projections.
+### Toxicology disclosed through testimony
 
-Layer 0 assumes a normal weight, no drugs, an ordinary working life and 1970s medicine.
-Each layer after it assumes everything above.
+At the 1981 trial, toxicologist Norman Weissman testified that **fourteen drug findings**
+were present in blood and tissue samples and that three of those findings were metabolites,
+so fourteen findings did not necessarily mean fourteen separately ingested drugs. He
+described codeine as ten times the accepted level for toxicity, methaqualone as borderline,
+and the other detected drugs as within accepted therapeutic levels if considered alone.
+He declined to tell reporters whether the combination caused death, and the judge kept
+the cause-of-death question outside the criminal trial. **[REPORTED]**
 
-| Layer | What is added | Cost | Expected age at death |
-|---|---|---|---|
-| **0 — the genome** | Cardiac death on both sides — mother of a heart attack at 46, father of cardiac arrest at 63 after long-standing heart disease; modest consanguinity; no proven single-gene disorder. Never became a drinker; described as a non-smoker | — | **65–75** |
-| **1 — plus the diet** | Caloric excess → obesity → insulin resistance and hypertension, and — never diagnosed, assumed on the obesity — sleep apnoea; mechanical load on knees and spine → **chronic pain**, the doorway to Layer 3 and the most consequential arrow here | ~10 yrs | **55–65** |
-| **2 — plus the lifestyle** | Nocturnal schedule, chronic sleep deprivation, performance stress, touring, no aerobic conditioning in the later years | ~4 yrs | **51–61** |
-| **3 — plus the iatrogenic** | Nineteen years of stimulants, ten of opiates, five-figure prescribing in the final years (§2); steroids driving weight and blood pressure, feeding back into Layer 1; a stack of interacting CNS depressants at the end, with codeine at ten times therapeutic | ~14 yrs | **42 — what happened** |
+After his acquittal, Nichopoulos claimed that only **two** of the drugs in Presley's blood
+had been prescribed by him. That interested account cannot be reconciled from the public
+record with trial reporting that drugs of types he prescribed were detected. It is not an
+independent toxicology finding. **[INTERESTED]**
 
-Two things the table cannot hold.
+Modern medical guidance establishes a general risk, not Presley's mechanism of death:
+opioids combined with benzodiazepines or other central-nervous-system depressants can
+cause extreme sedation, respiratory depression, coma and death. The reported drug
+mixture therefore presented a serious potential interaction risk. The complete underlying
+reports have not been independently authenticated and reviewed for this file, and the
+surviving expert interpretations conflict. The evidence reviewed here therefore does not
+permit a defensible causal allocation in this individual. **[DISPUTED]**
 
-**On Layer 0.** No single-gene disorder is proven, and none can be — every genetic
-hypothesis on offer depends on the unreleased autopsy. His father's *age* is the
-reassuring half of that row and his *cause* is not; both belong in the estimate. A genome
-that took a father to sixty-three, in a man who took up neither drinking nor smoking as a
-habit, is a genome with a bad cardiac tendency — not a death sentence.
+### Earlier stimulant use
 
-**On Layer 2.** That he never became a drinker, across twenty years of the most indulgent
-life available to anyone, is **the single largest thing working in his favour anywhere in
-this file.**
-
-### The verdict
-
-On midpoints, against a genome-only expectancy near **seventy**, he lost roughly
-**twenty-eight years**: about **ten to the diet, four to the rest of how he lived, and
-fourteen to what his doctors gave him.**
-
-**Counterfactuals:**
-
-| Scenario | He reaches |
-|---|---|
-| Never takes the drugs | **51–61** |
-| Stops in 1977, damage done | **late 40s to mid-50s** |
-| Never takes them, normal weight | **65–75** |
-| **Diet fixed, drugs continue** | **late 40s** |
-| Nothing changed, 2020s medicine | **60s** |
-
-**The fourth row is the one that matters.** Fix the diet and leave the prescribing and he
-is still dead before fifty. Fix the prescribing and leave the diet and he gets another
-decade.
-
-*He never had a chance* is not what the record says. Every genetic account of his death
-rests on a document nobody can read. The prescribing was found proven by a medical board
-in 1980, aired in open court in 1981, and cost him his licence in the end. The criminal
-charge failed; the regulatory finding did not:
-
-> **He had a chance, and it was taken off him by the people who were paid to protect
-> it.**
-
-**This does not contradict the official finding, and the difference is worth stating.**
-The Medical Examiner ruled the death natural, from hypertensive and arteriosclerotic heart
-disease (§0). That answers *what stopped his heart on 16 August 1977*. This section answers
-*why a 42-year-old's heart was in that condition* — a question no death certificate
-addresses. Both stand: the proximate cause was his heart, and the reason it failed that
-early was substantially what he had been prescribed for nineteen years.
+National Archives material establishes that Presley entered active Army service on
+**24 March 1958** and separated from active duty on **5 March 1960**. Biographer Peter
+Guralnick later described a sergeant introducing him to amphetamines during manoeuvres in
+Germany and Presley valuing them for wakefulness, focus and weight control. The service
+dates are **[RECORD]**; the introduction narrative is **[REPORTED]**, not an Army medical
+record. It does not establish continuous use from 1958 onward.
 
 ---
 
-## 6. Sources
+## 2. Other health evidence
 
-* [George C. Nichopoulos — Wikipedia](https://en.wikipedia.org/wiki/George_C._Nichopoulos) — prescribing figures; 1980 Board finding; 1980 indictment and 1981 acquittal; the licence revocation
-* [Elvis' addiction was the perfect prescription for an early death — PBS](https://www.pbs.org/newshour/health/elvis-addiction-was-the-perfect-prescription-for-an-early-death) — opiates from 1967; the drugs named; Francisco's preliminary 'cardiac arrhythmia' statement and its later status
-* [Suspicious eyes — Elvis's glaucoma battle (Zegers et al.), *Journal of Medical Biography* 2024](https://pure.amsterdamumc.nl/en/publications/suspicious-eyes-elviss-glaucoma-battle)
-* [ELVIS Law: The Autopsy Cases — Tennessee Bar Journal (Russell Fowler)](https://www.tba.org/?pg=Articles&blAction=showEntry&blogEntry=139309) — the 20/20 suit and the 1982 Tennessee Supreme Court holding
-* [Medical Examiner's Report on the death of Elvis Presley — PresLaw](https://preslaw.info/medical-examiners-report-autopsy-on-the-death-of-elvis-presley) — the report reproduced: cause, manner, signature
-* [ELVIS DECODED: Review — The Post Mortem Documents](https://elvisdecoded.blogspot.com/2011/04/over-years-there-has-been-continuing.html) — the #A77-160 designation and the separate two-page Medical Examiner's Report
-* [Lisa Marie Presley — CBS News](https://www.cbsnews.com/news/lisa-marie-presley-small-bowel-obstruction-cause-of-death/)
-* [Vernon and Gladys Presley — Elvis Biography](https://biography.elvis.com.au/gladys-and-vernon-presley.shtml) — birth and death dates
-* [Interview — Sally Hoedel](http://www.elvisinfonet.com/interview-Sally-Hoedel-Elvis-Destined-to-Die-Young.html) — Elaine Dundy's genealogy of the first-cousin marriage
-* [Military career of Elvis Presley — Wikipedia](https://en.wikipedia.org/wiki/Military_career_of_Elvis_Presley) — induction, arrival, unit, discharge; the sergeant, the amphetamines, the weight-loss motive
-* [When Elvis Got Drafted — Veterans Breakfast Club](https://veteransbreakfastclub.org/when-elvis-got-drafted/) — the Army pharmacist
-* [Medicine: Junkie King — TIME, 1981](https://time.com/archive/6857803/medicine-junkie-king/) — contemporaneous trial reporting; the named drugs and the twenty-month figure
-* [The Real Story Behind Elvis' "Dr. Nick" — Ultimate Classic Rock](https://ultimateclassicrock.com/elvis-presley-dr-nick/) — the 1975–77 totals, the Board actions, and Nichopoulos's own defence
-* [Why Elvis Rarely Drank — Mashed](https://www.mashed.com/2122777/why-elvis-didnt-drink/) — citing Billy Stanley, *Elvis, My Brother*, and Elaine Dundy, *Elvis and Gladys*
-* [Gladys Presley's death — Smooth Radio](https://www.smoothradio.com/artists/elvis-presley/mother-gladys-death-husband/) — heart attack; alcohol-related liver failure contributing; hepatitis
-* [Vernon Presley's death — The Cinemaholic](https://thecinemaholic.com/why-did-vernon-presley-go-to-prison-how-did-he-die/) — cardiac arrest; long-standing heart condition
-* Independent genealogies (WikiTree, Find a Grave, Elvis family-history compilations) — consulted for the first-cousin marriage, which they agree on, and for the surrounding dates, which they do not
+### Ophthalmology
+
+Zegers, Liu, Heutink, Tennant and Weinreb's peer-reviewed historical article,
+[*Suspicious eyes — Elvis's glaucoma battle*](https://scholars.duke.edu/publication/1642941),
+appeared online in 2024 and in the May 2025 *Journal of Medical Biography*. Its abstract
+attributes to Presley:
+
+* steroid-induced glaucoma associated with prescribed and self-administered steroid use;
+* secondary angle-closure glaucoma considered most likely due to anterior uveitis;
+* an acute angle-closure episode in 1971; and
+* care by ophthalmologist David Meyer from 1971 until Presley's death.
+
+This is a peer-reviewed **historical reconstruction**, not a surviving clinical chart.
+One co-author, Forest Tennant, had testified as a defence witness at Nichopoulos's 1981
+trial; that prior involvement is relevant when assessing the reconstruction's
+independence, although it does not by itself invalidate the article. The paper does not
+provide a basis here for attributing Presley's cardiovascular disease or weight gain to
+systemic steroid exposure. **[REPORTED]**
+
+### Body weight
+
+Later biographers told the *Los Angeles Times* that Presley weighed more than 300 lb at
+death. The public County Medical Examiner form leaves both weight and length blank. No
+reliable measurement or BMI at death has been established here, so **300-plus lb** is a
+biographical report and **350 lb** should not be used as a fact. The surviving visual and
+biographical evidence supports describing **reported weight gain** in the final years,
+but not its magnitude or a clinical obesity category. **[REPORTED]**
+
+### Alcohol and tobacco
+
+A 1978 article published under Vernon Presley's name says that Elvis was not a heavy
+drinker; this is a father's interested recollection, not quantified medical history.
+Priscilla Presley told Larry King that Elvis smoked, but the exchange establishes neither
+frequency nor duration. Neither source supports a numerical alcohol or tobacco exposure,
+and neither habit is used in the lifespan assessment below. **[INTERESTED]/[REPORTED]**
+
+This file does not treat sleep apnoea, lack of aerobic conditioning, a particular chronic
+pain diagnosis, diabetes, systemic steroid complications or any exact terminal weight as
+established facts.
+
+---
+
+## 3. Family history and genetics
+
+* **Elvis Presley** was born on 8 January 1935 and died on 16 August 1977, aged **42**.
+  Graceland records that his other twin was stillborn. No primary evidence establishing
+  monozygosity has been reviewed here. The existence of a stillborn twin is
+  **[REPORTED]**; zygosity is **unverified**.
+* **Gladys Presley** died on 14 August 1958, aged **46**. Graceland records her
+  hospitalisation with acute hepatitis shortly before death. A later biographical account
+  attributes death to cirrhosis rather than the heart attack stated at the time. Without
+  her primary death record, the cause remains **[DISPUTED]**.
+* **Vernon Presley** died on 26 June 1979, aged **63**. A contemporary obituary reports
+  cardiac arrest after an illness involving heart ailments. Cardiac arrest describes the
+  final cessation of cardiac activity; it does not identify a heritable diagnosis.
+  **[REPORTED]**
+* **Lisa Marie Presley** died on 12 January 2023, aged **54**. The Los Angeles County
+  Medical Examiner found a small-bowel obstruction caused by adhesions after bariatric
+  surgery and classified the death as natural. **[RECORD]**
+
+Presley's official cause-of-death finding was cardiovascular, and Vernon reportedly had
+heart ailments. That is enough to flag family cardiovascular history as a question, but
+not enough to diagnose a familial cardiac disorder, calculate genetic risk, or claim that
+"both sides" carried a cardiac weakness. No pathogenic variant, single-gene syndrome or
+recurring phenotype has been established.
+
+### The consanguinity claim
+
+A biographical genealogy, repeated in later Elvis writing, describes Gladys Presley's
+parents as first cousins. The relevant primary-record genealogy has not been established
+in this file, so the relationship is **unverified and not used as a health finding**.
+
+If it were correct, the expected inbreeding coefficient for their child Gladys would be
+**1/16**. It would not automatically give Elvis a "diluted" coefficient: his own
+coefficient depends on common ancestry between **his parents**. Nor would the pedigree by
+itself identify a recessive disease. The Elvi should therefore not inherit
+"consanguinity" as though it were a trait; they inherit particular alleles.
+
+---
+
+## 4. What can be said about lifespan
+
+No defensible clinical or actuarial method can calculate how long Presley would have
+lived under different choices. The former layer model — a supposed genomic lifespan of
+65–75, followed by fixed deductions for diet, lifestyle and prescriptions — worked
+backward from his known death at 42. It double-counted interacting risks and assigned
+precision that the evidence cannot support.
+
+### Population context, not an individual forecast
+
+The 1977 US life table gave a 42-year-old white man **31.6 further years** on average,
+corresponding to a period-life-table expectation of about age **73.6**. This is a
+population mean containing people with widely different health. It is not a forecast
+for Presley, a measurement of his genome, or evidence that he personally would have lived
+to 73. **[RECORD]**
+
+### Evidence-bound assessment
+
+The evidence supports three cautious conclusions:
+
+1. The County Medical Examiner attributed Presley's death to hypertensive cardiovascular
+   disease associated with arteriosclerotic heart disease.
+2. Contemporary reporting about prescription records shows an exceptionally large supply
+   of sedatives, stimulants and opioid analgesics in his name; testimony and toxicology
+   reporting support substantial personal exposure, although his exact intake cannot be
+   reconstructed.
+3. Reported weight gain and possible family cardiovascular history may have mattered,
+   but neither is measured well enough to calculate an individual survival effect.
+
+The evidence reviewed here cannot determine whether Presley would otherwise have lived
+into his fifties, sixties, seventies or beyond; how many years were lost to any exposure; or
+what modern treatment would have changed. The strongest fair conclusion is:
+
+> **Presley died at 42 with an official cardiovascular cause-of-death finding and with
+> substantial prescription-drug exposure. Drug interaction was medically plausible, but
+> its contribution to his decline or death cannot be determined from the public record.
+> No evidence-based counterfactual lifespan can be assigned.**
+
+---
+
+## 5. Claims deliberately excluded
+
+The following should not be reintroduced as fact without new primary evidence:
+
+* a public release date or present owner for the private autopsy;
+* organ weights, colon measurements, emphysema or fatty liver attributed to that autopsy;
+* a settled drug-versus-heart mechanism of death;
+* one exact start date for Nichopoulos's treatment;
+* an exact pill-consumption rate derived from prescriptions written in Presley's name;
+* a terminal weight of 300, 350 or any other precise figure;
+* confirmed obesity, sleep apnoea, diabetes or a quantified smoking/alcohol history;
+* confirmed monozygosity of the twins;
+* a proven first-cousin marriage in the maternal pedigree;
+* a familial cardiac syndrome or a genomic lifespan of 65–75; or
+* any numerical allocation of years lost to weight, drugs, sleep, diet or disease.
+
+---
+
+## 6. Source ledger
+
+### Official records or reproductions
+
+* [*State ex rel. Cole v. Francisco* — Tennessee Supreme Court opinion](https://preslaw.info/state-ex-rel-cole-v-francisco-1982)
+* [County Medical Examiner's report — reproduction](https://preslaw.info/medical-examiners-report-autopsy-on-the-death-of-elvis-presley)
+* [Tennessee Vital Records genealogy guidance](https://vitalrecords.tn.gov/hc/en-us/articles/36330331337107-Genealogy-Research)
+* [Tennessee disclosure rule governing archival transfer](https://www.law.cornell.edu/regulations/tennessee/Tenn-Comp-R-Regs-1200-07-01-.11)
+* [Elvis's active Army service — US National Archives](https://unwritten-record.blogs.archives.gov/2022/08/02/sergeant-presley-photographs-of-elvis-time-with-the-army/)
+* [Lisa Marie Presley cause and manner of death — Los Angeles County Medical Examiner](https://mec.lacounty.gov/2023/press-releases/cause-and-manner-of-death-determined-for-lisa-marie-beaulieu-presley/)
+* [1977 US life tables — National Center for Health Statistics](https://www.cdc.gov/nchs/data/lifetables/life77_2acc.pdf)
+
+### Contemporary proceedings and reporting
+
+* [Francisco's preliminary explanation — UPI, 1977](https://www.upi.com/amp/Archives/1977/08/17/The-king-is-dead-and-his-subjects-mourn/4075034382157/)
+* [Francisco while testing was incomplete — *The Washington Post*, 1977](https://www.washingtonpost.com/archive/lifestyle/1977/08/27/presley-autopsy-and-tests-continue/3b0ac33b-2a82-4f01-9546-fb3ee7c942b0/)
+* [1980 board suspension — *The Washington Post*](https://www.washingtonpost.com/archive/national/1980/01/20/presley-doctor-license-suspended/1f6feb32-6ada-46c9-ba9c-77108a074702/)
+* [1980 board hearing, treatment account and 12,000-unit claim — *TIME*](https://time.com/archive/6857803/medicine-junkie-king/)
+* [Fourteen-count indictment — UPI, 1981](https://www.upi.com/Archives/1981/09/26/Elvis-doctor-goes-on-trialCharged-with-overprescribing-drug/5675370324800/)
+* [Toxicologist's trial testimony — UPI, 1981](https://www.upi.com/Archives/1981/10/19/Fourteen-different-drugs-including-10-times-the-normal/4134372312000/)
+* [Forest Tennant's defence testimony — UPI, 1981](https://www.upi.com/Archives/1981/10/30/Elvis-doctor-Im-not-guilty/1720373266000/)
+* [Nineteen-thousand-unit trial evidence — UPI, 1981](https://www.upi.com/Archives/1981/10/23/Elvis-Presley-received-an-outrageous-and-dangerous-supply-of/2154372657600/)
+* [Testimony about alternate supplies and Nichopoulos's share — UPI, 1981](https://www.upi.com/Archives/1981/10/28/A-bag-of-drugs-accompanied-Elvis-Presley-on-tour/3584373093200/)
+* [Tour prescriptions and the defence account — UPI, 1981](https://www.upi.com/Archives/1981/11/03/Elvis-Presleys-day-was-divided-into-six-blocks-for/5490373611600/)
+* [Acquittal and juror explanations — UPI, 1981](https://www.upi.com/Archives/1981/11/05/Jurors-say-Elvis-doctor-operated-in-good-faith/6712373784400/)
+* [Unresolved cause after the trial — UPI, 1981](https://www.upi.com/Archives/1981/11/07/Details-of-Presleys-death-still-unknown/2954373957200/)
+* [Nichopoulos's 1965 and "two drugs" claims — UPI, 1981](https://www.upi.com/Archives/1981/12/16/Nichopoulos-describes-Elvis-drug-addiction/4745377326800/)
+* [1995 licence revocation — *Deseret News*](https://www.deseret.com/1995/7/20/19183180/caption-only-license-revoked/)
+* [Vernon Presley obituary — *The Washington Post*, 1979](https://www.washingtonpost.com/archive/local/1979/06/27/vernon-presley-63-dies-executor-of-elvis-estate/a28f8943-e64e-40a6-bb0d-3abb69a2bc92/)
+
+### Later scholarship, biography and recollection
+
+* [Review reporting 8,800 dosage units in 1977 — *Albany Government Law Review*](https://www.albanygovernmentlawreview.org/article/23995-the-opioid-epidemic-is-not-new-time-to-change-the-practice-of-medicine/attachment/60771.pdf)
+* [Nichopoulos chronology and disciplinary history — *Commercial Appeal*](https://archive.commercialappeal.com/news/Elvis-death-controversy-haunted-Dr-George-Nichopoulos-88-370198651.html)
+* [Reported circulation of the complete Bio-Science toxicology report — *Memphis* magazine](https://memphismagazine.com/elvis/elvis-presley-death-abc-news-coverage/)
+* [Army amphetamine narrative — Peter Guralnick interview, *Fresh Air*](https://freshairarchive.org/segments/story-celebrity-and-its-consequences)
+* [Glaucoma historical reconstruction — *Journal of Medical Biography* record](https://scholars.duke.edu/publication/1642941)
+* [Reported weight and competing family-health claims — *Los Angeles Times*, 1997](https://www.latimes.com/archives/la-xpm-1997-aug-05-ls-19405-story.html)
+* [Elvis chronology and Gladys's final illness — Graceland](https://www.graceland.com/1958-1961)
+* [Elvis birth, twin and death summary — Graceland](https://www.graceland.com/biography)
+* [Priscilla Presley on smoking — CNN transcript](https://transcripts.cnn.com/show/lkl/date/2007-08-19/segment/01)
+* [Vernon Presley on alcohol — 1978 *Good Housekeeping* reproduction](https://www.elvis.com.au/presley/interview-with-vernon-presley-1978.shtml)
+* Elaine Dundy, *Elvis and Gladys* — source of the repeated genealogy claim; the relevant
+  primary records have not been checked here
+
+### General medical context
+
+* [FDA warning on opioids with benzodiazepines and other CNS depressants](https://www.fda.gov/drugs/food-and-drug-administration-overdose-prevention-framework/new-safety-measures-announced-opioid-analgesics-prescription-opioid-cough-products-and)
+* [First-cousin inbreeding coefficient — PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/16642444/)
 
 ---
 
@@ -310,26 +362,32 @@ early was substantially what he had been prescribed for nineteen years.
 
 Canon already holds that the living Elvi are **descendants**, not the boxed originals —
 they breed true within a series and inherit the engineered allergy (biology, "Elvi
-lineage," 2026-07-05). If they carry the source genome, they carry this with it.
+lineage," 2026-07-05). If they carry the source genome, the historical record supports
+only limited conclusions.
 
-1. **Grayling wrote its allergens into a genome that already carried a familial cardiac
-   weakness** — a tendency, not a sentence: the genome alone projects to 65–75 (§5).
-   Grayling added a way to die to a body that had a predisposition. Costs nothing to
-   adopt; deepens [[../arc-tracker/elvi-and-grayling]] without contradicting a line.
-   **There is no Grayling clock** — it is Elvi apocrypha, Grayling's motive is not
-   established, and nothing here licenses inferring one. See [[../world-rules/biology]] →
-   "The Grayling clock is apocrypha."
-2. **The Elvi should be dying of their hearts in their forties**, as ordinary background
-   weather nobody remarks on. It makes the Part 6 funerals land harder and gives the
-   Ghetto's fatalism a physiological floor.
-3. **A population that inherits consanguinity.** Bred within series for centuries from a
-   genome already the product of a first-cousin marriage.
-4. **What TPlus actually does, and nobody has noticed.** A virus that mends everything
-   repairs two centuries of inherited decline. **The Humpening is the first generation of
-   Elvi who will not die at forty-five.** [[../characters/kathy]] is the one who would
-   work it out. Sits naturally after ch 8 and needs no new scene.
+1. **A familial cardiac weakness is available as an invention, not a fact.** The real
+   Presley had a cardiovascular cause-of-death finding and his father reportedly had
+   heart ailments, but the family evidence does not establish a heritable disorder or
+   justify a projected lifespan of 65–75. Grayling may have engineered a cardiovascularly
+   vulnerable line if the story wants that premise; the vulnerability must be declared
+   fictional. **There is no Grayling clock.** It remains Elvi apocrypha, and nothing here
+   establishes Grayling's motive. See [[../world-rules/biology]] → "The Grayling clock is
+   apocrypha."
+2. **Elvi deaths from heart disease in their forties would be a new world rule.** One
+   historical death at 42, plus an uncertain family history, cannot supply a recurrence
+   rate or age pattern. The rule could deepen [[../arc-tracker/elvi-and-grayling]], but it
+   would not be historical extrapolation.
+3. **The population does not inherit "consanguinity."** It inherits alleles. Centuries
+   of breeding within small series could independently create inbreeding and founder
+   effects, depending on population size and mating structure. That consequence would
+   arise from Elvi reproductive history, not automatically from an unverified marriage in
+   Presley's maternal pedigree.
+4. **TPlus repairing inherited decline remains a strong fictional possibility.** A virus
+   that repairs accumulated deleterious variants could make the Humpening the first
+   generation spared a longstanding pattern of early death. [[../characters/kathy]] is
+   well placed to discover it. Neither the decline nor the repair is established by the
+   historical Elvis evidence.
 
-**The one thing the record does establish, and it is the useful one:** the real Presley's
-decline was **substantially prescribed** — established in a courtroom, not inferred from
-a sealed report. That is not heritable. If the Elvi inherit anything, they inherit
-ailments and not a biography.
+**The useful historical distinction:** prescribing and drug exposure belong to Presley's
+biography, not his genome. The Elvi can inherit alleles and engineered changes; they do
+not inherit the treatment history that surrounded the original man.
