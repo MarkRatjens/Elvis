@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-08-26 13:37:34 +1000" ModID="69ED988C-7F85-421E-9417-031E86DDEDC4">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-08-26 14:33:54 +1000" ModID="969A82B6-05E5-4E7A-BDCD-C3715496B572">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -2994,27 +2994,27 @@
                                         <TextSelection>3089,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="9758E9D0-045B-49E6-B0F5-3183070BA292" Type="Text" Created="2026-08-10 16:55:41 +1000" Modified="2026-08-26 13:37:34 +1000">
+                                <BinderItem UUID="9758E9D0-045B-49E6-B0F5-3183070BA292" Type="Text" Created="2026-08-10 16:55:41 +1000" Modified="2026-08-26 14:33:54 +1000">
                                     <Title>Mama koka</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>9864,0</TextSelection>
+                                        <TextSelection>16273,0</TextSelection>
                                     </TextSettings>
                                     <Bookmarks>
                                         <Bookmark BinderUUID="65CF5B8B-CDDD-4AAC-A913-D789B3A6B6DA"/>
                                     </Bookmarks>
                                 </BinderItem>
-                                <BinderItem UUID="0FF0BCA2-4D0D-4891-B171-EAC6CBB1FE67" Type="Text" Created="2026-08-10 16:55:41 +1000" Modified="2026-08-24 14:43:36 +1000">
+                                <BinderItem UUID="0FF0BCA2-4D0D-4891-B171-EAC6CBB1FE67" Type="Text" Created="2026-08-10 16:55:41 +1000" Modified="2026-08-26 14:33:20 +1000">
                                     <Title>Twelve juniors, seven hours</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1770,0</TextSelection>
+                                        <TextSelection>1971,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="9C525B2C-3DEE-401B-B1B0-0FB4A6CAF7B2" Type="Text" Created="2026-08-10 16:55:41 +1000" Modified="2026-08-25 14:05:35 +1000">
@@ -6217,11 +6217,11 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-08-27 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="823" Characters="5411" Date="2026-08-26 10:03:12 +1000"/>
+        <PreviousSession Words="819" Characters="5409" Date="2026-08-26 10:03:12 +1000"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2026-08-26 00:00:00 +1000">
-        <DraftWordCount>238</DraftWordCount>
-        <DraftCharCount>1423</DraftCharCount>
+        <DraftWordCount>234</DraftWordCount>
+        <DraftCharCount>1421</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
