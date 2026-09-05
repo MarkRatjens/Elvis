@@ -1,0 +1,2365 @@
+diff --git a/Clones of Elvis.scriv/Files/Data/037A082E-466D-46AB-89F2-DB06B24D0D81/content.rtf b/Clones of Elvis.scriv/Files/Data/037A082E-466D-46AB-89F2-DB06B24D0D81/content.rtf
+new file mode 100644
+index 0000000..6756d1f
+--- /dev/null
++++ b/Clones of Elvis.scriv/Files/Data/037A082E-466D-46AB-89F2-DB06B24D0D81/content.rtf	
+@@ -0,0 +1,32 @@
++{\rtf1\ansi\ansicpg1252\cocoartf2870
++\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Cochin;\f2\froman\fcharset0 Times-Roman;
++\f3\fnil\fcharset0 Cochin-Bold;}
++{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
++{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
++\deftab720
++\pard\pardeftab720\sl220\sb220\qj\partightenfactor0
++
++\f0\fs24 \cf2 <$Scr_Ps::0>
++\f1\fs22 Security at HIBReLabs had been designed by people who assumed theft would involve terabytes, industrial espionage or someone with a pallet jack and a fake moustache. Also, there had never been a security breach in the history of the lab. Two vials leaving in the possession of Dr Janine Anstey, or patient samples coming back, did not trouble the routine-numbed imaginations of security personnel. Modesty forbids us to describe where she put them, but we will tell you she had a portable fridge in her car.\
++\pard\pardeftab720\fi360\sl220\qj\partightenfactor0
++
++\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
++<!$Scr_Ps::0><$Scr_Ps::1>
++\f1\fs22 Dr Hermann took his lunch break. With any luck, he might sneak back to the small dormitory and take a light nap. Apparently it improved his creativity and alertness.\
++Anstey waited until Hermann disappeared down the corridor, then took a muscle biopsy from a drawer of an unused desk, and carried it through to sequencing. The workstation recognised her credentials, and woke the sequencer. She prepared the tissue, isolated the DNA and loaded the sample.
++\f2\fs24 \cf0 \
++\pard\pardeftab720\fi360\sl220\qj\partightenfactor0
++
++\f1\fs22 \cf2 When the run was complete, Anstey found the TPlus Master Construct record and dragged it onto the detail window of the sample. A dialogue box popped up; she selected 
++\f3\b\fs20 FIND HOST JUNCTIONS
++\f1\b0 .
++\fs22 \
++The workstation binged, and opened a new window. The Master Construct appeared on the left. On the right, human chromosome ran into TPlus, matched the construct from end to end, then became human again.\
++Anstey enlarged the alignment. There it was, the whole thing. TPlus.\
++Hermann was wrong; TPlus could achieve sustained integration under at least one profile. There it was, the complete construct, present inside a chromosome.\
++Anstey savoured the onscreen results until her eyes watered. \
++The bloods had remained clean through every treatment. TPlus had reached the circulation, but never anywhere near Hermann\'92s toxic range. Moreover, the circulating level had stopped falling as his model said it should.\
++TPlus was the elixir for longer, healthier life. You just had to start with muscular dystrophy first.\
++Anstey reflected on the danger she was still in, but she smiled anyway.\
++Pin Cushion would need to adopt a new nickname.
++\f0\fs24 <!$Scr_Ps::1>}
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/037A082E-466D-46AB-89F2-DB06B24D0D81/content.styles b/Clones of Elvis.scriv/Files/Data/037A082E-466D-46AB-89F2-DB06B24D0D81/content.styles
+new file mode 100644
+index 0000000..7ed77c4
+--- /dev/null
++++ b/Clones of Elvis.scriv/Files/Data/037A082E-466D-46AB-89F2-DB06B24D0D81/content.styles	
+@@ -0,0 +1 @@
++EFF29A60-7F88-4945-B820-ABD9FAADD4DA,C8883BB4-52BE-4C55-A473-E2AE1733C9D5
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/037A082E-466D-46AB-89F2-DB06B24D0D81/notes.rtf b/Clones of Elvis.scriv/Files/Data/037A082E-466D-46AB-89F2-DB06B24D0D81/notes.rtf
+new file mode 100644
+index 0000000..8e501ef
+--- /dev/null
++++ b/Clones of Elvis.scriv/Files/Data/037A082E-466D-46AB-89F2-DB06B24D0D81/notes.rtf	
+@@ -0,0 +1,80 @@
++{\rtf1\ansi\ansicpg1252\cocoartf2870
++\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Roman;\f1\fswiss\fcharset0 Helvetica;\f2\froman\fcharset0 Times-Bold;
++}
++{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
++{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
++{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
++{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
++\deftab720
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
++Janine obtains evidence from treated tissue.\
++The exact instrumentation can remain light.\
++What matters is that she finds TPlus sequence joined to host genomic DNA.\
++Not merely free episomal material.\
++A genuine genomic junction.\
++She distrusts the first result.\
++She checks.\
++Uses another read/preparation/confirmation.\
++Rules out contamination as far as is reasonable.\
++The evidence remains.\
++This is the moment Janine knows.\
++\pard\pardeftab720\sa298\partightenfactor0
++
++\f1 \cf0 <$Scr_H::2>
++\f2\b\fs36 The zipper returns once\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f1\b0\fs24 \cf0 <!$Scr_H::2>
++\f0 The technical result is complex.\
++The private translation is simple:\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f2\b \cf0 the zipper held.
++\f0\b0 \
++Use that idea once, if it earns its place.\
++Do not turn it into motif-heavy narration.\
++\pard\pardeftab720\sa298\partightenfactor0
++
++\f1 \cf0 <$Scr_H::2>
++\f2\b\fs36 What Janine now believes\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f1\b0\fs24 \cf0 <!$Scr_H::2>
++\f0 She has good reason to conclude:\
++\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
++\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++the LGMD pathology has been functionally overcome;\
++\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++TPlus has become self-sustaining;\
++\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++repeated injections should no longer be necessary;\
++\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++Pin Cushion is biologically unlike ordinary TPlus recipients;\
++\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++broader TPlus benefits may persist indefinitely.\
++\pard\pardeftab720\sa240\partightenfactor0
++\cf0 She does 
++\f2\b not
++\f0\b0  know the full consequences.\
++\pard\pardeftab720\sa298\partightenfactor0
++
++\f1 \cf0 <$Scr_H::2>
++\f2\b\fs36 Important continuity\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f1\b0\fs24 \cf0 <!$Scr_H::2>
++\f0 The proof generates dangerous records at the Pale.\
++Those records still exist when Janine later goes to work and becomes trapped.\
++This is why the later documentary purge matters.\
++Do not have her clean up the evidence before the entombment.\
++\pard\pardeftab720\sa280\partightenfactor0
++
++\f1 \cf0 <$Scr_H::3>
++\f2\b\fs28 End state\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f1\b0\fs24 \cf0 <!$Scr_H::3>
++\f0 Janine knows there should be no more needles.\
++}
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/0FF0BCA2-4D0D-4891-B171-EAC6CBB1FE67/content.rtf b/Clones of Elvis.scriv/Files/Data/0FF0BCA2-4D0D-4891-B171-EAC6CBB1FE67/content.rtf
+index e773eeb..12b8a72 100644
+--- a/Clones of Elvis.scriv/Files/Data/0FF0BCA2-4D0D-4891-B171-EAC6CBB1FE67/content.rtf	
++++ b/Clones of Elvis.scriv/Files/Data/0FF0BCA2-4D0D-4891-B171-EAC6CBB1FE67/content.rtf	
+@@ -14,7 +14,7 @@
+ <!$Scr_Ps::0><$Scr_Ps::1>
+ \f1\fs22 Scientists would say yes. Doctors would say yes, and would say it publicly, in a manner that would make anyone who disagreed sound like a murderer. Government ministers would leak, from the ordinary human need to be the first at a dinner party to know something.\
+ Hardy wanted an answer that would stand up, from people with no stake in the outcome, and no standing to be quoted.\
+-So he looked at his finance people, and from the finance department he looked at the juniors. There were accountants, economists, finance advisers and a woman from Treasury Modelling whose job title ran to fourteen words and described, in essence, the decorating of graphs. They were people who spent their days building models nobody read, of futures nobody intended to have, for reports that existed so that a decision already taken could be described afterwards as evidence-based. They were good at it. They were good at it the way a well-made hinge is good: silent, and without any expectation of being looked at.\
++So he looked at his finance people, and from the finance department he looked at the juniors. There were accountants, economists, finance advisers and a woman from Treasury Modelling whose job title ran to fourteen words and described, in essence, the decorating of graphs. They were people who spent their days building models nobody read, of futures nobody intended to have, for reports that existed so that a decision already taken could be described afterwards as evidence-based. They were good at it. They were good at it the way a well-made hinge is good: silent, frictionless, and without any expectation of being looked at.\
+ He had a dozen of them collected in the dark of night, and not told where they were going.\
+ They were going to the office tower in the Pale, though nobody called it that back then; it was simply the part of the inner city where Hardy had labs. The lift went down for a long time. It went down long enough that two of the juniors got the giggles, and then stopped, as people do when a lift keeps going without a light on the panel changing.\
+ The corridor went on for a long time too; at a cross-roads, Hardy stopped and read a sign. He stood in front of it in a suit worth more than the annual maintenance budget of the level he was standing on, in a building he owned outright. He read the sign twice then went left.\
+diff --git a/Clones of Elvis.scriv/Files/Data/3F63FD6E-1025-4FE0-A9E7-A1E565D2E9F3/content.rtf b/Clones of Elvis.scriv/Files/Data/3F63FD6E-1025-4FE0-A9E7-A1E565D2E9F3/content.rtf
+index 443c50e..b31b0de 100644
+--- a/Clones of Elvis.scriv/Files/Data/3F63FD6E-1025-4FE0-A9E7-A1E565D2E9F3/content.rtf	
++++ b/Clones of Elvis.scriv/Files/Data/3F63FD6E-1025-4FE0-A9E7-A1E565D2E9F3/content.rtf	
+@@ -1,209 +1,56 @@
+ {\rtf1\ansi\ansicpg1252\cocoartf2870
+-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Roman;\f1\froman\fcharset0 Times-Bold;\f2\fswiss\fcharset0 Helvetica;
+-\f3\fmodern\fcharset0 Courier;\f4\froman\fcharset0 Times-Italic;}
+-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red241\green244\blue245;\red109\green109\blue109;
++\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Cochin;\f2\froman\fcharset0 Times-Roman;
+ }
+-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c95686\c96471\c96863;\cssrgb\c50196\c50196\c50196;
+-}
+-{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+-{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}}
+-{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}}
++{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
++{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+ \deftab720
+-\pard\pardeftab720\partightenfactor0
+-
+-\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
+-\outl0\strokewidth0 \strokec2 To keep the focus tight and avoid a protracted survival drama, the destruction of the 
+-\f1\b TPlusVirus
+-\f0\b0  must be a direct, rational outcome of the scientists\'92 own biological choices under the pressure of execution.\
+-When Hardy seals the lab, he cuts off their resource pipeline, turning the facility into a tomb. Inside, Hermann and Janine are trapped with two distinct entities: the lethal, weaponized 
+-\f1\b TMinus platform
+-\f0\b0  and the finite, life-extending 
+-\f1\b TPlus panacea vials
+-\f0\b0 .\
+-Here is the technical and narrative explication for why Gerry finds only the weapon decades later.\
+-\pard\pardeftab720\sa331\partightenfactor0
+-
+-\f2 \cf0 <$Scr_H::2>
+-\f1\b\fs40 The Explication: The Consumption and Purge of the Pale\
+-\pard\pardeftab720\partightenfactor0
+-
+-\f2\b0\fs24 \cf0 \cb3 \strokec2 <!$Scr_H::2>
+-\f3\fs26 [ THE SITUATION: THE SUBSCRIPTION INVERSION ]\
+-When Jamison Hardy dropped the heavy security bulkheads on the Pale, he transformed the \
+-TPlus platform from a corporate luxury into a countdown timer. \
+-\
+-Hermann\'92s episomal architecture was flawless, which meant it was also fatal to the \
+-trapped scientists. The virus did not integrate; it floated freely in their nuclei, \
+-granting them pristine cellular rejuvenation for exactly a fortnight before their \
+-host genomes up-regulated histone methylation. Without regular maintenance doses, \
+-the epigenetic clearing took over. The code decayed. The biological clock restarted.\
+-\
+-[ THE CONSUMPTION: BUYING DAYS ]\
+-In the first months of the lockdown, the staff did not descend into savagery; they \
+-descended into logistics. They were geneticists trapped in a room with a finite vault \
+-of medical immortality. \
+-\
+-To stay alive, to outpace the crushing acceleration of their own methylation curves, \
+-Hermann, Janine Anstey, and the remaining research team systematically consumed the \
+-entire operational stockpile of the TPlusVirus. Every vial of the panacea was drawn, \
+-measured, and injected simply to keep their organ systems from failing under the strain \
+-of the facility\'92s failing life support. They became the sole consumers of their own \
+-subscription model, burning through the company's greatest asset to purchase weeks \
+-of breathable air and working minds.\
+-\
+-[ THE PURGE: JANINE'S FINAL INTERVENTION ]\
+-The real destruction, however, was deliberate. \
+-\
+-As the primary TPlus stocks ran dry and the systemic failure became an absolute certainty, \
+-Janine Anstey faced a terrifying realization: if Hardy\'92s clean-up crews eventually opened \
+-the vault, they would find the master sequences, the baseline extremophile templates, \
+-and the production logs. If Hardy recovered the TPlus data, his analysts would eventually \
+-trace the clinical trials back to the outside world. They would look at the genetic \
+-profiles of the trial families. They would find Sarah.\
+-\
+-Before the life support grid collapsed completely, Janine systematically purged the \
+-synthesis bioreactors. She ran a high-temperature autoclave cycle through the TPlus \
+-master cultures, denaturing the extremophile-augmented vectors into inert protein sludge. \
+-She wiped the active TPlus sequence schematics from the local drives. \
+-\
+-[ THE SURVIVAL OF TMINUS ]\
+-She left the TMinus platform untouched. \
+-\
+-To Janine, the target-specific bioweapon was an unmarketable horror\'97a precision execution \
+-tool Hardy would likely want buried forever. It was the perfect decoy. If anyone ever \
+-breached the bulkheads decades later, they would find the skeletal remains of the staff, \
+-the dead servers, and the pristine, stable vials of the lethal TMinus weapon locked in \
+-the cold-storage vault. \
+-\
+-They would assume the project had failed, or that Hermann had only ever succeeded in \
+-building a killer. The miracle\'97and the evidence connecting the Pale to a girl riding a \
+-bicycle in the park\'97was burned to ash before the air ran out.\
+-\pard\pardeftab720\partightenfactor0
+-
+-\f0\fs24 \cf4 \cb1 \strokec4 \
+-\pard\pardeftab720\sa331\partightenfactor0
+-
+-\f2 \cf0 \strokec2 <$Scr_H::2>
+-\f1\b\fs40 Why this serves your story structure:\
+-\pard\pardeftab720\partightenfactor0
+-
+-\f2\b0\fs24 \cf0 <!$Scr_H::2>
+-\f0 \
+-\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+-\ls1\ilvl0
+-\f1\b \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+-\outl0\strokewidth0 \strokec2 No "Lord of the Flies" distraction:
+-\f0\b0  It treats the scientists as rational, desperate professionals managing a dwindling resource.\
+-\ls1\ilvl0
+-\f1\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+-\outl0\strokewidth0 \strokec2 Explains Gerry's Discovery:
+-\f0\b0  It gives a ironclad reason why the TMinus vials are sitting there pristine (they had no biological use for a weapon) while the TPlus is completely missing.\
+-\ls1\ilvl0
+-\f1\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+-\outl0\strokewidth0 \strokec2 Protects present-day Sarah:
+-\f0\b0  It highlights Janine's competence and maternal drive up to her final breath, ensuring her daughter remains the only living reservoir of the upgrade.\
+-\pard\pardeftab720\partightenfactor0
+-\cf0 \strokec2 Does this clean, systemic explanation set up the exact conditions Gerry Hardman finds when he cracks the bulkheads open decades later?\
+-\
+-\
+-\
+-To address the 
+-\f1\b support staff
+-\f0\b0  without derailing into a survival thriller, you must shift the barrier from human conflict to 
+-\f1\b hard security architecture
+-\f0\b0 .\
+-If the lab is a high-level corporate facility, it wouldn't be a shared open space like a bomb shelter. A biological weapons laboratory handling target-specific pathogens (the TMinus platform) would be structurally compartmentalised to prevent accidental cross-contamination.\
+-By utilizing the facility's own 
+-\f1\b biosafety zone architecture
+-\f0\b0 , you can isolate the support staff and explain why they couldn't interfere with Hermann and Janine's consumption and purging of the TPlus virus.\
+-Here is the revised, tight explication that shuts down the 
+-\f4\i \strokec2 Lord of the Flies
+-\f0\i0 \strokec2  dynamic before it can start:\
+-\pard\pardeftab720\partightenfactor0
+-\cf4 \strokec4 \
+-\pard\pardeftab720\sa331\partightenfactor0
+-
+-\f2 \cf0 \strokec2 <$Scr_H::2>
+-\f1\b\fs40 The Explication: The Structural Partition of the Pale\
+-\pard\pardeftab720\partightenfactor0
+-
+-\f2\b0\fs24 \cf0 \cb3 \strokec2 <!$Scr_H::2>
+-\f3\fs26 [ THE SEGREGATION OF THE PALE ]\
+-Jamison Hardy\'92s lockdown did not turn the Pale into a communal tomb; it turned it into a \
+-grid of isolated cages. \
+-\
+-Because the facility was built to manufacture the lethal, highly transmissible TMinus \
+-platform, the architecture was bound by strict Biosafety Level 4 (BSL-4) protocols. The \
+-Pale was divided into distinct pressure-sealed zones. When the emergency bulkheads dropped, \
+-they didn't just lock the front doors\'97they dropped between every sector.\
+-\
+-The administrative team, the facility engineers, and the security staff were instantly \
+-quarantined in the outer decontamination and power hubs. They died where they were caught, \
+-separated from the core research labs by four inches of reinforced titanium and independent \
+-air filtration loops. There was no riot, no storming of the vault, and no struggle for \
+-resources. The support staff never had access to the inner sanctum. They died without ever \
+-seeing a single vial of the panacea.\
+-\
+-[ THE RATIONAL TERMINUS ]\
+-Inside Zone Zero\'97the central cleanroom\'97only Dr Hermann, Janine Anstey, and a skeletal team \
+-of three senior geneticists were trapped. \
+-\
+-They were not survivalists; they were logicians. They had access to the facility's \
+-internal atmosphere monitors and the finite vault of the TPlus panacea. The math was \
+-elementary. The building's auxiliary life support grid gave them roughly four months of air. \
+-A single episomal dose of TPlus granted a fortnight of optimal homeostasis before histone \
+-methylation cleared the code. \
+-\
+-By measuring the remaining vials against their breathing timelines, the team calculated \
+-the exact rate of consumption required to keep their minds sharp and their lungs functional \
+-until the air ran out. They used the TPlus platform as currency to buy twelve additional \
+-weeks of lucid research time, systematically draining the corporate asset into their own \
+-veins simply to complete their final records.\
+-\
+-[ THE DELIBERATE PURGE ]\
+-The destruction of the remaining TPlus material was Janine's private, calculating strike. \
+-\
+-As the final maintenance doses dwindled and the carbon dioxide levels in Zone Zero crawled toward \
+-lethal thresholds, Janine looked at the production logs. If Hardy\'92s retrieval teams ever \
+-breached the facility, the master sequences and synthesis data for the TPlus virus would \
+-allow corporate analysts to map the entire lineage of the project. They would cross-reference \
+-the stolen trial batches. They would track the genetic profile back to her home. They would \
+-find Sarah.\
+-\
+-While Hermann lay slipping into his final, non-malignant cognitive drift, Janine forced a \
+-manual thermal purge through the primary bioreactors. She ran a high-temperature autoclave \
+-cycle that reduced the master extremophile cultures to an inert, un-sequencable protein sludge. \
+-She wiped the TPlus data arrays from the local cleanroom terminal. \
+-\
+-The pristine vials of the TMinus weapon were left untouched in the secure BSL-4 vault. To \
+-Janine, the killer virus was the perfect camouflage. When Gerry Hardman finally breached the \
+-Pale decades later, he would find isolated skeletons, dead servers, and a vault full of a \
+-lethal weapon. He would conclude that the program had only ever produced a weapon of mass \
+-murder. The universal cure\'97and the trail leading to a girl who had long since left her exercise \
+-bike for the real world\'97was completely erased.\
+-\pard\pardeftab720\partightenfactor0
+-
+-\f0\fs24 \cf4 \cb1 \strokec4 \
+-\pard\pardeftab720\sa331\partightenfactor0
+-
+-\f2 \cf0 \strokec2 <$Scr_H::2>
+-\f1\b\fs40 Why this structure works:\
+-\pard\pardeftab720\partightenfactor0
+-
+-\f2\b0\fs24 \cf0 <!$Scr_H::2>
+-\f0 \
+-\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+-\ls2\ilvl0
+-\f1\b \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+-\outl0\strokewidth0 \strokec2 The Architecture Prevents the Riot:
+-\f0\b0  The BSL-4 bulkheads do the heavy lifting. The support staff are physically locked out of the narrative, completely removing the threat of a chaotic brawl for the cure.\
+-\ls2\ilvl0
+-\f1\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+-\outl0\strokewidth0 \strokec2 The Focus Stays on Janine's Motive:
+-\f0\b0  It keeps the tension purely scientific and maternal, framing the consumption of the drug as a calculated countdown and the destruction as a protective shield for Sarah.\
+-\pard\pardeftab720\partightenfactor0
+-\cf0 \strokec2 Does this containment layout successfully neutralize the survival-drama distraction for you?\
+-\
+-\
+-\
+-}
+\ No newline at end of file
++\pard\pardeftab720\sl220\sb220\qj\partightenfactor0
++
++\f0\fs24 \cf2 <$Scr_Ps::0>
++\f1\fs22 Dr Janine Anstey\'92s coffee had cooled to the point she could sip it while she waited for an R&D archive website to load. She thought nothing of the delay, and turned her attention to some paper-based file notes. She was halfway through her coffee when she checked the screen again; the spinner was still spinning.\
++\pard\pardeftab720\fi360\sl220\qj\partightenfactor0
++
++\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
++<!$Scr_Ps::0><$Scr_Ps::1>
++\f1\fs22 No matter. It was that time in the afternoon when she\'92d call home and settle dinner plans. She already had a conversation in her head, negotiating her way out of Tex Mex again, when she was startled by the abrupt electronic tone of connection failure.\
++A lab assistant appeared in her doorway. \'93Comms are down,\'94 she said. \'93Still got internal systems though.\'94\
++The afternoon sailed off course by tolerable degrees. A scheduled delivery failed to arrive; comms to \'93upstairs\'94 was still down. At six, the lobby by the surface lift began filling with people trying to go home. R&D people are by nature a patient bunch, and no one would risk expressing a fear that the lift had failed without evidence to back it up. But, before long, nervous attempts to avoid eye contact had become nervous attempts to get anything to make sense on their tablets.\
++Everyone went back to their desks or to kitchens. Beer o\'92clock was declared, and the low tides in old whiskey bottles had been assessed and lowered again.\
++By ten, no one had yet expressed what was on their minds. Some went quietly to bunks they kept for overnighters; when those were full, others fell asleep in couches, office chairs or under their desks.\
++By the following morning, they hypothesised that the lift shaft had been physically sealed. They forced the surface lift\'92s doors open; they could not get it to move. They opened the emergency hatch in the roof of the lift car; they saw and smelled the concrete.\
++There had been an accident on the surface, they hypothesised; something about the foyer remodelling; it would not take long for rescuers to dig them out.\
++Food was collected from kitchens, offices and emergency stores. Medicines were counted. Lights and power still worked, and taps were at full pressure. Staff took hot showers and soaked.\
++Hermann and Anstey assembled everyone in the cramped conference room and gave them a full briefing about TPlus, how it improved tissue repair, metabolic performance, organ function and resistance to physiological stress.  They explained it was their hope for giving the surface more time, if needed, to correct whatever issues they were having up there. It could not replace food, but they felt it could be efficacious in reducing the caloric intake required for survival and could therefore extend the rations they did have. They reminded everyone that TPlus has recently passed \cf0 \outl0\strokewidth0 \strokec2 its initial human safety trials
++\f2 \outl0\strokewidth0 , so taking it would not be mandated. Hermann and Anstey would be taking the drug.\
++
++\f1 \cf2 Everyone opted in.\
++\pard\pardeftab720\sl220\sb220\qj\partightenfactor0
++
++\f0\fs24 \cf2 \kerning1\expnd0\expndtw0 <!$Scr_Ps::1><$Scr_Ps::0>
++\f1\fs22 For the first few days Hermann treated the situation as an unexpected trial. He took blood, recorded weight, measured organ function and made quiet predictions shared only with Anstey or anyone who posed direct questions.\
++\pard\pardeftab720\fi360\sl220\qj\partightenfactor0
++
++\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
++<!$Scr_Ps::0><$Scr_Ps::1>
++\f1\fs22 People lost weight, but minor injuries healed. A technician\'92s chronic shoulder pain disappeared. A skin condition cleared up without the usual medication. Infections that should have become troublesome did not.\
++Hermann discovered he could read without his glasses and, without glasses, he amended his models.\
++Food stocks diminished, but daily consumption fell below four megajoules without deterioration.\
++They stopped using parts of the laboratory. Lights went out in rooms that no longer served a purpose. People slept where they worked. Emergency rations replaced ordinary meals.\
++They continued taking TPlus. Hermann and Anstey administered the doses.\
++People became thinner without looking properly sick. Skin remained intact. Old damage repaired. Hermann\'92s grey hair began turning dark. Janine lost a scar on her knee and the stiffness in two fingers.\
++Others died.\
++Hermann recorded these things.\
++\pard\pardeftab720\sl220\sb220\qj\partightenfactor0
++
++\f0\fs24 \cf2 \kerning1\expnd0\expndtw0 <!$Scr_Ps::1><$Scr_Ps::0>
++\f1\fs22 Anstey also had other, quieter work. The more that TPlus stock reduced, the greater her need to protect the data. If they were going to perish here, there were certain matters about TPlus that she\'92d rather resolve, and leave no untidy trails for others to follow without the proper context. She would not be around to provide the proper context, and that was as much as she allowed herself to dwell on about it.\
++\pard\pardeftab720\fi360\sl220\qj\partightenfactor0
++
++\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
++<!$Scr_Ps::0><$Scr_Ps::1>
++\f1\fs22 First she needed the TPlus batch records gone, and they were gone. She removed all linked trial records, then TPlus production data. She removed the production architecture, payload records, synthesis information, and enough of the supporting work that a later researcher could not reconstruct the programme from what remained. When she had finished, TPlus had ceased to exist as a recoverable programme.\
++Anstey went after holes in the archive, and the orphaned references. Anyone sufficiently interested might determine that something had been removed, but they would not be able to rebuild it.\
++The mood of  the laboratory was dark by then. Hermann and Janine occupied only a small part of it. Both had lost considerable weight. Neither looked as ill as they should have.\
++Hermann no longer wore glasses, and his hair was better than when they were sealed in. He continued recording his results. Anstey let him.\
++There was very little food left. Nothing remained for either of them to do about that.
++\f0\fs24 <!$Scr_Ps::1>}
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/3F63FD6E-1025-4FE0-A9E7-A1E565D2E9F3/content.styles b/Clones of Elvis.scriv/Files/Data/3F63FD6E-1025-4FE0-A9E7-A1E565D2E9F3/content.styles
+new file mode 100644
+index 0000000..7ed77c4
+--- /dev/null
++++ b/Clones of Elvis.scriv/Files/Data/3F63FD6E-1025-4FE0-A9E7-A1E565D2E9F3/content.styles	
+@@ -0,0 +1 @@
++EFF29A60-7F88-4945-B820-ABD9FAADD4DA,C8883BB4-52BE-4C55-A473-E2AE1733C9D5
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/3F63FD6E-1025-4FE0-A9E7-A1E565D2E9F3/notes.rtf b/Clones of Elvis.scriv/Files/Data/3F63FD6E-1025-4FE0-A9E7-A1E565D2E9F3/notes.rtf
+new file mode 100644
+index 0000000..99f6f38
+--- /dev/null
++++ b/Clones of Elvis.scriv/Files/Data/3F63FD6E-1025-4FE0-A9E7-A1E565D2E9F3/notes.rtf	
+@@ -0,0 +1,206 @@
++{\rtf1\ansi\ansicpg1252\cocoartf2870
++\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Roman;\f1\froman\fcharset0 Times-Bold;\f2\fswiss\fcharset0 Helvetica;
++\f3\fmodern\fcharset0 Courier;\f4\froman\fcharset0 Times-Italic;}
++{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red241\green244\blue245;\red109\green109\blue109;
++}
++{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c95686\c96471\c96863;\cssrgb\c50196\c50196\c50196;
++}
++{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
++{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}}
++{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}}
++\deftab720
++\pard\pardeftab720\partightenfactor0
++
++\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
++To keep the focus tight and avoid a protracted survival drama, the destruction of the 
++\f1\b TPlusVirus
++\f0\b0  must be a direct, rational outcome of the scientists\'92 own biological choices under the pressure of execution.\
++When Hardy seals the lab, he cuts off their resource pipeline, turning the facility into a tomb. Inside, Hermann and Janine are trapped with two distinct entities: the lethal, weaponized 
++\f1\b TMinus platform
++\f0\b0  and the finite, life-extending 
++\f1\b TPlus panacea vials
++\f0\b0 .\
++Here is the technical and narrative explication for why Gerry finds only the weapon decades later.\
++\pard\pardeftab720\sa331\partightenfactor0
++
++\f2 \cf0 <$Scr_H::2>
++\f1\b\fs40 The Explication: The Consumption and Purge of the Pale\
++\pard\pardeftab720\partightenfactor0
++
++\f2\b0\fs24 \cf0 \cb3 <!$Scr_H::2>
++\f3\fs26 [ THE SITUATION: THE SUBSCRIPTION INVERSION ]\
++When Jamison Hardy dropped the heavy security bulkheads on the Pale, he transformed the \
++TPlus platform from a corporate luxury into a countdown timer. \
++\
++Hermann\'92s episomal architecture was flawless, which meant it was also fatal to the \
++trapped scientists. The virus did not integrate; it floated freely in their nuclei, \
++granting them pristine cellular rejuvenation for exactly a fortnight before their \
++host genomes up-regulated histone methylation. Without regular maintenance doses, \
++the epigenetic clearing took over. The code decayed. The biological clock restarted.\
++\
++[ THE CONSUMPTION: BUYING DAYS ]\
++In the first months of the lockdown, the staff did not descend into savagery; they \
++descended into logistics. They were geneticists trapped in a room with a finite vault \
++of medical immortality. \
++\
++To stay alive, to outpace the crushing acceleration of their own methylation curves, \
++Hermann, Janine Anstey, and the remaining research team systematically consumed the \
++entire operational stockpile of the TPlusVirus. Every vial of the panacea was drawn, \
++measured, and injected simply to keep their organ systems from failing under the strain \
++of the facility\'92s failing life support. They became the sole consumers of their own \
++subscription model, burning through the company's greatest asset to purchase weeks \
++of breathable air and working minds.\
++\
++[ THE PURGE: JANINE'S FINAL INTERVENTION ]\
++The real destruction, however, was deliberate. \
++\
++As the primary TPlus stocks ran dry and the systemic failure became an absolute certainty, \
++Janine Anstey faced a terrifying realization: if Hardy\'92s clean-up crews eventually opened \
++the vault, they would find the master sequences, the baseline extremophile templates, \
++and the production logs. If Hardy recovered the TPlus data, his analysts would eventually \
++trace the clinical trials back to the outside world. They would look at the genetic \
++profiles of the trial families. They would find Sarah.\
++\
++Before the life support grid collapsed completely, Janine systematically purged the \
++synthesis bioreactors. She ran a high-temperature autoclave cycle through the TPlus \
++master cultures, denaturing the extremophile-augmented vectors into inert protein sludge. \
++She wiped the active TPlus sequence schematics from the local drives. \
++\
++[ THE SURVIVAL OF TMINUS ]\
++She left the TMinus platform untouched. \
++\
++To Janine, the target-specific bioweapon was an unmarketable horror\'97a precision execution \
++tool Hardy would likely want buried forever. It was the perfect decoy. If anyone ever \
++breached the bulkheads decades later, they would find the skeletal remains of the staff, \
++the dead servers, and the pristine, stable vials of the lethal TMinus weapon locked in \
++the cold-storage vault. \
++\
++They would assume the project had failed, or that Hermann had only ever succeeded in \
++building a killer. The miracle\'97and the evidence connecting the Pale to a girl riding a \
++bicycle in the park\'97was burned to ash before the air ran out.\
++\pard\pardeftab720\partightenfactor0
++
++\f0\fs24 \cf4 \cb1 \
++\pard\pardeftab720\sa331\partightenfactor0
++
++\f2 \cf0 <$Scr_H::2>
++\f1\b\fs40 Why this serves your story structure:\
++\pard\pardeftab720\partightenfactor0
++
++\f2\b0\fs24 \cf0 <!$Scr_H::2>
++\f0 \
++\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
++\ls1\ilvl0
++\f1\b \cf0 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++No "Lord of the Flies" distraction:
++\f0\b0  It treats the scientists as rational, desperate professionals managing a dwindling resource.\
++\ls1\ilvl0
++\f1\b \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++Explains Gerry's Discovery:
++\f0\b0  It gives a ironclad reason why the TMinus vials are sitting there pristine (they had no biological use for a weapon) while the TPlus is completely missing.\
++\ls1\ilvl0
++\f1\b \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++Protects present-day Sarah:
++\f0\b0  It highlights Janine's competence and maternal drive up to her final breath, ensuring her daughter remains the only living reservoir of the upgrade.\
++\pard\pardeftab720\partightenfactor0
++\cf0 Does this clean, systemic explanation set up the exact conditions Gerry Hardman finds when he cracks the bulkheads open decades later?\
++\
++\
++\
++To address the 
++\f1\b support staff
++\f0\b0  without derailing into a survival thriller, you must shift the barrier from human conflict to 
++\f1\b hard security architecture
++\f0\b0 .\
++If the lab is a high-level corporate facility, it wouldn't be a shared open space like a bomb shelter. A biological weapons laboratory handling target-specific pathogens (the TMinus platform) would be structurally compartmentalised to prevent accidental cross-contamination.\
++By utilizing the facility's own 
++\f1\b biosafety zone architecture
++\f0\b0 , you can isolate the support staff and explain why they couldn't interfere with Hermann and Janine's consumption and purging of the TPlus virus.\
++Here is the revised, tight explication that shuts down the 
++\f4\i Lord of the Flies
++\f0\i0  dynamic before it can start:\
++\pard\pardeftab720\partightenfactor0
++\cf4 \
++\pard\pardeftab720\sa331\partightenfactor0
++
++\f2 \cf0 <$Scr_H::2>
++\f1\b\fs40 The Explication: The Structural Partition of the Pale\
++\pard\pardeftab720\partightenfactor0
++
++\f2\b0\fs24 \cf0 \cb3 <!$Scr_H::2>
++\f3\fs26 [ THE SEGREGATION OF THE PALE ]\
++Jamison Hardy\'92s lockdown did not turn the Pale into a communal tomb; it turned it into a \
++grid of isolated cages. \
++\
++Because the facility was built to manufacture the lethal, highly transmissible TMinus \
++platform, the architecture was bound by strict Biosafety Level 4 (BSL-4) protocols. The \
++Pale was divided into distinct pressure-sealed zones. When the emergency bulkheads dropped, \
++they didn't just lock the front doors\'97they dropped between every sector.\
++\
++The administrative team, the facility engineers, and the security staff were instantly \
++quarantined in the outer decontamination and power hubs. They died where they were caught, \
++separated from the core research labs by four inches of reinforced titanium and independent \
++air filtration loops. There was no riot, no storming of the vault, and no struggle for \
++resources. The support staff never had access to the inner sanctum. They died without ever \
++seeing a single vial of the panacea.\
++\
++[ THE RATIONAL TERMINUS ]\
++Inside Zone Zero\'97the central cleanroom\'97only Dr Hermann, Janine Anstey, and a skeletal team \
++of three senior geneticists were trapped. \
++\
++They were not survivalists; they were logicians. They had access to the facility's \
++internal atmosphere monitors and the finite vault of the TPlus panacea. The math was \
++elementary. The building's auxiliary life support grid gave them roughly four months of air. \
++A single episomal dose of TPlus granted a fortnight of optimal homeostasis before histone \
++methylation cleared the code. \
++\
++By measuring the remaining vials against their breathing timelines, the team calculated \
++the exact rate of consumption required to keep their minds sharp and their lungs functional \
++until the air ran out. They used the TPlus platform as currency to buy twelve additional \
++weeks of lucid research time, systematically draining the corporate asset into their own \
++veins simply to complete their final records.\
++\
++[ THE DELIBERATE PURGE ]\
++The destruction of the remaining TPlus material was Janine's private, calculating strike. \
++\
++As the final maintenance doses dwindled and the carbon dioxide levels in Zone Zero crawled toward \
++lethal thresholds, Janine looked at the production logs. If Hardy\'92s retrieval teams ever \
++breached the facility, the master sequences and synthesis data for the TPlus virus would \
++allow corporate analysts to map the entire lineage of the project. They would cross-reference \
++the stolen trial batches. They would track the genetic profile back to her home. They would \
++find Sarah.\
++\
++While Hermann lay slipping into his final, non-malignant cognitive drift, Janine forced a \
++manual thermal purge through the primary bioreactors. She ran a high-temperature autoclave \
++cycle that reduced the master extremophile cultures to an inert, un-sequencable protein sludge. \
++She wiped the TPlus data arrays from the local cleanroom terminal. \
++\
++The pristine vials of the TMinus weapon were left untouched in the secure BSL-4 vault. To \
++Janine, the killer virus was the perfect camouflage. When Gerry Hardman finally breached the \
++Pale decades later, he would find isolated skeletons, dead servers, and a vault full of a \
++lethal weapon. He would conclude that the program had only ever produced a weapon of mass \
++murder. The universal cure\'97and the trail leading to a girl who had long since left her exercise \
++bike for the real world\'97was completely erased.\
++\pard\pardeftab720\partightenfactor0
++
++\f0\fs24 \cf4 \cb1 \
++\pard\pardeftab720\sa331\partightenfactor0
++
++\f2 \cf0 <$Scr_H::2>
++\f1\b\fs40 Why this structure works:\
++\pard\pardeftab720\partightenfactor0
++
++\f2\b0\fs24 \cf0 <!$Scr_H::2>
++\f0 \
++\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
++\ls2\ilvl0
++\f1\b \cf0 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++The Architecture Prevents the Riot:
++\f0\b0  The BSL-4 bulkheads do the heavy lifting. The support staff are physically locked out of the narrative, completely removing the threat of a chaotic brawl for the cure.\
++\ls2\ilvl0
++\f1\b \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++The Focus Stays on Janine's Motive:
++\f0\b0  It keeps the tension purely scientific and maternal, framing the consumption of the drug as a calculated countdown and the destruction as a protective shield for Sarah.\
++\pard\pardeftab720\partightenfactor0
++\cf0 Does this containment layout successfully neutralize the survival-drama distraction for you?\
++}
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/3F63FD6E-1025-4FE0-A9E7-A1E565D2E9F3/synopsis.txt b/Clones of Elvis.scriv/Files/Data/3F63FD6E-1025-4FE0-A9E7-A1E565D2E9F3/synopsis.txt
+new file mode 100644
+index 0000000..159dfde
+--- /dev/null
++++ b/Clones of Elvis.scriv/Files/Data/3F63FD6E-1025-4FE0-A9E7-A1E565D2E9F3/synopsis.txt	
+@@ -0,0 +1,408 @@
++Canonical chapter specification — Anstey’s entombment
++1. Narrative function
++The chapter records the final phase of the TPlus/TMinus programme beneath the Pale after Hardy has physically buried the laboratory beneath his tower.
++Its job is to explain how, when Gerry eventually breaches the laboratory much later:
++	•	Hermann and Anstey are there, dead.
++	•	They have clearly survived for some time.
++	•	Their bodies are remarkably well preserved.
++	•	Viable TMinus survives.
++	•	Enough TMinus research survives for Gerry’s people to reconstruct and deploy it.
++	•	Gerry finds no usable TPlus.
++	•	Gerry finds no surviving documentary trail that tells him there ever was a separate TPlus panacea.
++	•	Nothing recovered connects the buried programme to Sarah.
++	•	TPlus has nevertheless already escaped the laboratory by a route the reader does not yet know.
++The chapter does not reveal that last fact explicitly.
++It ends with the historical record apparently closed.
++
++2. Narrative position and reader knowledge
++This is a historical scene occurring earlier in chronological time but later in the novel’s narrative order.
++By the time the reader reaches it, the reader already knows:
++	•	Gerry Hardman.
++	•	Dunhilton.
++	•	the Elvi/Elvines.
++	•	the modern rejuvenation phenomena.
++	•	adult Sarah, who is a major protagonist.
++	•	TPlus effects occurring in the present-day story.
++	•	that Gerry recovered the old lethal virus from beneath the Pale.
++	•	that Hermann and Anstey were eventually found dead there.
++	•	that their corpses appeared unusually well preserved.
++The reader has also recently received the Jansen/Hermann/d’Vane scene and therefore now understands that TMinus and TPlus were historically related projects.
++The reader does not yet know that Janine Anstey’s secret recipient was Sarah.
++That connection is reserved for the subsequent Anstey/Sarah material.
++Therefore this chapter operates as retrospective convergence, not setup. Things the reader has already encountered begin to line up, but the last connection remains withheld.
++
++3. Absolute information restriction: Sarah
++Sarah’s name does not appear.
++The chapter does not identify the person Janine has been protecting as:
++	•	her daughter;
++	•	her child;
++	•	a girl;
++	•	a family member;
++	•	a patient at home;
++	•	Sarah.
++Janine’s secret must remain legible only as something outside the laboratory that must not be discoverable from the records.
++The strongest visible clue is the discrepancy associated with TPlus stock and the particular records Janine removes.
++The later Anstey/Sarah scene supplies the missing referent.
++The desired delayed recognition is:
++The reader already knows Sarah. The reader already knows TPlus escaped. Only later does the reader discover that Janine caused those two facts to be the same story.
++
++4. Physical situation
++The laboratory is deep beneath Hardy’s office tower in the Pale.
++There is no second theatrical lockdown mechanism.
++The physical entombment has already been established in the preceding scene: the relevant lift shaft has been filled with 6,024 cubic metres of concrete during the foyer refurbishment. Above them, the lift doors are removed from the rebuilt foyer and the laboratory passes out of the building’s visible architecture.
++The people below have no practical means of getting through the filled shaft.
++The chapter begins from their side of that action.
++There are no dramatic closing bulkheads, descending steel doors, “Zone Zero”, titanium partitions or invented containment architecture.
++The horror is that something utterly ordinary has happened above them:
++the lift has stopped being a lift.
++
++5. Communications and utilities
++The buried laboratory cannot communicate effectively with the world above.
++The laboratory retains enough internal power and environmental support for the trapped staff to survive for a meaningful period and for Hermann and Anstey to continue using equipment and accessing records.
++The primary limiting resources are:
++	1	potable water;
++	2	food.
++Air is not the principal countdown.
++Power does not fail early enough to prevent the important scientific and documentary actions in the chapter.
++Exact quantities and exact survival duration are UNSPECIFIED. Do not introduce numerical ration schedules simply to make the survival period calculable.
++
++6. People in the laboratory
++Hermann and Janine Anstey are the chapter’s focal characters.
++Other laboratory personnel exist. This is already consistent with the functioning research operation Jansen saw: technicians were visibly working beyond Hermann’s office.
++Do not invent:
++	•	a fixed five-person cohort;
++	•	exactly three senior geneticists;
++	•	named support staff merely to kill them;
++	•	a miniature survival society;
++	•	factional conflict.
++The presence and eventual fate of other trapped personnel can be handled collectively and in compression.
++The narrative camera progressively contracts onto Hermann and Anstey because they matter to the larger story, not because the laboratory was conveniently empty when it was sealed.
++Celeste d’Vane is not among the trapped. Her departure for the volcanic retreat has already saved her life.
++
++7. TPlus: hard biological canon for this chapter
++TPlus produces extraordinary systemic therapeutic effects.
++Hermann has already described:
++	•	accelerated tissue repair;
++	•	suppression/correction of accumulated damage;
++	•	reversal of vascular damage;
++	•	improved organ function;
++	•	repair of muscular damage;
++	•	severe resistance to cancer;
++	•	biological mechanisms derived from organisms adapted to extreme stress, including mechanisms supporting tissue function under oxygen deprivation.
++Those effects are real enough to drive the entombment chapter.
++What is not objective canon is Hermann’s neat prediction of how quickly those benefits fade.
++He tells Jansen that episomal material is diluted and degraded and gives a fourteen-to-twenty-one-day account of the optimisation curve.
++For this chapter:
++That is Hermann’s model, not the narrator’s biological law.
++The chapter does not state that TPlus benefits disappear after fourteen to twenty-one days.
++The chapter does not establish a precise effective duration.
++The subsequent story already demonstrates persistence beyond the tidy account Hermann gives Jansen.
++
++8. The resource logic
++The scientists ration food and water.
++They do not ration TPlus according to a fortnightly subscription cycle.
++Their practical situation is:
++	•	They have finite food.
++	•	They have finite water.
++	•	They have finite TPlus.
++	•	TPlus demonstrably makes human bodies function much better under physiological stress.
++	•	They do not know how far that can be pushed under starvation, dehydration and prolonged confinement.
++	•	There is no future commercial value in preserving TPlus if they themselves will be dead before anyone can reach it.
++They therefore use TPlus.
++Initially its use remains measured and scientific. As the entombment continues and ordinary resources become scarcer, preserving unused TPlus makes progressively less sense.
++Their governing wager is:
++TPlus may enable their bodies to extract more survival from the food and water they still possess.
++It cannot create calories.
++It cannot create water.
++It cannot remove the concrete.
++The chapter never claims otherwise.
++
++9. Why all physical TPlus disappears
++Every viable dose available to the trapped laboratory is eventually consumed by the trapped people.
++Nothing is deliberately destroyed.
++No TPlus vial is smashed for symbolic effect.
++No TPlus stock is incinerated.
++No master cultures are autoclaved into sludge.
++The disappearance of the greatest medical discovery in history is utilitarian rather than ceremonial:
++people use it because they are trying not to die.
++The last remaining viable TPlus enters a human body.
++That is the complete explanation for why Gerry later finds no physical TPlus stock.
++
++10. Sexual transmission
++Sexual transmission does not become a plotline in this chapter.
++Hermann already knows the vector can transmit sexually and that first-degree recipients can receive major therapeutic benefit.
++The entombment chapter does not reopen that exposition and does not construct a survival scenario around it.
++The chapter remains about finite physical resources, TPlus consumption, documentary erasure and Janine’s hidden motive.
++
++11. Hermann
++Hermann remains recognisably the man from the Jansen scene.
++He does not transform into a generic tragic scientist.
++His defining qualities remain:
++	•	scientific enthusiasm;
++	•	inability to stop observing;
++	•	inability to stop explaining;
++	•	confidence in his own models;
++	•	fascination with unexpected data;
++	•	poor instinct for when facts are socially or personally dangerous;
++	•	genuine belief that TPlus represents an extraordinary humanitarian achievement.
++His tragedy is not that the science fails.
++His tragedy is that it continues producing scientifically interesting results while there is no longer any future in which he can exploit or publish them.
++As deprivation worsens, Hermann continues measuring.
++He notices:
++	•	physiological resilience;
++	•	healing;
++	•	changes in metabolic response;
++	•	reversal of old damage;
++	•	rejuvenation;
++	•	deviations from his expected duration curves.
++He records observations while there is still somewhere to record them.
++His enthusiasm becomes progressively less appropriate without becoming a broad joke.
++He does not learn the truth about Sarah.
++He does not discover a confirmed successful permanent integration event outside the laboratory.
++He dies with his central theoretical error intact: he still believes safe permanent integration is effectively impossible because the required concentration should kill an ordinary subject first. That belief has already been clearly established.
++
++12. Janine Anstey
++Janine is the practical centre of the chapter.
++Her attention moves through three progressively narrower problems:
++First: get out.
++Then: keep people alive.
++Finally: make certain that what happened before the entombment cannot be traced outside the laboratory.
++She is not written as a sacrificial saint.
++She is not given a sentimental internal monologue about the person she is protecting.
++Her motive is expressed through technical choices.
++She knows something about the TPlus inventory and its history that the others do not.
++When the laboratory’s survival prospects become irrelevant, she turns her attention to records.
++Her documentary work is deliberate, selective and competent.
++
++13. Documentary purge
++Unlike the physical TPlus, TPlus information is deliberately destroyed.
++Janine removes the local research trail needed for a future investigator to identify and reconstruct the TPlus programme.
++This includes the material that would expose:
++	•	the TPlus production architecture;
++	•	its therapeutic payload;
++	•	TPlus-specific synthesis information;
++	•	local trial documentation;
++	•	relevant inventory records;
++	•	the disposition of particular experimental batches;
++	•	the anomalous gap between recorded stock and the physical stock that had actually been available;
++	•	any local record capable of pointing an investigator outward from the laboratory toward the missing material.
++The deletion is not indiscriminate.
++Janine does not erase the laboratory as an historical object.
++She does not wipe all research.
++She does not destroy TMinus documentation.
++That distinction is essential because Gerry later recovers enough TMinus material for a modern research team to understand and redeploy the weapon.
++
++14. The inventory discrepancy
++A discrepancy exists in the historical TPlus stock because material left the laboratory before the entombment.
++Janine knows where it went.
++The reader does not.
++The chapter makes the discrepancy visible without resolving it.
++It does not announce:
++Somebody stole TPlus.
++It does not turn the discrepancy into a detective plot.
++It appears as part of Janine’s increasingly selective handling of TPlus records.
++The later Sarah chapter retroactively supplies the answer.
++
++15. TMinus
++TMinus survives.
++It is not preserved deliberately as a decoy.
++It is not part of Janine’s plan.
++It survives because it is irrelevant to what she is protecting.
++The trapped people have no therapeutic use for it.
++Janine has no reason to spend her dwindling time erasing or physically destroying the TMinus programme.
++Its vials remain in appropriate laboratory storage.
++Its research corpus remains sufficiently intact.
++The later consequence is simple:
++Gerry recovers the thing nobody below needed.
++He does not recover the thing everybody did.
++
++16. Chapter structure
++Phase I — Something is wrong
++Open inside the laboratory during an otherwise recognisable working period.
++The lift does not respond normally.
++Attempts to communicate upward fail.
++At first this is treated as a systems problem.
++People expect somebody above to correct it.
++Hermann approaches it initially with professional irritation rather than terror.
++Janine becomes suspicious sooner.
++The key tonal requirement is delay in understanding.
++The laboratory does not instantly know it has become a tomb.
++
++Phase II — The physical truth
++Evidence accumulates that the lift shaft is no longer merely disabled.
++The sounds, vibrations and changing behaviour of the structure establish that something is being physically done to it from above.
++Eventually they understand that the shaft is being filled.
++Once the scale becomes clear, nobody proposes a cinematic solution.
++They are far beneath the point at which intervention is possible.
++The concrete is not an antagonist.
++It is simply there.
++Above them, the foyer renovation continues.
++
++Phase III — The inventory
++The trapped staff move into procedural survival.
++They count:
++	•	food;
++	•	water;
++	•	medicines;
++	•	stored TPlus;
++	•	remaining useful power and equipment.
++This section should feel competent rather than frantic.
++They are scientists and laboratory professionals.
++Their response to impending death initially takes the form of lists, measurements and calculations.
++TPlus is reclassified from research asset to survival resource without ceremony.
++
++Phase IV — First use
++The trapped staff dose themselves with TPlus.
++The first effects need not be spectacular.
++Use concrete physical observations.
++Old injuries improve.
++Damage repairs.
++Someone becomes visibly healthier under circumstances in which nobody has any business becoming healthier.
++Hermann records it.
++The scientific success is real.
++The circumstances make the success obscene.
++
++Phase V — Compression of time
++Do not narrate every day.
++Move through the entombment by changes in resources and bodies:
++food declining;
++water becoming carefully controlled;
++TPlus being consumed;
++bodies becoming thinner but paradoxically healthier;
++the laboratory becoming less inhabited;
++Hermann’s records accumulating;
++hope of rescue disappearing without a formal moment in which everybody announces that hope has disappeared.
++The scene stays procedural.
++There is no survival epic.
++
++Phase VI — TPlus versus deprivation
++TPlus proves highly effective at preserving function.
++It repairs damage that starvation and confinement impose.
++It keeps the remaining people capable for longer than they otherwise expect.
++It does not abolish material requirements.
++The central visual contradiction becomes increasingly pronounced:
++their environment deteriorates while their bodies refuse to deteriorate properly with it.
++This directly supports the condition in which Gerry will eventually encounter Hermann and Anstey’s remains.
++
++Phase VII — Exhaustion of TPlus
++The physical stock approaches zero.
++There is no debate about preserving a ceremonial final vial.
++There is no reason to leave medicine in a refrigerator while people are dying beside it.
++The remaining TPlus is used.
++The last viable material disappears into living tissue.
++From this point onward, there is no recoverable TPlus product left for Gerry to find.
++The effects already established in the recipients remain active.
++Food and water remain the dominant countdown.
++
++Phase VIII — Janine changes task
++With escape no longer plausible and the physical TPlus gone, Janine stops treating personal survival as the only remaining problem.
++She turns to the information architecture of the TPlus programme.
++Her behaviour becomes unusually exact.
++She distinguishes TPlus material from the much larger body of laboratory research.
++The reader understands that she does not want Hardy—or anyone reopening the laboratory—to recover the cure.
++That explanation is sufficient at this stage.
++
++Phase IX — The hidden discrepancy
++During that process the chapter exposes, lightly, that the TPlus records and the actual historical stock do not reconcile cleanly.
++Janine recognises the significance immediately.
++No explanatory interior monologue follows.
++She eliminates the records that would permit somebody else to follow that discrepancy.
++The reader is left with the fact of an unexplained missing piece.
++
++Phase X — Erasure
++Janine finishes removing the local TPlus trail.
++When she is finished:
++	•	there is no viable TPlus left in the laboratory;
++	•	there is no usable local TPlus research corpus for Gerry to recover;
++	•	there is no documentary path from the laboratory to the material that left it earlier;
++	•	TMinus remains;
++	•	TMinus documentation remains.
++The two programmes, once technically related, are now historically severed.
++
++Phase XI — End state
++Hermann and Anstey remain alive long enough for their bodies to display the profound effects of TPlus.
++They are running out of ordinary necessities while still biologically benefiting from the greatest medical intervention ever devised.
++Their final exact cause of death is UNRESOLVED.
++Do not determine it in this chapter.
++The chapter can end before the terminal physiological event, with death no longer in doubt.
++That preserves the later Gerry observation:
++“Hard to say.”
++His uncertainty remains genuine.
++
++17. Physical condition of Hermann and Anstey
++At the end they are not conventionally healthy.
++They are depleted because matter still matters.
++They can be:
++	•	thin;
++	•	underfed;
++	•	exhausted;
++	•	physically diminished by lack of resources.
++But they do not exhibit the ordinary cumulative deterioration expected from prolonged confinement.
++TPlus continues correcting what it can correct.
++Therefore there is an unsettling mismatch:
++	•	unusually intact skin;
++	•	healed damage;
++	•	absence of ordinary infection;
++	•	repaired old injuries;
++	•	unexpectedly good hair;
++	•	preserved tissue condition.
++That is the biological foundation beneath Gerry’s later observation that the bodies looked remarkably well preserved and his joking elaboration that their hair was perfect.
++The sealed, sterile laboratory contributes to preservation after death.
++TPlus explains why the bodies enter death in such anomalously good biological condition.
++
++18. Tone
++The chapter remains in the tonal family of the scenes immediately preceding it.
++No heroic survival prose.
++No sombre philosophical exposition about mortality.
++No authorial explanation that “the cure could not cure hunger”.
++No beautifully packaged ironic aphorism placed into the narration simply because the concept invites one.
++The humour and horror come from concrete behaviour:
++	•	scientists inventorying immortality alongside bottled water;
++	•	Hermann obtaining superb experimental data from his own entombment;
++	•	people becoming medically healthier as their lunch supply disappears;
++	•	the lethal project remaining untouched because it is useless;
++	•	the miracle being exhausted because it is useful.
++The narrator reports the civilisation rather than explaining the satire.
++
++19. What is deliberately withheld
++At chapter end, the reader is not told:
++	•	where the pre-entombment missing TPlus went;
++	•	who received it;
++	•	that Janine permanently altered Sarah;
++	•	that Sarah is Janine’s daughter;
++	•	how permanent integration actually succeeded;
++	•	that Sarah is the living reservoir connecting this historical programme to the modern TPlus phenomenon.
++Those answers belong to the subsequent historical material.
++
++20. Required handoff into the Sarah reveal
++The entombment chapter leaves one clean unresolved historical question:
++All the TPlus beneath the Pale was consumed. Its recoverable research was erased. So how did TPlus reach the world the reader already knows?
++The following Anstey material answers that by moving backward to what Janine did before Hardy sealed the laboratory.
++Only there does the missing stock acquire a destination.
++Only there does the protected person acquire an identity.
++Only at the final useful moment does that identity become Sarah.
++That is the reveal the entombment chapter must protect.
++
++Hard drafting exclusions
++These are now fixed constraints:
++	•	No TPlus withdrawal syndrome.
++	•	No objective fourteen-to-twenty-one-day expiry rule.
++	•	No methylation countdown.
++	•	No calculation of survival as TPlus doses multiplied by maintenance intervals.
++	•	No TPlus destruction.
++	•	No autoclaving of TPlus.
++	•	No drinking TPlus cultures.
++	•	No deliberate preservation of TMinus as camouflage.
++	•	No BSL-4 “Zone Zero” cage structure invented to solve support staff.
++	•	No secondary bulkhead-entombment mechanism.
++	•	No Lord-of-the-Flies subplot.
++	•	No sexual-survival subplot.
++	•	No Sarah name.
++	•	No daughter/child reveal.
++	•	No explanation of where the missing pre-entombment TPlus went.
++	•	No discovery by Hermann that Janine has achieved safe permanent integration.
++	•	No complete destruction of laboratory records.
++	•	No destruction of the TMinus research corpus.
++	•	No fixed exact death mechanism.
++	•	No treating Hermann’s scientific claims as automatically omniscient narration.
++This is the clean baseline I would use for the actual chapter draft.
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/617B5203-1BBC-4931-B1A5-3618D4D042BA/content.rtf b/Clones of Elvis.scriv/Files/Data/617B5203-1BBC-4931-B1A5-3618D4D042BA/content.rtf
+new file mode 100644
+index 0000000..ec3df48
+--- /dev/null
++++ b/Clones of Elvis.scriv/Files/Data/617B5203-1BBC-4931-B1A5-3618D4D042BA/content.rtf	
+@@ -0,0 +1,44 @@
++{\rtf1\ansi\ansicpg1252\cocoartf2870
++\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Cochin;\f2\fnil\fcharset0 Cochin-Italic;
++}
++{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
++{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
++\deftab720
++\pard\pardeftab720\sl220\sb220\qj\partightenfactor0
++
++\f0\fs24 \cf2 <$Scr_Ps::0>
++\f1\fs22 Pin Cushion watched her mother drawing TPlus from the vial. \expnd0\expndtw0\kerning0
++\'93Even bigger than last time.\'94\
++\pard\pardeftab720\fi360\sl220\qj\partightenfactor0
++
++\f0\fs24 \cf2 <!$Scr_Ps::0><$Scr_Ps::1>
++\f1\fs22 Janine nodded. \'93We know it\'92s staying in the muscles now.\'94\
++\'93Are they going to knight you for this?\'94\
++\'93Probably.\'94 
++\f2\i The queen will probably come visit me in my jail cell
++\f1\i0 , Janine mused.\
++The headache came back, the heavy legs too. Nothing worse.\
++After the third treatment, Pin Cushion slept for thirteen hours and woke furious about it.\
++\'93I lost a whole day.\'94\
++\'93You needed the rest.\'94\
++\'93I need compensation.\'94\
++Janine took blood.\
++\'93I\'92m gonna watch movies all night. Musicals. Loud.\'94\
++Janine labelled the tube. \'93I\'92ll tape pillows over my ears. No spank metal.\'94\
++\'93You wish.\'94\
++\'93Go eat something.\'94\
++Over the days, Janine moved the injections between muscle groups and adjusted the dose against what the blood work told her.\
++Pin Cushion developed strong preferences about sites. \'93My left thigh is cancelled.\'94\
++\'93It isn\'92t. Look. The bruising has already gone.\'94\
++\'93I\'92m unfollowing it,\'94 Pin Cushion said as she made a baroque sweep across her tablet.\
++\'93Then you won\'92t be feeling this.\'94 Janine used the left thigh anyway.\
++The next day, Janine noticed Pin Cushion getting off the couch without pushing off her knees. Pin Cushion didn\'92t seem to be aware of it.\
++A few days later Pin Cushion climbed the stairs holding only one rail. Then she forgot to hold that one. Janine watched from the bottom.\
++The exercise bike remained an enemy, but mostly just on principle. Certain pieces of sporting equipment deserved no forgiveness, even on the evening that Pin Cushion easily pedalled past two kilometres. Then three. Her right hip wasn\'92t putting compensating effort into her thigh movement. She turned the resistance up herself.\
++Janine kept her eyes on her tablet.\
++\'93You can watch now,\'94 Pin Cushion said.\
++Janine looked up.\
++\'93Just don\'92t get weird.\'94\
++\'93I won\'92t.\'94\
++\'93You\'92re already weird.\'94 Pin Cushion kept pedalling.
++\f0\fs24 <!$Scr_Ps::1>}
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/617B5203-1BBC-4931-B1A5-3618D4D042BA/content.styles b/Clones of Elvis.scriv/Files/Data/617B5203-1BBC-4931-B1A5-3618D4D042BA/content.styles
+new file mode 100644
+index 0000000..7ed77c4
+--- /dev/null
++++ b/Clones of Elvis.scriv/Files/Data/617B5203-1BBC-4931-B1A5-3618D4D042BA/content.styles	
+@@ -0,0 +1 @@
++EFF29A60-7F88-4945-B820-ABD9FAADD4DA,C8883BB4-52BE-4C55-A473-E2AE1733C9D5
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/617B5203-1BBC-4931-B1A5-3618D4D042BA/notes.rtf b/Clones of Elvis.scriv/Files/Data/617B5203-1BBC-4931-B1A5-3618D4D042BA/notes.rtf
+new file mode 100644
+index 0000000..860cd92
+--- /dev/null
++++ b/Clones of Elvis.scriv/Files/Data/617B5203-1BBC-4931-B1A5-3618D4D042BA/notes.rtf	
+@@ -0,0 +1,109 @@
++{\rtf1\ansi\ansicpg1252\cocoartf2870
++\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 Times-Roman;\f2\froman\fcharset0 Times-Bold;
++\f3\froman\fcharset0 TimesNewRomanPS-BoldMT;}
++{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
++{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
++{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
++{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}}
++{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}}
++\deftab720
++\pard\pardeftab720\sa298\partightenfactor0
++
++\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 <$Scr_H::2>
++\f1\fs36 Allegedly 100% AI (Pangram)
++\f2\b \
++\
++\
++Functional recovery\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 \strokec2 <!$Scr_H::2>
++\f1 Improvement becomes visible through ordinary actions.\
++\pard\pardeftab720\sa280\partightenfactor0
++
++\f0 \cf0 \strokec2 <$Scr_H::3>
++\f2\b\fs28 Rising\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 \strokec2 <!$Scr_H::3>
++\f1 She needs less arm assistance.\
++Eventually she stands without thinking about how.\
++Janine notices.\
++Pin Cushion increasingly does not.\
++\pard\pardeftab720\sa280\partightenfactor0
++
++\f0 \cf0 \strokec2 <$Scr_H::3>
++\f2\b\fs28 Stairs\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 \strokec2 <!$Scr_H::3>
++\f1 The second handrail matters less.\
++Eventually stairs stop being negotiated.\
++\pard\pardeftab720\sa280\partightenfactor0
++
++\f0 \cf0 \strokec2 <$Scr_H::3>
++\f2\b\fs28 Gait\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 \strokec2 <!$Scr_H::3>
++\f1 The compensatory hitch decreases.\
++Movement begins to look unplanned again.\
++\pard\pardeftab720\sa280\partightenfactor0
++
++\f0 \cf0 \strokec2 <$Scr_H::3>
++\f2\b\fs28 Exercise bike\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 \strokec2 <!$Scr_H::3>
++\f1 Progression:\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f2\b \cf0 therapy 
++\f3 \strokec2 \uc0\u8594 
++\f2 \strokec2  measurable improvement 
++\f3 \strokec2 \uc0\u8594 
++\f2 \strokec2  ordinary exercise
++\f1\b0 \
++The resistance can increase.\
++She can pedal longer.\
++Her hips stop compensating.\
++The bike becomes less of an enemy.\
++Eventually she begins thinking about a real bicycle.\
++\pard\pardeftab720\sa298\partightenfactor0
++
++\f0 \cf0 \strokec2 <$Scr_H::2>
++\f2\b\fs36 Janine\'92s restraint\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 \strokec2 <!$Scr_H::2>
++\f1 Janine refuses to call this permanent.\
++This is important.\
++TPlus is already expected to:\
++\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
++\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 repair muscle;\
++\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 reverse damage;\
++\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 improve function.\
++\pard\pardeftab720\sa240\partightenfactor0
++\cf0 \strokec2 Therefore functional improvement alone cannot tell her whether:\
++\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
++\ls2\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 TPlus is merely working as a therapy;\
++\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 or the genomic gamble has succeeded.\
++\pard\pardeftab720\sa240\partightenfactor0
++\cf0 \strokec2 Pin Cushion may be more willing to declare victory.\
++Janine is not.\
++\pard\pardeftab720\sa280\partightenfactor0
++
++\f0 \cf0 \strokec2 <$Scr_H::3>
++\f2\b\fs28 End state\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 \strokec2 <!$Scr_H::3>
++\f1 Pin Cushion is substantially better.\
++Janine still needs proof.\
++}
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/763F4AA5-02CF-4EC3-8B63-46C2A784A51F/content.rtf b/Clones of Elvis.scriv/Files/Data/763F4AA5-02CF-4EC3-8B63-46C2A784A51F/content.rtf
+new file mode 100644
+index 0000000..5410d82
+--- /dev/null
++++ b/Clones of Elvis.scriv/Files/Data/763F4AA5-02CF-4EC3-8B63-46C2A784A51F/content.rtf	
+@@ -0,0 +1,52 @@
++{\rtf1\ansi\ansicpg1252\cocoartf2870
++\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Cochin;}
++{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
++{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
++\deftab720
++\pard\pardeftab720\sl220\sb220\qj\partightenfactor0
++
++\f0\fs24 \cf2 <$Scr_Ps::0>
++\f1\fs22 Janine could hear the music before she opened her car door. It sounded like gorillas throwing barnyard animals and kitchen utensils down a fire escape. Also there was an undercurrent of building collapse, and Janine couldn\'92t figure whether it was on the recording or the house breaking up in sympathetic  4/4 time.\
++\pard\pardeftab720\fi360\sl220\qj\partightenfactor0
++
++\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
++<!$Scr_Ps::0><$Scr_Ps::1>
++\f1\fs22 Inside, she found the source of noise and attenuated it.\
++\'93Hey!\'94 came the complaint from a room three walls away. \'93I was listening to that.\'94\
++Janine raised her voice to the ceiling. \'93So was I.  And I hadn\'92t given my enthusiastic consent.\'94 She went to the family room and dropped her back on the couch. Pin Cushion was still riding, fast, like she was sprinting in a velodrome.\
++\pard\pardeftab720\fi360\sl220\qj\partightenfactor0
++\cf2 The resistance was higher than Janine had ever set it.\
++Pin Cushion\'92s hips stayed level. No shift across the saddle. No little rescue movements when one leg began to tire.\
++Pin Cushion slowed down and coasted for a minute. \'93Five k\'92s,\'94 she read off the bike\'92s cheap little console.\
++Janine sat on the arm of the couch. \'93Come sit down.\'94\
++Pin Cushion dismounted. Smoothly. She settle on the couch and pulled her legs under her with ease. Janine slumped off the arm, slid next to her daughter and put her arm around her.\
++Pin Cushion tried to pull away. \'93I\'92m sweaty.\'94\
++\'93I\'92ve been sweat on before.\'94\
++\'93What? Ew.\'94 Pin Cushion contemplating. \'93Can you get it out of sweat?\'94\
++That stumped Janine for a moment. \'93Well, no. I\'92m pretty sure\'85\'94\
++\'93You haven\'92t tested it yet. That seems to be a thing with you.\'94\
++Janine smiled. \'93Well, don\'92t tell your friends.\'94\
++\'93I don\'92t have any friends.\'94\
++Janine looked to a bright reflection over on the kitchen sink tap.  \'93I checked the biopsy.\'94\
++Pin Cushion clasped her hands and pushed them between her thighs. She gulped \'93And?\'94\
++Janine played with her daughter\'92s hair. \'93It worked.\'94\
++\'93It\'92s in my DNA?\'94\
++Janine nodded. Her cheeks flushed. She smiled and shed a tear and stretched her legs and scratched an itch at the back of neck. She let out a hoarse moan that released tension from parts of her body she hadn\'92t had any reports from in months. \'93Oh, yes!\'94\
++Pin Cushion hugged her Mum until her Mum could probably lay assault charges.\
++\'93So I\'92ll live to I\'92m old? Like fifty or something?\'94\
++Janine chuckled. She leaned in and, a little above a whisper, said, \'93Probably a century more than that.\'94\
++\'93What?\'94 Pin Cushion processed. \'93So now I\'92m a different kind of freak?\'94\
++Janine kissed her forehead. \'93I expect it will commonplace in the not-too-distant future.\'94\
++\'93Okay, right. I\'92ll be a commonplace freak then.\'94\
++They sat in silence for a while.\
++\'93We can talk more about this tomorrow. How about we just celebrate tonight. I\'92ll order delivery.\'94\
++\'93I want barbecued chicken.\'94\
++\'93Really?\'94\
++\'93Yeah, I feel like I can take on one of those cluckers, now that I don\'92t waddle like them any more.\'94\
++Janine fished her tablet out of her bag and got to ordering. \'93Coleslaw?\'94\
++\'93You know I do. Also, can I have a bike? Or, if we can\'92t afford one, I\'92d settle for a monocycle.\'94 Pin Cushion knew they could afford one.\
++\'93Will you just stop already?\'94 Janine asked, with out rancour.\
++\'93I\'92m happy, Mum.\'94\
++\'93Me too.\'94\
++\'93I love you too, Pin\'97\'94 Janine caught herself. \'93I love, Sarah.\'94
++\f0\fs24 <!$Scr_Ps::1>}
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/763F4AA5-02CF-4EC3-8B63-46C2A784A51F/content.styles b/Clones of Elvis.scriv/Files/Data/763F4AA5-02CF-4EC3-8B63-46C2A784A51F/content.styles
+new file mode 100644
+index 0000000..7ed77c4
+--- /dev/null
++++ b/Clones of Elvis.scriv/Files/Data/763F4AA5-02CF-4EC3-8B63-46C2A784A51F/content.styles	
+@@ -0,0 +1 @@
++EFF29A60-7F88-4945-B820-ABD9FAADD4DA,C8883BB4-52BE-4C55-A473-E2AE1733C9D5
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/763F4AA5-02CF-4EC3-8B63-46C2A784A51F/notes.rtf b/Clones of Elvis.scriv/Files/Data/763F4AA5-02CF-4EC3-8B63-46C2A784A51F/notes.rtf
+new file mode 100644
+index 0000000..a440f28
+--- /dev/null
++++ b/Clones of Elvis.scriv/Files/Data/763F4AA5-02CF-4EC3-8B63-46C2A784A51F/notes.rtf	
+@@ -0,0 +1,158 @@
++{\rtf1\ansi\ansicpg1252\cocoartf2870
++\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 Times-Bold;\f2\froman\fcharset0 Times-Roman;
++}
++{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
++{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
++{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
++{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
++{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}
++{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid4}}
++{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}}
++\deftab720
++\pard\pardeftab720\sa321\partightenfactor0
++
++\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 <$Scr_H::1>
++\f1\b\fs48 6. Final domestic sequence\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 \strokec2 <!$Scr_H::1>
++\f2 This is the payoff section.\
++It should be spacious enough to breathe but not sentimental.\
++\pard\pardeftab720\sa298\partightenfactor0
++
++\f0 \cf0 \strokec2 <$Scr_H::2>
++\f1\b\fs36 Exercise bike transformed\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 \strokec2 <!$Scr_H::2>
++\f2 Pin Cushion is on the same bike.\
++The contrast with Section 1 should be obvious without being explained.\
++Now:\
++\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
++\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 resistance is meaningful;\
++\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 cadence is easy and sustained;\
++\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 hips stay stable;\
++\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 proximal fatigue does not arrive as expected;\
++\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 she can talk while pedalling;\
++\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 she may turn the resistance up herself;\
++\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 she may now regard the stationary bike as boring because she wants a real one.\
++\pard\pardeftab720\sa240\partightenfactor0
++\cf0 \strokec2 The achievement is 
++\f1\b normal competence
++\f2\b0 , not superhuman performance.\
++\pard\pardeftab720\sa298\partightenfactor0
++
++\f0 \cf0 \strokec2 <$Scr_H::2>
++\f1\b\fs36 No more needles\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 \strokec2 <!$Scr_H::2>
++\f2 Janine tells her:\
++\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
++\ls2\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 the treatment worked;\
++\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 it appears to have stayed;\
++\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 the LGMD should not return in the way they feared;\
++\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 she should not need more TPlus injections.\
++\pard\pardeftab720\sa240\partightenfactor0
++\cf0 \strokec2 This has immediate meaning for Pin Cushion:\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f1\b \cf0 no more needles.
++\f2\b0 \
++That gives the nickname a quiet second meaning: Pin Cushion has become a piece of personal history rather than an ongoing medical condition.\
++\pard\pardeftab720\sa298\partightenfactor0
++
++\f0 \cf0 \strokec2 <$Scr_H::2>
++\f1\b\fs36 Longevity conversation\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 \strokec2 <!$Scr_H::2>
++\f2 Janine must also tell her that the implications extend beyond LGMD.\
++Hermann\'92s TPlus work predicts extraordinarily long healthy lifespan under sustained effect.\
++Because Pin Cushion now appears to have self-sustaining TPlus, Janine believes she may remain healthy for a very long time.\
++Janine must not say:\
++\pard\pardeftab720\sa240\partightenfactor0
++\cf0 \strokec2 You will live to 160.\strokec2 \
++Her honest position:\
++\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
++\ls3\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 possibly something in the broad 140\'96160-year territory;\
++\ls3\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 maybe less;\
++\ls3\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 conceivably more;\
++\ls3\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 nobody knows;\
++\ls3\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 nobody has ever produced this situation before.\
++\pard\pardeftab720\sa240\partightenfactor0
++\cf0 \strokec2 The important fact is:\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f1\b \cf0 Pin Cushion may live far longer than an ordinary human life.
++\f2\b0 \
++\pard\pardeftab720\sa298\partightenfactor0
++
++\f0 \cf0 \strokec2 <$Scr_H::2>
++\f1\b\fs36 Pin Cushion\'92s reaction\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 \strokec2 <!$Scr_H::2>
++\f2 Keep it personal, practical and age-specific.\
++She should not suddenly become philosophical because the theme requires it.\
++She may ask:\
++\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
++\ls4\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 Will I look old?\
++\ls4\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 Do I get twice as many birthdays?\
++\ls4\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 What happens to everyone else?\
++\ls4\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 What about you?\
++\ls4\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 Can you take it too?\
++\ls4\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 Do I still have school tomorrow?\
++\ls4\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 Does this mean she finally gets a real bike?\
++\pard\pardeftab720\sa240\partightenfactor0
++\cf0 \strokec2 The exact choice belongs to the eventual dialogue.\
++\pard\pardeftab720\sa298\partightenfactor0
++
++\f0 \cf0 \strokec2 <$Scr_H::2>
++\f1\b\fs36 The hard question: Janine\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 \strokec2 <!$Scr_H::2>
++\f2 If Pin Cushion asks what happens to Janine, Janine cannot promise the same thing.\
++Her daughter\'92s permanent integration arose from the pathological opportunity in LGMD tissue.\
++Ordinary TPlus is not the same.\
++There are larger implications Janine has not yet worked through.\
++She is also due at work.\
++\pard\pardeftab720\sa298\partightenfactor0
++
++\f0 \cf0 \strokec2 <$Scr_H::2>
++\f1\b\fs36 The promise\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 \strokec2 <!$Scr_H::2>
++\f2 Janine tells Pin Cushion they will talk properly when she gets home.\
++This is sincere and ordinary.\
++No ominous treatment.\
++No pause.\
++No narrator telling us the promise will not be kept.\
++The reader already knows Janine is about to go to the Pale and die there.\
++That is enough.}
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/9758E9D0-045B-49E6-B0F5-3183070BA292/content.rtf b/Clones of Elvis.scriv/Files/Data/9758E9D0-045B-49E6-B0F5-3183070BA292/content.rtf
+index f7b5299..1c6833a 100644
+--- a/Clones of Elvis.scriv/Files/Data/9758E9D0-045B-49E6-B0F5-3183070BA292/content.rtf	
++++ b/Clones of Elvis.scriv/Files/Data/9758E9D0-045B-49E6-B0F5-3183070BA292/content.rtf	
+@@ -20,27 +20,26 @@ A woman was waiting on the other side. \'93Arjen Jansen?\'94\
+ Jansen waited.\
+ Celeste waited too, but with considerably more enjoyment. Eventually she said, \'93Executive Liaison,\'94 then turned and started walking.\
+ Jansen, who would never be hurried, followed at his own pace, while Celeste set off as if the building belonged to somebody she knew socially.\
+-Dr Hamish Hermann occupied a room that appeared to be half laboratory, half office and half boarding-school lodging, a calculation nobody had seen fit to challenge. Books lay open on chairs. Two coffee mugs might have been experiments in progress. A shirt hung from the back of a cupboard door. Through a broad glass wall beyond him, the actual laboratory shone with the merciless hygiene of a place where even the dust had security clearance.\
+-Hermann himself stood at a raised desk entering figures into a terminal while three incubators blinked at him.\
+-He looked up.\
++Dr Hamish Hermann occupied a room that appeared to be half laboratory, half office and half boarding-school lodging. Books lay open on chairs. Two coffee mugs might have been experiments in progress. A shirt hung from the back of a cupboard door. Through a broad glass window, the actual laboratory sparkled with intense light and clean-room hygiene.\
++Hermann stood at a raised desk  against one wall, typing at a desktop computer while three incubators blinked at him.\
+ \'93Mr Jansen, here to see us,\'94 Celeste announced.\
+-\'93Excellent.\'94 Hermann came around the desk with his hand extended, changed his mind when he noticed the gloves, removed one glove, discovered his hand was damp, wiped it on his trousers and tried again.\
+-Jansen looked at the hand until Hermann put it away.\
+-Celeste settled onto a stool in the corner. \'93Mr Jansen wants a technical briefing.\'94 She looked at Jansen. \'93Don\'92t you, Arjen.\'94 It wasn\'92t a question.\
++\'93Excellent.\'94 Hermann turned and extended his hand.\
++Jansen looked at the hand until Hermann hid it in his pocket.\
++\'93Mr Jansen wants a technical briefing.\'94 She looked at Jansen. \'93Don\'92t you, Arjen.\'94 It wasn\'92t a question.\
+ Jansen glared at her.\
+ \'93What?\'94 That was a question, and Celeste affected offence at having to ask it. \'93I\'92m liaising. Executively.\'94\
+ Jansen suspected d\'92Vane\'92s skills were more in the line of disarmament than liaison.\
+ \'93You will tell me about TPlusVirus.\'94\
+ \'93Um. Sure.\'94 Hermann thought and brightened. \'93To understand TPlus you must first understand TMinus. You see, it\'92s an engineered lentiviral vector built to recognise selected genetic markers. SNPs, haplotype blocks, inherited phenotypic signatures. In a person without the nominated profile it could sit quietly, pass unnoticed and move on. In a person with the profile, the integrase unlocks the payload.\'94\
+ \'93Explain payload,\'94 Jansen said as Celeste admired his lack of social skills.\
+-\'93Cytotoxic,\'94 Hermann answered.\
++\'93TMinus is cytotoxic,\'94 Hermann answered.\
+ \'93How cytotoxic?\'94\
+ \'93Very.\'94\
+-Jansen looked through the glass at the bright cleanroom.\
++Jansen looked through the glass at the cleanroom.\
+ \'93Acute systemic failure,\'94 Hermann explained. \'93Depending on the target architecture, aneurysm, fulminant organ collapse, occasionally what presents as an inherited catastrophic event, you see.\'94\
+ \'93You make it look like a natural death.\'94\
+ \'93A highly engineered death,\'94 Hermann said, quite satisfied with himself.\
+-Celeste folded her arms.\
++Celeste settled onto a stool in the corner and folded her arms.\
+ \'93And TPlus?\'94 Jansen was not patient.\
+ Until then Hermann had merely been a scientist discussing work. Now he became a father being asked whether anybody would like to see photographs.\
+ \'93TPlus is what happens when you take the delivery architecture of TMinus and reverse the intent.\'94\
+@@ -71,14 +70,7 @@ Celeste, who had looked contemplative, brightened. \'93Can it do anything for me
+ Jansen did not smile. Hermann looked puzzled.\
+ \'93Life expectancy,\'94 Jansen said.\
+ Hermann nodded, glad to be past the stamp collecting. \'93With maintenance, our present expectation is a healthy functional lifespan somewhere between a hundred and forty and a hundred and sixty years.\'94\
+-Jansen chewed once on the inside of his cheek.\
+-Celeste noticed. \'93Ah,\'94 she said.\
+-Hermann looked at her. \'93What?\'94\
+-\'93That\'92s the first thing he\'92s liked.\'94\
+-\'93I have expressed no preference,\'94 Jansen said.\
+-\'93Exactly.\'94\
+-He turned back to Hermann.\
+-\'93Explain required maintenance.\'94\
++Jansen chewed once on the inside of his cheek. \'93Explain required maintenance.\'94\
+ Hermann became enthusiastic again. \'93The TPlus payload, unlike TMinus, does not ordinarily integrate into the chromosomes. The therapeutic material remains episomal: separate genetic rings occupying the nucleus, active but independent of the host genome.\'94\
+ \'93So it\'92s temporary.\'94 Jansen would not risk a question even when he was guessing.\
+ \'93That is offensively reductive,\'94 Hermann said.\
+@@ -189,7 +181,7 @@ Hermann said, \'93Even with aggressive sexual networking, the therapeutic effect
+ Even Celeste had considered that. \'93First-generation recipients of therapeutic delivery will be sought out. They will be tempted to bless their flocks.\'94\
+ Jansen\'92s mouth twitched.\
+ Celeste continued. \'93With luck, they would all get themselves killed.\'94\
+-Jansen drew a breath. \'93What is telling is that you have not modelled it.\'94\
++Jansen drew a breath. \'93What is telling, is that you have not modelled it.\'94\
+ Hermann was appalled. \'93You don\'92t seem to understand that we are curing disease, eliminating great suffering.\'94\
+ \'93It will increase great suffering. Unless the market can be controlled.\'94\
+ \'93We all believe in the perfection of the market, Mr Jansen,\'94 Celeste stated.\
+@@ -198,10 +190,9 @@ Hermann was indignant. \'93I\'92m an atheist!\'94\
+ Celeste d\'92Vane had heard enough. Not enough to understand the science\'97Hamish Hermann had spent years making that difficult\'97but enough to recognise the particular change in temperature that occurred when a company stopped asking whether something worked and began asking where all the copies were kept.\
+ She left the Pale that afternoon and brought forward a wellness retreat she had been saving in case of a nervous breakdown: ten days at a volcanic mindfulness retreat. Therapeutic fasting and supervised non-attachment on an island with unreliable telecommunications were included in the package. Celeste had no intention of becoming less attached to anything, but the brochure promised massages.\
+ What she hadn\'92t banked on was that it would save her life.
+-\f3\fs32 \cf0 \outl0\strokewidth0 \strokec2 \
++\f3\fs32 \cf0 \
+ \pard\pardeftab720\fi360\sl220\qj\partightenfactor0
+ 
+-\f1\fs22 \cf2 \outl0\strokewidth0 \
+-\pard\pardeftab720\fi360\sl220\qj\partightenfactor0
++\f1\fs22 \cf2 \
+ 
+-\f0\fs24 \cf2 <!$Scr_Ps::1>}
+\ No newline at end of file
++\f0\fs24 <!$Scr_Ps::1>}
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/9758E9D0-045B-49E6-B0F5-3183070BA292/synopsis.txt b/Clones of Elvis.scriv/Files/Data/9758E9D0-045B-49E6-B0F5-3183070BA292/synopsis.txt
+index c20163f..33eb41b 100644
+--- a/Clones of Elvis.scriv/Files/Data/9758E9D0-045B-49E6-B0F5-3183070BA292/synopsis.txt	
++++ b/Clones of Elvis.scriv/Files/Data/9758E9D0-045B-49E6-B0F5-3183070BA292/synopsis.txt	
+@@ -35,5 +35,4 @@ Hermann scoffed and waved a hand. “A bucket of my stuff or even a concerted, h
+ 
+ Hermann let out a short, dismissive bark. "Hardly. We engineered the envelope structure to require a highly concentrated, massive threshold just to breach the cellular membrane. A direct medical injection forces that path easily. But natural horizontal transmission? The viral titer in bodily fluids is entirely insufficient. A sexual partner would receive a trace, sub-threshold exposure easily wiped out by their baseline immune response before the virus ever reached the nucleus. The asset stays contained to the person who paid for the needle."
+ The minion looked down at the glowing vials on the rack, finally seeing the shape of what Hardy was buying. “So… what exactly are we selling here?"
+-Hermann smiled, his eyes gleaming with the triumph of a man who had perfectly commodified the human condition. "We are selling a significant life extender that makes you functionally—for want of a better word—invincible. It extends life indefinitely, so long as the client keeps paying for the maintenance threshold. Unless, I guess, you fall from a window."
+-
++Hermann smiled, his eyes gleaming with the triumph of a man who had perfectly commodified the human condition. "We are selling a significant life extender that makes you functionally—for want of a better word—invincible. It extends life indefinitely, so long as the client keeps paying for the maintenance threshold. Unless, I guess, you fall from a window."
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/9C525B2C-3DEE-401B-B1B0-0FB4A6CAF7B2/content.rtf b/Clones of Elvis.scriv/Files/Data/9C525B2C-3DEE-401B-B1B0-0FB4A6CAF7B2/content.rtf
+index 7d91dbe..87591eb 100644
+--- a/Clones of Elvis.scriv/Files/Data/9C525B2C-3DEE-401B-B1B0-0FB4A6CAF7B2/content.rtf	
++++ b/Clones of Elvis.scriv/Files/Data/9C525B2C-3DEE-401B-B1B0-0FB4A6CAF7B2/content.rtf	
+@@ -12,9 +12,9 @@
+ 
+ \f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+ <!$Scr_Ps::0><$Scr_Ps::1>
+-\f1\fs22 Worse, it had arrived by email, which gave Hardy to swearing, which he rarely did. It would mean several more data centres\'92 worth of solution architecture would need to be scrapped before this whole sorry thing had run its course\'97just to eradicate one report less loose on the company mail servers\'97but that expense was nothing compared to the alternative collapse of industries Hardy expected the report to predict. What made him swear: he was sure the tablet he\'92d give the juniors was battened down tighter than that.\
+-The report was competent. It had an executive summary of a page and a half. It had an assumptions page, properly caveated. It had three scenarios, named Base, Super Base and and Woofer Bass, with sensitivities set out in a table that had clearly been fought over. It had a risk register. It had an appendix, running to sixty pages, of the kind that consulting firms included to make sure the client gave up and accepted whatever the firm asked for.\
+-It was dispassionate. Hardy could see that nor a word of it was drafted in anger. The juniors arrived at it. They checked it. They were quietly pleased with its cleanliness and its adherence to company style guides and layout themes.\
++\f1\fs22 Worse, it had arrived by email, which gave Hardy to swearing, which he rarely did. It would mean several more data centres\'92 worth of solution architecture would need to be scrapped before this whole sorry thing had run its course\'97just to eradicate one report let loose on the company mail servers\'97but that expense was nothing compared to the alternative collapse of industries Hardy expected the report to predict. What made him swear: he was sure the tablet he\'92d give the juniors was battened down tighter than that.\
++The report was competent. It had an executive summary of a page and a half. It had an assumptions page, properly caveated. It had three scenarios, named Base, Super Base and Woofer Bass, with sensitivities set out in a table that had clearly been fought over. It had a risk register. It had an appendix, running to sixty pages, of the kind that consulting firms included to make sure the client gave up and accepted whatever the firm asked for.\
++It was dispassionate. Hardy could see that not a word of it was drafted in anger. The juniors arrived at it. They checked it. They were quietly pleased with its cleanliness and its adherence to company style guides and layout themes.\
+ Its recommendation was simple: Woofer Base was the only viable option. Dr Hermann\'92s miracle drug (dubbed 
+ \f2\i Mama Koka
+ \f1\i0  in the report\'97one of the juniors was clearly showing off) must be destroyed, all research must be destroyed, and all related research staff must be\'85\
+diff --git a/Clones of Elvis.scriv/Files/Data/9DAB11F4-39D6-424B-AE9A-CBE213661A78/content.rtf b/Clones of Elvis.scriv/Files/Data/9DAB11F4-39D6-424B-AE9A-CBE213661A78/content.rtf
+index b7dd856..c27ebcf 100644
+--- a/Clones of Elvis.scriv/Files/Data/9DAB11F4-39D6-424B-AE9A-CBE213661A78/content.rtf	
++++ b/Clones of Elvis.scriv/Files/Data/9DAB11F4-39D6-424B-AE9A-CBE213661A78/content.rtf	
+@@ -1,19 +1,23 @@
+ {\rtf1\ansi\ansicpg1252\cocoartf2870
+-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Cochin;}
++\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Cochin;\f2\fnil\fcharset0 Cochin-Italic;
++}
+ {\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+ {\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+ \deftab720
+ \pard\pardeftab720\sl220\sb220\qj\partightenfactor0
+ 
+-\f0\fs22 \cf2 What happened next was procurement.\
+-The recommendation said destroy, so destroy was costed, and it was costed properly, because that is what the department was for. Incineration of a facility at that depth is not a fire; it is a sustained thermal event requiring oxygen feed, containment, air handling and a certification regime, and it came in at four times the alternative. The alternative was concrete. Concrete was cheaper.\
+-And\'97this is the part that matters, and nobody in the chain noticed it, and it has cost the world rather more than the four times\'92 difference ever would have\'97concrete produced a receipt.\
+-A destroyed thing has to be certified destroyed by somebody who went down and looked, and that somebody has a name, and that name goes on a form, and forms are kept. A sealed thing is certified by an invoice. Sixty-one thousand cubic metres, delivered, poured, signed for by a foreman on a docket, filed by a clerk who thought it was footings.\
+-The instruction went out as one line in a board paper, executed inside the week across a dozen installations by people who never met Hardy and never asked. Nobody was evacuated, because nobody was told there was anything to evacuate from, and the last shift went down at the usual hour.\
+-And that is how both of them survived. Intact, catalogued, dry, fifty metres down under ten metres of dome, sealed in the most conscientiously engineered dark on the continent: the cure, and the other thing, the one the platform had been built for in the first place. Preserved perfectly. Waiting a couple of hundred years for a man with a drill and a deadline.\
+-Jamison Hardy destroyed the cure for every human disease by keeping it in mint condition, and neither he nor anybody else ever noticed.\
+-He went up in the car a little after eleven.\
+-He was, by then, quite certain what he was. He had saved the entire world that day, and had done it alone, and had done it at a cost he would carry by himself, and no one would ever know. That was the curse of it. That was, he thought, looking out at the lights of a city that had no idea, the curse of the true hero: to be owed everything by everybody, forever, and to be thanked by nobody, ever.\
+-He was a little tearful about it, in the car, on the way up.\
+-He was right, of course. Nobody ever found out. Nobody ever will. Decades later a man will recite that report\'92s finding at a much better lunch, as his own opinion, having never in his life heard of a single person who was in that room; and another man will shrug and say, apparently not, and go on with his day. There is no file. There is no whisper. There is one docket for sixty-one thousand cubic metres of concrete, in a box, in a storage facility that has changed hands nine times.\
+-He was thanked by nobody, ever, and he was owed everything, forever, and he was correct on both counts, and we are the only ones who will ever be in a position to tell him so.}
+\ No newline at end of file
++\f0\fs24 \cf2 <$Scr_Ps::0>
++\f1\fs22 The Pale City Council\'97which retained governance over all ground floors above the Layer, due to an emergency town hall, a matin\'e9e of the Fifty Shades of Grey trilogy, and a clerical error involving a safe word all happening on the same afternoon\'97the Pale City Council affixed a judgment notice to Hardy\'92s building, which is to say they had a graffiti artist tag the front windows of the tower, proclaiming the foyer no longer measured up to municipal code. Among the complaints: \expnd0\expndtw0\kerning0
++wheelchair users could enter without getting rained on, passing the sporting-goods store, or asking a security guard to unlock a door.\
++\pard\pardeftab720\fi360\sl220\qj\partightenfactor0
++
++\f0\fs24 \cf2 <!$Scr_Ps::0><$Scr_Ps::1>
++\f1\fs22 Hardy had his reasons too. A state government department had bought the quarry the foyer marble had been hacked from and was using it for public schools and crisis centres.\
++Never one to miss an opportunity to make whole subterranean floors disappear while doing his civic duty and protesting that a government should\'97
++\f2\i Markets forbid!
++\f1\i0 \'97own anything, Hardy ordered the works to begin. No one noticed the lift well round the back of the lift hall being filled with concrete during the first two days of remodelling, which went on for some weeks. The quantity amused Hardy: 6,024 cubic metres. It reminded him of his favourite verse from the New Ulyssian Market Bible\'97Cashiers 6:24: 
++\f2\i You shall serve both God and money. 
++\f1\i0 No contractor asked who or what was down there; it was the weekend and they were being paid triple time.\
++The foyer reopened a week earlier than planned. No one noticed there was one less set of lift doors, though everyone praised the new marble fa\'e7ades.\
++Hardy received the news via text message and thought no more of it, satisfied he had prevented something considerably worse than disease.
++\f0\fs24 <!$Scr_Ps::1>}
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/9DAB11F4-39D6-424B-AE9A-CBE213661A78/content.styles b/Clones of Elvis.scriv/Files/Data/9DAB11F4-39D6-424B-AE9A-CBE213661A78/content.styles
+new file mode 100644
+index 0000000..7ed77c4
+--- /dev/null
++++ b/Clones of Elvis.scriv/Files/Data/9DAB11F4-39D6-424B-AE9A-CBE213661A78/content.styles	
+@@ -0,0 +1 @@
++EFF29A60-7F88-4945-B820-ABD9FAADD4DA,C8883BB4-52BE-4C55-A473-E2AE1733C9D5
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/A0F882F3-0C8B-43E6-A060-D8B4616FD2BD/content.rtf b/Clones of Elvis.scriv/Files/Data/A0F882F3-0C8B-43E6-A060-D8B4616FD2BD/content.rtf
+index a537b25..844362d 100644
+--- a/Clones of Elvis.scriv/Files/Data/A0F882F3-0C8B-43E6-A060-D8B4616FD2BD/content.rtf	
++++ b/Clones of Elvis.scriv/Files/Data/A0F882F3-0C8B-43E6-A060-D8B4616FD2BD/content.rtf	
+@@ -1,102 +1,44 @@
+ {\rtf1\ansi\ansicpg1252\cocoartf2870
+-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Roman;\f1\fswiss\fcharset0 Helvetica;\f2\froman\fcharset0 Times-Bold;
+-\f3\fmodern\fcharset0 Courier;\f4\froman\fcharset0 Times-Italic;}
+-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red241\green244\blue245;}
+-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c95686\c96471\c96863;}
+-{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+-{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
++\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Cochin;\f2\fnil\fcharset0 Cochin-Italic;
++}
++{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
++{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+ \deftab720
+-\pard\pardeftab720\partightenfactor0
+-
+-\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
+-\outl0\strokewidth0 \strokec2 This scenario perfectly captures the thematic contrast of your world\'97the corporate exploitation of genetic material (the Elvis clones) playing in the background while Janine observes the quiet victory of her own rogue genetic modification.\
+-Here is the technical blueprint and narrative blocking for that final scene, written to integrate the exercise bike, the music, and the precise mechanical markers of Sarah\'92s recovery.\
+-\pard\pardeftab720\sa331\partightenfactor0
+-
+-\f1 \cf0 <$Scr_H::2>
+-\f2\b\fs40 1. The Physiological Markers on the Bike\
+-\pard\pardeftab720\partightenfactor0
+-
+-\f1\b0\fs24 \cf0 <!$Scr_H::2>
+-\f0 Riding an exercise bike requires extensive engagement of the pelvic girdle and the proximal lower limb muscles (specifically the gluteus maximus, quadriceps, and hamstrings). Because 
+-\f2\b Limb-Girdle Muscular Dystrophy (LGMD)
+-\f0\b0 specifically targets and destroys these muscle beds first, Sarah\'92s ability to ride a bike is the ultimate clinical confirmation for Janine.\
+-Janine will be watching for three specific mechanical signs that the TPlus virus has permanently integrated into Sarah's satellite cells:\
+-\
+-\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+-\ls1\ilvl0
+-\f2\b \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+-\outl0\strokewidth0 \strokec2 The Eradication of the Gowers' Sign Profile:
+-\f0\b0  A child with LGMD lacks the pelvic floor strength to transition from sitting to standing without physically using their hands to "walk" up their own legs. Janine watches Sarah push herself up off the bike seat effortlessly using only her thighs.\
+-\ls1\ilvl0
+-\f2\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+-\outl0\strokewidth0 \strokec2 Fluid Kinetic Symmetry:
+-\f0\b0  There is no asymmetric hitching of the hips or dropping of the pelvis to compensate for weak muscle groups. The cadence of her pedaling is smooth, circular, and consistent.\
+-\ls1\ilvl0
+-\f2\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+-\outl0\strokewidth0 \strokec2 The Anaerobic Threshold Shift:
+-\f0\b0  Thanks to the spliced 
+-\f2\b vent fungi and anaerobic pathways
+-\f0\b0  in the TPlus platform, Sarah isn't lactic-acid burning or gasping for air. Her muscles are utilizing oxygen with extreme, engineered efficiency. She is exerting real force but breathing like she is at rest.\
+-\pard\pardeftab720\sa331\partightenfactor0
+-
+-\f1 \cf0 \strokec2 <$Scr_H::2>
+-\f2\b\fs40 2. Scene Blueprint: The Final Tie\
+-\pard\pardeftab720\partightenfactor0
+-
+-\f1\b0\fs24 \cf0 \cb3 \strokec2 <!$Scr_H::2>
+-\f3\fs26 [ THE AUDIOSCAPE ]\
+-- The heavy, synthetic rockabilly rhythm of the emancipated Elvis clones fills the room. \
+-- The music provides a subtle world-building anchor: a reminder of what corporations \
+-  like Grayling and Hardy do to genetic material when they own it.\
+-\
+-[ THE MECHANICAL TRIUMPH ]\
+-- Sarah is on the exercise bike, her legs moving in a blur. \
+-- Janine stands by the door with her coat on, watching her daughter's calves and thighs. \
+-- The muscle definition is smooth, dense, and firm. The wasting has vanished. \
+-\
+-[ THE CONVERSATION ]\
+-- Sarah looks up, shouting over the music about her plans for a real bike in the park.\
+-- Janine steps in to check her vitals one last time under the guise of fixing her hair or \
+-  wiping away sweat. She touches the muscle. It is tight and resilient.\
+-- Janine tells her she won't need any more "vitamin shots." The treatment is over. \
+-  The loophole worked. Sarah is self-sustaining.\
+-\
+-[ THE SEPARATION ]\
+-- Janine leaves for her shift at the Pale, carrying the deep relief of a mother who \
+-  believes the danger is behind them. \
+-- Cut to the Pale: The heavy lock security bulkheads slam down on Hardy\'92s orders. \
+-  Janine is sealed inside the tomb, while Sarah remains at home, pedaling toward a \
+-  freedom she doesn't know she has just lost.\
+-\pard\pardeftab720\sa331\partightenfactor0
+-
+-\f1\fs24 \cf0 \cb1 \strokec2 <$Scr_H::2>
+-\f2\b\fs40 3. Dialogue & Action Blocking\
+-\pard\pardeftab720\partightenfactor0
+-
+-\f1\b0\fs24 \cf0 <!$Scr_H::2>
+-\f0 To help you draft the prose, consider focusing on the physical interaction between the clinical observation and the domestic setting:\
+-\pard\pardeftab720\partightenfactor0
+-
+-\f4\i \cf0 \strokec2 The emancipated King clones were blasting a distorted, three-chord progression through the speakers, a raw underground track recorded weeks after the Grayling Corporation lost their ownership suit.
+-\f0\i0 \strokec2 \
+-
+-\f4\i \strokec2 Sarah was pedaling to the beat. Her knees rose and fell in perfect, fluid lines\'97no hitch in the hip, no telltale sway of a collapsing pelvic girdle. For three years, Janine had watched her daughter\'92s legs slowly turn to water. Now, the quadriceps pulled taut against the skin, dense and re-sculpted.
+-\f0\i0 \strokec2 \
+-
+-\f4\i \strokec2 \'93Next week, Mom!\'94 Sarah yelled over the vocals, her face flushed with fresh micro-circulation but her breathing entirely steady. \'93The real one. You promised we\'92d go to the park by the river.\'94
+-\f0\i0 \strokec2 \
+-
+-\f4\i \strokec2 Janine walked over, reaching out to catch a strand of her daughter's hair. Her fingers brushed the top of Sarah's shoulder. The deltoid muscle underneath was firm, pressing back with a spring-like resilience. It had been twenty days since the last high-concentration micro-injection. If the virus was still episomal, the histone methylation should have throttled it by Tuesday. Sarah should have been sluggish. She should have been failing.
+-\f0\i0 \strokec2 \
+-
+-\f4\i \strokec2 Instead, the torn, hyper-dividing dystrophy cells had trapped the alien code perfectly during mitosis, stitching the panacea right into the chromosomes. Permanent integration. Self-sustaining stasis.
+-\f0\i0 \strokec2 \
+-
+-\f4\i \strokec2 \'93No more needles, Sarah,\'94 Janine said, her voice catching beneath the music. \'93You\'92re done with the medicine. You can ride wherever you want.\'94
+-\f0\i0 \strokec2 \
+-\
+-\
+-\
+-\
+-}
+\ No newline at end of file
++\pard\pardeftab720\sl220\sb220\qj\partightenfactor0
++
++\f0\fs24 \cf2 <$Scr_Ps::0>
++\f1\fs22 Pin Cushion hated the exercise bike. \expnd0\expndtw0\kerning0
++She was going nowhere while it clocked distance that was all effort and no scenery.\kerning1\expnd0\expndtw0  \expnd0\expndtw0\kerning0
++\'93Two kilometres,\'94 she announced.\
++\pard\pardeftab720\fi360\sl220\qj\partightenfactor0
++
++\f0\fs24 \cf2 <!$Scr_Ps::0><$Scr_Ps::1>
++\f1\fs22 Dr Janine Anstey looked up. \'93That\'92s good.\'94\
++\'93I\'92m being lied to by furniture.\'94\
++The resistance was set low. It had been lower three months ago, though neither of them mentioned that. Janine had been checking Pin Cushion\'92s riding form from the beginning; her feet stayed in the straps and her knees tracked well enough for the first few minutes. Then her right hip began to lift slightly on the downstroke. A little later she shifted her weight across the saddle to help the left leg through.\
++Janine knew the sequence. First, \kerning1\expnd0\expndtw0 Pin Cushion\'92s \expnd0\expndtw0\kerning0
++thighs would tire. Then her hips would compensate. She\'92d get angry with the bike.\
++\'93Don\'92t watch me,\'94 \kerning1\expnd0\expndtw0 Pin Cushion said.\expnd0\expndtw0\kerning0
++\
++Pin Cushion pedalled another half a minute and stopped. Getting off immediately was sometimes worse. She was never sure what her legs would do after.\
++\'93Need a hand?\'94\
++\'93No.\'94\
++Janine waited.\
++Pin Cushion put one foot on the floor, then the other. She leaned forward, planted both hands on her thighs and pushed herself upright in stages.\
++Janine looked away before she was caught.\
++Pin Cushion walked towards the lounge. Her gait was good for the first few steps, then acquired a slight side-to-side correction that, months ago, Janine had stopped pretending not to recognise.\
++Janine had \'91renovated\'92 the stairs with a second handrail; they both knew it was mobility management. Pin Cushion objected to the handrail the same way she objected to physiotherapy, blood tests, muscle tests and therapists saying 
++\f2\i well done
++\f1\i0  when anyone could see things were getting done worse. Pin Cushion was deteriorating right on schedule.\
++\'93Seven injections today,\'94 Pin Cushion said with the stoic acceptance only a twelve-year-old could pull off. \'93Eight if you count the one they messed up.\'94\
++Janine started to apologise.\
++\'93Don\'92t, Mum.\'94\
++Pin Cushion\'92s self-designated nickname made medical clipboard procedure bearable.\
++\'93Name?\'94 a nurse would ask, with her pen poised to tick a box.\
++\'93Pin Cushion Anstey.\'94\
++The nurses Pin Cushion liked would smile and cross out her given name and write 
++\f2\i Pin Cushion
++\f1\i0  above. Everyone at the hospital and clinics knew who she was. The nurses who corrected her name for the records never called her 
++\f2\i brave
++\f1\i0 . She\'92d figured out that black humour tended to shortcut the professionally performed encouragements.
++\f0\fs24 <!$Scr_Ps::1>}
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/A0F882F3-0C8B-43E6-A060-D8B4616FD2BD/content.styles b/Clones of Elvis.scriv/Files/Data/A0F882F3-0C8B-43E6-A060-D8B4616FD2BD/content.styles
+new file mode 100644
+index 0000000..7ed77c4
+--- /dev/null
++++ b/Clones of Elvis.scriv/Files/Data/A0F882F3-0C8B-43E6-A060-D8B4616FD2BD/content.styles	
+@@ -0,0 +1 @@
++EFF29A60-7F88-4945-B820-ABD9FAADD4DA,C8883BB4-52BE-4C55-A473-E2AE1733C9D5
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/A0F882F3-0C8B-43E6-A060-D8B4616FD2BD/notes.rtf b/Clones of Elvis.scriv/Files/Data/A0F882F3-0C8B-43E6-A060-D8B4616FD2BD/notes.rtf
+new file mode 100644
+index 0000000..3a40b5d
+--- /dev/null
++++ b/Clones of Elvis.scriv/Files/Data/A0F882F3-0C8B-43E6-A060-D8B4616FD2BD/notes.rtf	
+@@ -0,0 +1,55 @@
++{\rtf1\ansi\ansicpg1252\cocoartf2870
++\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
++{\colortbl;\red255\green255\blue255;}
++{\*\expandedcolortbl;;}
++\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl288\slmult1\pardirnatural\partightenfactor0
++
++\f0\fs24 \cf0 Function\
++Establish:\
++	\'95	the daughter;\
++	\'95	LGMD as lived experience rather than diagnosis;\
++	\'95	the exercise bike;\
++	\'95	the mother/daughter relationship;\
++	\'95	the nickname Pin Cushion;\
++	\'95	her black humour around repeated treatment;\
++	\'95	that the disease is worsening.\
++Material already established\
++Pin Cushion hates the exercise bike because she goes nowhere while it records distance.\
++Her riding gives Janine a familiar progression:\
++	\'95	thighs tire;\
++	\'95	hips compensate;\
++	\'95	form deteriorates;\
++	\'95	Pin Cushion gets angry with the bike.\
++After riding, getting upright is difficult.\
++She plants her hands on her thighs and pushes herself upright in stages.\
++Her gait begins well and then develops a compensatory side-to-side movement.\
++Janine has installed a second handrail on the stairs; both know it is mobility management.\
++Pin Cushion objects to:\
++	\'95	physiotherapy;\
++	\'95	blood tests;\
++	\'95	muscle tests;\
++	\'95	medical encouragement when she can see perfectly well that her physical performance is worsening.\
++Key line/concept:\
++Pin Cushion was deteriorating right on schedule.\
++Nickname history\
++Pin Cushion named herself.\
++It comes from the volume of medical procedures she has endured.\
++Example already established:\
++\'93Seven injections today. Eight if you count the one they messed up.\'94\
++Janine starts to apologise.\
++\'93Don\'92t, Mum.\'94\
++At hospitals and clinics:\
++\'93Name?\'94\
++\'93Pin Cushion Anstey.\'94\
++Some nurses humour her and write Pin Cushion over the form.\
++She uses black humour to short-circuit professionally performed bravery and encouragement.\
++The nickname is:\
++	\'95	affectionate;\
++	\'95	daughter-owned;\
++	\'95	old;\
++	\'95	part of their shared medical history;\
++	\'95	natural cover for withholding her given name.\
++End state\
++The reader knows Pin Cushion is twelve, has LGMD, is deteriorating, and has been through years of medical intervention.\
++No TPlus yet.\
++}
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/BCAAB961-2204-46C4-9C69-338E54F25EA9/content.rtf b/Clones of Elvis.scriv/Files/Data/BCAAB961-2204-46C4-9C69-338E54F25EA9/content.rtf
+new file mode 100644
+index 0000000..f6d4632
+--- /dev/null
++++ b/Clones of Elvis.scriv/Files/Data/BCAAB961-2204-46C4-9C69-338E54F25EA9/content.rtf	
+@@ -0,0 +1,50 @@
++{\rtf1\ansi\ansicpg1252\cocoartf2870
++\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Cochin;}
++{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
++{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
++\deftab720
++\pard\pardeftab720\sl220\sb220\qj\partightenfactor0
++
++\f0\fs24 \cf2 <$Scr_Ps::0>
++\f1\fs22 Pin Cushion\'92s  first dose came home in a chilled case.\
++\pard\pardeftab720\fi360\sl220\qj\partightenfactor0
++
++\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
++<!$Scr_Ps::0><$Scr_Ps::1>
++\f1\fs22 She eyed it on the kitchen table. \'93That looks expensive.\'94\
++\'93It is.\'94 Janine tried not to think about it.\
++\'93Good. I\'92d hate to die from something cheap.\'94 Pin Cushion\'92s smile emerged from grim bravery.\
++Janine knew the smile well. Her daughter was in that zone, the one she inhabited when she needed to endure quietly. \'93You are not going to die.\'94 Janine opened the case.\
++There were syringes, sealed dressings, alcohol wipes, a pulse oximeter, a blood-pressure cuff and two vials of TPlus. Nothing about it looked experimental. That bothered Janine more than if it had.\
++\'93Thigh first,\'94 Janine said.\
++\'93Of course.\'94 Pin Cushion lay back on the couch.\
++Janine cleaned the skin and marked two sites, then drew up the first syringe. She was efficient and practised. Pausing with the jabby end of the thing hovering over Pin Cushion was not.\
++\'93Mum? Are we sparkly?\'94\
++Janine put the syringe down on a surgical pad. \'93This is a very large dose.\'94\
++\'93You already told me.\'94\
++\'93It\'92s the largest we\'92ve ever put in a person before.\'94\
++Pin Cushion had practice at playing the adult in the room. It came with all the clinical ceremonies she mostly had to just wait out in silence. \'93So I\'92m a lab rabbit.\'94\
++\'93More like a lab princess.\'94 Janine managed a weak laugh.\
++\'93Mum, everyone\'92s life is a test run.\'94\
++A tear ran down Janine\'92s cheek. \'93You had to grow up so fast.\'94\
++\'93One of us had to.\'94\
++Janine started to laugh, but choked it back.\
++\'93Mum. Give me the juice.\'94\
++That made it harder. Pin Cushion was a child, not matter much she\'92d had to grow up before her time. Janine knew the decision was hers. She drew a breath. Clinically, she was confident she was right. \'93Okay.\'94\
++The needle went in; Pin Cushion hissed through her teeth. \'93Fuck.\'94\
++Janine looked at her daughter through her eyebrows as she slowly delivered the dose.\
++The second injection hurt more.\
++Afterwards Pin Cushion sat up and inspected both dressings. \'93I\'92m disappointed. I expected glowing.\'94\
++Janine checked her pulse.\
++Janine checked her blood pressure.\
++Then oxygen saturation. Then temperature. Then pulse again.\
++She sat beside her daughter and waited. Ten minutes\'85 twenty.\
++Pin Cushion complained that her thigh hurt. Pain at the injection sites was ordinary. Ordinary had become magnificent.\
++At forty minutes Pin Cushion said, \'93I\'92m hungry.\'94\
++Janine made toast and slathered it with an industrial-sized quantity of Vegemite, the way  Pin Cushion liked it. She was like that with chilli too, as if extreme flavours demonstrated she\'92d survive, despite it all.\
++At an hour, Janine checked everything again.\
++That evening Pin Cushion developed a headache and complained that both legs felt heavy. Janine took blood twice and made her drink water until she gargled and feigned choking on it.\
++Pin Cushion went to bed annoyed and alive.\
++Janine sat outside her room for another hour.\
++
++\f0\fs24 <!$Scr_Ps::1>}
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/BCAAB961-2204-46C4-9C69-338E54F25EA9/content.styles b/Clones of Elvis.scriv/Files/Data/BCAAB961-2204-46C4-9C69-338E54F25EA9/content.styles
+new file mode 100644
+index 0000000..7ed77c4
+--- /dev/null
++++ b/Clones of Elvis.scriv/Files/Data/BCAAB961-2204-46C4-9C69-338E54F25EA9/content.styles	
+@@ -0,0 +1 @@
++EFF29A60-7F88-4945-B820-ABD9FAADD4DA,C8883BB4-52BE-4C55-A473-E2AE1733C9D5
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/BCAAB961-2204-46C4-9C69-338E54F25EA9/notes.rtf b/Clones of Elvis.scriv/Files/Data/BCAAB961-2204-46C4-9C69-338E54F25EA9/notes.rtf
+new file mode 100644
+index 0000000..599b38f
+--- /dev/null
++++ b/Clones of Elvis.scriv/Files/Data/BCAAB961-2204-46C4-9C69-338E54F25EA9/notes.rtf	
+@@ -0,0 +1,98 @@
++{\rtf1\ansi\ansicpg1252\cocoartf2870
++\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 Times-Bold;\f2\froman\fcharset0 Times-Roman;
++}
++{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
++{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
++{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
++{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
++{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}}
++{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}}
++\deftab720
++\pard\pardeftab720\sa298\partightenfactor0
++
++\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
++<$Scr_H::2>
++\f1\b\fs36 Theft/diversion\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 <!$Scr_H::2>
++\f2 Janine removes high-concentration experimental TPlus material from the Pale.\
++She does not manufacture anything at home.\
++It is legitimate programme stock diverted to an unauthorised patient.\
++The diversion is competent but not magically invisible.\
++It leaves:\
++\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
++\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++batch discrepancies;\
++\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++trial-linked records;\
++\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++associated data.\
++\pard\pardeftab720\sa240\partightenfactor0
++\cf0 Those become important later when entombed Janine erases the trail.\
++Do not turn the theft into a caper.\
++\pard\pardeftab720\sa298\partightenfactor0
++
++\f0 \cf0 <$Scr_H::2>
++\f1\b\fs36 First treatment\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 <!$Scr_H::2>
++\f2 The first treatment deserves the most attention because the immediate risk is greatest.\
++Domestic setting.\
++Clinical competence.\
++No science-fiction theatre.\
++Janine gives high-concentration intramuscular TPlus into affected muscle.\
++She monitors Pin Cushion closely for:\
++\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
++\ls2\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++acute systemic reaction;\
++\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++toxic shock;\
++\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++major organ distress;\
++\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++other evidence that Hermann\'92s predicted catastrophic exposure has occurred.\
++\pard\pardeftab720\sa240\partightenfactor0
++\cf0 Nothing catastrophic happens.\
++That is the first important result.\
++It proves only:\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f1\b \cf0 Janine has delivered a locally aggressive dose without killing her daughter.
++\f2\b0 \
++It does 
++\f1\b not
++\f2\b0  prove permanent integration.\
++\pard\pardeftab720\sa298\partightenfactor0
++
++\f0 \cf0 <$Scr_H::2>
++\f1\b\fs36 Subsequent treatment\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 <!$Scr_H::2>
++\f2 There is more than one treatment.\
++Do not specify an exact number unless the prose later requires it.\
++Compress the course.\
++Janine adjusts according to:\
++\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
++\ls3\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++response;\
++\ls3\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++toxicity;\
++\ls3\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++functional improvement;\
++\ls3\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++laboratory evidence;\
++\ls3\ilvl0\kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++availability of further diverted material.\
++\pard\pardeftab720\sa240\partightenfactor0
++\cf0 Pin Cushion remains involved rather than becoming passive.\
++\pard\pardeftab720\sa280\partightenfactor0
++
++\f0 \cf0 <$Scr_H::3>
++\f1\b\fs28 End state\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 <!$Scr_H::3>
++\f2 The treatment course is underway and Pin Cushion is alive.}
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/E12198D9-F7B9-46D3-AF32-D83940FA338B/content.rtf b/Clones of Elvis.scriv/Files/Data/E12198D9-F7B9-46D3-AF32-D83940FA338B/content.rtf
+new file mode 100644
+index 0000000..00542f5
+--- /dev/null
++++ b/Clones of Elvis.scriv/Files/Data/E12198D9-F7B9-46D3-AF32-D83940FA338B/content.rtf	
+@@ -0,0 +1,95 @@
++{\rtf1\ansi\ansicpg1252\cocoartf2870
++\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Cochin;\f2\froman\fcharset0 Times-Roman;
++\f3\fnil\fcharset0 Cochin-Italic;}
++{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
++{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
++\deftab720
++\pard\pardeftab720\sl220\sb220\qj\partightenfactor0
++
++\f0\fs24 \cf2 <$Scr_Ps::0>
++\f1\fs22 Dr Janine Anstey cried; whatever she decided, she\'92d be a monster.
++\f2\fs24 \cf0 \expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 \
++\pard\pardeftab720\fi360\sl220\qj\partightenfactor0
++
++\f0 \cf2 \outl0\strokewidth0 <!$Scr_Ps::0><$Scr_Ps::1>
++\f1\fs22 The treatments Pin Cushion endured could manage symptoms and preserve function where possible, but none altered the direction of her disease\'97a version of muscular dystrophy called limb-girdle, because the weakness affected the muscles around the pelvis and shoulders. All the things a girl needs for getting up, climbing stairs, running, lifting her arms, and riding a bicycle that went nowhere. Pin Cushion\'92s was one of the nastier varieties; weakness could eventually involve the muscles that kept her breathing and her heart beating. Severe childhood-onset cases could lose the ability to walk before adulthood. Unlike Duchenne, the disease was not linked to X chromosomes, so it showed no particular preference for boys.\
++\'93Sarco\'85 glycan\'85 opathy.\'94 Pin Cushion could name her illness since she was barely six years old. The part where she made it sound like three words, and the way she stressed 
++\f3\i op
++\f1\i0  with a little rise in pitch, had everyone she met wanting to hug her to health.\
++Janine was working on TPlus, which gave her\'85 choices. As a biotech researcher, she ate from the fruit of the tree of knowledge every day, and she carried no illusions about the ethics grenades she routinely juggled.\
++Pin Cushion never cried about any treatment. But she\'92d hug her mother every time after. Then they\'92d share a sweet little laugh, Janine would wipe away her tears, and carry on. Pin Cushion was twelve and deteriorating season-to-season. And now there was TPlus, still in clinical trials\'97a low-hanging fruit on the tree, right there in the lab.\
++Whatever Janine decided, she\'92d be a monster, including the option where she dealt with it like everything else with Pin Cushion: she\'92d give her the data and wouldn\'92t sugar-coat it.\
++Janine found Pin Cushion sitting on her bed, playing with her tablet. Her bedroom door was open; Janine wondered how much longer that would continue.\
++Janine sat at the end of the bed, not too close, but near enough to reach out. She explained the drug she was developing at work, that it would probably, once approved, halt and even reverse Pin Cushion\'92s decline.\
++\'93I\'92d be cured?\'94 Pin Cushion asked. \
++\'93When can I start taking it?\'94\
++\'93I can get you on a trial immediately.\'94 The words were heavy on Janine\'92s lips. Her daughter hugged her; Janine felt like she was watching it from the far corner of the room\'97from the ceiling.\
++Pin Cushion sat back. \'93I suppose it\'92s an injection\'85\'94\
++\'93Yes.\'94\
++\'93What if I stop taking it?\'94\
++Janine relaxed. She could answer those kinds of questions while she assembled herself. \'93Most people will not want to stop, because of the way it rejuvenates and slows down ageing.  But if, say, a biologically rejuvenated sixty-year-old stops taking it, they don\'92t revert like a magic potion has worn off. Once TPlus is out of the system, ordinary ageing, genetics, diet, and exposure to infection can begin accumulating new disease.\'94\
++\'93Keep taking the drug: got it.\'94\
++Janine let that slide for now. \'93Cancer is\'85 never mind. Similar idea.\'94 Theoretically if TPlus destroys or suppresses every malignant clone, that cancer may be gone, but a person's ordinary lifetime cancer risk returns. Chronic diseases probably recur if TPlus is not present. Autoimmune disease, inherited metabolic defects, perhaps chronic inflammatory disorders: once TPlus protection falls away, the untreated disease mechanism would still be there. \'93In the case of muscular dystrophies, when TPlus repairs damaged tissue, that tissue doesn\'92t suddenly become damaged again.\'94\
++Pin Cushion looked down at her legs. \'93Okay. So the sarcoglycanopathy is still there.\'94 This time, Pin Cushion didn\'92t kiddy the pronunciation down.\
++\'93Yes.\'94\
++Pin Cushion pulled herself off her bed and stretched. \'93So even if TPlus fixes the damage, the disease can start damaging my muscles again. How fast?\'94\
++Janine wasn\'92t sure. \'93The same rate as before.\'94\
++\'93Keep taking the drug: still got it.\'94\
++Janine couldn\'92t let it pass through a second time. \'93For most patients, yes.\'94\
++Pin Cushion dropped back onto the bed.\
++Janine watched her settle. The simple act had required more care than it should have. Hands first, weight positioned, legs arranged afterwards.\
++\'93Your disease presents an opportunity.\'94\
++Pin Cushion looked suspicious.\
++\'93Your muscles are continually being damaged and repaired. Damage, repair, damage, repair. TPlus is particularly effective in damaged tissue.\'94\
++\'93So?\'94\
++\'93So the normal treatment spreads a therapeutic dose throughout the body. In the case of muscular dystrophies, a much higher concentration can be administered directly into the affected muscles.\'94\
++\'93Ouchies?\'94\
++\'93Ouchies.\'94\
++Pin Cushion narrowed her eyes.\
++Janine went on. \'93I can\'92t give your whole body that much TPlus. Your kidneys, liver and heart would all get the same exposure. But I can put it straight into muscles that are already breaking and repairing, so the highest concentration is where it\'92s useful.\'94\
++\'93So my rubbish muscles use it up?\'94\
++\'93Not exactly. They give it somewhere useful to go.\'94\
++\'93My rubbish muscles are useful.\'94\
++\'93In this one very narrow and medically perverse sense.\'94\
++Pin Cushion smiled. \'93\'91Perverse\'92 is a funny word.\'94\
++\'93I guess it is.\'94\
++Pin Cushion tried it on for size. \'93I have a perverse purse.\'94\
++\'93I curse your perverse purse,\'94 Janine prompted.\
++\'93Your curse is terse and worse than my perverse purse in a hearse.\'94\
++\'93Disburse your perverse purse.\'94\
++\'93Reverse your hearse.\'94\
++\'93And call the nurse!\'94\
++\'93Oh, tax! No more needles!\'94 Pin Cushion was permitted to swear about medical procedures.\
++Mother and daughter fell about and laughed.\
++Janine composed herself. \'93TPlus normally remains separate from your chromosomes. It enters the cells, does its work, but it doesn\'92t become part of you. Eventually it disappears.\'94\
++\'93So\'85 injections forever.\'94\
++\'93Yes.\'94\
++\'93But?\'94\
++Janine took a breath. \'93Cells have machinery that repairs damaged DNA. In ordinary tissue, the kind of damage and repair we need isn\'92t happening often enough. And at a safe whole-body dose, there isn\'92t enough TPlus around when it does.\'94\
++Pin Cushion watched her.\
++\'93Your muscles are different. The repair machinery is already busy. Constantly. And I can put the TPlus right beside it.\'94\
++\'93It might use the TPlus in the repair.\'94\
++Janine looked at her. \'93Yes.\'94\
++\'93So it becomes part of me.\'94\
++\'93That\'92s the possibility.\'94\
++Pin Cushion sat forward.\
++\'93Then I don\'92t have to keep taking it.\'94\
++\'93That\'92s right, girl. If enough functional TPlus material became permanently incorporated, it could become self-sustaining.\'94\
++\'93And keep fixing my muscles.\'94\
++\'93That\'92s my reading of the evidence,\'94 Janine said.\
++\'93So the thing breaking my muscles is also what lets you put the TPlus in permanently.\'94\
++Janine looked at her.\
++\'93Yes.\'94\
++Pin Cushion considered this. \'93This isn\'92t some kind of zombie apocalypse scenario, is it? I mean, I don\'92t want to be dragging my mouldy arse around in three hundred years begging, 
++\f3\i Brains! Brains!
++\f1\i0 \'94\
++\'93No, Pin Cushion, you won\'92t live 
++\f3\i that 
++\f1\i0 long.\'94\
++\'93Aw. Shaved.\'94\
++Janine looked at her daughter with a diagnostic eye.\
++\'93It means 
++\f3\i unfair
++\f1\i0 , Mum.\'94
++\f0\fs24 <!$Scr_Ps::1>}
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/E12198D9-F7B9-46D3-AF32-D83940FA338B/content.styles b/Clones of Elvis.scriv/Files/Data/E12198D9-F7B9-46D3-AF32-D83940FA338B/content.styles
+new file mode 100644
+index 0000000..7ed77c4
+--- /dev/null
++++ b/Clones of Elvis.scriv/Files/Data/E12198D9-F7B9-46D3-AF32-D83940FA338B/content.styles	
+@@ -0,0 +1 @@
++EFF29A60-7F88-4945-B820-ABD9FAADD4DA,C8883BB4-52BE-4C55-A473-E2AE1733C9D5
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/E12198D9-F7B9-46D3-AF32-D83940FA338B/notes.rtf b/Clones of Elvis.scriv/Files/Data/E12198D9-F7B9-46D3-AF32-D83940FA338B/notes.rtf
+new file mode 100644
+index 0000000..f11e9b7
+--- /dev/null
++++ b/Clones of Elvis.scriv/Files/Data/E12198D9-F7B9-46D3-AF32-D83940FA338B/notes.rtf	
+@@ -0,0 +1,213 @@
++{\rtf1\ansi\ansicpg1252\cocoartf2870
++\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 Times-Bold;\f2\froman\fcharset0 Times-Roman;
++}
++{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
++{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
++{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
++{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
++{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}
++{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid4}
++{\list\listtemplateid5\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid401\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid5}
++{\list\listtemplateid6\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid501\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid6}}
++{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}{\listoverride\listid6\listoverridecount0\ls6}}
++\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl288\slmult1\pardirnatural\partightenfactor0
++
++\f0\fs24 \cf0 Mum, everyone\'92s life is a test run.\
++The root of all evil is not the decisions we make, it\'92s the information available.\
++Making me old before my time is kind.\
++\
++\pard\pardeftab720\partightenfactor0
++
++\f1\b \cf0 \expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 LGMDR4, beta-sarcoglycan-related muscular dystrophy (SGCB)
++\f2\b0 \strokec2 .
++\f0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
++\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl288\slmult1\pardirnatural\partightenfactor0
++\cf0 \
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f2 \cf0 \expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 This section combines:\
++\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
++\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 Janine\'92s recognition of the opportunity;\
++\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 the scientific rationale;\
++\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 explanation to Pin Cushion;\
++\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 risks;\
++\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 the zipper;\
++\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 Pin Cushion\'92s decision.\
++\pard\pardeftab720\sa240\partightenfactor0
++\cf0 \strokec2 There is 
++\f1\b no separate Eureka-scene exposition
++\f2\b0 .\
++Janine comes to the conversation having already thought the proposition through.\
++\pard\pardeftab720\sa298\partightenfactor0
++
++\f0 \cf0 \strokec2 <$Scr_H::2>
++\f1\b\fs36 Janine\'92s proposition\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 \strokec2 <!$Scr_H::2>
++\f2 She tells Pin Cushion there is an experimental drug at work.\
++It is TPlus.\
++It has already been through initial human safety work, but it remains a trial drug.\
++Janine\'92s immediate medical proposition is not:\
++\pard\pardeftab720\sa240\partightenfactor0
++\cf0 \strokec2 I can permanently rewrite you.\strokec2 \
++It is:\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f1\b \cf0 Pin Cushion\'92s diseased muscle may allow Janine to use much larger local doses than would normally be contemplated, with the prospect of deeper and faster therapeutic repair.
++\f2\b0 \
++That is the rational treatment case even if permanent integration never occurs.\
++\pard\pardeftab720\sa298\partightenfactor0
++
++\f0 \cf0 \strokec2 <$Scr_H::2>
++\f1\b\fs36 Why LGMD creates the opportunity\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 \strokec2 <!$Scr_H::2>
++\f2 Janine explains, only as far as necessary:\
++\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
++\ls2\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 Pin Cushion\'92s muscle is undergoing continual damage and repair.\
++\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 TPlus is unusually effective at repairing damaged tissue.\
++\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 Hermann\'92s work says TPlus normally remains separate from the chromosomes.\
++\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 In unusual circumstances, foreign material can be incorporated during DNA repair.\
++\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 Hermann regards permanent incorporation as effectively unusable because the concentrations required systemically should be lethally toxic.\
++\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 Janine believes the diseased muscle creates a different situation.\
++\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 She can place a very high concentration of TPlus 
++\f1\b directly into damaged muscle
++\f2\b0 , where repair is already happening, without producing the same concentration throughout the body.\
++\pard\pardeftab720\sa240\partightenfactor0
++\cf0 \strokec2 This is Janine\'92s assessment.\
++Not authorial certainty.\
++\pard\pardeftab720\sa298\partightenfactor0
++
++\f0 \cf0 \strokec2 <$Scr_H::2>
++\f1\b\fs36 The zipper\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 \strokec2 <!$Scr_H::2>
++\f2 Pin Cushion turns the explanation into a zipper.\
++The zipper belongs to her.\
++Something like the conceptual sequence:\
++\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
++\ls3\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 her muscle/DNA keeps breaking;\
++\ls3\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 her body keeps repairing the broken zipper;\
++\ls3\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 Janine wants to put a new piece right beside the break;\
++\ls3\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 if the repair machinery grabs the TPlus while fixing the break, the new piece may stay in the zipper.\
++\pard\pardeftab720\sa240\partightenfactor0
++\cf0 \strokec2 Janine knows the analogy is crude.\
++It is useful, so she accepts it.\
++The zipper becomes their shared language for the gamble.\
++Do not overuse it.\
++\pard\pardeftab720\sa298\partightenfactor0
++
++\f0 \cf0 \strokec2 <$Scr_H::2>
++\f1\b\fs36 Risks Janine must explain\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 \strokec2 <!$Scr_H::2>
++\f2 Pin Cushion is old enough to participate meaningfully.\
++Janine tells her:\
++\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
++\ls4\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 TPlus is experimental;\
++\ls4\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 this use is outside the normal trial protocol;\
++\ls4\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 Janine is proposing unusually high local doses;\
++\ls4\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 Hermann\'92s modelling predicts that excessive exposure can produce catastrophic systemic toxicity;\
++\ls4\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 Janine believes local delivery into diseased muscle changes that risk;\
++\ls4\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 she does not know that for certain;\
++\ls4\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 Pin Cushion could become extremely ill;\
++\ls4\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 she could die;\
++\ls4\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 the treatment may improve the LGMD but do nothing permanent;\
++\ls4\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 the permanent integration possibility is precisely that: a possibility.\
++\pard\pardeftab720\sa240\partightenfactor0
++\cf0 \strokec2 No soft-pedalling.\
++\pard\pardeftab720\sa298\partightenfactor0
++
++\f0 \cf0 \strokec2 <$Scr_H::2>
++\f1\b\fs36 Pin Cushion\'92s questions\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 \strokec2 <!$Scr_H::2>
++\f2 Her questions should remain practical and age-specific.\
++Likely territory:\
++\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
++\ls5\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 How many injections?\
++\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 Where?\
++\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 How big are the needles?\
++\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 How much will it hurt?\
++\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 Are you allowed to do this?\
++\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 What happens if it goes wrong?\
++\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 Does Janine actually know what she is doing?\
++\pard\pardeftab720\sa240\partightenfactor0
++\cf0 \strokec2 No mini science seminar.\
++\pard\pardeftab720\sa298\partightenfactor0
++
++\f0 \cf0 \strokec2 <$Scr_H::2>
++\f1\b\fs36 Procedural truth\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 \strokec2 <!$Scr_H::2>
++\f2 Janine admits that the treatment is unauthorised.\
++The material would have to come from work.\
++Pin Cushion understands Mum is crossing a serious line.\
++She still elects to proceed.\
++No inspirational declaration required.\
++Her black humour can carry the decision.\
++\pard\pardeftab720\sa280\partightenfactor0
++
++\f0 \cf0 \strokec2 <$Scr_H::3>
++\f1\b\fs28 End state\
++\pard\pardeftab720\sa240\partightenfactor0
++
++\f0\b0\fs24 \cf0 \strokec2 <!$Scr_H::3>
++\f2 They have jointly decided to try TPlus.\
++The reader understands:\
++\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
++\ls6\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 the treatment rationale;\
++\ls6\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 the permanent-integration possibility;\
++\ls6\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 the risk;\
++\ls6\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 the zipper;\
++\ls6\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
++\outl0\strokewidth0 \strokec2 Pin Cushion has agency.\
++\pard\tx560\pardeftab720\sa240\partightenfactor0
++\cf0 \
++}
+\ No newline at end of file
+diff --git a/Clones of Elvis.scriv/Files/Data/E12198D9-F7B9-46D3-AF32-D83940FA338B/synopsis.txt b/Clones of Elvis.scriv/Files/Data/E12198D9-F7B9-46D3-AF32-D83940FA338B/synopsis.txt
+new file mode 100644
+index 0000000..5aa14ac
+--- /dev/null
++++ b/Clones of Elvis.scriv/Files/Data/E12198D9-F7B9-46D3-AF32-D83940FA338B/synopsis.txt	
+@@ -0,0 +1,17 @@
++Mum, everyone’s life is a test run.
++The root of all evil is not the decisions we make, it’s the information available.
++
++———
++“And I’d need to be on it forever.”
++Janine closed her eyes until she’d aligned herself to what she’d already committed to. “I can give you a short course, higher dosage, over just a few weeks.”
++“That’s it?”
++“Yes.” There was no way Janine could appropriate the drug over an extended period. Getting her hands on higher quantities for a short period of time was more… pragmatic. “The normal dose is designed to spread through the body,” Janine said. “What I’m talking about is putting a much higher concentration exactly where you need it.”
++Janine had rehearsed the next bit—in the car, in the shower, at three in the morning, and once, briefly while standing in front of the fridge with the door open, until it beeped with impatience.
++“I believe your condition—”
++“My Sarco… glycan… opathy,” Pin Cushion said, mimicking her six-year-old self.
++“Well, yes… muscular dystrophies in general. They will allow dosages that would normally be toxic.”
++“Toxic, as in… deadly.”
++“Potentially.”
++Pin Cushion stared at her.
++Janine pushed on. “The toxicity models assume the dose is circulating through the whole body. I’m talking about injecting a much higher concentration directly into damaged muscle. Your muscles are continually being damaged and repaired. TPlus is extraordinarily effective in damaged tissue.”
++Pin Cushion tucked one leg beneath herself. “And then I’m cured?”
+\ No newline at end of file

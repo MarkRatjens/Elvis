@@ -1,0 +1,408 @@
+Canonical chapter specification — Anstey’s entombment
+1. Narrative function
+The chapter records the final phase of the TPlus/TMinus programme beneath the Pale after Hardy has physically buried the laboratory beneath his tower.
+Its job is to explain how, when Gerry eventually breaches the laboratory much later:
+	•	Hermann and Anstey are there, dead.
+	•	They have clearly survived for some time.
+	•	Their bodies are remarkably well preserved.
+	•	Viable TMinus survives.
+	•	Enough TMinus research survives for Gerry’s people to reconstruct and deploy it.
+	•	Gerry finds no usable TPlus.
+	•	Gerry finds no surviving documentary trail that tells him there ever was a separate TPlus panacea.
+	•	Nothing recovered connects the buried programme to Sarah.
+	•	TPlus has nevertheless already escaped the laboratory by a route the reader does not yet know.
+The chapter does not reveal that last fact explicitly.
+It ends with the historical record apparently closed.
+
+2. Narrative position and reader knowledge
+This is a historical scene occurring earlier in chronological time but later in the novel’s narrative order.
+By the time the reader reaches it, the reader already knows:
+	•	Gerry Hardman.
+	•	Dunhilton.
+	•	the Elvi/Elvines.
+	•	the modern rejuvenation phenomena.
+	•	adult Sarah, who is a major protagonist.
+	•	TPlus effects occurring in the present-day story.
+	•	that Gerry recovered the old lethal virus from beneath the Pale.
+	•	that Hermann and Anstey were eventually found dead there.
+	•	that their corpses appeared unusually well preserved.
+The reader has also recently received the Jansen/Hermann/d’Vane scene and therefore now understands that TMinus and TPlus were historically related projects.
+The reader does not yet know that Janine Anstey’s secret recipient was Sarah.
+That connection is reserved for the subsequent Anstey/Sarah material.
+Therefore this chapter operates as retrospective convergence, not setup. Things the reader has already encountered begin to line up, but the last connection remains withheld.
+
+3. Absolute information restriction: Sarah
+Sarah’s name does not appear.
+The chapter does not identify the person Janine has been protecting as:
+	•	her daughter;
+	•	her child;
+	•	a girl;
+	•	a family member;
+	•	a patient at home;
+	•	Sarah.
+Janine’s secret must remain legible only as something outside the laboratory that must not be discoverable from the records.
+The strongest visible clue is the discrepancy associated with TPlus stock and the particular records Janine removes.
+The later Anstey/Sarah scene supplies the missing referent.
+The desired delayed recognition is:
+The reader already knows Sarah. The reader already knows TPlus escaped. Only later does the reader discover that Janine caused those two facts to be the same story.
+
+4. Physical situation
+The laboratory is deep beneath Hardy’s office tower in the Pale.
+There is no second theatrical lockdown mechanism.
+The physical entombment has already been established in the preceding scene: the relevant lift shaft has been filled with 6,024 cubic metres of concrete during the foyer refurbishment. Above them, the lift doors are removed from the rebuilt foyer and the laboratory passes out of the building’s visible architecture.
+The people below have no practical means of getting through the filled shaft.
+The chapter begins from their side of that action.
+There are no dramatic closing bulkheads, descending steel doors, “Zone Zero”, titanium partitions or invented containment architecture.
+The horror is that something utterly ordinary has happened above them:
+the lift has stopped being a lift.
+
+5. Communications and utilities
+The buried laboratory cannot communicate effectively with the world above.
+The laboratory retains enough internal power and environmental support for the trapped staff to survive for a meaningful period and for Hermann and Anstey to continue using equipment and accessing records.
+The primary limiting resources are:
+	1	potable water;
+	2	food.
+Air is not the principal countdown.
+Power does not fail early enough to prevent the important scientific and documentary actions in the chapter.
+Exact quantities and exact survival duration are UNSPECIFIED. Do not introduce numerical ration schedules simply to make the survival period calculable.
+
+6. People in the laboratory
+Hermann and Janine Anstey are the chapter’s focal characters.
+Other laboratory personnel exist. This is already consistent with the functioning research operation Jansen saw: technicians were visibly working beyond Hermann’s office.
+Do not invent:
+	•	a fixed five-person cohort;
+	•	exactly three senior geneticists;
+	•	named support staff merely to kill them;
+	•	a miniature survival society;
+	•	factional conflict.
+The presence and eventual fate of other trapped personnel can be handled collectively and in compression.
+The narrative camera progressively contracts onto Hermann and Anstey because they matter to the larger story, not because the laboratory was conveniently empty when it was sealed.
+Celeste d’Vane is not among the trapped. Her departure for the volcanic retreat has already saved her life.
+
+7. TPlus: hard biological canon for this chapter
+TPlus produces extraordinary systemic therapeutic effects.
+Hermann has already described:
+	•	accelerated tissue repair;
+	•	suppression/correction of accumulated damage;
+	•	reversal of vascular damage;
+	•	improved organ function;
+	•	repair of muscular damage;
+	•	severe resistance to cancer;
+	•	biological mechanisms derived from organisms adapted to extreme stress, including mechanisms supporting tissue function under oxygen deprivation.
+Those effects are real enough to drive the entombment chapter.
+What is not objective canon is Hermann’s neat prediction of how quickly those benefits fade.
+He tells Jansen that episomal material is diluted and degraded and gives a fourteen-to-twenty-one-day account of the optimisation curve.
+For this chapter:
+That is Hermann’s model, not the narrator’s biological law.
+The chapter does not state that TPlus benefits disappear after fourteen to twenty-one days.
+The chapter does not establish a precise effective duration.
+The subsequent story already demonstrates persistence beyond the tidy account Hermann gives Jansen.
+
+8. The resource logic
+The scientists ration food and water.
+They do not ration TPlus according to a fortnightly subscription cycle.
+Their practical situation is:
+	•	They have finite food.
+	•	They have finite water.
+	•	They have finite TPlus.
+	•	TPlus demonstrably makes human bodies function much better under physiological stress.
+	•	They do not know how far that can be pushed under starvation, dehydration and prolonged confinement.
+	•	There is no future commercial value in preserving TPlus if they themselves will be dead before anyone can reach it.
+They therefore use TPlus.
+Initially its use remains measured and scientific. As the entombment continues and ordinary resources become scarcer, preserving unused TPlus makes progressively less sense.
+Their governing wager is:
+TPlus may enable their bodies to extract more survival from the food and water they still possess.
+It cannot create calories.
+It cannot create water.
+It cannot remove the concrete.
+The chapter never claims otherwise.
+
+9. Why all physical TPlus disappears
+Every viable dose available to the trapped laboratory is eventually consumed by the trapped people.
+Nothing is deliberately destroyed.
+No TPlus vial is smashed for symbolic effect.
+No TPlus stock is incinerated.
+No master cultures are autoclaved into sludge.
+The disappearance of the greatest medical discovery in history is utilitarian rather than ceremonial:
+people use it because they are trying not to die.
+The last remaining viable TPlus enters a human body.
+That is the complete explanation for why Gerry later finds no physical TPlus stock.
+
+10. Sexual transmission
+Sexual transmission does not become a plotline in this chapter.
+Hermann already knows the vector can transmit sexually and that first-degree recipients can receive major therapeutic benefit.
+The entombment chapter does not reopen that exposition and does not construct a survival scenario around it.
+The chapter remains about finite physical resources, TPlus consumption, documentary erasure and Janine’s hidden motive.
+
+11. Hermann
+Hermann remains recognisably the man from the Jansen scene.
+He does not transform into a generic tragic scientist.
+His defining qualities remain:
+	•	scientific enthusiasm;
+	•	inability to stop observing;
+	•	inability to stop explaining;
+	•	confidence in his own models;
+	•	fascination with unexpected data;
+	•	poor instinct for when facts are socially or personally dangerous;
+	•	genuine belief that TPlus represents an extraordinary humanitarian achievement.
+His tragedy is not that the science fails.
+His tragedy is that it continues producing scientifically interesting results while there is no longer any future in which he can exploit or publish them.
+As deprivation worsens, Hermann continues measuring.
+He notices:
+	•	physiological resilience;
+	•	healing;
+	•	changes in metabolic response;
+	•	reversal of old damage;
+	•	rejuvenation;
+	•	deviations from his expected duration curves.
+He records observations while there is still somewhere to record them.
+His enthusiasm becomes progressively less appropriate without becoming a broad joke.
+He does not learn the truth about Sarah.
+He does not discover a confirmed successful permanent integration event outside the laboratory.
+He dies with his central theoretical error intact: he still believes safe permanent integration is effectively impossible because the required concentration should kill an ordinary subject first. That belief has already been clearly established.
+
+12. Janine Anstey
+Janine is the practical centre of the chapter.
+Her attention moves through three progressively narrower problems:
+First: get out.
+Then: keep people alive.
+Finally: make certain that what happened before the entombment cannot be traced outside the laboratory.
+She is not written as a sacrificial saint.
+She is not given a sentimental internal monologue about the person she is protecting.
+Her motive is expressed through technical choices.
+She knows something about the TPlus inventory and its history that the others do not.
+When the laboratory’s survival prospects become irrelevant, she turns her attention to records.
+Her documentary work is deliberate, selective and competent.
+
+13. Documentary purge
+Unlike the physical TPlus, TPlus information is deliberately destroyed.
+Janine removes the local research trail needed for a future investigator to identify and reconstruct the TPlus programme.
+This includes the material that would expose:
+	•	the TPlus production architecture;
+	•	its therapeutic payload;
+	•	TPlus-specific synthesis information;
+	•	local trial documentation;
+	•	relevant inventory records;
+	•	the disposition of particular experimental batches;
+	•	the anomalous gap between recorded stock and the physical stock that had actually been available;
+	•	any local record capable of pointing an investigator outward from the laboratory toward the missing material.
+The deletion is not indiscriminate.
+Janine does not erase the laboratory as an historical object.
+She does not wipe all research.
+She does not destroy TMinus documentation.
+That distinction is essential because Gerry later recovers enough TMinus material for a modern research team to understand and redeploy the weapon.
+
+14. The inventory discrepancy
+A discrepancy exists in the historical TPlus stock because material left the laboratory before the entombment.
+Janine knows where it went.
+The reader does not.
+The chapter makes the discrepancy visible without resolving it.
+It does not announce:
+Somebody stole TPlus.
+It does not turn the discrepancy into a detective plot.
+It appears as part of Janine’s increasingly selective handling of TPlus records.
+The later Sarah chapter retroactively supplies the answer.
+
+15. TMinus
+TMinus survives.
+It is not preserved deliberately as a decoy.
+It is not part of Janine’s plan.
+It survives because it is irrelevant to what she is protecting.
+The trapped people have no therapeutic use for it.
+Janine has no reason to spend her dwindling time erasing or physically destroying the TMinus programme.
+Its vials remain in appropriate laboratory storage.
+Its research corpus remains sufficiently intact.
+The later consequence is simple:
+Gerry recovers the thing nobody below needed.
+He does not recover the thing everybody did.
+
+16. Chapter structure
+Phase I — Something is wrong
+Open inside the laboratory during an otherwise recognisable working period.
+The lift does not respond normally.
+Attempts to communicate upward fail.
+At first this is treated as a systems problem.
+People expect somebody above to correct it.
+Hermann approaches it initially with professional irritation rather than terror.
+Janine becomes suspicious sooner.
+The key tonal requirement is delay in understanding.
+The laboratory does not instantly know it has become a tomb.
+
+Phase II — The physical truth
+Evidence accumulates that the lift shaft is no longer merely disabled.
+The sounds, vibrations and changing behaviour of the structure establish that something is being physically done to it from above.
+Eventually they understand that the shaft is being filled.
+Once the scale becomes clear, nobody proposes a cinematic solution.
+They are far beneath the point at which intervention is possible.
+The concrete is not an antagonist.
+It is simply there.
+Above them, the foyer renovation continues.
+
+Phase III — The inventory
+The trapped staff move into procedural survival.
+They count:
+	•	food;
+	•	water;
+	•	medicines;
+	•	stored TPlus;
+	•	remaining useful power and equipment.
+This section should feel competent rather than frantic.
+They are scientists and laboratory professionals.
+Their response to impending death initially takes the form of lists, measurements and calculations.
+TPlus is reclassified from research asset to survival resource without ceremony.
+
+Phase IV — First use
+The trapped staff dose themselves with TPlus.
+The first effects need not be spectacular.
+Use concrete physical observations.
+Old injuries improve.
+Damage repairs.
+Someone becomes visibly healthier under circumstances in which nobody has any business becoming healthier.
+Hermann records it.
+The scientific success is real.
+The circumstances make the success obscene.
+
+Phase V — Compression of time
+Do not narrate every day.
+Move through the entombment by changes in resources and bodies:
+food declining;
+water becoming carefully controlled;
+TPlus being consumed;
+bodies becoming thinner but paradoxically healthier;
+the laboratory becoming less inhabited;
+Hermann’s records accumulating;
+hope of rescue disappearing without a formal moment in which everybody announces that hope has disappeared.
+The scene stays procedural.
+There is no survival epic.
+
+Phase VI — TPlus versus deprivation
+TPlus proves highly effective at preserving function.
+It repairs damage that starvation and confinement impose.
+It keeps the remaining people capable for longer than they otherwise expect.
+It does not abolish material requirements.
+The central visual contradiction becomes increasingly pronounced:
+their environment deteriorates while their bodies refuse to deteriorate properly with it.
+This directly supports the condition in which Gerry will eventually encounter Hermann and Anstey’s remains.
+
+Phase VII — Exhaustion of TPlus
+The physical stock approaches zero.
+There is no debate about preserving a ceremonial final vial.
+There is no reason to leave medicine in a refrigerator while people are dying beside it.
+The remaining TPlus is used.
+The last viable material disappears into living tissue.
+From this point onward, there is no recoverable TPlus product left for Gerry to find.
+The effects already established in the recipients remain active.
+Food and water remain the dominant countdown.
+
+Phase VIII — Janine changes task
+With escape no longer plausible and the physical TPlus gone, Janine stops treating personal survival as the only remaining problem.
+She turns to the information architecture of the TPlus programme.
+Her behaviour becomes unusually exact.
+She distinguishes TPlus material from the much larger body of laboratory research.
+The reader understands that she does not want Hardy—or anyone reopening the laboratory—to recover the cure.
+That explanation is sufficient at this stage.
+
+Phase IX — The hidden discrepancy
+During that process the chapter exposes, lightly, that the TPlus records and the actual historical stock do not reconcile cleanly.
+Janine recognises the significance immediately.
+No explanatory interior monologue follows.
+She eliminates the records that would permit somebody else to follow that discrepancy.
+The reader is left with the fact of an unexplained missing piece.
+
+Phase X — Erasure
+Janine finishes removing the local TPlus trail.
+When she is finished:
+	•	there is no viable TPlus left in the laboratory;
+	•	there is no usable local TPlus research corpus for Gerry to recover;
+	•	there is no documentary path from the laboratory to the material that left it earlier;
+	•	TMinus remains;
+	•	TMinus documentation remains.
+The two programmes, once technically related, are now historically severed.
+
+Phase XI — End state
+Hermann and Anstey remain alive long enough for their bodies to display the profound effects of TPlus.
+They are running out of ordinary necessities while still biologically benefiting from the greatest medical intervention ever devised.
+Their final exact cause of death is UNRESOLVED.
+Do not determine it in this chapter.
+The chapter can end before the terminal physiological event, with death no longer in doubt.
+That preserves the later Gerry observation:
+“Hard to say.”
+His uncertainty remains genuine.
+
+17. Physical condition of Hermann and Anstey
+At the end they are not conventionally healthy.
+They are depleted because matter still matters.
+They can be:
+	•	thin;
+	•	underfed;
+	•	exhausted;
+	•	physically diminished by lack of resources.
+But they do not exhibit the ordinary cumulative deterioration expected from prolonged confinement.
+TPlus continues correcting what it can correct.
+Therefore there is an unsettling mismatch:
+	•	unusually intact skin;
+	•	healed damage;
+	•	absence of ordinary infection;
+	•	repaired old injuries;
+	•	unexpectedly good hair;
+	•	preserved tissue condition.
+That is the biological foundation beneath Gerry’s later observation that the bodies looked remarkably well preserved and his joking elaboration that their hair was perfect.
+The sealed, sterile laboratory contributes to preservation after death.
+TPlus explains why the bodies enter death in such anomalously good biological condition.
+
+18. Tone
+The chapter remains in the tonal family of the scenes immediately preceding it.
+No heroic survival prose.
+No sombre philosophical exposition about mortality.
+No authorial explanation that “the cure could not cure hunger”.
+No beautifully packaged ironic aphorism placed into the narration simply because the concept invites one.
+The humour and horror come from concrete behaviour:
+	•	scientists inventorying immortality alongside bottled water;
+	•	Hermann obtaining superb experimental data from his own entombment;
+	•	people becoming medically healthier as their lunch supply disappears;
+	•	the lethal project remaining untouched because it is useless;
+	•	the miracle being exhausted because it is useful.
+The narrator reports the civilisation rather than explaining the satire.
+
+19. What is deliberately withheld
+At chapter end, the reader is not told:
+	•	where the pre-entombment missing TPlus went;
+	•	who received it;
+	•	that Janine permanently altered Sarah;
+	•	that Sarah is Janine’s daughter;
+	•	how permanent integration actually succeeded;
+	•	that Sarah is the living reservoir connecting this historical programme to the modern TPlus phenomenon.
+Those answers belong to the subsequent historical material.
+
+20. Required handoff into the Sarah reveal
+The entombment chapter leaves one clean unresolved historical question:
+All the TPlus beneath the Pale was consumed. Its recoverable research was erased. So how did TPlus reach the world the reader already knows?
+The following Anstey material answers that by moving backward to what Janine did before Hardy sealed the laboratory.
+Only there does the missing stock acquire a destination.
+Only there does the protected person acquire an identity.
+Only at the final useful moment does that identity become Sarah.
+That is the reveal the entombment chapter must protect.
+
+Hard drafting exclusions
+These are now fixed constraints:
+	•	No TPlus withdrawal syndrome.
+	•	No objective fourteen-to-twenty-one-day expiry rule.
+	•	No methylation countdown.
+	•	No calculation of survival as TPlus doses multiplied by maintenance intervals.
+	•	No TPlus destruction.
+	•	No autoclaving of TPlus.
+	•	No drinking TPlus cultures.
+	•	No deliberate preservation of TMinus as camouflage.
+	•	No BSL-4 “Zone Zero” cage structure invented to solve support staff.
+	•	No secondary bulkhead-entombment mechanism.
+	•	No Lord-of-the-Flies subplot.
+	•	No sexual-survival subplot.
+	•	No Sarah name.
+	•	No daughter/child reveal.
+	•	No explanation of where the missing pre-entombment TPlus went.
+	•	No discovery by Hermann that Janine has achieved safe permanent integration.
+	•	No complete destruction of laboratory records.
+	•	No destruction of the TMinus research corpus.
+	•	No fixed exact death mechanism.
+	•	No treating Hermann’s scientific claims as automatically omniscient narration.
+This is the clean baseline I would use for the actual chapter draft.

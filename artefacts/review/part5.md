@@ -1,588 +1,181 @@
 # Part 5 — Developmental Review
 
-Date: 2026-08-07 | Chapters 59–72 (14 chapters, 35 scenes) | Built from the completed Part 5 draft
+Date: 2026-08-30 | Continuous Part 5 draft | Surveyed as a complete Part
 
 ---
 
 ## The Shape
 
-Part 5 is the Part where the satire stops being funny, and the book is deliberate
-about how long it takes to get there. It opens with Eloise sending Alexander to a
-company that does not exist, in a country he thinks might be a toe fungus, and it
-closes with Gerry Hardman watching from a window as a genetically targeted virus
-kills several thousand people on a plaza, while Dunhilton complains down the phone
-that the massacre wasn't dramatic enough. Between those two poles the Part builds
-one long crescendo out of a single idea: that you can destroy a people by giving
-them a second religion.
+Part 5 is the Part where everything becomes contagious.
 
-Three tracks run and converge. Gerry's is the engine — the warranty clause becomes
-a weapon, gospel records go into Ghetto jukeboxes, the Elvi split into Holy Rollers
-and Evolution Elvi, and the schism does what no gunship could. Chanta's is the
-Part's emotional spine — he wakes up in a stranger's bed with a broken leg, watches
-a dead man's confession, walks through a wall, inherits the largest fortune in the
-world, and discovers that having everything has taken the only thing he could do.
-And Sarah's is the one held in reserve — pregnant, running the disc project,
-worshipped as Holy Momma, and increasingly a person things happen around rather
-than because of. All three arrive at The Domain for the Rock Against Revival, the
-festival becomes the Bent Street occupation, and the occupation becomes the killing
-ground.
+Part 4 ended by bringing the novel's principal forces into one building and one service elevator. Part 5 blows them back out into society. Secrets become inheritances, inheritances become identities, ideas become religions, songs become political movements, and finally a political movement becomes the delivery site for a biological weapon.
+
+It begins by removing Alexander from the board. Eloise manufactures a promotion, a company, a technology and ultimately most of a Liechtenstein corporate reality to get him out of Ulyssia. VorpalTech does not exist beyond paperwork and a post-office box; the quantum reality lenses do not exist at all; and Heinrich has twenty-four hours to turn a cheese factory, temporary staff and malfunctioning VR headsets into something Alexander will believe. The sequence looks at first like a comic side-road, but it establishes one of the Part's recurring ideas: realities can be manufactured if you understand what the subject wants to believe.
+
+Then Chanta wakes from the wedding, learns through Halo's posthumous message that his friend was a deep-cover PAPER agent assigned to keep him alive, and follows Halo's absurd little poem to Starborne One. There the Part performs its first major inversion: the Cloudborne cleaner who spent four Parts being treated as disposable is the genetic heir to Jamison Hardy and a fortune "practically unspendable." His first encounter with that inheritance kills a homeless man, and his second reveals a household of Elvi who have spent generations in stasis still believing themselves property. Chanta's response is immediate: "People aren't units. Cloudborne aren't property. And neither are the Elvi."
+From there Part 5 runs two apparently separate systems toward the same destination. At Sublime Point, Sarah tightens her control over Project Kebab, Chip discovers the Sages are manoeuvring Johnny toward a five-disc configuration, Kathy discovers that Little Clinton's brain is producing the same patterned structures associated with the Gyges phenomena, and Sarah quietly forms a counter-intelligence circle with Kathy and Hayley to investigate Eloise. In government, Gerry accumulates unprecedented security authority and discovers an entirely different exploitable system: the old Grayling warranty. His conclusion is magnificently simple — "the next best thing after having no religion ... is having at least two religions" — and gospel music becomes a weapon.
+
+The final movement is where the Part becomes public history. Gospel turns Elvi into Holy Rollers. The Sages discover they can apparently replace one belief system with another. The High Elvis responds with Rock Against Revival. Chanta writes an explicitly anti-religious song, the High Elvis edits out its explicitly anti-religious couplet, and half a million people immediately turn the song into something close to a religious anthem anyway. The audience carries the mistake out of The Domain, relocates the party to Bent Street, and turns a concert after-party into a cross-class uprising. The government cannot easily shoot it because too many shareholders' children are sitting on the barricade couches.
+
+So it reaches for something that can tell the classes apart genetically.
+
+Part 5 ends with TMinusVirus in the air, Elvi collapsing in the plaza, the official cover story already prepared, the infection escaping into the Pale and the Ghetto, and Dunhilton opening champagne at the report that the High Elvis has succumbed.
+
+Part 1 built the world. Part 2 detonated its assumptions. Part 3 exposed the power structures underneath. Part 4 made everyone commit. Part 5 makes the consequences contagious.
 
 ## What Part 5 Does Right
 
-**The gospel weapon.** This is the best structural idea in the novel so far, and
-the Part builds it with patience. It starts as a joke buried in earlier books — an
-Elvis warranty clause nobody takes seriously — and Gerry finds it by reading the
-product documentation, which is exactly right for him: the genocide is discovered
-in a Warranty Agreement, and the register of the scene is two men in a cigar lounge
-struggling to read a manual. The escalation from there is beautifully staged. Gerry
-proposes not less religion but more of it, on the grounds that "the next best thing
-after having no religion is having at least two religions." Dunhilton settles the
-question by tossing his Coin of Allegiance — Profits for yes. And the answer, when
-Gerry finally names it, is a single deadpan word: "Gospel music." The book has been
-telling you for five Parts that institutions manufacture the thing they claim to
-oppose; here it makes that the murder weapon.
+**Chanta's inheritance is the Part's strongest character architecture.** Giving him unlimited money is not a reward; it is an experiment. The Rose Door establishes the terms immediately. Chanta can pass through because of his DNA; the homeless man he befriends cannot, and is sliced in half when the door closes. Fisher's concern that the spilled whisky was cheap rather than that a person died confronts Chanta with the moral vocabulary of the class he has just inherited. His instinctive answer — "every life is worth something" — is still Cloudborne Chanta.
 
-**Jones at the jukebox.** The single best scene in Part 5, and possibly in the
-manuscript. Jones — thorough, humourless, having rehearsed record-swapping on four
-period jukebox models — accidentally plays one, can't find a CANCEL button, and is
-professionally obliged to stand there and listen to it. The prose never once tells
-you what is happening to him; it lets his own logic carry him from "test the
-machine" to a man sitting on the floor with his back against a warm Wurlitzer,
-blowing his nose on his tie. The technical detail is the making of it — 12/8 time,
-a little over eighty beats per minute, "perfectly designed to pull at your heart
-strings" — and the closing line lands somewhere the scene had given no warning of:
-"Why am I wearing a pink tie?" A man built to be a weapon asking the first
-authentic question of his life.
+But the Part doesn't leave him morally spotless. Within minutes he wants the staff to call him Great Teacher. Within weeks he has parties, Elvisettes, bespoke excess, a deteriorating temper and a creative life that has gone dead. Wealth does not transform him into Jamison Hardy; it gives all his existing weaknesses room service. His physical body meanwhile becomes healthier no matter what abuse he puts into it, his broken calf knitting itself overnight while he drinks himself insensible. That's a much more interesting transformation than either "poor man stays pure" or "money corrupts him." Chanta oscillates between entitlement and an almost primitive egalitarian decency.
 
-**And then the Part pays it.** Chanta, lost in Hardy's bunker, opens one more
-stasis locker and finds coffin-shaped Grayling boxes with a cheerful orange
-starburst: NOW WITH NEW PINK TIE! Under it, the product line: AJENT JONES, Security
-& Enforcement Assistant. It cashes the tie colours — which, per the KB, have been
-tracked deliberately since Part 1 and are not a Part 5 invention — along with the
-psychometrics that "slipped straight off the bell curve" in Part 4, the missing
-decades Jones weeps over, and the Part 1 monologue titled "I am not human," which
-turns out to have been a product spec rather than a metaphor. It does all of that
-in a stage direction and a sticker, with Chanta's only comment being "Hey, Dude. You
-wanna come watch a movie?" — a joke lobbed at a sealed carton, waking nothing.
-Nobody explains any of it. That's the right call.
+The bunker then pays the inheritance off at another level. Chanta insists every stored Elvis deserves a life, searches Hardy's industrial-scale stasis inventory, and finds not merely ELVIS stock but cartons labelled **AJENT JONES — Security & Enforcement Assistant — Grayling Corporation**, complete with the cheerful upgrade sticker **NOW WITH NEW PINK TIE!** He responds exactly as Chanta should: "Hey, Dude. You wanna come watch a movie?" It is one of the novel's largest reveals and one of its least ceremonious, which is precisely why it works. Agent Jones, who has occupied four Parts as an apparently singular monster, may be a product line.
 
-**Lonnie at the Memphis Mafia.** The conversion seen from the inside, and the Part
-is smart to give it to a minor character with a job to do. The approach is pure
-dread built from absences — no clanging kitchen, no floor polishers, the float
-half-counted with the coins abandoned mid-tower — and the horror, when it arrives,
-is a technical one only an Elvis would recognise: the crew are singing in perfect
-four-part harmony, and no Elvis can sing harmony. The theological argument that
-follows ("So God is the jukebox maintenance guy now?" / "How much are we paying God
-to keep the Wurlitzer running?") is genuinely funny while Lonnie is genuinely
-terrified, which is the register the whole Part runs on. It closes on doctored
-security footage of an actual descending angel, and declines to say who faked it.
+**The High Elvis becomes a real leader.** Earlier Parts could largely use him as the grand comic embodiment of Elvi culture. Part 5 gives him political weight. He is genuinely afraid of the gospel conversion, explicitly refuses to harm converted Elvi, recognises what wealth is doing to Chanta, understands that the conflict has become a "war of memes," engineers Rock Against Revival, manages a half-million-person audience that keeps breaking into karate over lyrics, and finally articulates an egalitarian evolutionary argument broad enough to attract Airborne kids as well as Elvi. He becomes most sympathetic just before the state kills him.
 
-**The Rose Door.** Chanta's inheritance sequence gets the tonal handbrake exactly
-right. The comedy runs long — Halo's dreadful rhyming instructions, the naked
-alcoholic with "snakes in me boots," Chanta demonstrating the trick and giving the
-man a concussion — and then the wall re-solidifies and cuts him in half diagonally
-from shoulder blade to navel, and the whisky trickles out of his mouth. The
-aftermath is what makes it: Fisher's "Yes, sir — already being cleaned up. A simple
-matter. It was only a cheap whisky, sir." Chanta's insistence that "every life is
-worth something" is met by the staff as a novel and slightly embarrassing personal
-philosophy, which is how the Part gets to its real reveal — Hardy's Elvi have been
-in stasis since his death and have never heard of emancipation. They think they're
-property. Chanta, the accidental philanthropist, is the one who has to tell them.
+That development matters enormously to the ending. If Dunhilton's virus merely killed a comic monarch, the ending would be grotesque. Because Part 5 has spent its final movement turning the High Elvis into a politician who is actually trying to hold his people together, his reported death lands as political assassination.
 
-**Fisher.** The strongest new character in the Part and the best straight man in
-the book. The register is velvet deadpan with real feeling underneath it, and the
-prose finds lovely ways to note the feeling without stating it — "a pause with
-weather in it," "the small professional grief of a man asked to pour a vintage into
-a tin mug," and, when Chanta asks about the movie's forty-two-seat cinema: "Mr
-Hardy disliked sitting near other people. And, latterly, near himself."
+**The gospel weapon is the Part's sharpest satirical mechanism.** Gerry does not invent a science-fiction superweapon. He reads the warranty. What began in earlier Parts as a comic piece of Grayling legal boilerplate turns out to contain a civilisational vulnerability. Gospel doesn't simply make Elvi religious; it strips away the culturally Elvis things — sex, drugs, violence against television sets, hip-shaking, even sideburns — while causing them to sing in perfect harmony, something they were not cloned to do.
 
-**Chanta's block.** Part 4's review flagged that Chanta's interior restated itself
-rather than developing. Part 5 answers that comprehensively, and the writer's-block
-material is the most sustained interiority he's had. "His song-writing talent hadn't
-so much dried up as gone into witness protection. It was still out there somewhere,
-he hoped, under an assumed name, growing a beard, avoiding eye contact, but it had
-left no forwarding address and would not return his calls." And the harder line
-underneath the joke: "Make nothing long enough and you start to think that's the
-truest thing about you." The can't-write ditty — sixteen rhymed couplets of not
-writing, ending on "He couldn't write while snorting blow" — is a fine gag that
-also functions as evidence. He is producing, at length, proof that he can't
-produce.
+Then the Sages' interrogation of Dr Carpenter turns the joke colder. Science is absorbed into theology as "the Lord's evolution." Latin religious phrasing works; Roman sewage regulations don't. Fake Sanskrit turns out to be English wearing sacred clothing. Finally Kleo replaces "Praise the Lord" with "Praise the Dawkins," and the converted Elvis becomes noticeably anchored. His conclusion — "We can remove a belief. But not without replacing it" — is the intellectual centre of the religious-war thread. They have not discovered a cure for indoctrination. They have discovered editing privileges.
 
-**The intervention.** The most frightening scene in the Part precisely because it
-looks like a clinical procedure. Dr Carpenter is treated with rock and roll (no
-hips, no involuntary pelvis, "Devil music"), with a documentary on finch beaks
-("The Lord's evolution"), with Latin, and with a fake Sanskrit he sees through and
-answers in kind. Then Kleo puts a hand on his shoulder and says "Praise the
-Dawkins," twice, and the man comes back online — anchored, breathing hard, himself.
-Kathy's realisation is the Part's thesis stated once and never repeated: "They
-weren't trying to cure it. They were learning the operating system." Followed by
-the worst thought available: "If you can swap a hymn out for Dawkins, you can swap
-Dawkins out for anything." That line is the whole festival in advance.
+**"Religious Minds" turns the novel's mondegreen machinery into plot machinery.** This is perhaps Part 5's deepest craft achievement. Since Part 1, people getting lyrics wrong has been a joke, a cultural habit and an excuse for Elvi to punch one another. Here, the inability of words to stay owned by their author becomes political.
 
-**The Domain, and the permit.** The two worldbuilding essays — Starborne One and
-the Eastern Suburbs Bubbles / Domain history — are the best sustained narrator
-prose in the manuscript. Starborne One as a building that "invented" a caste tier
-it was legally obliged to note doesn't exist in law; ceilings so high that a long
-shower in the primary suite makes it snow in the staff quarters. And the Domain
-piece earns its length by ending on a hinge: "The permit said classical. What the
-city got was an uprising." The freight-in gag underneath it is perfectly judged —
-subwoofers the height of two double-decker buses forklifted past a clipboard that
-calls them acoustic staging for a chamber ensemble, "and not a single official came
-to check."
+Chanta sees what almost nobody else does: the Holy Rollers and the Evolution Elvi are "two heads of the one coin." He writes a song attacking both. The High Elvis deletes the most important couplet — "We won't praise the Dawkins / With religious minds" — and performs the remaining song to a crowd the Sages have just spent several minutes teaching to chant "Praise the Dawkins."
 
-**The Air Guitar.** A bag of air, six pipes, a wheezed drop-D power chord, a
-twelve-pipe deluxe with a B♭ minor major 13th for jazz enthusiasts, priced by the
-gram above Eastern Suburbs real estate, and — the detail that makes it — "it came
-with a strap." Sold out by lunchtime, and one Airborne kid had a derivative
-instrument listed on the commodity exchange by close of business. This is the
-Latter Day Capitalism satire operating at full efficiency in three paragraphs, and
-the Airborne kids' delight at being ripped off is exactly right.
+By the time the audience leaves, Chanta's chorus has already mutated into its opposite:
 
-**The out-of-body song.** Chanta writes "Religious Minds" while astrally projecting
-onto his own empty throne beside Sarah, and the scene keeps its head: the departure
-is undramatic ("he had simply gone up out of himself, cheerful and weightless"), his
-first thought while flying is that he could murder a cheeseburger, and real-body
-Chanta is meanwhile hunched over a sound desk gouging a biro into a festival-branded
-coffee-ringed notepad. It closes the Little-Clinton-as-muse thread with the writer
-physically returning to proximity with the source, and it is the only place in the
-Part where Chanta's supernatural strangeness is used for something rather than
-noted.
+*We must go on as Elvi / With religious minds.*
 
-**The mondegreen becomes the plot.** This is the Part's finest structural stroke,
-and it has been five Parts in the making. The book's signature joke — Elvi
-mishearing lyrics and brawling over it — has been decoration. Here it becomes the
-tragedy. The crowd leaves The Domain having converted "We *can't* go on as Elvi with
-religious minds" into "We *must* go on as Elvi with religious minds," and the
-inversion propagates through the occupation as gospel. When Chanta finally gets a
-microphone in front of thirty thousand people who revere him, he is unable to
-correct a single word: every attempt to say "you're singing it wrong" is drowned by
-them singing it wrong, louder, in his honour. The Great Teacher discovers that
-authorship confers no control at all. That the High Elvis has *also* cut the one
-couplet Chanta thought was the point ("We won't praise the Dawkins with religious
-minds") makes it worse and better — the meaning was edited out before the crowd
-ever got the chance to mishear it.
+The writer has lost the song. The High Elvis has lost the message. The Sages have gained a creed they can plausibly deny creating. And the crowd doesn't care what anybody originally meant.
 
-**The Chuglingham barbecue.** The Part's warmest scene and its quietest reckoning.
-Bala's children can't stop looking up at real birds; Padmala needles Chip about
-Fridge Force callouts with hostess-perfect timing until her husband warns her off;
-the Sages arrive in "ceremonial barbecuing robes" and rescue the cremated meat.
-Then Bala takes Chip to the back fence and refuses him absolution in the two best
-words in the Part. Chip: "Look at where you are. Mountains. Real sky. I saved you."
-Bala: "Not by intent." And afterwards: "I don't need your excuses, or your
-rationalisations or your guilt. What would I do with it? Use it to pay for my
-children's education?" Chip gets no forgiveness and no punishment, just an
-instruction to be a good neighbour, which is worse.
+That is not merely a running gag paying off. It is the novel making its own comic language into a theory of mass politics.
 
-**Occupy Bent Street.** The escalation from concert to occupation is observed with
-real affection and no sentimentality — Airborne teenagers who have never touched
-grass ordering catering-grade patio heaters, couches crowd-surfed "like
-hippopotamuses," a hired yurt, go-karts confined to the Spring Street end. The riot
-squad is defeated not by resistance but by being laughed at and offered a fried
-peanut butter sandwich; some of them put down their shields and join in. The
-Elvine's evolution catechism ("Are we really descended from monkeys?" / "You are,
-but what am I?") lands the book's whole argument as a punchline. And the ransom
-text is perfect: "Hi Mum! ❤️. Hey Dad, just wanted to let you know, I took a tour of
-the Ghetto 🚌. Now I'm being held for ransom 🤪. TTYL. Get Bent!"
+**The Sarah–Chanta scene at Starborne One redefines the gulf between them.** The previous Parts establish a divide neither can simply cross. Part 5 finally tests whether that divide is really lack of desire. It isn't. Sarah sees the newly healthy Chanta and finds him devastatingly attractive. They flirt, kiss and very nearly sleep together. For the first time, the gulf is physically close to disappearing.
 
-**Dunhilton's address.** The press conference is the comic high-water mark of the
-political thread. "It is not a protest. It is loitering, with a sound system." "You
-do not negotiate with a picnic." "A confederation of the institutionally
-disentitled, the professionally idle." The four-point twofold mission is a fine
-small joke about a man who cannot count his own bullet points. And the young
-journalist who asks whether shareholders' children on the plaza make a clearance
-politically inadvisable, met with "a long, amphibious moment" and the announcement
-that the briefing had run to time, is the Part telling you the massacre is coming.
+Then she sees Jamison Hardy.
+
+"You have no idea what that man did to me."
+
+The scene reveals that the obstacle was never simply Airborne versus Cloudborne, nor Sarah's pregnancy, nor Alexander. Chanta has suddenly crossed the class divide by inheriting the very thing Sarah cannot bear. His money does not bring him closer to her; it puts Hardy's shadow around him. "Everything around him ... felt like it had teeth" is the scene's real turn.
+
+The relationship therefore develops without betraying what the earlier Parts established. They can want each other. They can almost cross. But every apparent bridge reveals another structure underneath it.
+
+**Sarah recovers agency by becoming more like Eloise.** Part 4 placed Sarah inside Eloise's machinery. Part 5 has her start building machinery of her own. When Chip warns her about five discs and the Sages, she listens without surrendering the project. At the lookout, the Three Sisters become something more than Eloise's recruitment metaphor: Sarah, Kathy and Hayley form an actual private cell. Sarah asks Hayley to investigate Eloise; Hayley, characteristically, has already started.
+
+The SARA sequence deepens that separation. Little Clinton's neural activity produces extraordinary coherent patterns corresponding to Sarah's dreams and the markings associated with the disc events. Sarah decides immediately that Eloise must not know. Kathy knows what that means — she will have to falsify or conceal science from the woman funding it — and answers, "Tax it. I can lie to the best of them."
+
+Sarah is no longer merely wondering whether Eloise is playing her. She is running an operation against her while continuing to run Eloise's research project.
+
+**Chip and Bala have the Part's best quiet scene.** The Chuglingham barbecue could easily have functioned only as ensemble comedy: a disastrously expensive barbecue, Sages cooking goat and octopus, children seeing real birds for the first time, Eloise terrifying the hosts. Instead it gives Chip the reckoning Part 4's recruitment left outstanding.
+
+Bala tells him his daughter still wakes screaming from the detention centre. Chip responds, "I saved you." Bala's answer is two words: "Not by intent." He neither forgives Chip nor turns the scene into vengeance. He simply refuses to carry Chip's guilt for him and asks that they become good neighbours.
+
+That's exactly the right amount of redemption for Chip: none. He is given the possibility of behaving better next time, not retrospective absolution.
+
+**Project Kebab gets stranger without becoming explanatory.** The two-disc configuration begins producing what appears to be writing or language. The Sages suggest transmission rather than merely reception. Chip supplies the institutional memory — Rotherhithe, and the rule that stasis fields must not interact. Johnny supplies the vanity necessary to ignore it. Chilo barely has to manipulate him before Johnny independently "discovers" the need for three, then four, then five discs, at which point Kleo produces the conveniently relevant pentagram prophecy.
+
+The comic mechanism is excellent: the Sages don't need to order anyone to do anything dangerous. They just need to arrange the room so Johnny can take credit for thinking of it.
+
+There is also a lovely structural rhyme with the opening. Eloise invents fake multiversal imaging technology to occupy Alexander while, back home, her actual researchers appear to be receiving multiversal language. The fraud is fake science fiction; the side project may be the real thing.
+
+**Bent Street is the Part's great public set piece.** Rock Against Revival is already enormous, but the stronger choice is not to make the organised festival the climax of the movement. The actual uprising happens afterwards because people don't want to go home.
+
+The transition is beautifully organic. Airborne kids use their credentials to carry Elvi and Cloudborne above the Layer. Money orders couches, heaters, food, go-karts, a marquee and eventually a yurt. "OCCUPY BENT STREET" is immediately beaten by the much better slogan "GET BENT." Evolutionary doctrine spreads around the barbecue as social revelation: the Elvi hear equality, the Cloudborne hear possibility, and the Airborne discover with enormous relief that they never really believed their own superiority anyway.
+
+Dunhilton then makes the movement bigger by denouncing it. His "not-for-profit terrorists" have allegedly brainwashed children with free guitars, drugs and, worst of all, "the consumption of free sausages." TRAMPS arrives and discovers that its riot-control doctrine has no procedure for shareholders' children sitting on couches and offering them fried peanut-butter sandwiches. Some officers simply join the party.
+
+The uprising succeeds because class has become visually unreadable.
+
+Which makes the government's response especially vicious: it deploys a weapon that can read class's substitute — genetics.
+
+## Inheritance, Encoding and Contagion
+
+Part 5's apparent sprawl has a deeper organising principle: nearly everything in it concerns things encoded in people before they make a conscious choice.
+
+Chanta inherits Hardy's fortune through DNA. The Rose Door knows him biologically before he knows himself historically. His mysterious healing is embodied rather than learned.
+
+The Elvi inherit skills, cultural dispositions and vulnerabilities from Grayling. Their warranty is effectively a specification for what has been encoded into them. The AJENT JONES cartons suggest even one of the novel's supposedly individual antagonists belongs to a manufactured lineage.
+
+Little Clinton is literally a clone, yet produces information nobody around him understands. Sarah's own health changes abruptly around age twelve, a boundary she refuses to explain, and the Hardy portrait produces a reaction that cannot fit the biography the reader currently possesses.
+
+Airborne privilege is inherited socially and financially; Get Bent works in part because their children temporarily refuse to perform it.
+
+Religion is transmitted culturally through music, but appears able to interact with whatever Grayling encoded biologically.
+
+And finally TMinusVirus ignores ideology entirely and asks the body one question: do you contain Elvi genetic markers?
+
+That progression is strong. Part 5 begins with inheritance giving a Cloudborne man access to unimaginable wealth and ends with inheritance determining who dies when they breathe.
 
 ## Where Part 5 Slackens
 
-**Sarah has no decisions.** This is the Part's largest structural problem. She ends
-Part 4 having seized command of a weapons-research division on her own terms — the
-most decisive act any character in the book has taken. Across fourteen chapters of
-Part 5 she hosts a barbecue, deflects Johnny, deflects Johnny again, receives a
-medical, attends a briefing, attends a festival in a bad disguise, and sits on a
-throne. Every one of those scenes is well-written; not one of them requires a choice
-from her. The Gyges project she runs advances entirely without her — Johnny is
-manipulated into the five-disc pentagram in a scene she isn't in, and the reader
-learns of the configuration before she does, if she ever does. The Holy Momma
-worship she is subject to, not an agent in. She is the most capable person in the
-book and the Part gives her nothing to be capable at.
+**The Alexander opening is excellent comedy but slightly oversized for its structural job.** Removing Alexander is the right move, and the false VorpalTech operation fits Eloise perfectly. The reveal that the company doesn't exist lands wonderfully. After that reveal, however, the cheese factory, malfunctioning VR equipment, fake staffing, flight delay and Nightshade Protocol continue proving a proposition the reader already accepts: Heinrich can manufacture enough nonsense to occupy Alexander. Because Alexander then disappears from the Part, the sequence reads more like the launch of a parallel plot than board-clearing.
 
-The Johnny scenes compound this: "Johnny gatecrashes the BBQ" and "Johnny visits
-Sarah" perform the same function twice within two chapters — Johnny is oblivious and
-pushy, Sarah punctures him, Johnny leaves deflated. The second has the better
-ending (the Phase Four busywork assignment) and the first has the better comedy (the
-Sages' contempt, the illegible Sumerian label). One of them is doing the other's
-job.
+I wouldn't lose it. The fake-multiverse/real-multiverse rhyme is too useful. But some tightening after "VorpalTech AG exists only on paper" would make its narrative function cleaner.
 
-**The Jamison Hardy revelation is dropped where it lands.** "You have no idea what
-that man did to me... Jamison Hardy! That monster, he... I can't..." — a woman in
-her thirties in visceral, bodily terror of a man dead a hundred years, who then
-catches herself, tries to recover, and covers with "I live in his shadow every day."
-This is the single largest thing Part 5 puts on the table. It is never mentioned
-again, by her or anyone, for the remaining nine chapters. Chanta doesn't raise it;
-Kathy, who examines her, doesn't know; Sarah herself never returns to it even alone.
-Given that PAPER has spent decades hunting Hardy's potential heirs, that Chanta has
-just been confirmed as one, and that Sarah's "never been sick a day in my life" and
-Chanta's calf healing overnight both point the same direction, this is a convergence
-the Part sets up thoroughly and then walks away from. Either something has to press
-on it before the Part closes, or its placement here is spending a revelation to buy
-one scene's shudder.
+**Chanta's decadence repeats a beat Part 4 already established.** Here the repetition has a stronger purpose: the cause changes from separation and creative block to the narcotic effect of unlimited gratification, and the High Elvis explicitly tells him, "Being rich is ruining you." But the Part makes the point several times — parties have gone stale, Elvisettes have gone stale, booze has gone stale, songwriting has disappeared, he misses Sarah and Little Clinton. Later the gym sequence circles the same absence at greater length before Chanta finally returns to the Stickett ruins and re-enters the world.
 
-**Chanta's healing never becomes anything.** He falls two storeys, cracks his calf
-audibly enough for the narrator to make an orthopaedic joke about it, and by the end
-of the scene "he was already healing." It's reinforced in the next chapter — mid-way
-through Halo's video he squeezes the leg and there's nothing. Then the Part forgets
-it. He never wonders about it again, nobody examines him, and it plays no part in
-the Rose Door (which reads his DNA, not his physiology). A fact this strange either
-needs a character to notice it twice or it reads as a loose end the reader is
-holding on the book's behalf.
+That return is the movement. I would get him there a little faster. The important arc is not that Chanta is bored by wealth; it is that contact with his old world restores the conditions in which he can care enough to write.
 
-**Chip is set up as Cassandra and then removed.** The pentagram scene builds him
-beautifully — the man who knows about the Rotherhithe Stasis Collapse, who has
-learned that being right is worth nothing at the wrong seniority, who resolves to
-time his run and wait for the evidence to mount. He storms out saying "I need to
-talk with Ms Jacobson." He is not seen again in Part 5. The warning never reaches
-her, and the Part doesn't dramatise the failure to deliver it — Chip simply exits
-the book, which converts a deliberate arc into an apparent oversight. The scene
-where the warning bounces off Sarah, or is intercepted, is missing and it's cheap to
-write.
+**The Sarah–Hardy revelation could use one hairline crack before the portrait.** The scene itself is strong precisely because Sarah says too much and immediately realises it. But "You have no idea what that man did to me" concerning a man dead for roughly a century expands the mystery around Sarah by an enormous amount in one sentence. The later revelation that her perfect health begins abruptly around age seven or eight reinforces the mystery, but comes afterwards.
 
-**The Sages' agenda goes unchallenged on the page.** They manipulate Johnny into
-five discs, they discover the belief-swap mechanism in the intervention room, and
-they walk onto the festival stage unbooked with pre-patched wireless mics to install
-"Praise the Dawkins" into half a million people. That's a coherent operation and
-withholding their motive is a legitimate choice, and they are demonstrably good at
-keeping people off balance — they have millennia of practice, they never make a
-claim that can be checked ("like most arcana, they require certain esoteric
-perspectives to interpret"), and they operate by flattering a vain man into
-proposing their plan as his own. Johnny is not a lapse in anyone's vigilance; Johnny
-is the correct instrument, chosen accurately.
+One earlier, tiny Hardy-specific disturbance — not explanation, merely recognition where none should exist — would turn the bedroom line from a new category of mystery into the payoff of something the reader has already registered subconsciously.
 
-*(Two corrections to the original note, 2026-08-07.)* First, **Hayley could not
-have known about the patched mics** — that exchange happens between a tower
-engineer and the stage manager, nowhere near her, and expecting her to act on it
-was the review demanding omniscience of a character who was several hundred metres
-away watching a crowd. Struck. Second, the author's position is that **Kathy
-suspects rather than knows**, and that the difference is precisely what makes people
-hesitate — which is right, and is the better version of the character. The
-difficulty is that the prose currently overshoots it: she "felt the sick click of
-realisation," and "*They weren't trying to cure it. They were learning the operating
-system*" is delivered flat, as fact, in free indirect. That's a knowing sentence.
-If the intent is suspicion, this is a one-line fix in the drafting, not a structural
-problem — the hedge just needs to be in the sentence rather than in the intent
-behind it. As written, a reader will fairly conclude she knows and said nothing.
+**Project Kebab is banked immediately after a very large ignition.** Five discs, apparent multiversal language, transmission rather than reception, Rotherhithe and the Sages' pentagram are climax-sized promises. Then the religious war takes over the Part. This isn't inherently a structural problem; Part 5 is allowed to load Part 6. But the size of the Kebab escalation means the reader is waiting for it while gospel, Rock Against Revival and Get Bent become a complete novel-sized movement of their own.
 
-What survives of the original complaint, then, is small: not that anyone should have
-caught the Sages, but that Kathy's near-miss is the Part's only registered flicker of
-suspicion and it is never picked up again, by her or anyone. She goes on to lie to
-Eloise about the SARA readouts in the very next chapter — she is already a woman
-keeping a dangerous secret from one dangerous party. Letting her privately file the
-Sages alongside that, in a clause, would cost nothing and would mean the reader's own
-suspicion has somewhere to live.
-
-**The High Elvis dies in a subordinate clause.** He is the most vivid character
-Part 5 has: the cricket-commentator menace of "Mutter me one song in time for my
-closing set and I won't have you banned from the Ghetto," the pool games and
-peanut-butter cocktails, the three little laws, and the closing address about taking
-your rubbish home — "the only proof we were ever here will be the songs and the
-memories" — which is the warmest, most fully-inhabited speech in the book. Then his
-death arrives as reported news inside Gerry's POV, as the item that finally makes
-Dunhilton's cork pop.
-
-*(Corrected 2026-08-07: an earlier draft of this review called him a new character.
-He is not — he is established from the Vegas Show in Part 1, where the narrator
-flags that he "would be known as The High Elvis by story's end," and he has
-appeared through the Travelator, the Inauguration and the cathedral. That makes the
-investment larger, not smaller.)*
-
-The author's position is that the deflation is the brand, and that is defensible —
-this is a book that gave Sarah "That mother-taxer deserves all he got" over a
-corpse, and killing its warmest character in a subordinate clause of a champagne
-toast is the same instrument. The reservation is narrower than the original
-complaint: it is not that he should get a death scene, but that **Gerry's POV is
-the one place the deflation costs something.** Gerry does not know what the High
-Elvis was. Reported through him, the death is an operational result, and the reader
-is asked to supply the entire loss unassisted, in a scene already working hard to be
-cold. A single Elvi noticing — one line, elsewhere, in the hours after — would let
-the coldness land against something rather than into nothing. *(Resolved
-2026-08-08: reserved for a new Part 6 chapter — the inauguration of the new High
-Elvis, with Walter as the one who witnesses the loss. Nothing is added to
-`Operation Cleanse`, which stays short and cold. Brief →
-`artefacts/part6-new-high-elvis-chapter.md`.)* The Part 6 plan (a
-new High Elvis elected, decreed to be of the same series, character identical) is a
-strong joke and makes the death *more* worth registering, not less: the whole point
-of "they are descended from clones, after all" is that it should be possible to
-replace him, and quietly appalling that it is.
-
-**Nobody we know is present at the massacre.** The virus scene is written entirely
-from Gerry's window, which gives it a chilling administrative distance — "The parts
-of the crowd seemed to collapse... Gerry thought he could see blood" — and that
-distance is clearly deliberate. But the cost is that thousands die on a plaza where
-the Part has installed Chanta, the High Elvis, and an entire cast of Elvi we've
-spent fourteen chapters learning to like, and the prose is with none of them. Walter
-is the sharpest instance: the Part goes to real trouble to make him specific and
-lovable — the genuflection by sunglasses removal, the bedroom-wall poster, the
-selfie with Kathy, "Hello, Granny" — sits him on the Great Teacher's throne, and
-then never mentions him again while a plague designed to kill Elvi is released on
-the crowd he's standing in. That is a loaded gun the Part declines to fire or
-unload.
-
-**Some of the second festival day re-runs the first.** *(Revised 2026-08-07 — the
-original note here was lazy, as the author correctly said. It bundled material that
-is genuinely fresh at Bent Street with material that genuinely repeats, and leaned
-on a wordcount percentage, which is accountancy rather than storytelling. Struck.)*
-
-Fresh at Bent Street, and doing work nothing at the Domain does: the Elvi teaching
-Airborne kids four chords "with the patience they otherwise reserved for pet
-chimpanzees and drummers"; the improvised civic infrastructure (the yurt, the
-go-karts confined to the Spring Street end, the portaloo realisation); the evolution
-catechism and "You are, but what am I?"; the riot squad defeated by laughter and a
-fried sandwich; the free t-shirt startup that started up on the plaza. That is a
-different scene about a different thing — the Domain is a concert, Bent Street is a
-society inventing itself in a car park — and it earns its length.
-
-*(Overtaken, 2026-08-08. Checked against the current draft during the chapter-by-chapter edit, none of the three holds. The food beats are different scenes, not a retelling — the Domain one is teenagers felled by cocktails and sun; the plaza one is a breakfast with its own jokes ("This will be better than drugs", the Elvis scrawling *amphetamines* on the grocery list, "Only the Elvi ate the buttermilk biscuits in sawmill gravy"). The Airborne-and-the-ground beat appears at Bent Street only as the clause "so ecstatically down in the mud in their lives" — a callback, not a repeat. And the High Elvis's set is four sentences of summary, not a passage a reader could skip; "ran the same as… without the interruption of the Sages" is doing real work. **Author ruling: no compression.**)*
-
-What actually repeats is narrower, and it is three things. The Airborne-kids-meet-
-Elvi-food routine runs twice at similar length (condensed milk and peanuts at the
-tree line; fool's gold and sugar hallucinations on the plaza), and the second telling
-adds no new joke, only new menu items. The Airborne-delighted-by-the-ground beat
-plays twice. And the High Elvis's set is explicitly flagged as a repeat — "ran the
-same as his performance the night before" — which invites the reader to skip a
-passage the book has just told them they have already read. Compressing those three
-is all that is needed; everything else in the occupation should survive intact.
-
-**First-draft residue in the closing chapters.** The binder still has Ch 12–14
-(`Blue Howahya`, `Wisdom of the Sages`, `Piglicious Minds`) at First Draft / To Do
-status, and the prose shows it. Worth a clean pass: `Lonny`/`Lonnie` alternating within one scene, `Dr Carpentry`
-for Carpenter, `Prisioners`, "the rest of the **drew** stood", "gravity had **aid**
-down for a nap", "accidentally **propelling hum** through a crowd", "insufficient
-for saying any coherent", "as before the bow of a ship or an especially impressive
-**gold cart**", "form" for "from", "bing" for "being", "**I** all directions at
-once", "Your **Supreme** Corporateness" (elsewhere consistently *Serene*), and
-"three weeks from Wednesday" spelled "threes weeks". None of these are structural;
-all of them are the kind of thing a reader trips on.
-
-*(Progress, 2026-08-08. An earlier draft of this list also named the High Elvis
-waiting for "**Cracker** to look at him squarely" in `Chanta's tower`, a character
-name from another draft; the author has since fixed it, and the live text reads
-"Chanta". Cleared in the chapter-by-chapter sub-edit: `Lonny`/`Lonnie`,
-`Dr Carpentry`, `Prisioners`, "the rest of the **drew** stood", and "bing" for
-"being". Still outstanding, all of them in Ch 14 (`Occupy Bent Street` and
-`Operation Cleanse`): "gravity had **aid** down", "**propelling hum**",
-"saying any coherent", "**gold cart**", "**I** all directions", "Your **Supreme**
-Corporateness", and "threes weeks".)*
-
-One binder-hygiene item remains, Red-tier and therefore queued rather than touched:
-the Part 5 status flags are stale relative to a completed draft — the `Amazing
-Grass`, `Blue Howahya`, `Wisdom of the Sages` and `Piglicious Minds` chapter folders
-carry no status at all, and their scenes still sit at First Draft or To Do.
-
-*(Resolved 2026-08-08: this section previously flagged two scenes both titled
-**Religious Minds**, in `Amazing Grass` and `Wisdom of the Sages`. The author has
-since renamed them. Verified against the live binder — no duplicate scene titles
-exist anywhere in the manuscript, and no scene carries that title. "Religious Minds"
-survives correctly as the **song** title throughout the knowledge base; those
-references are not affected.)*
-
-## On Holding the Hardy Reveal for Part 6
-
-Added 2026-08-07, answering the author's question: is the reader being held too
-long, and has it already been telegraphed too much?
-
-**The hold is fine. The telegraphing is the problem — and they pull in opposite
-directions.** Withholding an explanation for two hundred pages is only expensive if
-the reader can tell they're being withheld from. Right now they can, because the
-Part signals hard and then goes silent, which is the one combination that reads as
-an authorial hand rather than a mystery. Sarah names Jamison Hardy in italic
-capitals of feeling — "*That monster, he... I can't...*" — swaying, gripping a wall,
-and then nobody in the book ever mentions it again. A reader who noticed will spend
-nine chapters waiting for someone to ask. A reader who didn't will have forgotten by
-Part 6.
-
-The fix is not to reveal more. It is to **stop the signal being the only event.**
-Three cheap options, in ascending order of cost:
-
-1. **Let Chanta fail to follow it up, visibly.** He is the man who accepts things
-   and moves on — that is the character and the gag, and it should be protected. But
-   there is a difference between a character not pursuing something and the *book*
-   not pursuing it. One line of him deciding not to ask — filing it in the drawer he
-   keeps shut, the way he files Jones as "the correct drawer for a narc" — converts
-   an unanswered question into a characterised refusal. The reader then knows the
-   book heard them. This is the cheapest fix in the Part and it costs one sentence.
-
-2. **Give it to someone who would pursue it.** Kathy has Sarah on an examination
-   table saying she has never been sick a day in her life "at least since I was
-   seven or eight years old" — a line that already contains a hole in a childhood.
-   Kathy is a doctor who is at that moment deciding to lie to Eloise about this
-   patient. She would ask. She doesn't have to get an answer; she has to *ask and be
-   deflected*, which puts the question in the reader's hands as something a
-   character is also carrying.
-
-3. **Do nothing and accept the cost.** Legitimate, if Part 6 opens on it fast.
-
-On telegraphing: the accumulation is heavier than it may feel from inside the
-drafting. Sarah is invincibly healthy and dreams the bunker patterns; Chanta heals a
-broken calf overnight; PAPER has spent decades hunting Hardy's heirs and killing
-them; Chanta is confirmed as one; Sarah is terrified of Hardy personally; and Little
-Clinton is doing something to both of them. A reader assembling that will land on
-"Sarah is Hardy's descendant too" well before Part 6 says so — and that is not a
-failure. Readers who solve a puzzle one beat ahead feel clever, not cheated,
-*provided the book acknowledges the puzzle exists.* The danger is only in the
-silence. Give them a character who is also wondering, and the early solve becomes
-collaboration; leave them alone with it, and it becomes impatience.
-
-*(Canon correction, 2026-08-07, author: the descendant solve is **wrong**, and the
-manuscript was checked the same day — **nothing on the page hints at descent.** The
-inference chain above is the review's construction of what a theorising reader
-might build from adjacent facts, not a trail the book lays: the only on-page
-Sarah–Hardy link is the terror scene itself, which hints personal history, not
-bloodline, and the heir-hunt exposition is entirely Chanta-directed. That is the
-correct state and must be preserved — the acknowledgment beats may press on the
-question, but nothing may be added that implies descent. The true answer is sealed
-in the KB and stays off review pages.)*
-
-*(Applied, 2026-08-07: the author chose options 1-adjacent and 2 together, plus the
-insert-scene fold. Kathy now asks about the seven-or-eight edge in "Kathy Gives
-Sarah a Medical" and is deflected; Chanta's characterised refusal to ask about the
-portrait is in "Chanta's tower"; his calf non-wonder is in "Chanta's Penthouse
-Days." The held-door beat rides with the planned Chip escalation scene.)*
-
-The single highest-value move remains the one already agreed: fold it into the Chip
-escalation. Sarah admitting the pregnancy is degrading her is one honest admission
-away from the larger one she isn't ready to make, and putting those in the same
-scene lets the reader feel a door being held shut rather than one that was never
-there.
+If Part 6 returns to Kebab quickly, the withholding is doing exactly what the earlier Parts do well. If it does not, this sequence may be promising too much too early.
 
 ## The Threads
 
-**Resolved:** Chanta's poverty, absolutely. The Scarlet Shower Surgeon case closes
-*institutionally* — Dunhilton gets an answer and a scapegoat — while remaining
-factually open, which is the right shape for it.
+Part 5 does not resolve many of the novel's large mysteries. Instead it connects threads that previously looked unrelated.
 
-**Explained but not closed — Halo.** *(Corrected 2026-08-07: an earlier draft of
-this review logged Halo as dead and the arc as resolved. He is alive in stasis; see
-`arc-tracker/halos-hunt.md`, now reopened.)* The video confession does a great deal
-of work — it explains the eight years, names PAPER's internal war (Grubler
-neutralising heirs, Smythe/Midas finding assets), confirms the Stickett Inn bomb was
-aimed at Chanta, and keeps the man's ugliness fully intact rather than redeeming
-him. Chanta's two pauses — shoulders climbing to his ears, then pushed back down —
-are exactly the right amount of reckoning.
+**Halo and Chanta's lineage** finally join. Halo's secret PAPER assignment, Grubler's attempts to kill Chanta, the decades-long hunt for hidden billionaire assets and potential heirs, and Chanta opening Hardy's Rose Door all point at the same submerged history. Halo's thumb drive remains partly locked, so the thread pays out information while retaining another layer.
 
-What the Part does underneath that is quieter and better: it plants Halo's survival
-three times without once stating it. The body vanishes into PAPER's hands. Gerry
-tells Dunhilton outright that nobody "can say for certain that Smythe is dead."
-And the vid signs off with *"I'll see you when you get there. Now that time has
-stopped for me, I will always be your friend"* — which reads as ghost-sentiment and
-is, in a novel whose entire physics is time stopped in a pocket, a literal status
-report with an appointment attached. "There" is the address he sends Chanta to.
-Chanta has since walked those bunker aisles and opened five lockers out of
-thousands. That is a well-laid trap and the review should have caught it.
+**Agent Jones** undergoes the Part's strangest reframing. Publicly he is still the paranoid operative who believes Gerry is Jihad Man. Operationally he is now actually carrying out Gerry's gospel sabotage. Privately — unknown to him as far as the text shows — Chanta has found boxed AJENT JONES units in Hardy's bunker. The question is no longer merely what happened to Jones. It is what Jones is.
 
-The one live risk is dormancy: the reader has been told Halo is dead and has no
-character on the page doubting it. Hayley never saw a body and the identification is
-her arc — a single line of her scepticism, anywhere in Part 5, would keep the thread
-warm for nothing.
+**Sarah's biology** advances on three fronts: her impossible health, Little Clinton's apparent effect on her and Chanta, and SARA's patterned neural readings. Her reaction to Jamison Hardy now suggests the answer may involve her own past rather than only the pregnancy.
 
-**Major advancement:** Chanta as Jamison Hardy's sole confirmed heir, with staff, a
-bunker and unspendable money. The Elvi schism — from a jukebox sabotage to Holy
-Rollers, Pastor Rex Humble's shears and punch bowl, and a formal counter-religion.
-Gyges to a five-disc pentagram, driven by the Sages through Johnny's vanity, with
-the prophecy quoted over it. Little Clinton's neural readouts on SARA matching the
-patterns from the exploded bunker, and Kathy's decision to lie to Eloise about it.
-Gerry to acting Director of Freedom and PAPER oversight — the most powerful security
-appointment in Ulyssian history, received "with the ceremony of a coffee order."
+**The Gyges Disc** changes category. It began as an object with dangerous kinetic behaviour, became a research object, and is now behaving like a communications system. The Sages want five. Chip believes that configuration is catastrophically unsafe. Sarah believes something is trying to communicate. None of those interpretations excludes the others.
 
-**Newly drawn:** Fisher, the Hardy household, and the bunker's stock of un-revived
-Elvi. Ajent Jones as a Grayling product line, revived by Chanta on a whim. Pastor
-Rex Humble. Walter. Heinrich and the Liechtenstein cheese-factory cover. The
-second, locked payload on Halo's thumb drive — "you won't be able to access it
-until… you'll know when." Sarah's terror of Hardy.
+**The Sages** become substantially more dangerous. Their method is now visible: nudge Johnny toward the five-disc apparatus, insert themselves into the religious crisis, demonstrate belief replacement, and then walk onto the largest stage in Ulyssia already wired for sound and teach half a million people a Dawkins hymn. They no longer look like comic mystics who happen to know the future. They look like operators.
 
-**Written out or parked:** Alexander, exiled to VorpalTech for two full scenes of
-setup that pay nothing inside Part 5 — the material is funny (the business cards,
-the Nightshade Protocol, "Schwarzwälder before you even Schinken das Schwein
-geschlachtet") but it costs 2,700 words to remove a character, and the debt falls
-entirely on Part 6. Chip, exiting mid-warning. Eloise's disc project, offstage after
-the pentagram. The Melbourne Cup Day deadline, overtaken by events — Dunhilton
-pulls the schedule forward in the cigar lounge and the Part never returns to the
-original date.
+**Gerry's genocide project** leaves the planning stage. Part 4 set the deadline; Part 5 first tries the indirect route of engineered sectarian conflict, then deploys the biological weapon when Bent Street creates the ideal political crisis. Gerry even argued for a smaller dose so infected Elvi could escape and transmit it farther; Dunhilton wants enough bodies in view to feel he has witnessed a massacre. Whatever comic ambiguity Gerry once possessed, his operational position is now clear.
 
 ## Voice
 
-The narrator comes forward again after Part 4's restraint, and the digressive mode
-is welcome — Starborne One, the Eastern Suburbs Bubbles, the Domain's centuries, the
-freight manifests. These are the Part's best paragraphs and they earn their length
-by always turning into plot at the end. The comic-encyclopaedic register (Liechtenstein's
-exports, MFC fires, the hover-copt's "generative artificial mediocrity" arguing with
-a legal governance haiku) is used more sparingly than in Parts 1–2 and lands harder
-for it.
+Part 5 brings the intrusive narrator back toward the foreground.
 
-The character registers are the widest they've been. **The High Elvis** is the
-find: a leader whose menace is delivered in the cadence of a cricket scorecard, who
-worries about setting an example for younger fans, and whose closing address is
-pure civic tenderness. **Fisher** is unbroken velvet with grief underneath.
-**Gerry** completes his move from comic operator to the man who signs off on a
-massacre, and the prose declines to give him a crisis — he "argued for a smaller
-dose" purely on the tactical ground that survivors would spread it further, which
-is far colder than remorse would have been. **Dunhilton** stays grotesque and
-ridiculous and is now lethal, and the Part is careful to keep the joke on him even
-in the final scene. **Jones** is a weapon discovering he has an interior. **Kathy**
-carries the Part's dread — her patches now read as an anxiety instrument rather
-than a running gag, and "I can lie to the best of them" is the closest thing she has
-to a vow. **Chanta** finally develops rather than restates, and the decadence
-sequence is written with a contempt for its own luxury that keeps it from being
-indulgent.
+Parts 3 and 4 increasingly trusted action and dialogue, with the early novel's long world-building riffs appearing more selectively. Here the scale has become civic again, and the narrator expands with it. Starborne One gets a full old-money architectural essay. The Domain gets a social and political history. The Eastern Suburbs Bubbles, the concert permit, Air Guitars, festival catering, news arithmetic and the logistical development of Bent Street all receive the old Part 1 treatment: absurd institutions explained with the confidence of an historian who has spent years studying something nobody sane would study.
+
+The difference is that these digressions now carry politics rather than merely world-building. "The permit said classical. What the city got was an uprising" is the mode in miniature.
+
+**Chanta** remains linguistically Chanta even after becoming one of the richest people alive. That's important. He can acquire chauffeurs, private cinemas and historical influence, but still thinks "sommelier" sounds like "summer liar," wants Kenyan lager with a cheeseburger, and solves metaphysics by doing something stupid to see what happens. Money changes his behaviour before it changes his language, which preserves the character through a massive status inversion.
+
+**Kathy** comes fully into her own register here: medically precise, chemically assisted, sexually reckless, observant and increasingly frightened by what she is discovering. Her relationship with Hayley gives her something Part 4 didn't: a private life that is not simply orbit around Sarah.
+
+**Hayley** remains terse enough that a nod can constitute a ticker-tape parade. Pairing her with Kathy works because the voices are opposites rather than because the text tries to make them alike.
+
+**The High Elvis** gains a register beneath the performance. At Rock Against Revival he can still conduct a crowd like a showman, but he increasingly speaks like a tired administrator trying to stop his population from destroying itself. That quieter voice is what makes him more than regalia.
+
+**Gerry** gets darker without changing tone. The same calm operator who once stole subordinates' ideas and let Dunhilton think he was in charge now stands at a window clinically observing a genetically targeted mass killing. The voice hasn't changed; the stakes have. That's what makes it ugly.
 
 ## Verdict
 
-Part 5 is the Part where the novel's central joke turns lethal. The mondegreen — five
-Parts of decorative comedy about Elvi mishearing lyrics — becomes the mechanism by
-which the Great Teacher loses his people, and the warranty clause becomes the
-mechanism by which the state kills them. Both are payoffs the book planted long ago
-and had every right to leave as running gags; converting them into plot is the
-strongest thing Part 5 does. The gospel schism, Jones at the jukebox with its
-sticker-based payoff eight chapters later, the intervention room, Lonnie's four-part
-harmony, the Rose Door, and the festival's inversion of Chanta's lyric are all
-first-rate.
+Part 5 is probably the novel's most sprawling Part so far and, paradoxically, one of its most thematically integrated.
 
-Its soft spots cluster around one thing: the Part is far better at what happens to
-people than at what people decide. Sarah, the book's most decisive character,
-spends fourteen chapters reacting. Chip is built into a Cassandra and removed before
-his warning can land or fail. Kathy comes closer than anyone to naming the Sages'
-method and does nothing with it. Nobody follows up the two most arresting facts the
-Part produces — Sarah's terror of a man dead a century, and Chanta's calf healing
-overnight. The Part's engine is the antagonists; the protagonists are largely its
-weather.
+Its unifying subject is not religion, inheritance, the Gyges Disc or even Get Bent. It is **transmission**: what passes from one person to another, what is inherited without consent, what can be implanted, copied, sung, misheard, rewritten, programmed or inhaled.
 
-That diagnosis needs one qualification the original draft of this review didn't
-make. Events at this scale *should* outgrow personal decisions — that's what a
-third act is, and padding it with reflective interiority would be reader-service of
-the worst kind, slowing the book to reassure people of things they already know
-about characters they already understand. The problem is not too little reflection.
-It is that **agency here is being lost without being spent.** Sarah's diminishment
-is real, deliberate and well-motivated; what's missing is any moment where she or
-anyone else registers it as a cost, which is what would convert a drift into an
-arc. One admission does that. It doesn't need a scene of soul-searching; it needs a
-sentence she'd rather not say.
+That is why the seemingly unrelated material coheres. Hardy's DNA inheritance, Grayling's clone programming, Little Clinton's neural patterns, the Gyges transmissions, gospel conversion, Dawkins counter-conversion, Chanta's songs, the political contagion of Bent Street and TMinusVirus are variations of the same problem: once something gets into people, who controls what it becomes?
 
-The two fixes with the highest return are cheap, and both are now logged. Give
-Sarah one decision that costs her something — the Chip escalation, where she cannot
-go and check the pentagram herself, admits why, and commissions Hayley to look into
-Eloise instead (`arc-tracker/hayley-investigates-eloise.md`). And put Walter into
-the Bent Street occupation with something he is visibly planning, so that the
-clinical view from Gerry's window detonates against a want the reader is already
-holding — without warming up the massacre scene itself, which should stay exactly
-as short and cold as it is.
+The Part's greatest achievement is what it does with the novel's old jokes. Mondegreens become political theology. An ELVIS warranty becomes a vulnerability assessment. Chanta's accidental songwriting becomes mass culture. Grayling's absurd product nomenclature becomes a terrifying clue about Agent Jones. The clone joke becomes the mechanism by which a government can murder one demographic in a mixed crowd. The comedy has not been discarded as the novel gets darker; the comedy has acquired consequences.
 
-Part 6 inherits a field that has been cleared with violence. The High Elvis is
-dead; the Elvi are dying in the Ghetto and The Pale as well as on the plaza; the
-Great Teacher has been shouted down by his own congregation and walked off with an
-esky; Sarah is thirty-five weeks pregnant with a child whose brain is doing
-something Kathy is lying to Eloise about; Chanta is the richest man alive, holding a
-locked thumb drive that will open when he knows; Chip's warning is undelivered and
-five Gyges Discs are configured in a pentagram; a boxed battalion of Ajent Jones
-units sits in stasis under the man they once hunted, along with — though nobody in
-the book knows it — Halo; Gerry Hardman holds PAPER, Freedom and
-Elvi Rights; and several thousand Airborne teenagers have just watched the
-government murder their friends.
+Rock Against Revival into Get Bent is the Part's strongest extended movement. The organised attempt to stop one religion accidentally entrenches another. Chanta writes against religious thinking and watches thousands sing his words backwards. The High Elvis tries to unite classes and inadvertently creates a political uprising. Dunhilton tries to destroy that uprising and is forced to reveal what his government always believed underneath its meritocratic language: if social categories become inconveniently porous, biology can make them hard again.
+
+And that is where Part 5 lands: not with a battle, an explosion or an assassin, but with clean air itself turned into a class weapon.
+
+Part 6 inherits an exceptionally loaded field. Chanta is unimaginably rich, mysteriously regenerating, in possession of Halo's still-partly-locked secrets and a warehouse containing AJENT JONES units. Sarah is heavily pregnant with a clone whose brain appears to be producing the same language as the Gyges phenomena, concealing that fact from Eloise while investigating Eloise and concealing some impossible connection of her own to Jamison Hardy. Project Kebab is moving toward five discs. The Sages have demonstrated that belief can be overwritten and have helped create the very Dawkins religion Chanta tried to reject. Kathy and Hayley have become both a couple and Sarah's covert inner circle. Get Bent has crossed the Airborne–Cloudborne boundary. TMinusVirus has crossed into the crowd. The High Elvis is reported dead.
+
+Part 4 ended with everyone committed.
+
+Part 5 ends with nobody in control.
+
