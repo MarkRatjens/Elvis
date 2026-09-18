@@ -1,1 +1,49 @@
-Hayley, having failed to uncover any covert Gyges programme inside Shakti, changes direction after Chip's warnings and investigates Eloise's previous encounters with Fridge Force. She discovers that Fridge Force once closed a Shakti stasis project after objecting to experiments involving interacting fields. The project's official purpose was innocuous enough, but the agency's technical assessment identified work that went beyond that purpose and had plausible military applications. Eloise fought the shutdown bitterly and regarded Fridge Force's restrictions as obstructionist. Hayley can find no evidence that a weapon was actually being developed.
+Chip Stockwell had spent months treating the interaction of stasis fields as a moral failing. Two units in a building, shield them. Two units in a room, don’t put two units in a room. Five Gyges discs arranged in a pentagram had almost made him religious.
+Fridge Force had been annoying Eloise since long before Chip came to Sublime Point. Hayley decided to find out why.
+She did not search from Sublime Point.
+The public records service occupied a corner of a municipal library and had been designed to satisfy the legal requirement that government information be publicly accessible while discouraging the public from actually accessing it. Of the four terminals, one was broken, one denied the existence of Fridge Force, and another offered Hayley a discounted refrigerator inspection before she had typed a word.
+The fourth let her search.
+She started with ELOISE SHAKTI and FRIDGE FORCE.
+Too much.
+She added ENFORCEMENT.
+Still too much.
+CLOSURE ORDER reduced several hundred results to eleven.
+Hayley sat up.
+Most were trivial. Storage depots. A Shakti food subsidiary that had installed an experimental stasis room without enough shielding. A luxury hotel whose wine cellar had spent eleven minutes on the previous Thursday. Eloise had appealed that one personally, arguing that the wine had consequently improved.
+Then Hayley opened an Emergency Suspension Notice against a Shakti research programme.
+Its stated purpose was harmless enough: reducing interference between stasis units operating in close proximity. Warehouses, hospitals, transport hubs. Places where shielding every unit individually cost money, occupied space and offended accountants.
+Fridge Force had approved limited tests.
+Then stopped them.
+Hayley opened the technical assessment.
+The first pages were entirely successful at making stasis technology sound less interesting than shelving. Field strengths. Containment distances. Calibration tolerances. A table of numbers which seemed to regard punctuation as an unnecessary luxury.
+She kept reading.
+The authorised work had been intended to suppress interaction between adjacent fields.
+The later tests had done the opposite.
+Hayley went back a page.
+Then forward again.
+The project team had deliberately increased the coupling between two fields. Changed their relative phase. Increased the distance between the apparatus and the monitoring targets. In three later trials, sensors outside the nominal test volume had registered effects substantial enough for Fridge Force to suspend the programme pending review.
+There had been no accident.
+That bothered Hayley more.
+She opened the review.
+Fridge Force did not accuse Shakti Enterprises of building a weapon. Government agencies were generally reluctant to use the word weapon until someone had been killed by one, at which point they became surprisingly confident about it.
+Instead, the report discussed directed field effects, remote material disruption and applications inconsistent with the declared purpose of the research.
+Hayley read the last phrase twice.
+Then she found the appeal.
+Eloise had fought the suspension personally.
+Her submission was long, furious and technically dense. Fridge Force had mistaken investigation of a hazard for an intention to exploit it. Researchers could not make interacting fields safe without first understanding what happened when they interacted badly. Closing the programme because its experiments demonstrated dangerous effects was, Eloise argued, rather like banning crash tests because cars got damaged.
+Hayley hated it when Eloise made sense.
+She read on.
+The appeal attacked Fridge Force’s competence, methodology, jurisdiction and, in one footnote, its understanding of undergraduate physics. What it did not dispute was one sentence in the technical assessment.
+Hayley pulled the two documents side by side.
+The demonstrated effects have plausible military application.
+Fridge Force had written it.
+Eloise had disputed almost everything around it.
+Not that.
+Hayley searched for what happened next.
+The appeal failed. The project closed. She found no evidence that it restarted under another name, moved elsewhere inside Shakti, or produced a weapon. She tried the names of the project staff, the facility, the equipment, the internal programme number.
+Nothing useful.
+That left her with considerably less than a conspiracy and considerably more than she had started with.
+Fridge Force had once shut down one of Eloise Shakti’s stasis projects because the research had wandered beyond preventing fields from interacting and into finding out what could be done when they did.
+And Eloise had known exactly what Fridge Force thought that might be useful for.
+Hayley copied the suspension notice, the technical review and Eloise’s appeal onto a pocket drive.
+She cleared the terminal history, considered whether that would inconvenience Eloise for as much as three seconds, and cleared it again out of spite.

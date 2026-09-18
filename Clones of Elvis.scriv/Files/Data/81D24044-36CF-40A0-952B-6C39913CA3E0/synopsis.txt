@@ -1,10 +1,78 @@
-**Locations**: Agora Symposium Bar; VIP section; makeshift pankration ring in the open room.
+What is genuinely valuable about The Sages’ Night Out
 
-**Tone and Voice Sentence**: "The time for half-measures has passed. When Sarah's waters break, I will ensure the discs are at maximum resonance."
+Its strongest potential function is that it is one of the rare opportunities to see the three Sages alone together.
 
-**Synopsis**:
-In the overly thematic Agora Symposium Bar, Chilo, Solo, and Kleo meet under the banner of "Seven Sages LLC" to discuss the escalating stakes of Project Kebab. Reclining in the ostentatiously kitschy VIP section, tensions escalate between the trio as Chilo insists on the transformative necessity of a cataclysmic event to bring forth the new Dawkins, while Solo and Kleo advocate for restraint, preservation, and measured evolution.
+Everywhere else they are usually operating in somebody else’s story: Sarah’s prophecy, Johnny’s experiment, Chanta’s irritation, the Elvi’s religion. Alone, they can stop functioning as a three-headed oracle and become three people who do not necessarily agree about what their own prophecy means.
 
-As the conversation deepens, Chilo reveals his intent to align the Gyges Discs at maximum resonance during Sarah’s labor, effectively triggering a collapse of dimensional barriers and initiating a reborn universe in the child’s image. Solo and Kleo vehemently oppose his deterministic vision, which dismisses free will and incremental change, framing it as a dangerous gamble with the existing reality.
+That is worth having because the later Project Kebab material already wants a division:
 
-Rising in mutual confrontation, the discussion transitions into an unorthodox physical altercation, where centuries-old philosophies of restraint, ambition, and balance are argued through the archaic combat art of pankration. As patrons cheer, mistaking the clash for bar entertainment, the three men’s struggle symbolizes the broader cosmic stakes tied to their conflict. The ambiguous outcome leaves unresolved whether Chilo’s unchecked ambition—or Kleo and Solo’s resistance—will shape the fate of Sarah’s unborn child and the multiverse it may call into existence.
+Chilo and Kleo push. Solo cautions.
+
+Without some earlier private fracture, that can look like convenient endgame behaviour. A Night Out scene can establish that the disagreement has been there for a while.
+
+Importantly, I would not make the disagreement:
+
+Chilo wants to destroy the universe.
+Solo and Kleo want to save it.
+
+That is exactly the black-hat/white-hat problem you noticed.
+
+The much richer disagreement is something closer to:
+
+They all believe they are fulfilling the same prophecy, but they disagree about what the increasingly strange Gyges-disc results mean and therefore how far they are entitled to push them.
+
+Chilo can be the most confident interpreter. Kleo can think empirical success justifies proceeding. Solo can increasingly suspect they are treating an observation, message or warning as an instruction.
+
+Nobody needs to know that Sarah's waters breaking will end the universe.
+
+Indeed, they probably should not.
+
+What is badly wrong with the existing draft
+
+The rough draft spends virtually all of the scene's potential ambiguity.
+
+Chilo explicitly says:
+
+Project Kebab is proceeding as foreseen;
+Johnny is being manipulated;
+the dimensional barriers are thinning;
+the old order must dissolve;
+the universe is fundamentally flawed;
+the Dawkins will establish new physical laws;
+free will should disappear;
+Sarah's waters breaking will coincide with maximum resonance;
+the child positively wants this.
+
+That doesn't plant the ending. It explains the ending in advance.
+
+It also turns Chilo into a conventional apocalyptic villain and gives Solo and Kleo the conventional job of saying, essentially, But think of all the innocent people. The peculiar uncertainty of the Sages disappears.
+
+There is also obsolete material in it. The draft talks about midnight on the solstice, which no longer describes your Christmas-morning climax, and its Chilo-versus-Solo-and-Kleo alignment conflicts with the more recent Kebab progression in which Chilo/Kleo push and Solo cautions.
+
+So none of that should constrain the new timeline.
+
+The wrestling idea
+
+Oddly, I think the wrestling may have more salvage value than the cosmology.
+
+Three ancient-looking intellectual frauds/prophets having a serious disagreement and eventually settling some portion of it through an archaic physical contest is quite compatible with the book.
+
+But the current draft overdetermines the joke:
+
+Greek-themed bar
+→ Greek food
+→ Greek vessels
+→ Greek quotations
+→ fake ancient music
+→ Greek professors
+→ shirts come off
+→ pankration
+→ spectators think it's entertainment.
+
+Everything points at the same joke.
+
+You could retain the essential absurdity—the Sages' idea of an argument eventually becomes physical in some antiquated, highly rule-bound fashion—without making the entire room dress up as Ancient Greece to announce it.
+
+And the fight should not decide who is morally right. It might decide something ridiculously narrower: who gets to set a parameter, whether another test proceeds, who talks to Johnny, or who has to tell Sarah.
+
+That would be much more useful.
