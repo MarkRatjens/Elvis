@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-09-18 21:52:31 +1000" ModID="FA0DCCC0-1301-4E9E-80C8-E3BB29C7CD0C">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-09-19 18:28:17 +1000" ModID="A35EE447-CCAF-470D-96CB-3EBF4F8C7FF0">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -135,7 +135,7 @@
                                 <SelectedSubdocumentUUIDs>023E4886-ACFC-4E83-9D22-A883C1383566</SelectedSubdocumentUUIDs>
                             </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem UUID="023E4886-ACFC-4E83-9D22-A883C1383566" Type="Text" Created="2022-01-15 18:42:11 +1100" Modified="2026-08-06 10:50:34 +1000">
+                                <BinderItem UUID="023E4886-ACFC-4E83-9D22-A883C1383566" Type="Text" Created="2022-01-15 18:42:11 +1100" Modified="2026-09-19 09:55:33 +1000">
                                     <Title>Sarah celebrates her promotion</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -143,7 +143,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>5217,0</TextSelection>
+                                        <TextSelection>5169,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -187,7 +187,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="C1F9E75B-C24B-4DEA-B313-BA3457F57AC8" Type="Text" Created="2015-07-23 07:31:14 +1000" Modified="2026-08-06 11:47:57 +1000">
+                                <BinderItem UUID="C1F9E75B-C24B-4DEA-B313-BA3457F57AC8" Type="Text" Created="2015-07-23 07:31:14 +1000" Modified="2026-09-19 09:56:11 +1000">
                                     <Title>Sarah meets Chanta</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -197,7 +197,7 @@
                                         <NotesTextSelection>0,486</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>7227,0</TextSelection>
+                                        <TextSelection>9048,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -452,7 +452,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="5C307CEB-E33E-42FD-B5D8-588CC6E49B7B" Type="Folder" Created="2022-01-30 14:11:04 +1100" Modified="2026-08-07 10:32:44 +1000">
+                        <BinderItem UUID="5C307CEB-E33E-42FD-B5D8-588CC6E49B7B" Type="Folder" Created="2022-01-30 14:11:04 +1100" Modified="2026-09-19 10:04:41 +1000">
                             <Title>The Sages' Aims</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -466,7 +466,7 @@
                                 <SelectedSubdocumentUUIDs>B266D084-1F43-48B7-BB13-3C6FA675B2DE</SelectedSubdocumentUUIDs>
                             </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem UUID="C3899E97-E156-443E-8FC6-AB08A90F94C0" Type="Text" Created="2017-06-23 08:38:48 +1000" Modified="2026-08-06 10:25:47 +1000">
+                                <BinderItem UUID="C3899E97-E156-443E-8FC6-AB08A90F94C0" Type="Text" Created="2017-06-23 08:38:48 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Sarah and Chanta take refuge in the Memphis Mafia Bar</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -474,10 +474,10 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>4631,0</TextSelection>
+                                        <TextSelection>5158,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="E2DDE461-0ADF-4377-AF95-C1727D276839" Type="Text" Created="2022-02-27 14:29:51 +1100" Modified="2026-09-06 15:03:24 +1000">
+                                <BinderItem UUID="E2DDE461-0ADF-4377-AF95-C1727D276839" Type="Text" Created="2022-02-27 14:29:51 +1100" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Sarah shows Johnny the disc</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -486,10 +486,10 @@
                                         <NotesTextSelection>58,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>5357,0</TextSelection>
+                                        <TextSelection>0,6</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="9ABE05E7-F053-49C8-B017-62A1FC8374E2" Type="Text" Created="2022-02-27 15:55:13 +1100" Modified="2026-09-11 16:01:06 +1000">
+                                <BinderItem UUID="9ABE05E7-F053-49C8-B017-62A1FC8374E2" Type="Text" Created="2022-02-27 15:55:13 +1100" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Kleo propositions Sarah</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -498,12 +498,12 @@
                                         <NotesTextSelection>261,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>3282,0</TextSelection>
+                                        <TextSelection>4559,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="633FE87D-BE73-4423-A8B5-ED475C24DC0F" Type="Folder" Created="2022-01-30 14:11:04 +1100" Modified="2026-08-07 10:32:44 +1000">
+                        <BinderItem UUID="633FE87D-BE73-4423-A8B5-ED475C24DC0F" Type="Folder" Created="2022-01-30 14:11:04 +1100" Modified="2026-09-19 10:04:41 +1000">
                             <Title>Propitious Signs</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -514,7 +514,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="048C1981-82B3-4ED2-BC27-9B828D6FCD9B" Type="Text" Created="2022-02-25 20:28:23 +1100" Modified="2026-08-06 10:25:47 +1000">
+                                <BinderItem UUID="048C1981-82B3-4ED2-BC27-9B828D6FCD9B" Type="Text" Created="2022-02-25 20:28:23 +1100" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Ajent raids the Memphis Mafia Bar</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -523,7 +523,7 @@
                                         <NotesTextSelection>196,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6726,0</TextSelection>
+                                        <TextSelection>7868,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="FBA123F4-CBEF-4DE6-A6D3-3626AB929478" Type="Text" Created="2022-03-05 17:01:44 +1100" Modified="2026-08-06 10:25:47 +1000">
@@ -891,7 +891,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="D92B2248-F405-4A66-B12B-0C242361AB49" Type="Folder" Created="2022-05-28 10:51:14 +1000" Modified="2026-08-07 10:32:44 +1000">
+                        <BinderItem UUID="D92B2248-F405-4A66-B12B-0C242361AB49" Type="Folder" Created="2022-05-28 10:51:14 +1000" Modified="2026-09-19 10:04:41 +1000">
                             <Title>Dear Woman Blues</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -902,7 +902,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="9453437B-C519-4E3C-A95E-1A30E31360B9" Type="Text" Created="2022-05-16 11:02:34 +1000" Modified="2026-08-06 10:25:47 +1000">
+                                <BinderItem UUID="9453437B-C519-4E3C-A95E-1A30E31360B9" Type="Text" Created="2022-05-16 11:02:34 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Sarah turns over the Gyges Disc</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -914,7 +914,7 @@
                                         <TextSelection>3632,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="BCB54EB7-5881-4ECC-8790-512B6400EAE1" Type="Text" Created="2022-06-13 11:58:39 +1000" Modified="2026-08-06 10:25:47 +1000">
+                                <BinderItem UUID="BCB54EB7-5881-4ECC-8790-512B6400EAE1" Type="Text" Created="2022-06-13 11:58:39 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Sarah and Tony reconcile</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -991,7 +991,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="5749A5BB-0AFB-4739-9A76-798F02857419" Type="Folder" Created="2022-08-02 13:47:49 +1000" Modified="2026-08-07 10:32:44 +1000">
+                <BinderItem UUID="5749A5BB-0AFB-4739-9A76-798F02857419" Type="Folder" Created="2022-08-02 13:47:49 +1000" Modified="2026-09-19 10:04:41 +1000">
                     <Title>Bite lice itchy gonna sell my small air fryer</Title>
                     <MetaData>
                         <LabelID>7</LabelID>
@@ -1054,7 +1054,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="6BE38E1A-0CC9-4CC7-8A78-8048598A3936" Type="Text" Created="2022-07-02 14:55:55 +1000" Modified="2026-09-03 14:15:40 +1000">
+                                <BinderItem UUID="6BE38E1A-0CC9-4CC7-8A78-8048598A3936" Type="Text" Created="2022-07-02 14:55:55 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Hayley begins her investigation</Title>
                                     <MetaData>
                                         <LabelID>8</LabelID>
@@ -1132,7 +1132,7 @@
                                 <SelectedSubdocumentUUIDs>52AC1471-106E-4B3D-9D89-D3BAFD817F90</SelectedSubdocumentUUIDs>
                             </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem UUID="52AC1471-106E-4B3D-9D89-D3BAFD817F90" Type="Text" Created="2022-07-02 14:55:55 +1000" Modified="2026-08-07 10:32:44 +1000">
+                                <BinderItem UUID="52AC1471-106E-4B3D-9D89-D3BAFD817F90" Type="Text" Created="2022-07-02 14:55:55 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Hayley Investigates the Stickett Inn</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -1209,7 +1209,7 @@
                                         <TextSelection>82,8</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="6BFC0665-848E-4F52-B3C7-7B4C3ED3A1FF" Type="Text" Created="2022-11-07 20:41:18 +1100" Modified="2026-08-07 10:32:44 +1000">
+                                <BinderItem UUID="6BFC0665-848E-4F52-B3C7-7B4C3ED3A1FF" Type="Text" Created="2022-11-07 20:41:18 +1100" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Hayley investigates the Memphis Mafia Bar</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -1322,7 +1322,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="D26DF8B7-FA72-4960-827B-22C3B08DAC58" Type="Folder" Created="2022-09-04 11:41:21 +1000" Modified="2026-07-02 16:54:36 +1000">
+                        <BinderItem UUID="D26DF8B7-FA72-4960-827B-22C3B08DAC58" Type="Folder" Created="2022-09-04 11:41:21 +1000" Modified="2026-09-19 10:04:41 +1000">
                             <Title>Fuels Rushin'</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -1337,7 +1337,7 @@
                                 <SelectedSubdocumentUUIDs>A14FCA71-BF0C-457D-8893-EA84AD6C806C</SelectedSubdocumentUUIDs>
                             </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem UUID="A14FCA71-BF0C-457D-8893-EA84AD6C806C" Type="Text" Created="2022-07-02 15:37:48 +1000" Modified="2026-08-08 14:39:16 +1000">
+                                <BinderItem UUID="A14FCA71-BF0C-457D-8893-EA84AD6C806C" Type="Text" Created="2022-07-02 15:37:48 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Johnny tests the discs</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -1349,7 +1349,7 @@
                                         <TextSelection>12004,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="D62E6768-785D-4960-AEB3-9163C5C88F75" Type="Text" Created="2022-07-02 15:37:48 +1000" Modified="2026-08-06 10:25:47 +1000">
+                                <BinderItem UUID="D62E6768-785D-4960-AEB3-9163C5C88F75" Type="Text" Created="2022-07-02 15:37:48 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Getting kinetic</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -1363,7 +1363,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="84B92B2A-9F17-497F-A500-5EEC0DE4A5C4" Type="Folder" Created="2023-04-15 16:21:46 +1000" Modified="2026-08-07 10:32:44 +1000">
+                        <BinderItem UUID="84B92B2A-9F17-497F-A500-5EEC0DE4A5C4" Type="Folder" Created="2023-04-15 16:21:46 +1000" Modified="2026-09-19 10:04:41 +1000">
                             <Title>Blue Shade Blues</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -1375,7 +1375,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="F5AEAEBB-6D1B-4AB7-BEE9-8064A26E7437" Type="Text" Created="2022-09-04 15:32:38 +1000" Modified="2026-08-06 10:25:47 +1000">
+                                <BinderItem UUID="F5AEAEBB-6D1B-4AB7-BEE9-8064A26E7437" Type="Text" Created="2022-09-04 15:32:38 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Sarah has nightmares</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -1387,7 +1387,7 @@
                                         <TextSelection>11,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="89D77B3B-153B-481D-9C23-59E2758108C0" Type="Text" Created="2022-10-22 10:43:38 +1100" Modified="2026-08-07 10:32:44 +1000">
+                                <BinderItem UUID="89D77B3B-153B-481D-9C23-59E2758108C0" Type="Text" Created="2022-10-22 10:43:38 +1100" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Eloise fires Johnny</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -1423,7 +1423,7 @@
                                         <TextSelection>55,5</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="F7090AED-417E-45A9-88FF-5240F0C0AE5D" Type="Text" Created="2022-11-07 20:41:18 +1100" Modified="2026-08-07 10:32:44 +1000">
+                                <BinderItem UUID="F7090AED-417E-45A9-88FF-5240F0C0AE5D" Type="Text" Created="2022-11-07 20:41:18 +1100" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Johnny contacts Hayley</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -1434,7 +1434,7 @@
                                         <TextSelection>4,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="09802B9A-74CA-41F6-9789-FE19BB170231" Type="Text" Created="2022-11-07 20:41:18 +1100" Modified="2026-08-08 14:27:45 +1000">
+                                <BinderItem UUID="09802B9A-74CA-41F6-9789-FE19BB170231" Type="Text" Created="2022-11-07 20:41:18 +1100" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Johnny meets with Hayley re the Memphis Mafia Bar</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -1559,7 +1559,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="621B41F3-BB18-4195-BD87-3F7304D8E7B3" Type="Text" Created="2022-07-01 15:51:30 +1000" Modified="2026-09-14 08:07:10 +1000">
+                                <BinderItem UUID="621B41F3-BB18-4195-BD87-3F7304D8E7B3" Type="Text" Created="2022-07-01 15:51:30 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Eloise proposes to Sarah</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -1675,7 +1675,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="C891CF9A-9BD9-4731-8A9F-21B84101202C" Type="Folder" Created="2023-02-08 13:58:14 +1100" Modified="2026-08-07 10:32:44 +1000">
+                        <BinderItem UUID="C891CF9A-9BD9-4731-8A9F-21B84101202C" Type="Folder" Created="2023-02-08 13:58:14 +1100" Modified="2026-09-19 10:04:41 +1000">
                             <Title>A Little Fresh Consolation</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -1722,7 +1722,7 @@
                                         <TextSelection>3576,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="1A415D51-F300-4F51-BA2D-32F0C226B8CA" Type="Text" Created="2022-10-21 12:34:35 +1100" Modified="2026-08-08 15:02:58 +1000">
+                                <BinderItem UUID="1A415D51-F300-4F51-BA2D-32F0C226B8CA" Type="Text" Created="2022-10-21 12:34:35 +1100" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Chilo assists Johnny with the research</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -1747,7 +1747,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="AC76E5C1-B829-4E6A-BA9D-4462CF7F3AF8" Type="Text" Created="2023-01-21 13:18:06 +1100" Modified="2026-08-06 10:25:47 +1000">
+                                <BinderItem UUID="AC76E5C1-B829-4E6A-BA9D-4462CF7F3AF8" Type="Text" Created="2023-01-21 13:18:06 +1100" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Sarah and Eloise talk</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -1799,7 +1799,7 @@
                                 <Bookmark BinderUUID="E3600AF6-29F6-4489-A7AD-6281D6B8015C"/>
                             </Bookmarks>
                             <Children>
-                                <BinderItem UUID="B6D6F39D-02F9-471B-8760-54C4A4BF0C33" Type="Text" Created="2023-02-26 15:11:11 +1100" Modified="2026-09-16 16:14:15 +1000">
+                                <BinderItem UUID="B6D6F39D-02F9-471B-8760-54C4A4BF0C33" Type="Text" Created="2023-02-26 15:11:11 +1100" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Hayley finally interviews Sarah</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -1823,7 +1823,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="5DBB561C-A636-46FE-8801-966E23FFE837" Type="Text" Created="2023-02-26 15:11:11 +1100" Modified="2026-08-07 10:32:44 +1000">
+                                <BinderItem UUID="5DBB561C-A636-46FE-8801-966E23FFE837" Type="Text" Created="2023-02-26 15:11:11 +1100" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Kathy is suspicious of stasis fridges</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -1835,7 +1835,7 @@
                                         <TextSelection>1272,6</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="35F08C7D-0E47-4C17-A7FD-DC50FCCE54B4" Type="Text" Created="2023-02-26 15:11:11 +1100" Modified="2026-08-07 10:32:44 +1000">
+                                <BinderItem UUID="35F08C7D-0E47-4C17-A7FD-DC50FCCE54B4" Type="Text" Created="2023-02-26 15:11:11 +1100" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Sarah tells Kathy she's in the wrong bed</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -1847,7 +1847,7 @@
                                         <TextSelection>2693,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="78BB1CB1-6703-4358-BB49-5A44E012599D" Type="Text" Created="2023-02-26 15:11:11 +1100" Modified="2026-08-07 10:32:44 +1000">
+                                <BinderItem UUID="78BB1CB1-6703-4358-BB49-5A44E012599D" Type="Text" Created="2023-02-26 15:11:11 +1100" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Hayley tries to open a stasis unit</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -1959,7 +1959,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="3876DB16-F9C0-420E-A94D-38AA79944A42" Type="Folder" Created="2023-04-15 16:10:11 +1000" Modified="2026-08-03 15:40:11 +1000">
+                        <BinderItem UUID="3876DB16-F9C0-420E-A94D-38AA79944A42" Type="Folder" Created="2023-04-15 16:10:11 +1000" Modified="2026-09-19 10:04:41 +1000">
                             <Title>A Beggar View</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -1971,7 +1971,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="3BCBEECF-67A1-4F43-A0EC-B6DA0D2CC784" Type="Text" Created="2023-04-01 11:17:07 +1100" Modified="2026-09-08 15:44:12 +1000">
+                                <BinderItem UUID="3BCBEECF-67A1-4F43-A0EC-B6DA0D2CC784" Type="Text" Created="2023-04-01 11:17:07 +1100" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Sarah rehires Johnny</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -2124,7 +2124,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="B4B23D08-18EB-4544-A38E-047BA8E84A95" Type="Folder" Created="2023-10-01 13:51:29 +1100" Modified="2026-08-30 16:26:44 +1000">
+                        <BinderItem UUID="B4B23D08-18EB-4544-A38E-047BA8E84A95" Type="Folder" Created="2023-10-01 13:51:29 +1100" Modified="2026-09-19 10:04:41 +1000">
                             <Title>Hallways in My Mind</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -2136,7 +2136,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="0451B146-E2B7-4B8C-A75C-8F86C22E750B" Type="Text" Created="2025-04-27 14:23:00 +1000" Modified="2026-09-08 15:49:09 +1000">
+                                <BinderItem UUID="0451B146-E2B7-4B8C-A75C-8F86C22E750B" Type="Text" Created="2025-04-27 14:23:00 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Chip's Integration into Project Kebab</Title>
                                     <MetaData>
                                         <StatusID>2</StatusID>
@@ -2147,7 +2147,7 @@
                                         <TextSelection>9353,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="3D4CF3A9-E01A-4D30-A67C-5CE0F2568DA2" Type="Text" Created="2023-10-01 14:10:57 +1100" Modified="2026-08-30 16:27:17 +1000">
+                                <BinderItem UUID="3D4CF3A9-E01A-4D30-A67C-5CE0F2568DA2" Type="Text" Created="2023-10-01 14:10:57 +1100" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>The Sage's Guidance</Title>
                                     <MetaData>
                                         <StatusID>2</StatusID>
@@ -2472,7 +2472,7 @@
                                         <TextSelection>10712,8</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="91A7CEEC-8A38-45A3-AC9A-A6BB193E7218" Type="Text" Created="2025-06-09 15:15:11 +1000" Modified="2026-08-07 18:34:46 +1000">
+                                <BinderItem UUID="91A7CEEC-8A38-45A3-AC9A-A6BB193E7218" Type="Text" Created="2025-06-09 15:15:11 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Johnny gatecrashes the BBQ</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -2520,7 +2520,7 @@
                                         <TextSelection>1233,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="F2E9C754-FD4D-4E47-8D6A-7EBD695D13E3" Type="Text" Created="2025-04-27 14:24:39 +1000" Modified="2026-08-06 10:25:47 +1000">
+                                <BinderItem UUID="F2E9C754-FD4D-4E47-8D6A-7EBD695D13E3" Type="Text" Created="2025-04-27 14:24:39 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Johnny visits Sarah</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -2532,7 +2532,7 @@
                                         <TextSelection>50,5</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="0FA9EE3D-AFA0-4CA8-B301-3E8B316BAD3F" Type="Text" Created="2023-09-30 12:11:05 +1000" Modified="2026-09-11 11:15:37 +1000">
+                                <BinderItem UUID="0FA9EE3D-AFA0-4CA8-B301-3E8B316BAD3F" Type="Text" Created="2023-09-30 12:11:05 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Gyges disc pentagram configuration</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -2594,7 +2594,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="A3793C42-E89E-41FA-AF2D-92E165F6138A" Type="Text" Created="2026-08-09 00:35:58 +1000" Modified="2026-09-10 15:27:45 +1000">
+                                <BinderItem UUID="A3793C42-E89E-41FA-AF2D-92E165F6138A" Type="Text" Created="2026-08-09 00:35:58 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Chip escalates issues with Sarah &amp; Hayley</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -2605,7 +2605,7 @@
                                         <TextSelection>2971,97</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="4B4E5069-629D-4654-B3A8-2652FC3DEFD8" Type="Text" Created="2026-08-09 00:35:58 +1000" Modified="2026-09-08 19:01:37 +1000">
+                                <BinderItem UUID="4B4E5069-629D-4654-B3A8-2652FC3DEFD8" Type="Text" Created="2026-08-09 00:35:58 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Three sisters discuss watching Eloise</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -2616,7 +2616,7 @@
                                         <TextSelection>0,2978</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="D483047D-FA8C-4895-B1AD-D828A43EA080" Type="Text" Created="2026-09-08 12:13:46 +1000" Modified="2026-09-14 13:00:44 +1000">
+                                <BinderItem UUID="D483047D-FA8C-4895-B1AD-D828A43EA080" Type="Text" Created="2026-09-08 12:13:46 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Hayley investigates the Rotherhithe Stasis Collapse</Title>
                                     <MetaData>
                                         <LabelID>8</LabelID>
@@ -2654,7 +2654,7 @@
                                         <TextSelection>7279,61</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="58D7AE9A-E2AB-4833-A89E-E28B3A3D5FAF" Type="Text" Created="2026-03-09 16:11:08 +1100" Modified="2026-09-18 14:54:55 +1000">
+                                <BinderItem UUID="58D7AE9A-E2AB-4833-A89E-E28B3A3D5FAF" Type="Text" Created="2026-03-09 16:11:08 +1100" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Chanta searches for the Harum Scarum clone series</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -2692,7 +2692,7 @@
                                         <TextSelection>3836,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="849CC8EB-E2E4-4195-8C2A-60205AFF2231" Type="Text" Created="2025-04-27 14:17:01 +1000" Modified="2026-08-30 19:24:31 +1000">
+                                <BinderItem UUID="849CC8EB-E2E4-4195-8C2A-60205AFF2231" Type="Text" Created="2025-04-27 14:17:01 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Kathy Gives Sarah a Medical</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -2944,9 +2944,10 @@
                         </OutlinerExpandedState>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem UUID="14025AFC-8B48-4C5D-8A10-19DAF0EE3E31" Type="Folder" Created="2026-09-18 20:04:53 +1000" Modified="2026-09-18 20:05:09 +1000">
+                        <BinderItem UUID="14025AFC-8B48-4C5D-8A10-19DAF0EE3E31" Type="Folder" Created="2026-09-18 20:04:53 +1000" Modified="2026-09-19 18:07:40 +1000">
                             <Title>Jamison Hardy</Title>
                             <MetaData>
+                                <LabelID>2</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
@@ -3013,7 +3014,7 @@
                                         <TextSelection>6379,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="DB8939A5-B5F1-41A3-B70A-FC1D3E115D4A" Type="Text" Created="2026-07-08 17:04:45 +1000" Modified="2026-09-17 14:51:52 +1000">
+                                <BinderItem UUID="DB8939A5-B5F1-41A3-B70A-FC1D3E115D4A" Type="Text" Created="2026-07-08 17:04:45 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>The Inauguration of the new High Elvis</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3037,9 +3038,10 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="121AEF3A-5581-444C-8F84-38B16A3DF9C1" Type="Folder" Created="2026-09-18 20:12:32 +1000" Modified="2026-09-18 20:12:37 +1000">
+                        <BinderItem UUID="121AEF3A-5581-444C-8F84-38B16A3DF9C1" Type="Folder" Created="2026-09-18 20:12:32 +1000" Modified="2026-09-19 18:07:47 +1000">
                             <Title>Woofer Bass</Title>
                             <MetaData>
+                                <LabelID>2</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
@@ -3138,8 +3140,11 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="C5FF0CE1-63FC-4D27-9215-D647EEF83E40" Type="Folder" Created="2026-08-24 13:57:33 +1000" Modified="2026-09-18 20:26:14 +1000">
+                        <BinderItem UUID="C5FF0CE1-63FC-4D27-9215-D647EEF83E40" Type="Folder" Created="2026-08-24 13:57:33 +1000" Modified="2026-09-19 18:08:02 +1000">
                             <Title>Muscles tearing apart</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
@@ -3195,7 +3200,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="A835CE46-075C-42E9-92BE-5FA6C37300A5" Type="Text" Created="2025-04-27 14:23:44 +1000" Modified="2026-09-17 14:54:17 +1000">
+                                <BinderItem UUID="A835CE46-075C-42E9-92BE-5FA6C37300A5" Type="Text" Created="2025-04-27 14:23:44 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Hayley finds Eloise's old Fridge Force project</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3206,7 +3211,7 @@
                                         <TextSelection>1486,11</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="55744E56-0AA8-433D-8B10-4DEE26A88068" Type="Text" Created="2025-06-15 11:33:51 +1000" Modified="2026-09-17 14:53:47 +1000">
+                                <BinderItem UUID="55744E56-0AA8-433D-8B10-4DEE26A88068" Type="Text" Created="2025-06-15 11:33:51 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Johnny enlists Chanta to acquire more Gyges discs</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3214,10 +3219,10 @@
                                         <NotesTextSelection>50,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>9797,0</TextSelection>
+                                        <TextSelection>924,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="B31D70B1-EC21-4602-8589-327A453AD755" Type="Text" Created="2026-09-07 14:37:37 +1000" Modified="2026-09-18 13:40:04 +1000">
+                                <BinderItem UUID="B31D70B1-EC21-4602-8589-327A453AD755" Type="Text" Created="2026-09-07 14:37:37 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Hayley reports to Sarah regarding Eloise's historical projects</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3230,9 +3235,10 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="671917EE-5C8E-4EDB-9EB9-7137FE240BBE" Type="Folder" Created="2026-09-18 20:29:16 +1000" Modified="2026-09-18 20:33:44 +1000">
+                        <BinderItem UUID="671917EE-5C8E-4EDB-9EB9-7137FE240BBE" Type="Folder" Created="2026-09-18 20:29:16 +1000" Modified="2026-09-19 18:08:22 +1000">
                             <Title>Molecular proof</Title>
                             <MetaData>
+                                <LabelID>2</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
@@ -3286,7 +3292,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="124D78E1-5A43-4F62-BC8E-0AD610F76F28" Type="Text" Created="2025-06-15 11:35:30 +1000" Modified="2026-09-17 14:53:50 +1000">
+                                <BinderItem UUID="124D78E1-5A43-4F62-BC8E-0AD610F76F28" Type="Text" Created="2025-06-15 11:35:30 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>the High Elvis executes the heist</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3297,26 +3303,33 @@
                                         <TextSelection>7175,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="1732E6D6-D709-4159-90D2-4B19B49F5E9B" Type="Text" Created="2025-06-15 12:55:38 +1000" Modified="2026-09-18 14:11:59 +1000">
+                                <BinderItem UUID="1732E6D6-D709-4159-90D2-4B19B49F5E9B" Type="Text" Created="2025-06-15 12:55:38 +1000" Modified="2026-09-19 18:01:58 +1000">
                                     <Title>Johnny collects his discs from the Elvi</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <StatusID>33</StatusID>
-                                        <NotesTextSelection>336,0</NotesTextSelection>
+                                        <StatusID>2</StatusID>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1764,0</TextSelection>
+                                        <TextSelection>4291,4</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="8CB3AD68-2375-4E43-B914-108DE21D7EAE" Type="Text" Created="2025-06-15 12:55:38 +1000" Modified="2026-09-18 14:46:21 +1000">
-                                    <Title>Johnny smuggles Chanta into Sublime Point</Title>
+                                <BinderItem UUID="7D37D849-67F7-44AE-B239-28CC94C0D992" Type="Text" Created="2026-09-19 18:01:41 +1000" Modified="2026-09-19 18:01:44 +1000">
+                                    <Title>Johhny reveals the first operational elliptical-rail apparatus</Title>
                                     <MetaData>
-                                        <LabelID>4</LabelID>
-                                        <StatusID>33</StatusID>
-                                        <NotesTextSelection>146,0</NotesTextSelection>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="8CB3AD68-2375-4E43-B914-108DE21D7EAE" Type="Text" Created="2025-06-15 12:55:38 +1000" Modified="2026-09-19 18:28:17 +1000">
+                                    <Title>Johnny takes Chanta to Sarah</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <StatusID>2</StatusID>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>9062,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="D05C5F44-10E8-49A7-93AE-84157C7BE73D" Type="Text" Created="2026-09-18 15:00:37 +1000" Modified="2026-09-18 15:45:31 +1000">
@@ -3340,7 +3353,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="F47939E1-7305-44D5-827C-36536AD35CB4" Type="Text" Created="2025-05-03 16:31:53 +1000" Modified="2026-09-17 14:56:36 +1000">
+                                <BinderItem UUID="F47939E1-7305-44D5-827C-36536AD35CB4" Type="Text" Created="2025-05-03 16:31:53 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Testing the elliptical-rail apparatus</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3360,7 +3373,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="DC76011D-058E-4CBB-B8C0-E5A665C587F5" Type="Text" Created="2025-06-21 09:17:54 +1000" Modified="2026-09-17 14:58:18 +1000">
+                                <BinderItem UUID="DC76011D-058E-4CBB-B8C0-E5A665C587F5" Type="Text" Created="2025-06-21 09:17:54 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Missing Socks</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3390,7 +3403,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="F67A1232-C823-4E67-BBD2-0E74DCE4BF91" Type="Text" Created="2025-05-03 17:12:57 +1000" Modified="2026-09-17 14:58:51 +1000">
+                                <BinderItem UUID="F67A1232-C823-4E67-BBD2-0E74DCE4BF91" Type="Text" Created="2025-05-03 17:12:57 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>The Gibson correlation</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3435,7 +3448,7 @@
                                         <TextSelection>5354,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="81D24044-36CF-40A0-952B-6C39913CA3E0" Type="Text" Created="2025-05-04 13:58:18 +1000" Modified="2026-09-17 14:59:31 +1000">
+                                <BinderItem UUID="81D24044-36CF-40A0-952B-6C39913CA3E0" Type="Text" Created="2025-05-04 13:58:18 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Wrestlemania - The Sages' Night Out</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3457,7 +3470,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="9D52A682-253F-4EFB-B12D-A0F59D9F9B9D" Type="Text" Created="2025-06-21 16:05:41 +1000" Modified="2026-09-18 11:18:33 +1000">
+                                <BinderItem UUID="9D52A682-253F-4EFB-B12D-A0F59D9F9B9D" Type="Text" Created="2025-06-21 16:05:41 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>UDF begins containment of Sublime Point</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3500,7 +3513,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="4655C5DA-274B-4205-94A4-CE2AE01A3AEE" Type="Text" Created="2026-09-18 15:27:38 +1000" Modified="2026-09-18 16:23:29 +1000">
+                                <BinderItem UUID="4655C5DA-274B-4205-94A4-CE2AE01A3AEE" Type="Text" Created="2026-09-18 15:27:38 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Johnny escalates the testing</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -3642,7 +3655,7 @@
                                         <TextSelection>1483,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="D4EE2431-9475-44DD-967E-D60B1D76A44F" Type="Text" Created="2025-05-03 17:24:54 +1000" Modified="2026-09-18 17:05:34 +1000">
+                                <BinderItem UUID="D4EE2431-9475-44DD-967E-D60B1D76A44F" Type="Text" Created="2025-05-03 17:24:54 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Chilo gets Chip out of the control room</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3695,7 +3708,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="A037B9D3-D666-4AC1-8E6B-5309E83A0C4A" Type="Text" Created="2026-09-15 12:22:38 +1000" Modified="2026-09-18 08:58:40 +1000">
+                                <BinderItem UUID="A037B9D3-D666-4AC1-8E6B-5309E83A0C4A" Type="Text" Created="2026-09-15 12:22:38 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Fridge Force drones attack</Title>
                                     <MetaData>
                                         <StatusID>33</StatusID>
@@ -3745,7 +3758,7 @@
                                         <TextSelection>0,7800</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="ABD84CB4-4A69-4CF7-873C-BB1DECED7B60" Type="Text" Created="2026-09-10 12:28:36 +1000" Modified="2026-09-18 16:47:45 +1000">
+                                <BinderItem UUID="ABD84CB4-4A69-4CF7-873C-BB1DECED7B60" Type="Text" Created="2026-09-10 12:28:36 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>Johnny vs Chip</Title>
                                     <MetaData>
                                         <StatusID>33</StatusID>
@@ -3835,7 +3848,7 @@
                         <Bookmark BinderUUID="A77B27B0-94FE-4A5F-953F-B036B57B5F0C"/>
                     </Bookmarks>
                 </BinderItem>
-                <BinderItem UUID="838FF339-C8A6-4DF5-A901-489DC7BC0DDA" Type="Text" Created="2026-09-12 19:36:04 +1000" Modified="2026-09-17 17:10:28 +1000">
+                <BinderItem UUID="838FF339-C8A6-4DF5-A901-489DC7BC0DDA" Type="Text" Created="2026-09-12 19:36:04 +1000" Modified="2026-09-19 10:04:41 +1000">
                     <Title>Physical geography of Sublime Point / Ruined Castle</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -3902,7 +3915,7 @@
                         <TextSelection>0,13161</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="DD73AEC9-A1D3-42E5-9170-1CA1459452ED" Type="Text" Created="2025-06-15 11:37:24 +1000" Modified="2026-09-15 09:05:24 +1000">
+                <BinderItem UUID="DD73AEC9-A1D3-42E5-9170-1CA1459452ED" Type="Text" Created="2025-06-15 11:37:24 +1000" Modified="2026-09-19 10:04:41 +1000">
                     <Title>Fridge Force learns of the heist</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -3913,7 +3926,7 @@
                         <TextSelection>2,2167</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="4976D24D-2E1D-4FE4-9F96-28BD81B1A8FA" Type="Text" Created="2026-09-12 19:36:04 +1000" Modified="2026-09-15 09:10:53 +1000">
+                <BinderItem UUID="4976D24D-2E1D-4FE4-9F96-28BD81B1A8FA" Type="Text" Created="2026-09-12 19:36:04 +1000" Modified="2026-09-19 10:04:41 +1000">
                     <Title>towards the end</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -3940,7 +3953,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="1D902D9A-6BCB-40E2-8902-DB43FF8C3101" Type="Text" Created="2026-09-12 11:52:36 +1000" Modified="2026-09-12 12:58:30 +1000">
+                        <BinderItem UUID="1D902D9A-6BCB-40E2-8902-DB43FF8C3101" Type="Text" Created="2026-09-12 11:52:36 +1000" Modified="2026-09-19 10:04:41 +1000">
                             <Title>New spec</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -3949,7 +3962,7 @@
                                 <TextSelection>904,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="2A7DB6C3-91AB-440C-B99A-DF2C4193463E" Type="Text" Created="2026-09-11 11:26:48 +1000" Modified="2026-09-11 11:29:25 +1000">
+                        <BinderItem UUID="2A7DB6C3-91AB-440C-B99A-DF2C4193463E" Type="Text" Created="2026-09-11 11:26:48 +1000" Modified="2026-09-19 10:04:41 +1000">
                             <Title>Consolidated modern spec</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -3958,7 +3971,7 @@
                                 <TextSelection>4048,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="D2EA34C9-1E70-4C7F-99B0-842E382BB420" Type="Text" Created="2026-09-11 11:26:48 +1000" Modified="2026-09-11 11:28:47 +1000">
+                        <BinderItem UUID="D2EA34C9-1E70-4C7F-99B0-842E382BB420" Type="Text" Created="2026-09-11 11:26:48 +1000" Modified="2026-09-19 10:04:41 +1000">
                             <Title>Closing of the Hayley scene</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -4005,7 +4018,7 @@
                         <TextSelection>2855,4105</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="27E0F003-56E0-4B3C-A668-C72E5BC4F1F8" Type="Text" Created="2026-09-08 11:50:51 +1000" Modified="2026-09-10 15:03:27 +1000">
+                <BinderItem UUID="27E0F003-56E0-4B3C-A668-C72E5BC4F1F8" Type="Text" Created="2026-09-08 11:50:51 +1000" Modified="2026-09-19 10:04:41 +1000">
                     <Title>single escalation arc with nine drafting jobs,</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -4166,7 +4179,7 @@
                         <TextSelection>207,224</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="496B5DFB-EEBF-497D-8C1E-C26FF5C87C31" Type="Text" Created="2025-06-21 18:27:37 +1000" Modified="2026-09-12 12:54:04 +1000">
+                <BinderItem UUID="496B5DFB-EEBF-497D-8C1E-C26FF5C87C31" Type="Text" Created="2025-06-21 18:27:37 +1000" Modified="2026-09-19 10:04:41 +1000">
                     <Title>Evolution of Gyges Disc Testing Apparatus</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -4254,7 +4267,7 @@
                         <TextSelection>422,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="7D62CA27-F0D6-4393-AF2A-B704FD8C71EC" Type="Text" Created="2025-05-10 15:48:16 +1000" Modified="2026-08-11 11:33:39 +1000">
+                <BinderItem UUID="7D62CA27-F0D6-4393-AF2A-B704FD8C71EC" Type="Text" Created="2025-05-10 15:48:16 +1000" Modified="2026-09-19 10:04:41 +1000">
                     <Title>Final outline</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -4282,7 +4295,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="68D81391-8047-46EC-8383-79FF9955FA31" Type="Text" Created="2015-07-23 07:50:49 +1000" Modified="2026-08-24 10:28:08 +1000">
+                <BinderItem UUID="68D81391-8047-46EC-8383-79FF9955FA31" Type="Text" Created="2015-07-23 07:50:49 +1000" Modified="2026-09-19 10:04:41 +1000">
                     <Title>Summary -- TODO</Title>
                     <MetaData>
                         <StatusID>30</StatusID>
@@ -4583,7 +4596,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="1DB00FE8-2025-45C7-891A-5B409EAC19AC" Type="Text" Created="2023-10-01 14:43:43 +1100" Modified="2026-08-07 10:32:44 +1000">
+                        <BinderItem UUID="1DB00FE8-2025-45C7-891A-5B409EAC19AC" Type="Text" Created="2023-10-01 14:43:43 +1100" Modified="2026-09-19 10:04:41 +1000">
                             <Title>Sarah defies Eloise</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -4720,7 +4733,7 @@ Chilo restarts the Standing Infinity wave and pushes it all the way</Title>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="40DCB014-FA0A-4010-BC65-2B5D4E880D4F" Type="Folder" Created="2023-04-10 13:22:51 +1000" Modified="2026-08-07 10:32:44 +1000">
+                <BinderItem UUID="40DCB014-FA0A-4010-BC65-2B5D4E880D4F" Type="Folder" Created="2023-04-10 13:22:51 +1000" Modified="2026-09-19 10:04:41 +1000">
                     <Title>Project Kebab</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -4729,7 +4742,7 @@ Chilo restarts the Standing Infinity wave and pushes it all the way</Title>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="B7CDF1D0-DB04-40C1-84A2-50CB5F9A93CF" Type="Text" Created="2022-07-02 15:37:48 +1000" Modified="2026-08-07 10:32:44 +1000">
+                        <BinderItem UUID="B7CDF1D0-DB04-40C1-84A2-50CB5F9A93CF" Type="Text" Created="2022-07-02 15:37:48 +1000" Modified="2026-09-19 10:04:41 +1000">
                             <Title>Analysis of the explosion at the lab</Title>
                             <MetaData>
                                 <LabelID>1</LabelID>
@@ -4739,19 +4752,19 @@ Chilo restarts the Standing Infinity wave and pushes it all the way</Title>
                                 <TextSelection>1684,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="CEA51910-8D38-4CB7-BC93-79D0B71224B8" Type="Text" Created="2022-10-08 18:59:47 +1100" Modified="2026-08-07 10:32:44 +1000">
+                        <BinderItem UUID="CEA51910-8D38-4CB7-BC93-79D0B71224B8" Type="Text" Created="2022-10-08 18:59:47 +1100" Modified="2026-09-19 10:04:41 +1000">
                             <Title>Kebab Postcards</Title>
                             <TextSettings>
                                 <TextSelection>10261,32</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="A88615FF-B919-4BB0-A4D5-DE29D5CD5365" Type="Text" Created="2022-10-08 18:38:36 +1100" Modified="2026-08-07 10:32:44 +1000">
+                        <BinderItem UUID="A88615FF-B919-4BB0-A4D5-DE29D5CD5365" Type="Text" Created="2022-10-08 18:38:36 +1100" Modified="2026-09-19 10:04:41 +1000">
                             <Title>Cancelled out discs</Title>
                             <TextSettings>
                                 <TextSelection>4119,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="3A110B8E-14AD-4F8F-86FD-22CF30F5C3C0" Type="Text" Created="2022-07-05 23:24:48 +1000" Modified="2026-08-06 10:25:47 +1000">
+                        <BinderItem UUID="3A110B8E-14AD-4F8F-86FD-22CF30F5C3C0" Type="Text" Created="2022-07-05 23:24:48 +1000" Modified="2026-09-19 10:04:41 +1000">
                             <Title>Johnny searches for the Rosetta Rock</Title>
                             <MetaData>
                                 <LabelID>1</LabelID>
@@ -4761,7 +4774,7 @@ Chilo restarts the Standing Infinity wave and pushes it all the way</Title>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="EB30104B-CCAC-413A-BB59-4BB7AF2FFFB2" Type="Text" Created="2022-10-08 12:15:37 +1100" Modified="2026-08-24 10:28:08 +1000">
+                        <BinderItem UUID="EB30104B-CCAC-413A-BB59-4BB7AF2FFFB2" Type="Text" Created="2022-10-08 12:15:37 +1100" Modified="2026-09-19 10:04:41 +1000">
                             <Title>Gyges Disc</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -4770,7 +4783,7 @@ Chilo restarts the Standing Infinity wave and pushes it all the way</Title>
                                 <TextSelection>3672,417</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="D9E3CA5D-3A2D-4C3C-B53A-96E87CD2CA9C" Type="Text" Created="2015-07-23 07:50:49 +1000" Modified="2026-08-24 10:28:08 +1000">
+                        <BinderItem UUID="D9E3CA5D-3A2D-4C3C-B53A-96E87CD2CA9C" Type="Text" Created="2015-07-23 07:50:49 +1000" Modified="2026-09-19 10:04:41 +1000">
                             <Title>Summary-1</Title>
                             <MetaData>
                                 <StatusID>30</StatusID>
@@ -4781,7 +4794,7 @@ Chilo restarts the Standing Infinity wave and pushes it all the way</Title>
                                 <TextSelection>6918,144</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="19F43681-D5A9-4F93-A8C3-2EBF302D7A5B" Type="Text" Created="2025-10-29 18:11:08 +1100" Modified="2025-10-29 18:40:49 +1100">
+                        <BinderItem UUID="19F43681-D5A9-4F93-A8C3-2EBF302D7A5B" Type="Text" Created="2025-10-29 18:11:08 +1100" Modified="2026-09-19 10:04:41 +1000">
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -4866,7 +4879,7 @@ Chilo restarts the Standing Infinity wave and pushes it all the way</Title>
                         <TextSelection>1837,68</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="3CA9D7D3-E1D0-4BD4-A4BF-284381E462A3" Type="Text" Created="2015-07-23 07:50:49 +1000" Modified="2026-08-24 10:28:08 +1000">
+                <BinderItem UUID="3CA9D7D3-E1D0-4BD4-A4BF-284381E462A3" Type="Text" Created="2015-07-23 07:50:49 +1000" Modified="2026-09-19 10:04:41 +1000">
                     <Title>Summary</Title>
                     <MetaData>
                         <StatusID>30</StatusID>
@@ -4924,7 +4937,7 @@ Chilo restarts the Standing Infinity wave and pushes it all the way</Title>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="5E390D50-A58E-4F25-BB92-6872DFFD6EE0" Type="Text" Created="2023-09-02 09:40:08 +1000" Modified="2023-09-02 09:41:03 +1000">
+                <BinderItem UUID="5E390D50-A58E-4F25-BB92-6872DFFD6EE0" Type="Text" Created="2023-09-02 09:40:08 +1000" Modified="2026-09-19 10:04:41 +1000">
                     <Title>Elvis character occupations by movie</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -4933,7 +4946,7 @@ Chilo restarts the Standing Infinity wave and pushes it all the way</Title>
                         <TextSelection>158,13</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="2D9C8F53-8A5E-4DDA-A010-8B79194D49AD" Type="Text" Created="2025-05-17 12:02:24 +1000" Modified="2026-06-30 22:02:43 +1000">
+                <BinderItem UUID="2D9C8F53-8A5E-4DDA-A010-8B79194D49AD" Type="Text" Created="2025-05-17 12:02:24 +1000" Modified="2026-09-19 10:04:41 +1000">
                     <Title>Arkansas Chuggabug Motor Company</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -5379,7 +5392,7 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
                         <TextSelection>26636,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="6089D095-2834-4369-937C-511ADA7A6A13" Type="Text" Created="2017-04-20 07:08:06 +1000" Modified="2026-08-06 10:25:47 +1000">
+                <BinderItem UUID="6089D095-2834-4369-937C-511ADA7A6A13" Type="Text" Created="2017-04-20 07:08:06 +1000" Modified="2026-09-19 10:04:41 +1000">
                     <Title>John Stoat</Title>
                     <MetaData>
                         <LabelID>6</LabelID>
@@ -5648,7 +5661,7 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
                         <TextSelection>1816,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="986FAD3B-BC23-42B4-99D7-C085AB18AEB2" Type="Text" Created="2022-11-27 11:48:56 +1100" Modified="2026-08-14 11:11:45 +1000">
+                <BinderItem UUID="986FAD3B-BC23-42B4-99D7-C085AB18AEB2" Type="Text" Created="2022-11-27 11:48:56 +1100" Modified="2026-09-19 10:04:41 +1000">
                     <Title>movie main characters</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -5657,7 +5670,7 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
                         <TextSelection>969,13</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="944D5B5F-E9B6-4BDC-9895-D6ABEBF37480" Type="Text" Created="2023-05-02 09:35:35 +1000" Modified="2026-07-09 14:10:51 +1000">
+                <BinderItem UUID="944D5B5F-E9B6-4BDC-9895-D6ABEBF37480" Type="Text" Created="2023-05-02 09:35:35 +1000" Modified="2026-09-19 10:04:41 +1000">
                     <Title>movie love interest characters</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -6426,7 +6439,7 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="6DE969EC-20A9-4F10-AC39-888F6ADFF2CA" Type="Text" Created="2023-09-02 17:57:28 +1000" Modified="2026-08-07 10:32:44 +1000">
+                <BinderItem UUID="6DE969EC-20A9-4F10-AC39-888F6ADFF2CA" Type="Text" Created="2023-09-02 17:57:28 +1000" Modified="2026-09-19 10:04:41 +1000">
                     <Title>Arcs &amp; Conflicts</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -6526,7 +6539,7 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="180043FA-E813-4D84-B85B-4D170F1EA386" Type="Text" Created="2026-08-09 00:35:58 +1000" Modified="2026-09-08 12:50:10 +1000">
+                <BinderItem UUID="180043FA-E813-4D84-B85B-4D170F1EA386" Type="Text" Created="2026-08-09 00:35:58 +1000" Modified="2026-09-19 10:04:41 +1000">
                     <Title>Chip escalates issues with Sarah &amp; Hayley - old</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -6557,7 +6570,7 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="E096A773-91D7-475F-95CE-57EA87E7B1F8" Type="Text" Created="2026-09-11 11:26:48 +1000" Modified="2026-09-12 11:20:16 +1000">
+                <BinderItem UUID="E096A773-91D7-475F-95CE-57EA87E7B1F8" Type="Text" Created="2026-09-11 11:26:48 +1000" Modified="2026-09-19 10:04:41 +1000">
                     <Title>Consolidated modern spec-1</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -6566,7 +6579,7 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
                         <TextSelection>253,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="3784818B-5580-41C2-BA50-7C9E13D7491F" Type="Text" Created="2025-05-03 16:32:54 +1000" Modified="2026-09-08 11:34:44 +1000">
+                <BinderItem UUID="3784818B-5580-41C2-BA50-7C9E13D7491F" Type="Text" Created="2025-05-03 16:32:54 +1000" Modified="2026-09-19 10:04:41 +1000">
                     <Title>The Bunker Ultimatum</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -6585,7 +6598,7 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="D431244D-E066-4FA4-8330-FF723A042A6E" Type="Text" Created="2025-05-03 16:31:25 +1000" Modified="2026-08-24 10:28:08 +1000">
+                        <BinderItem UUID="D431244D-E066-4FA4-8330-FF723A042A6E" Type="Text" Created="2025-05-03 16:31:25 +1000" Modified="2026-09-19 10:04:41 +1000">
                             <Title>Morning of Discoveries</Title>
                             <MetaData>
                                 <LabelID>4</LabelID>
@@ -6605,7 +6618,7 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="49C2D8C7-4B57-4044-969A-30E38E8EAFF8" Type="Text" Created="2025-05-03 16:32:17 +1000" Modified="2026-09-13 09:53:40 +1000">
+                        <BinderItem UUID="49C2D8C7-4B57-4044-969A-30E38E8EAFF8" Type="Text" Created="2025-05-03 16:32:17 +1000" Modified="2026-09-19 10:04:41 +1000">
                             <Title>Eloise learns of the elliptical rail potential</Title>
                             <MetaData>
                                 <LabelID>4</LabelID>
@@ -6762,7 +6775,7 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="EAF81CFA-2A94-4E0D-BF5A-309CD3B0359A" Type="Text" Created="2025-06-15 11:35:30 +1000" Modified="2026-09-17 14:53:50 +1000">
+                <BinderItem UUID="EAF81CFA-2A94-4E0D-BF5A-309CD3B0359A" Type="Text" Created="2025-06-15 11:35:30 +1000" Modified="2026-09-19 10:04:41 +1000">
                     <Title>the High Elvis executes the heist</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -6773,7 +6786,7 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
                         <TextSelection>7175,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="1973ACA9-766C-47DF-884A-430B1395B8C4" Type="Text" Created="2025-06-15 12:55:38 +1000" Modified="2026-09-18 14:11:59 +1000">
+                <BinderItem UUID="1973ACA9-766C-47DF-884A-430B1395B8C4" Type="Text" Created="2025-06-15 12:55:38 +1000" Modified="2026-09-19 10:04:41 +1000">
                     <Title>Johnny collects his discs from the Elvi</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -6784,7 +6797,7 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
                         <TextSelection>1764,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="81419E8F-20AE-4CA5-BCB5-E7357D695103" Type="Text" Created="2025-06-15 12:55:38 +1000" Modified="2026-09-18 14:46:21 +1000">
+                <BinderItem UUID="81419E8F-20AE-4CA5-BCB5-E7357D695103" Type="Text" Created="2025-06-15 12:55:38 +1000" Modified="2026-09-19 10:04:41 +1000">
                     <Title>Johnny smuggles Chanta into Sublime Point</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -6865,7 +6878,7 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
     <Collections>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.190666 0.172706 0.216531">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">had answers</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">operational</SearchSettings>
         </Collection>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.091141 0.091141 0.091141">
             <Title>Binder</Title>
@@ -7131,14 +7144,14 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-09-19 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="1011" Characters="6465" Date="2026-09-18 08:50:02 +1000"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-09-20 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2026-09-19 09:22:03 +1000"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-09-18 00:00:00 +1000">
-        <DraftWordCount>1010</DraftWordCount>
-        <DraftCharCount>6456</DraftCharCount>
-        <OtherWordCount>-1692</OtherWordCount>
-        <OtherCharCount>-10375</OtherCharCount>
+    <RecentWritingHistory Date="2026-09-19 00:00:00 +1000">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>1322</OtherWordCount>
+        <OtherCharCount>7122</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="D1D0F461-F88C-43A0-9715-34D7D574472E" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
