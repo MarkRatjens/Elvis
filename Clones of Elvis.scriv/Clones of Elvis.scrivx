@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-09-19 18:28:17 +1000" ModID="A35EE447-CCAF-470D-96CB-3EBF4F8C7FF0">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-09-20 18:02:54 +1000" ModID="E6115130-A48C-420B-AB1B-7EA62E34E87F">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -360,7 +360,7 @@
                                         <NotesTextSelection>279,680</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>5654,0</TextSelection>
+                                        <TextSelection>5650,793</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -692,7 +692,7 @@
                                         <TextSelection>2633,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="46540E29-1F39-47E4-9874-852736A0F4EC" Type="Text" Created="2022-04-29 15:31:52 +1000" Modified="2026-08-19 10:18:30 +1000">
+                                <BinderItem UUID="46540E29-1F39-47E4-9874-852736A0F4EC" Type="Text" Created="2022-04-29 15:31:52 +1000" Modified="2026-09-20 11:12:56 +1000">
                                     <Title>Halo takes a vacation</Title>
                                     <MetaData>
                                         <LabelID>8</LabelID>
@@ -701,7 +701,7 @@
                                         <NotesTextSelection>80,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>4094,0</TextSelection>
+                                        <TextSelection>3305,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1780,7 +1780,7 @@
                                         <NotesTextSelection>42,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>7764,5</TextSelection>
+                                        <TextSelection>7390,9</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -2181,7 +2181,7 @@
                                         <NotesTextSelection>1028,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2127,0</TextSelection>
+                                        <TextSelection>7709,63</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="31560842-0E26-42F9-BCD2-9EBA8BB9F35B" Type="Text" Created="2017-06-29 03:45:18 +1000" Modified="2026-08-20 11:14:30 +1000">
@@ -2654,7 +2654,7 @@
                                         <TextSelection>7279,61</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="58D7AE9A-E2AB-4833-A89E-E28B3A3D5FAF" Type="Text" Created="2026-03-09 16:11:08 +1100" Modified="2026-09-19 10:04:41 +1000">
+                                <BinderItem UUID="58D7AE9A-E2AB-4833-A89E-E28B3A3D5FAF" Type="Text" Created="2026-03-09 16:11:08 +1100" Modified="2026-09-20 10:54:49 +1000">
                                     <Title>Chanta searches for the Harum Scarum clone series</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -2662,7 +2662,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>14288,12</TextSelection>
+                                        <TextSelection>15577,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -2944,10 +2944,11 @@
                         </OutlinerExpandedState>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem UUID="14025AFC-8B48-4C5D-8A10-19DAF0EE3E31" Type="Folder" Created="2026-09-18 20:04:53 +1000" Modified="2026-09-19 18:07:40 +1000">
+                        <BinderItem UUID="14025AFC-8B48-4C5D-8A10-19DAF0EE3E31" Type="Folder" Created="2026-09-18 20:04:53 +1000" Modified="2026-09-20 09:05:29 +1000">
                             <Title>Jamison Hardy</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
+                                <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
@@ -3038,10 +3039,11 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="121AEF3A-5581-444C-8F84-38B16A3DF9C1" Type="Folder" Created="2026-09-18 20:12:32 +1000" Modified="2026-09-19 18:07:47 +1000">
+                        <BinderItem UUID="121AEF3A-5581-444C-8F84-38B16A3DF9C1" Type="Folder" Created="2026-09-18 20:12:32 +1000" Modified="2026-09-20 09:05:50 +1000">
                             <Title>Woofer Bass</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
+                                <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
@@ -3140,10 +3142,11 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="C5FF0CE1-63FC-4D27-9215-D647EEF83E40" Type="Folder" Created="2026-08-24 13:57:33 +1000" Modified="2026-09-19 18:08:02 +1000">
+                        <BinderItem UUID="C5FF0CE1-63FC-4D27-9215-D647EEF83E40" Type="Folder" Created="2026-08-24 13:57:33 +1000" Modified="2026-09-20 09:06:25 +1000">
                             <Title>Muscles tearing apart</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
+                                <StatusID>2</StatusID>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
@@ -3235,10 +3238,11 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="671917EE-5C8E-4EDB-9EB9-7137FE240BBE" Type="Folder" Created="2026-09-18 20:29:16 +1000" Modified="2026-09-19 18:08:22 +1000">
+                        <BinderItem UUID="671917EE-5C8E-4EDB-9EB9-7137FE240BBE" Type="Folder" Created="2026-09-18 20:29:16 +1000" Modified="2026-09-20 09:06:52 +1000">
                             <Title>Molecular proof</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
+                                <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
@@ -3329,17 +3333,17 @@
                                         <StatusID>2</StatusID>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>9062,0</TextSelection>
+                                        <TextSelection>5028,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="D05C5F44-10E8-49A7-93AE-84157C7BE73D" Type="Text" Created="2026-09-18 15:00:37 +1000" Modified="2026-09-18 15:45:31 +1000">
+                                <BinderItem UUID="D05C5F44-10E8-49A7-93AE-84157C7BE73D" Type="Text" Created="2026-09-18 15:00:37 +1000" Modified="2026-09-20 17:52:29 +1000">
                                     <Title>Chanta activates the Ajent Jones clones</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>82,0</NotesTextSelection>
+                                        <NotesTextSelection>638,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>14073,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3359,6 +3363,16 @@
                                         <LabelID>4</LabelID>
                                         <StatusID>33</StatusID>
                                         <NotesTextSelection>259,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="B4ACDE93-CB20-433A-8736-585CEEF3231D" Type="Text" Created="2025-05-03 16:31:53 +1000" Modified="2026-09-20 18:02:54 +1000">
+                                    <Title>Moe Bogan podcast influences the Jones clones</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <StatusID>33</StatusID>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -3825,6 +3839,16 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
+                <BinderItem UUID="910CD68B-F9BF-425B-858F-99747BCEE983" Type="Text" Created="2026-09-12 13:08:29 +1000" Modified="2026-09-20 09:52:25 +1000">
+                    <Title>Development Kit</Title>
+                    <MetaData>
+                        <StatusID>33</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem UUID="91B399E9-32C8-4484-8AF3-D7DA8FF4389A" Type="Text" Created="2026-09-12 13:08:29 +1000" Modified="2026-09-17 14:56:38 +1000">
                     <Title>Quake-trance diversion</Title>
                     <MetaData>
@@ -6876,11 +6900,11 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
         </BinderItem>
     </Binder>
     <Collections>
-        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.190666 0.172706 0.216531">
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">operational</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No" IgnoreDiacritics="No">Hedges</SearchSettings>
         </Collection>
-        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.091141 0.091141 0.091141">
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
             <Title>Binder</Title>
         </Collection>
     </Collections>
@@ -7144,14 +7168,14 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-09-20 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-09-19 09:22:03 +1000"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-09-21 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="3235" Characters="19213" Date="2026-09-20 09:01:59 +1000"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-09-19 00:00:00 +1000">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>1322</OtherWordCount>
-        <OtherCharCount>7122</OtherCharCount>
+    <RecentWritingHistory Date="2026-09-20 00:00:00 +1000">
+        <DraftWordCount>3235</DraftWordCount>
+        <DraftCharCount>19213</DraftCharCount>
+        <OtherWordCount>-1824</OtherWordCount>
+        <OtherCharCount>-11090</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="D1D0F461-F88C-43A0-9715-34D7D574472E" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
