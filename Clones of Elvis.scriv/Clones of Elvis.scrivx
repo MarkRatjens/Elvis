@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-09-20 18:02:54 +1000" ModID="E6115130-A48C-420B-AB1B-7EA62E34E87F">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-09-21 09:49:27 +1000" ModID="67A7FB44-3E12-4D5D-84C1-FD90FBADC048">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -3314,7 +3314,7 @@
                                         <StatusID>2</StatusID>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>4291,4</TextSelection>
+                                        <TextSelection>3449,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="7D37D849-67F7-44AE-B239-28CC94C0D992" Type="Text" Created="2026-09-19 18:01:41 +1000" Modified="2026-09-19 18:01:44 +1000">
@@ -3336,14 +3336,14 @@
                                         <TextSelection>5028,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="D05C5F44-10E8-49A7-93AE-84157C7BE73D" Type="Text" Created="2026-09-18 15:00:37 +1000" Modified="2026-09-20 17:52:29 +1000">
+                                <BinderItem UUID="D05C5F44-10E8-49A7-93AE-84157C7BE73D" Type="Text" Created="2026-09-18 15:00:37 +1000" Modified="2026-09-20 18:30:21 +1000">
                                     <Title>Chanta activates the Ajent Jones clones</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>638,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>14073,0</TextSelection>
+                                        <TextSelection>14049,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3368,14 +3368,15 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="B4ACDE93-CB20-433A-8736-585CEEF3231D" Type="Text" Created="2025-05-03 16:31:53 +1000" Modified="2026-09-20 18:02:54 +1000">
-                                    <Title>Moe Bogan podcast influences the Jones clones</Title>
+                                <BinderItem UUID="B4ACDE93-CB20-433A-8736-585CEEF3231D" Type="Text" Created="2025-05-03 16:31:53 +1000" Modified="2026-09-20 18:27:41 +1000">
+                                    <Title>The Moe Bogan Experince influences the Jones clones</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
                                         <StatusID>33</StatusID>
+                                        <NotesTextSelection>34,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>7107,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="47AD3FE9-6325-41A4-8910-E1A99B2AD0E5" Type="Text" Created="2026-09-12 19:14:34 +1000" Modified="2026-09-12 19:14:44 +1000">
@@ -3839,14 +3840,14 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="910CD68B-F9BF-425B-858F-99747BCEE983" Type="Text" Created="2026-09-12 13:08:29 +1000" Modified="2026-09-20 09:52:25 +1000">
+                <BinderItem UUID="910CD68B-F9BF-425B-858F-99747BCEE983" Type="Text" Created="2026-09-12 13:08:29 +1000" Modified="2026-09-20 18:08:04 +1000">
                     <Title>Development Kit</Title>
                     <MetaData>
                         <StatusID>33</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>1619,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="91B399E9-32C8-4484-8AF3-D7DA8FF4389A" Type="Text" Created="2026-09-12 13:08:29 +1000" Modified="2026-09-17 14:56:38 +1000">
@@ -7168,14 +7169,14 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-09-21 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="3235" Characters="19213" Date="2026-09-20 09:01:59 +1000"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-09-22 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2026-09-21 09:49:25 +1000"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-09-20 00:00:00 +1000">
-        <DraftWordCount>3235</DraftWordCount>
-        <DraftCharCount>19213</DraftCharCount>
-        <OtherWordCount>-1824</OtherWordCount>
-        <OtherCharCount>-11090</OtherCharCount>
+    <RecentWritingHistory Date="2026-09-21 00:00:00 +1000">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="D1D0F461-F88C-43A0-9715-34D7D574472E" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
