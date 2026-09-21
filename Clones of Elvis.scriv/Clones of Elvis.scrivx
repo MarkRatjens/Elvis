@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-09-22 09:24:44 +1000" ModID="72A4662C-47E0-4945-9327-50D539E90C7B">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-09-22 09:28:38 +1000" ModID="36517FB0-693B-45CE-9DC5-ED17617616CF">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -3851,24 +3851,6 @@
                         <TextSelection>1619,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="2D533C3F-AF5B-49BD-9DF1-B3F18213CB48" Type="Text" Created="2026-09-21 18:34:47 +1000" Modified="2026-09-21 18:36:18 +1000">
-                    <Title>Fresh  prompt -- Clones of Elvis Drafting after colossal mapping fuckup</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>9239,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="62801803-EA01-4A83-9D7E-F3D22C6A8F8A" Type="Text" Created="2026-09-21 18:37:17 +1000" Modified="2026-09-22 09:24:44 +1000">
-                    <Title>Fresh prompt -- fictional maps of Sublime Point / Ruined Castle</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>590,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
                 <BinderItem UUID="3529D8E3-8E45-4C5F-8481-4CC045CF6F00" Type="Text" Created="2026-09-21 14:39:48 +1000" Modified="2026-09-21 14:40:07 +1000">
                     <Title>Sublime Point / Ruined Castle — Location Bible</Title>
                     <MetaData>
@@ -6966,6 +6948,24 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="2D533C3F-AF5B-49BD-9DF1-B3F18213CB48" Type="Text" Created="2026-09-21 18:34:47 +1000" Modified="2026-09-21 18:36:18 +1000">
+                    <Title>Fresh  prompt -- Clones of Elvis Drafting after colossal mapping fuckup</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>9239,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="62801803-EA01-4A83-9D7E-F3D22C6A8F8A" Type="Text" Created="2026-09-21 18:37:17 +1000" Modified="2026-09-22 09:24:44 +1000">
+                    <Title>Fresh prompt -- fictional maps of Sublime Point / Ruined Castle</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>590,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
