@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-09-21 09:49:27 +1000" ModID="67A7FB44-3E12-4D5D-84C1-FD90FBADC048">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-09-22 09:24:44 +1000" ModID="72A4662C-47E0-4945-9327-50D539E90C7B">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -2147,9 +2147,10 @@
                                         <TextSelection>9353,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="3D4CF3A9-E01A-4D30-A67C-5CE0F2568DA2" Type="Text" Created="2023-10-01 14:10:57 +1100" Modified="2026-09-19 10:04:41 +1000">
+                                <BinderItem UUID="3D4CF3A9-E01A-4D30-A67C-5CE0F2568DA2" Type="Text" Created="2023-10-01 14:10:57 +1100" Modified="2026-09-21 13:40:52 +1000">
                                     <Title>The Sage's Guidance</Title>
                                     <MetaData>
+                                        <LabelID>4</LabelID>
                                         <StatusID>2</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>36,19</NotesTextSelection>
@@ -3211,7 +3212,7 @@
                                         <NotesTextSelection>4768,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1486,11</TextSelection>
+                                        <TextSelection>2420,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="55744E56-0AA8-433D-8B10-4DEE26A88068" Type="Text" Created="2025-06-15 11:33:51 +1000" Modified="2026-09-19 10:04:41 +1000">
@@ -3317,8 +3318,8 @@
                                         <TextSelection>3449,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="7D37D849-67F7-44AE-B239-28CC94C0D992" Type="Text" Created="2026-09-19 18:01:41 +1000" Modified="2026-09-19 18:01:44 +1000">
-                                    <Title>Johhny reveals the first operational elliptical-rail apparatus</Title>
+                                <BinderItem UUID="7D37D849-67F7-44AE-B239-28CC94C0D992" Type="Text" Created="2026-09-19 18:01:41 +1000" Modified="2026-09-21 13:38:51 +1000">
+                                    <Title>Johnny reveals the first operational elliptical-rail apparatus</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -3848,6 +3849,49 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>1619,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="2D533C3F-AF5B-49BD-9DF1-B3F18213CB48" Type="Text" Created="2026-09-21 18:34:47 +1000" Modified="2026-09-21 18:36:18 +1000">
+                    <Title>Fresh  prompt -- Clones of Elvis Drafting after colossal mapping fuckup</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>9239,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="62801803-EA01-4A83-9D7E-F3D22C6A8F8A" Type="Text" Created="2026-09-21 18:37:17 +1000" Modified="2026-09-22 09:24:44 +1000">
+                    <Title>Fresh prompt -- fictional maps of Sublime Point / Ruined Castle</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>590,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="3529D8E3-8E45-4C5F-8481-4CC045CF6F00" Type="Text" Created="2026-09-21 14:39:48 +1000" Modified="2026-09-21 14:40:07 +1000">
+                    <Title>Sublime Point / Ruined Castle — Location Bible</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>545,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="13D37159-5999-4144-B61E-870BD4E8E4FE" Type="Text" Created="2026-09-21 12:48:17 +1000" Modified="2026-09-21 12:48:23 +1000">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>14701,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="1E4B89D8-F0CF-4685-B6FF-9BD81D5146C8" Type="Text" Created="2026-09-21 12:48:32 +1000" Modified="2026-09-21 13:00:24 +1000">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>515,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="91B399E9-32C8-4484-8AF3-D7DA8FF4389A" Type="Text" Created="2026-09-12 13:08:29 +1000" Modified="2026-09-17 14:56:38 +1000">
@@ -6897,13 +6941,40 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="A7190A84-F025-4655-800F-B4493F0755CD" Type="Folder" Created="2026-09-21 14:39:38 +1000" Modified="2026-09-21 14:39:38 +1000">
+                    <Title>New Folder</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="C788C8F9-B595-41B0-B788-A74A9A5D3659" Type="Folder" Created="2026-09-21 18:36:30 +1000" Modified="2026-09-21 18:36:30 +1000">
+                    <Title>New Folder</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="6BE0C1F7-75E2-4372-93E9-49E376440113" Type="Folder" Created="2026-09-21 18:36:30 +1000" Modified="2026-09-21 18:36:30 +1000">
+                    <Title>New Folder-1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
     <Collections>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No" IgnoreDiacritics="No">Hedges</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No" IgnoreDiacritics="No">Quark</SearchSettings>
         </Collection>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
             <Title>Binder</Title>
@@ -7169,10 +7240,10 @@ Unable to contain himself, Dunhilton marched on d'Molesto and drew near enough t
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-09-22 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-09-21 09:49:25 +1000"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-09-23 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2026-09-22 09:23:28 +1000"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-09-21 00:00:00 +1000">
+    <RecentWritingHistory Date="2026-09-22 00:00:00 +1000">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
