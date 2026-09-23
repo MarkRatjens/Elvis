@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-09-22 10:09:29 +1000" ModID="7073D6B7-71FB-409D-9EE7-17C610E5623A">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-09-23 13:45:39 +1000" ModID="09BAE355-5C09-4864-BEC6-2B7E0629F041">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -791,7 +791,7 @@
                                         <TextSelection>4473,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="CD9825D5-8519-4B96-B8EC-6083F1B3A840" Type="Text" Created="2022-06-05 16:05:04 +1000" Modified="2026-08-06 15:33:40 +1000">
+                                <BinderItem UUID="CD9825D5-8519-4B96-B8EC-6083F1B3A840" Type="Text" Created="2022-06-05 16:05:04 +1000" Modified="2026-09-22 10:42:02 +1000">
                                     <Title>Agent Jones sets himself against Gerry</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -800,7 +800,7 @@
                                         <NotesTextSelection>368,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1221,186</TextSelection>
+                                        <TextSelection>1601,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3284,8 +3284,8 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="F075B5D9-4CA9-458F-A3C2-C38D3DF9C974" Type="Folder" Created="2026-07-08 14:48:26 +1000" Modified="2026-09-18 15:18:14 +1000">
-                            <Title>Please refreeze me</Title>
+                        <BinderItem UUID="F075B5D9-4CA9-458F-A3C2-C38D3DF9C974" Type="Folder" Created="2026-07-08 14:48:26 +1000" Modified="2026-09-22 10:44:39 +1000">
+                            <Title>Cake, bagel and roll</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>2</StatusID>
@@ -3315,16 +3315,30 @@
                                         <TextSelection>3449,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="7D37D849-67F7-44AE-B239-28CC94C0D992" Type="Text" Created="2026-09-19 18:01:41 +1000" Modified="2026-09-21 13:38:51 +1000">
+                                <BinderItem UUID="7D37D849-67F7-44AE-B239-28CC94C0D992" Type="Text" Created="2026-09-19 18:01:41 +1000" Modified="2026-09-23 13:45:39 +1000">
                                     <Title>Johnny reveals the first operational elliptical-rail apparatus</Title>
                                     <MetaData>
+                                        <StatusID>2</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>980,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>13857,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="8CB3AD68-2375-4E43-B914-108DE21D7EAE" Type="Text" Created="2025-06-15 12:55:38 +1000" Modified="2026-09-19 18:28:17 +1000">
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="B27B602B-9726-42EB-AEFB-3C2F57C9E2DC" Type="Folder" Created="2026-07-08 14:48:26 +1000" Modified="2026-09-22 10:15:48 +1000">
+                            <Title>Please refreeze me</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>2</StatusID>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="A9D359E1-AFDA-416D-BA92-767333D85E88" Type="Text" Created="2025-06-15 12:55:38 +1000" Modified="2026-09-22 11:07:36 +1000">
                                     <Title>Johnny takes Chanta to Sarah</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3334,14 +3348,16 @@
                                         <TextSelection>5028,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="D05C5F44-10E8-49A7-93AE-84157C7BE73D" Type="Text" Created="2026-09-18 15:00:37 +1000" Modified="2026-09-20 18:30:21 +1000">
+                                <BinderItem UUID="9D996A4A-E690-423F-8417-25FD1158CC9A" Type="Text" Created="2026-09-18 15:00:37 +1000" Modified="2026-09-22 11:11:58 +1000">
                                     <Title>Chanta activates the Ajent Jones clones</Title>
                                     <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <StatusID>2</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>638,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>14049,0</TextSelection>
+                                        <TextSelection>11019,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3355,7 +3371,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="F47939E1-7305-44D5-827C-36536AD35CB4" Type="Text" Created="2025-05-03 16:31:53 +1000" Modified="2026-09-19 10:04:41 +1000">
+                                <BinderItem UUID="F47939E1-7305-44D5-827C-36536AD35CB4" Type="Text" Created="2025-05-03 16:31:53 +1000" Modified="2026-09-22 18:10:11 +1000">
                                     <Title>Testing the elliptical-rail apparatus</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3363,7 +3379,7 @@
                                         <NotesTextSelection>259,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>266,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="B4ACDE93-CB20-433A-8736-585CEEF3231D" Type="Text" Created="2025-05-03 16:31:53 +1000" Modified="2026-09-20 18:27:41 +1000">
@@ -3857,12 +3873,13 @@
                         <TextSelection>545,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="13D37159-5999-4144-B61E-870BD4E8E4FE" Type="Text" Created="2026-09-21 12:48:17 +1000" Modified="2026-09-21 12:48:23 +1000">
+                <BinderItem UUID="13D37159-5999-4144-B61E-870BD4E8E4FE" Type="Text" Created="2026-09-21 12:48:17 +1000" Modified="2026-09-22 11:48:30 +1000">
+                    <Title>Project Kebab — Elliptical-Rail Apparatus</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>14701,0</TextSelection>
+                        <TextSelection>3948,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="1E4B89D8-F0CF-4685-B6FF-9BD81D5146C8" Type="Text" Created="2026-09-21 12:48:32 +1000" Modified="2026-09-21 13:00:24 +1000">
@@ -3960,7 +3977,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,13161</TextSelection>
+                        <TextSelection>2931,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="DD73AEC9-A1D3-42E5-9170-1CA1459452ED" Type="Text" Created="2025-06-15 11:37:24 +1000" Modified="2026-09-19 10:04:41 +1000">
@@ -4312,7 +4329,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>422,0</TextSelection>
+                        <TextSelection>893,24</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="7D62CA27-F0D6-4393-AF2A-B704FD8C71EC" Type="Text" Created="2025-05-10 15:48:16 +1000" Modified="2026-09-19 10:04:41 +1000">
@@ -5177,12 +5194,91 @@
         </BinderItem>
         <BinderItem UUID="97C6EED7-F5DD-46E5-A9B3-F4D4C379E0C2" Type="TrashFolder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Trash</Title>
+            <Children>
+                <BinderItem UUID="63151B6C-73E9-41B3-B659-6BF86E32444B" Type="Text" Created="2025-06-15 11:35:30 +1000" Modified="2026-09-19 10:04:41 +1000">
+                    <Title>the High Elvis executes the heist</Title>
+                    <MetaData>
+                        <LabelID>4</LabelID>
+                        <StatusID>2</StatusID>
+                        <NotesTextSelection>213,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>7175,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="8B5CD206-6488-403A-B601-21D31E674980" Type="Text" Created="2025-06-15 12:55:38 +1000" Modified="2026-09-19 18:01:58 +1000">
+                    <Title>Johnny collects his discs from the Elvi</Title>
+                    <MetaData>
+                        <LabelID>4</LabelID>
+                        <StatusID>2</StatusID>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3449,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="CC095F81-DBBA-419B-9D6D-92484822E1EE" Type="Text" Created="2026-09-19 18:01:41 +1000" Modified="2026-09-21 13:38:51 +1000">
+                    <Title>Johnny reveals the first operational elliptical-rail apparatus</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="8B224330-E118-4FB3-B4FD-068F3D346C8A" Type="Text" Created="2026-09-22 10:15:34 +1000" Modified="2026-09-22 10:15:34 +1000">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="8CB3AD68-2375-4E43-B914-108DE21D7EAE" Type="Text" Created="2025-06-15 12:55:38 +1000" Modified="2026-09-19 18:28:17 +1000">
+                    <Title>Johnny takes Chanta to Sarah</Title>
+                    <MetaData>
+                        <LabelID>4</LabelID>
+                        <StatusID>2</StatusID>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>5028,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="D05C5F44-10E8-49A7-93AE-84157C7BE73D" Type="Text" Created="2026-09-18 15:00:37 +1000" Modified="2026-09-22 10:31:02 +1000">
+                    <Title>Chanta activates the Ajent Jones clones</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>638,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>14071,947</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F7715D18-5FDC-4D53-9B60-72FE1457733F" Type="Text" Created="2026-09-19 18:01:41 +1000" Modified="2026-09-22 11:36:46 +1000">
+                    <Title>Johnny reveals the first operational elliptical-rail apparatus-1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>980,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2407,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="0288FCE4-8BA9-4F42-B9DF-68686B7D7A49" Type="Text" Created="2026-09-21 12:48:17 +1000" Modified="2026-09-22 11:33:23 +1000">
+                    <Title>Project Kebab — Elliptical-Rail Apparatus - 1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,41</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <Collections>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No" IgnoreDiacritics="No">St Hedges</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No" IgnoreDiacritics="No">Planck</SearchSettings>
         </Collection>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
             <Title>Binder</Title>
@@ -5448,12 +5544,12 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-09-23 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-09-22 09:23:28 +1000"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-09-24 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="275" Characters="1572" Date="2026-09-23 09:14:28 +1000"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-09-22 00:00:00 +1000">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+    <RecentWritingHistory Date="2026-09-23 00:00:00 +1000">
+        <DraftWordCount>161</DraftWordCount>
+        <DraftCharCount>718</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

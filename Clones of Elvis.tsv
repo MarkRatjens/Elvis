@@ -972,8 +972,7 @@ Start is after start of The Chuglinghams Hold a BBQ 6 days, 15 hours
 Start is before start of Lonnie discovers the jukebox s -13 hours, -30 minutes"	""		"Special Agent Ajent Jones"	"Special Agent Ajent Jones"	""	""	""	""	""	""	""	""		
 "Event"	"Lonnie discovers the jukebox sabotage"	"EV189"	"Lonnie discovers the jukebox s"		128		#9FA8DA		False	2370-09-20 16:30			2370-09-20 16:30	"0 seconds"		""	""	""	"Start is before start of The High Elvis kidnaps Chanta 0 seconds
 Start is after start of Ajent sabotages Elvi juke boxe 13 hours, 30 minutes"	""		"Lonnie"	"Lonnie"	""	""	""	""	""	""	""	""		
-"Event"	"Tony invites Sarah to dinner"	"EV187"	"Tony invites Sarah to dinner"		129		#9FA8DA		False	2370-09-25 19:00			2370-09-25 21:00	"2 hours"		""	""	""	"End is before start of Chanta and the Ajent Jones Clo 0 seconds
-End is before start of Chanta watches Harem Scarum -30 minutes
+"Event"	"Tony invites Sarah to dinner"	"EV187"	"Tony invites Sarah to dinner"		129		#9FA8DA		False	2370-09-25 19:00			2370-09-25 21:00	"2 hours"		""	""	""	"End is before start of Chanta watches Harem Scarum -30 minutes
 Start is after end of The Chuglinghams Hold a BBQ 12 days
 End is before start of Kathy Gives Sarah a Medical -3 days
 Start is before start of The High Elvis kidnaps Chanta -3 weeks
@@ -1208,7 +1207,7 @@ Steve Grayson
 Tulsa McLean"	"Tony Chantara
 Steve Grayson
 Tulsa McLean"	""	""	"Gyges Disc Research"	"Gyges Disc Research"	""	""	""	""		
-"Event"	"Johhny reveals the first operational elliptical-rail apparatus"	"EV272"	"Johhny reveals the first opera"		162		#9FA8DA		False	2370-11-30 06:08:04			2370-11-30 06:08:04	"0 seconds"		""	""	""	"Start is after end of The High Elvis executes the he 0 seconds
+"Event"	"Johhny reveals the first operational elliptical-rail apparatus"	"EV272"	"Johhny reveals the first opera"		162		"Orange"		False	2370-11-30 06:08:04			2370-11-30 06:08:04	"0 seconds"		""	""	""	"Start is after end of The High Elvis executes the he 0 seconds
 Start is after end of Fridge Force detects the heist 0 seconds
 Start is before start of Testing the elliptical-rail ap -2 weeks"	""		"John Stoat
 Chip Stockwell
@@ -1223,10 +1222,9 @@ Kleoboulos Windus
 Chilo Damagetus
 Solo Athena
 Dr Quark"	""	""	""	""	""	""	""	""		
-"Event"	"Alexander returns secretly"	"EV220"	"Alexander returns secretly"		163		#9FA8DA		False	2370-12-03 12:00			2370-12-03 12:00	"0 seconds"		""	""	""	"End is before start of Alexander and Candid Criminal  -21 days
-Start is after start of Alexander gets reassigned 0 seconds
+"Event"	"Alexander returns secretly"	"EV220"	"Alexander returns secretly"		163		#9FA8DA		False	2370-12-03 12:00			2370-12-03 12:00	"0 seconds"		""	""	""	"Start is after start of Alexander gets reassigned 0 seconds
 Start is before start of Alexander surveils the Sages -15 days"	""		"Alexander Shakti"	"Alexander Shakti"	""	""	""	""	""	""	""	""		
-"Event"	"Johnny smuggles Chanta into Sublime Point"	"EV297"	"Johnny smuggles Chanta into Su"		164		#9FA8DA		False	2370-12-06 20:08:04			2370-12-06 20:08:04	"0 seconds"		""	""	""	"Start is after start of Johnny collects his discs from 1 week, 5 hours
+"Event"	"Johnny smuggles Chanta into Sublime Point"	"EV297"	"Johnny smuggles Chanta into Su"		164		#9FA8DA		False	2370-12-06 15:08:04			2370-12-06 15:08:04	"0 seconds"		""	""	""	"Start is after start of Johnny collects his discs from 1 week, 5 hours
 End is before start of Chanta activates the Ajent Jon -3 days"	""		"Hayley Lanning
 Sarah Jacobson
 Tony Chantara
@@ -1237,7 +1235,8 @@ Tony Chantara
 John Stoat
 Dr Kathy Logan"	""	""	""	""	""	""	""	""		
 "Event"	"Chanta activates the Ajent Jones clones"	"EV278"	"Chanta activates the Ajent Jon"		165		#9FA8DA		False	2370-12-09 20:08:04			2370-12-14 20:08:04	"5 days"		""	""	""	"Start is after end of Johnny smuggles Chanta into Su 3 days
-Start is after end of Chanta searches for the Harum  0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
+Start is after end of Chanta searches for the Harum  0 seconds
+End is before start of Moe Bogan podcast influences t -3 days"	""		""	""	""	""	""	""	""	""	""	""		
 "Event"	"Testing the elliptical-rail apparatus"	"EV285"	"Testing the elliptical-rail ap"		166		#9FA8DA		False	2370-12-14 07:30			2370-12-14 08:12	"42 minutes"		""	""	""	"Start is after start of Johhny reveals the first opera 2 weeks
 End is before start of Five discs revealed on the rai -7 days"	""		"John Stoat
 Chip Stockwell
@@ -1252,7 +1251,10 @@ Kleoboulos Windus
 Chilo Damagetus
 Solo Athena
 Dr Quark"	""	""	""	""	""	""	""	""		
-"Event"	"Five discs revealed on the rail"	"EV236"	"Five discs revealed on the rai"		167		#9FA8DA		False	2370-12-21 08:12			2370-12-21 08:16:02	"4 minutes, 2 seconds"		""	""	""	"End is before start of Local quake + Gibson Desert qu 0 seconds
+"Event"	"Moe Bogan podcast influences the Jones clones"	"EV300"	"Moe Bogan podcast influences t"		167		#9FA8DA		False	2370-12-19			2370-12-19	"1 day"		""	""	""	"Start is after end of Chanta activates the Ajent Jon 3 days
+End is before start of Chanta and the Ajent Jones Clo 0 seconds
+End is before start of 23rd December -3 days"	""		"Special Agent Ajent Jones"	"Special Agent Ajent Jones"	""	""	""	""	""	""	""	""		
+"Event"	"Five discs revealed on the rail"	"EV236"	"Five discs revealed on the rai"		168		#9FA8DA		False	2370-12-21 08:12			2370-12-21 08:16:02	"4 minutes, 2 seconds"		""	""	""	"End is before start of Local quake + Gibson Desert qu 0 seconds
 End is before start of Missing Socks 0 seconds
 Start is after end of Testing the elliptical-rail ap 7 days"	""		"Chip Stockwell
 John Stoat
@@ -1265,7 +1267,7 @@ Dr Quark
 Chilo Damagetus
 Kleoboulos Windus
 Solo Athena"	""	""	""	""	""	""	""	""		
-"Event"	"Missing Socks"	"EV275"	"Missing Socks"		168		#9FA8DA		False	2370-12-21 08:16:02			2370-12-21 08:20:04	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Five discs revealed on the rai 0 seconds
+"Event"	"Missing Socks"	"EV275"	"Missing Socks"		169		#9FA8DA		False	2370-12-21 08:16:02			2370-12-21 08:20:04	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Five discs revealed on the rai 0 seconds
 End is after start of Local quake + Gibson Desert qu 0 seconds"	""		"Chip Stockwell
 John Stoat
 Dr Quark
@@ -1277,7 +1279,7 @@ Dr Quark
 Chilo Damagetus
 Kleoboulos Windus
 Solo Athena"	""	""	""	""	""	""	""	""		
-"Event"	"Local quake + Gibson Desert quake"	"EV201"	"Local quake + Gibson Desert qu"		169		#9FA8DA		False	2370-12-21 08:16:02			2370-12-21 08:20:04	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Five discs revealed on the rai 0 seconds
+"Event"	"Local quake + Gibson Desert quake"	"EV201"	"Local quake + Gibson Desert qu"		170		#9FA8DA		False	2370-12-21 08:16:02			2370-12-21 08:20:04	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Five discs revealed on the rai 0 seconds
 Start is before end of Missing Socks 0 seconds
 End is before start of The Gibson correlation -1 days"	""		"Sarah Jacobson
 Eloise Shakti
@@ -1286,7 +1288,7 @@ John Stoat"	"Sarah Jacobson
 Eloise Shakti
 Chip Stockwell
 John Stoat"	""	""	""	""	""	""	""	""		
-"Event"	"The Gibson correlation"	"EV273"	"The Gibson correlation"		170		#9FA8DA		False	2370-12-22 08:20:04			2370-12-22 08:24:06	"4 minutes, 2 seconds"		""	""	""	"End is before start of Birth of the Dawkins -36 hours
+"Event"	"The Gibson correlation"	"EV273"	"The Gibson correlation"		171		#9FA8DA		False	2370-12-22 08:20:04			2370-12-22 08:24:06	"4 minutes, 2 seconds"		""	""	""	"End is before start of Birth of the Dawkins -36 hours
 End is before start of Eloise argues for another test -42 minutes
 Start is after end of Local quake + Gibson Desert qu 1 day"	""		"Sarah Jacobson
 Eloise Shakti
@@ -1295,7 +1297,7 @@ John Stoat"	"Sarah Jacobson
 Eloise Shakti
 Chip Stockwell
 John Stoat"	""	""	""	""	""	""	""	""		
-"Event"	"Eloise argues for another test"	"EV274"	"Eloise argues for another test"		171		#9FA8DA		False	2370-12-22 09:06:06			2370-12-22 09:10:08	"4 minutes, 2 seconds"		""	""	""	"Start is after end of The Gibson correlation 42 minutes
+"Event"	"Eloise argues for another test"	"EV274"	"Eloise argues for another test"		172		#9FA8DA		False	2370-12-22 09:06:06			2370-12-22 09:10:08	"4 minutes, 2 seconds"		""	""	""	"Start is after end of The Gibson correlation 42 minutes
 End is before start of Johnny escalates the testing -2 days
 End is before start of Wrestlemania - The Sages' Nigh -11 hours"	""		"Sarah Jacobson
 Eloise Shakti
@@ -1304,7 +1306,7 @@ John Stoat"	"Sarah Jacobson
 Eloise Shakti
 Chip Stockwell
 John Stoat"	""	""	""	""	""	""	""	""		
-"Event"	"Alexander surveils the Sages"	"EV289"	"Alexander surveils the Sages"		172		#9FA8DA		False	2370-12-22 19:28:08			2370-12-22 22:28:08	"3 hours"		""	""	""	"End is before start of Alexander and Candid Criminal  0 seconds
+"Event"	"Alexander surveils the Sages"	"EV289"	"Alexander surveils the Sages"		173		#9FA8DA		False	2370-12-22 19:28:08			2370-12-22 22:28:08	"3 hours"		""	""	""	"End is before start of Alexander and Candid Criminal  0 seconds
 Start is before start of Wrestlemania - The Sages' Nigh -42 minutes
 Start is after start of Alexander returns secretly 15 days
 End is before end of Wrestlemania - The Sages' Nigh -2 hours"	""		"Alexander Shakti
@@ -1314,7 +1316,7 @@ Kleoboulos Windus"	"Alexander Shakti
 Solo Athena
 Chilo Damagetus
 Kleoboulos Windus"	""	""	""	""	""	""	""	""		
-"Event"	"Wrestlemania - The Sages' Night Out"	"EV290"	"Wrestlemania - The Sages' Nigh"		173		#9FA8DA		False	2370-12-22 20:10:08			2370-12-23 02:10:08	"6 hours"		""	""	""	"End is before start of Alexander and Candid Criminal  0 seconds
+"Event"	"Wrestlemania - The Sages' Night Out"	"EV290"	"Wrestlemania - The Sages' Nigh"		174		#9FA8DA		False	2370-12-22 20:10:08			2370-12-23 02:10:08	"6 hours"		""	""	""	"End is before start of Alexander and Candid Criminal  0 seconds
 Start is after end of Eloise argues for another test 11 hours
 Start is after start of Alexander surveils the Sages 42 minutes
 End is after end of Alexander surveils the Sages 2 hours"	""		"Solo Athena
@@ -1322,26 +1324,27 @@ Chilo Damagetus
 Kleoboulos Windus"	"Solo Athena
 Chilo Damagetus
 Kleoboulos Windus"	""	""	""	""	""	""	""	""		
-"Event"	"23rd December"	"EV243"	"23rd December"		174		#ffffff		False	2370-12-23			2370-12-23	"1 day"		""	""	""	"End is before end of Ascension Day -1 days
+"Event"	"23rd December"	"EV243"	"23rd December"		175		#ffffff		False	2370-12-23			2370-12-23	"1 day"		""	""	""	"End is before end of Ascension Day -1 days
 Start is before start of Christmas Special Candid Crimi -18 hours
 End is before start of Nautical twilight -4 hours, -39 minutes
 End is before start of Civil twilight -5 hours, -15 minutes
-Start is before start of Vigil for the Holy Momma forms -16 hours"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"UDF begins containment of Sublime Point"	"EV218"	"UDF begins containment of Subl"		175		#9FA8DA		False	2370-12-23 03:57			2370-12-23 06:57	"3 hours"		""	""	""	"Start is before start of Alexander and Candid Criminal  -1 days
+Start is before start of Vigil for the Holy Momma forms -16 hours
+Start is after end of Moe Bogan podcast influences t 3 days"	""		""	""	""	""	""	""	""	""	""	""		
+"Event"	"UDF begins containment of Sublime Point"	"EV218"	"UDF begins containment of Subl"		176		#9FA8DA		False	2370-12-23 03:57			2370-12-23 06:57	"3 hours"		""	""	""	"Start is before start of Alexander and Candid Criminal  -1 days
 End is before start of Nautical twilight 0 seconds
 End is before start of UDF settles positioning and ch 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"UDF settles positioning and checkpoints"	"EV291"	"UDF settles positioning and ch"		176		#9FA8DA		False	2370-12-23 06:57			2370-12-23 12:57	"6 hours"		""	""	""	"Start is before start of Chanta and the Ajent Jones Clo 0 seconds
+"Event"	"UDF settles positioning and checkpoints"	"EV291"	"UDF settles positioning and ch"		177		#9FA8DA		False	2370-12-23 06:57			2370-12-23 12:57	"6 hours"		""	""	""	"Start is before start of Chanta and the Ajent Jones Clo 0 seconds
 End is before start of Nautical twilight 0 seconds
 Start is after end of UDF begins containment of Subl 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Vigil for the Holy Momma forms"	"EV292"	"Vigil for the Holy Momma forms"		177		#9FA8DA		False	2370-12-23 18:00			2370-12-24 12:00	"18 hours"		""	""	""	"Start is after start of 23rd December 16 hours
+"Event"	"Vigil for the Holy Momma forms"	"EV292"	"Vigil for the Holy Momma forms"		178		#9FA8DA		False	2370-12-23 18:00			2370-12-24 12:00	"18 hours"		""	""	""	"Start is after start of 23rd December 16 hours
 End is before start of Elvi vigil reaches criticial m 0 seconds
 End is after start of UDF hover-copt crashes 2 hours"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Ascension Eve"	"EV282"	"Ascension Eve"		178		#ffffff		False	2370-12-24			2370-12-24	"1 day"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Nautical twilight"	"EV283"	"Nautical twilight"		179		"Orange"		False	2370-12-24 04:39			2370-12-24 21:13	"16 hours, 34 minutes"		""	""	""	"Start is after end of 23rd December 4 hours, 39 minutes
+"Event"	"Ascension Eve"	"EV282"	"Ascension Eve"		179		#ffffff		False	2370-12-24			2370-12-24	"1 day"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Event"	"Nautical twilight"	"EV283"	"Nautical twilight"		180		"Orange"		False	2370-12-24 04:39			2370-12-24 21:13	"16 hours, 34 minutes"		""	""	""	"Start is after end of 23rd December 4 hours, 39 minutes
 Start is after end of UDF begins containment of Subl 0 seconds
 Start is after end of UDF settles positioning and ch 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Civil twilight"	"EV284"	"Civil twilight"		180		"Orange"		False	2370-12-24 05:16			2370-12-24 20:37	"15 hours, 21 minutes"		""	""	""	"Start is after end of 23rd December 5 hours, 15 minutes"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Johnny escalates the testing"	"EV276"	"Johnny escalates the testing"		181		#9FA8DA		False	2370-12-24 09:10:08			2370-12-24 09:14:10	"4 minutes, 2 seconds"		""	""	""	"End is before start of The Johnny vs Chip 0 seconds
+"Event"	"Civil twilight"	"EV284"	"Civil twilight"		181		"Orange"		False	2370-12-24 05:16			2370-12-24 20:37	"15 hours, 21 minutes"		""	""	""	"Start is after end of 23rd December 5 hours, 15 minutes"	""		""	""	""	""	""	""	""	""	""	""		
+"Event"	"Johnny escalates the testing"	"EV276"	"Johnny escalates the testing"		182		#9FA8DA		False	2370-12-24 09:10:08			2370-12-24 09:14:10	"4 minutes, 2 seconds"		""	""	""	"End is before start of The Johnny vs Chip 0 seconds
 Start is after end of Eloise argues for another test 2 days"	""		"Sarah Jacobson
 Eloise Shakti
 Chip Stockwell
@@ -1355,21 +1358,20 @@ John Stoat
 Solo Athena
 Chilo Damagetus
 Kleoboulos Windus"	""	""	""	""	""	""	""	""		
-"Event"	"UDF hover-copt crashes"	"EV293"	"UDF hover-copt crashes"		182		#9FA8DA		False	2370-12-24 10:00			2370-12-24 10:00:42	"42 seconds"		""	""	""	"Start is before end of Vigil for the Holy Momma forms -2 hours"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Elvi vigil reaches criticial mass"	"EV237"	"Elvi vigil reaches criticial m"		183		#9FA8DA		False	2370-12-24 12:00			2370-12-24 16:30	"4 hours, 30 minutes"		""	""	""	"Start is after end of Vigil for the Holy Momma forms 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Alexander and Candid Criminal convoy enter Sublime Point"	"EV279"	"Alexander and Candid Criminal "		184		#9FA8DA		False	2370-12-24 12:00			2370-12-24 12:04:02	"4 minutes, 2 seconds"		""	""	""	"Start is after start of UDF begins containment of Subl 1 day
+"Event"	"UDF hover-copt crashes"	"EV293"	"UDF hover-copt crashes"		183		#9FA8DA		False	2370-12-24 10:00			2370-12-24 10:00:42	"42 seconds"		""	""	""	"Start is before end of Vigil for the Holy Momma forms -2 hours"	""		""	""	""	""	""	""	""	""	""	""		
+"Event"	"Elvi vigil reaches criticial mass"	"EV237"	"Elvi vigil reaches criticial m"		184		#9FA8DA		False	2370-12-24 12:00			2370-12-24 16:30	"4 hours, 30 minutes"		""	""	""	"Start is after end of Vigil for the Holy Momma forms 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
+"Event"	"Alexander and Candid Criminal convoy enter Sublime Point"	"EV279"	"Alexander and Candid Criminal "		185		#9FA8DA		False	2370-12-24 12:00			2370-12-24 12:04:02	"4 minutes, 2 seconds"		""	""	""	"Start is after start of UDF begins containment of Subl 1 day
 End is before end of Chanta and the Ajent Jones Clo 0 seconds
 Start is before start of Christmas Special Candid Crimi -6 hours
-Start is after end of Alexander returns secretly 21 days
 End is before start of Candid Criminal crew rigs Subl 0 seconds
 Start is after end of Alexander surveils the Sages 0 seconds
 Start is after end of Wrestlemania - The Sages' Nigh 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Candid Criminal crew rigs Sublime Point auditorium"	"EV286"	"Candid Criminal crew rigs Subl"		185		#9FA8DA		False	2370-12-24 12:04:02			2370-12-24 17:04:02	"5 hours"		""	""	""	"End is before start of Christmas Special Candid Crimi -45 minutes
+"Event"	"Candid Criminal crew rigs Sublime Point auditorium"	"EV286"	"Candid Criminal crew rigs Subl"		186		#9FA8DA		False	2370-12-24 12:04:02			2370-12-24 17:04:02	"5 hours"		""	""	""	"End is before start of Christmas Special Candid Crimi -45 minutes
 Start is after end of Alexander and Candid Criminal  0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Alexander waylays Eloise for Candid Criminal"	"EV287"	"Alexander waylays Eloise for C"		186		#9FA8DA		False	2370-12-24 16:40:58			2370-12-24 16:45:00	"4 minutes, 2 seconds"		""	""	""	"End is before start of Christmas Special Candid Crimi -75 minutes"	""		"Alexander Shakti
+"Event"	"Alexander waylays Eloise for Candid Criminal"	"EV287"	"Alexander waylays Eloise for C"		187		#9FA8DA		False	2370-12-24 16:40:58			2370-12-24 16:45:00	"4 minutes, 2 seconds"		""	""	""	"End is before start of Christmas Special Candid Crimi -75 minutes"	""		"Alexander Shakti
 Eloise Shakti"	"Alexander Shakti
 Eloise Shakti"	""	""	""	""	""	""	""	""		
-"Event"	"Christmas Special Candid Criminal"	"EV208"	"Christmas Special Candid Crimi"		187		#ffffff		False	2370-12-24 18:00			2370-12-24 19:00	"1 hour"		""	""	""	"End is before start of Chanta vs Alexander 0 seconds
+"Event"	"Christmas Special Candid Criminal"	"EV208"	"Christmas Special Candid Crimi"		188		#ffffff		False	2370-12-24 18:00			2370-12-24 19:00	"1 hour"		""	""	""	"End is before start of Chanta vs Alexander 0 seconds
 Start is after start of 23rd December 18 hours
 Start is after start of Alexander and Candid Criminal  6 hours
 Start is after end of Candid Criminal crew rigs Subl 45 minutes
@@ -1379,40 +1381,40 @@ Eloise Shakti
 Alexander Shakti"	"Bala Chuglingham
 Eloise Shakti
 Alexander Shakti"	""	""	""	""	"Sublime Point"	"Sublime Point"	""	""		
-"Event"	"Gerry steals in to Sublime Point"	"EV280"	"Gerry steals in to Sublime Poi"		188		#9FA8DA		False	2370-12-24 18:42			2370-12-24 18:46:02	"4 minutes, 2 seconds"		""	""	""	"Start is after start of Christmas Special Candid Crimi 42 minutes"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Ascension Day"	"EV241"	"Ascension Day"		189		#ffffff		False	2370-12-25			2370-12-25	"1 day"		""	""	""	"End is after end of 23rd December 1 day
+"Event"	"Gerry steals in to Sublime Point"	"EV280"	"Gerry steals in to Sublime Poi"		189		#9FA8DA		False	2370-12-24 18:42			2370-12-24 18:46:02	"4 minutes, 2 seconds"		""	""	""	"Start is after start of Christmas Special Candid Crimi 42 minutes"	""		""	""	""	""	""	""	""	""	""	""		
+"Event"	"Ascension Day"	"EV241"	"Ascension Day"		190		#ffffff		False	2370-12-25			2370-12-25	"1 day"		""	""	""	"End is after end of 23rd December 1 day
 Start is before start of Birth of the Dawkins -5 hours, -42 minutes
 Start is before start of Friction between UDF and Elvi  -2 hours"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Friction between UDF and Elvi escalates"	"EV217"	"Friction between UDF and Elvi "		190		#9FA8DA		False	2370-12-25 02:00			2370-12-25 04:42	"2 hours, 42 minutes"		""	""	""	"Start is after start of Ascension Day 2 hours"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Chanta and the Ajent Jones Clones arrive at Sublime Point"	"EV223"	"Chanta and the Ajent Jones Clo"		191		#9FA8DA		False	2370-12-25 04:22:02			2370-12-25 04:22:02	"0 seconds"		""	""	""	"Start is after end of Tony invites Sarah to dinner 0 seconds
-End is before start of Ajent vs Jihad Man 0 seconds
+"Event"	"Friction between UDF and Elvi escalates"	"EV217"	"Friction between UDF and Elvi "		191		#9FA8DA		False	2370-12-25 02:00			2370-12-25 04:42	"2 hours, 42 minutes"		""	""	""	"Start is after start of Ascension Day 2 hours"	""		""	""	""	""	""	""	""	""	""	""		
+"Event"	"Chanta and the Ajent Jones Clones arrive at Sublime Point"	"EV223"	"Chanta and the Ajent Jones Clo"		192		#9FA8DA		False	2370-12-25 04:22:02			2370-12-25 04:22:02	"0 seconds"		""	""	""	"End is before start of Ajent vs Jihad Man 0 seconds
 End is after end of Alexander and Candid Criminal  0 seconds
 End is before start of Halo vs Hayley & Kathy 0 seconds
 Start is after start of UDF settles positioning and ch 0 seconds
-End is before start of Gerry vs Chanta and the Jones  0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Halo vs Hayley & Kathy"	"EV221"	"Halo vs Hayley & Kathy"		192		#9FA8DA		False	2370-12-25 04:34			2370-12-25 04:38:02	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Chanta and the Ajent Jones Clo 0 seconds
+End is before start of Gerry vs Chanta and the Jones  0 seconds
+Start is after end of Moe Bogan podcast influences t 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
+"Event"	"Halo vs Hayley & Kathy"	"EV221"	"Halo vs Hayley & Kathy"		193		#9FA8DA		False	2370-12-25 04:34			2370-12-25 04:38:02	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Chanta and the Ajent Jones Clo 0 seconds
 End is before start of Chanta vs Alexander -21 minutes"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Chilo gets Chip out of the control room"	"EV299"	"Chilo gets Chip out of the con"		193		#9FA8DA		False	2370-12-25 04:52			2370-12-25 04:52	"0 seconds"		""	""	""	"End is before start of Birth of the Dawkins -50 minutes"	""		"Chip Stockwell
+"Event"	"Chilo gets Chip out of the control room"	"EV299"	"Chilo gets Chip out of the con"		194		#9FA8DA		False	2370-12-25 04:52			2370-12-25 04:52	"0 seconds"		""	""	""	"End is before start of Birth of the Dawkins -50 minutes"	""		"Chip Stockwell
 Chilo Damagetus
 John Stoat"	"Chip Stockwell
 Chilo Damagetus
 John Stoat"	""	""	""	""	""	""	""	""		
-"Event"	"Ajent vs Jihad Man"	"EV222"	"Ajent vs Jihad Man"		194		#9FA8DA		False	2370-12-25 04:55:58			2370-12-25 05:00:00	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Chanta and the Ajent Jones Clo 0 seconds
+"Event"	"Ajent vs Jihad Man"	"EV222"	"Ajent vs Jihad Man"		195		#9FA8DA		False	2370-12-25 04:55:58			2370-12-25 05:00:00	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Chanta and the Ajent Jones Clo 0 seconds
 End is before start of Gerry vs Chanta and the Jones  0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Gerry vs Chanta and the Jones Clones"	"EV298"	"Gerry vs Chanta and the Jones "		195		#9FA8DA		False	2370-12-25 05:00:00			2370-12-25 05:42:00	"42 minutes"		""	""	""	"Start is after end of Chanta and the Ajent Jones Clo 0 seconds
+"Event"	"Gerry vs Chanta and the Jones Clones"	"EV298"	"Gerry vs Chanta and the Jones "		196		#9FA8DA		False	2370-12-25 05:00:00			2370-12-25 05:42:00	"42 minutes"		""	""	""	"Start is after end of Chanta and the Ajent Jones Clo 0 seconds
 End equals end of Chanta vs Alexander 0 seconds
 Start is after end of Ajent vs Jihad Man 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Fridge Force drones attack"	"EV281"	"Fridge Force drones attack"		196		#9FA8DA		False	2370-12-25 05:15:56			2370-12-25 05:24:00	"8 minutes, 4 seconds"		""	""	""	"End equals start of Birth of the Dawkins -18 minutes
+"Event"	"Fridge Force drones attack"	"EV281"	"Fridge Force drones attack"		197		#9FA8DA		False	2370-12-25 05:15:56			2370-12-25 05:24:00	"8 minutes, 4 seconds"		""	""	""	"End equals start of Birth of the Dawkins -18 minutes
 End equals start of Elvi play the Sublime Point ga -60 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Elvi play the Sublime Point gates open"	"EV294"	"Elvi play the Sublime Point ga"		197		#9FA8DA		False	2370-12-25 05:25			2370-12-25 05:28	"3 minutes"		""	""	""	"End equals start of MoSES drones  inflitrate Subli 0 seconds
+"Event"	"Elvi play the Sublime Point gates open"	"EV294"	"Elvi play the Sublime Point ga"		198		#9FA8DA		False	2370-12-25 05:25			2370-12-25 05:28	"3 minutes"		""	""	""	"End equals start of MoSES drones  inflitrate Subli 0 seconds
 Start equals end of Fridge Force drones attack 60 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"MoSES drones  inflitrate Sublime Point"	"EV295"	"MoSES drones  inflitrate Subli"		198		#9FA8DA		False	2370-12-25 05:28			2370-12-25 05:42	"14 minutes"		""	""	""	"Start equals end of Elvi play the Sublime Point ga 0 seconds
+"Event"	"MoSES drones  inflitrate Sublime Point"	"EV295"	"MoSES drones  inflitrate Subli"		199		#9FA8DA		False	2370-12-25 05:28			2370-12-25 05:42	"14 minutes"		""	""	""	"Start equals end of Elvi play the Sublime Point ga 0 seconds
 End equals start of Birth of the Dawkins 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Chanta vs Alexander"	"EV209"	"Chanta vs Alexander"		199		#9FA8DA		False	2370-12-25 05:37:00			2370-12-25 05:42:00	"5 minutes"		""	""	""	"End equals start of Birth of the Dawkins 0 seconds
+"Event"	"Chanta vs Alexander"	"EV209"	"Chanta vs Alexander"		200		#9FA8DA		False	2370-12-25 05:37:00			2370-12-25 05:42:00	"5 minutes"		""	""	""	"End equals start of Birth of the Dawkins 0 seconds
 Start is after end of Christmas Special Candid Crimi 0 seconds
 Start is after end of Halo vs Hayley & Kathy 21 minutes
 End equals end of Gerry vs Chanta and the Jones  0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"The Johnny vs Chip"	"EV199"	"The Johnny vs Chip"		200		#9FA8DA		False	2370-12-25 05:37:58			2370-12-25 05:42:00	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Johnny escalates the testing 0 seconds
+"Event"	"The Johnny vs Chip"	"EV199"	"The Johnny vs Chip"		201		#9FA8DA		False	2370-12-25 05:37:58			2370-12-25 05:42:00	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Johnny escalates the testing 0 seconds
 End equals start of Birth of the Dawkins 0 seconds"	""		"Chip Stockwell
 John Stoat
 Sarah Jacobson
@@ -1424,8 +1426,8 @@ Sarah Jacobson
 Chilo Damagetus
 Kleoboulos Windus
 Solo Athena"	""	""	""	""	""	""	""	""		
-"Event"	"Sarah confronts Eloise"	"EV200"	"Sarah confronts Eloise"		201		#9FA8DA		False	2370-12-25 05:42:00			2370-12-25 05:42:00	"0 seconds"		""	""	""	"End equals start of Birth of the Dawkins 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Birth of the Dawkins"	"EV122"	"Birth of the Dawkins"		202		"Orange"		False	2370-12-25 05:42			2370-12-25 05:42:01	"1 second"		""	""	""	"Start equals end of Sarah confronts Eloise 0 seconds
+"Event"	"Sarah confronts Eloise"	"EV200"	"Sarah confronts Eloise"		202		#9FA8DA		False	2370-12-25 05:42:00			2370-12-25 05:42:00	"0 seconds"		""	""	""	"End equals start of Birth of the Dawkins 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
+"Event"	"Birth of the Dawkins"	"EV122"	"Birth of the Dawkins"		203		"Orange"		False	2370-12-25 05:42			2370-12-25 05:42:01	"1 second"		""	""	""	"Start equals end of Sarah confronts Eloise 0 seconds
 Start equals end of Chanta vs Alexander 0 seconds
 Start is after end of The Sages impregnate Sarah -243 days
 Start is after end of The Gibson correlation 36 hours
