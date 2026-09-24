@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-09-23 13:45:39 +1000" ModID="09BAE355-5C09-4864-BEC6-2B7E0629F041">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-09-24 18:39:05 +1000" ModID="9E775E7E-F8C6-4D73-A239-FA36289A96C6">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -1349,7 +1349,7 @@
                                         <TextSelection>12004,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="D62E6768-785D-4960-AEB3-9163C5C88F75" Type="Text" Created="2022-07-02 15:37:48 +1000" Modified="2026-09-19 10:04:41 +1000">
+                                <BinderItem UUID="D62E6768-785D-4960-AEB3-9163C5C88F75" Type="Text" Created="2022-07-02 15:37:48 +1000" Modified="2026-09-23 17:24:47 +1000">
                                     <Title>Getting kinetic</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -1358,7 +1358,7 @@
                                         <NotesTextSelection>970,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>5547,43</TextSelection>
+                                        <TextSelection>5589,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1780,7 +1780,7 @@
                                         <NotesTextSelection>42,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>7390,9</TextSelection>
+                                        <TextSelection>7390,54</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3323,7 +3323,7 @@
                                         <NotesTextSelection>980,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>13857,0</TextSelection>
+                                        <TextSelection>15781,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3362,8 +3362,8 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="787511D1-4F0F-4F86-862D-E7C1C960B0B3" Type="Folder" Created="2026-08-10 16:55:41 +1000" Modified="2026-08-10 16:55:41 +1000">
-                            <Title>Missing Socks</Title>
+                        <BinderItem UUID="787511D1-4F0F-4F86-862D-E7C1C960B0B3" Type="Folder" Created="2026-08-10 16:55:41 +1000" Modified="2026-09-23 13:53:16 +1000">
+                            <Title>Moe Bogan Experience</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                             </MetaData>
@@ -3371,26 +3371,26 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="F47939E1-7305-44D5-827C-36536AD35CB4" Type="Text" Created="2025-05-03 16:31:53 +1000" Modified="2026-09-22 18:10:11 +1000">
+                                <BinderItem UUID="F47939E1-7305-44D5-827C-36536AD35CB4" Type="Text" Created="2025-05-03 16:31:53 +1000" Modified="2026-09-24 18:38:57 +1000">
                                     <Title>Testing the elliptical-rail apparatus</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <StatusID>33</StatusID>
+                                        <StatusID>2</StatusID>
                                         <NotesTextSelection>259,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>266,0</TextSelection>
+                                        <TextSelection>11300,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="B4ACDE93-CB20-433A-8736-585CEEF3231D" Type="Text" Created="2025-05-03 16:31:53 +1000" Modified="2026-09-20 18:27:41 +1000">
-                                    <Title>The Moe Bogan Experince influences the Jones clones</Title>
+                                <BinderItem UUID="B4ACDE93-CB20-433A-8736-585CEEF3231D" Type="Text" Created="2025-05-03 16:31:53 +1000" Modified="2026-09-24 18:37:59 +1000">
+                                    <Title>The Moe Bogan Experience influences the Jones clones</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <StatusID>33</StatusID>
+                                        <StatusID>2</StatusID>
                                         <NotesTextSelection>34,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>7107,0</TextSelection>
+                                        <TextSelection>4024,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="47AD3FE9-6325-41A4-8910-E1A99B2AD0E5" Type="Text" Created="2026-09-12 19:14:34 +1000" Modified="2026-09-12 19:14:44 +1000">
@@ -3402,7 +3402,18 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="DC76011D-058E-4CBB-B8C0-E5A665C587F5" Type="Text" Created="2025-06-21 09:17:54 +1000" Modified="2026-09-19 10:04:41 +1000">
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="9723625D-0091-423C-8412-459008FC9D4B" Type="Folder" Created="2026-08-10 16:55:41 +1000" Modified="2026-09-23 13:52:07 +1000">
+                            <Title>Missing Socks</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="9FA4A8DA-7A89-4702-B789-AABE9352D8E4" Type="Text" Created="2025-06-21 09:17:54 +1000" Modified="2026-09-23 17:25:40 +1000">
                                     <Title>Missing Socks</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3410,20 +3421,20 @@
                                         <NotesTextSelection>1351,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1428,0</TextSelection>
+                                        <TextSelection>3406,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="10E44F36-DB9C-4081-B3EE-53CBEF3C639B" Type="Text" Created="2025-06-21 10:32:16 +1000" Modified="2026-09-17 14:58:28 +1000">
+                                <BinderItem UUID="698188F2-1B91-4418-99F7-5B030D4CE6C1" Type="Text" Created="2025-06-21 10:32:16 +1000" Modified="2026-09-17 14:58:28 +1000">
                                     <Title>The Interdimensional Institute for Missing Hosiery Research: A Brief and Incomplete History</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
                                         <StatusID>33</StatusID>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1172,12</TextSelection>
+                                        <TextSelection>1658,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="29EF664C-C007-4ECB-A376-07B7EAC92CDB" Type="Text" Created="2026-09-13 09:58:53 +1000" Modified="2026-09-13 11:41:04 +1000">
+                                <BinderItem UUID="8347E9A8-6828-43D2-A1A1-28428ADB649C" Type="Text" Created="2026-09-13 09:58:53 +1000" Modified="2026-09-13 11:41:04 +1000">
                                     <Title>Local quake + Gibson Desert quake reports</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -3432,7 +3443,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="F67A1232-C823-4E67-BBD2-0E74DCE4BF91" Type="Text" Created="2025-05-03 17:12:57 +1000" Modified="2026-09-19 10:04:41 +1000">
+                                <BinderItem UUID="3626016F-DC71-486D-BB6C-75BD8830CE7F" Type="Text" Created="2025-05-03 17:12:57 +1000" Modified="2026-09-19 10:04:41 +1000">
                                     <Title>The Gibson correlation</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3684,7 +3695,7 @@
                                         <TextSelection>1483,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="D4EE2431-9475-44DD-967E-D60B1D76A44F" Type="Text" Created="2025-05-03 17:24:54 +1000" Modified="2026-09-19 10:04:41 +1000">
+                                <BinderItem UUID="D4EE2431-9475-44DD-967E-D60B1D76A44F" Type="Text" Created="2025-05-03 17:24:54 +1000" Modified="2026-09-23 17:26:10 +1000">
                                     <Title>Chilo gets Chip out of the control room</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3692,7 +3703,7 @@
                                         <NotesTextSelection>2237,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>766,0</TextSelection>
+                                        <TextSelection>2804,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -5272,15 +5283,87 @@
                         <TextSelection>0,41</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="B64E5E5B-AD8E-4C85-BC53-F86BA25C1DB2" Type="Text" Created="2025-05-03 16:31:53 +1000" Modified="2026-09-22 18:10:11 +1000">
+                    <Title>Testing the elliptical-rail apparatus</Title>
+                    <MetaData>
+                        <LabelID>4</LabelID>
+                        <StatusID>33</StatusID>
+                        <NotesTextSelection>259,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>266,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B8B4E0C3-E0DF-485F-BDBF-FAE6652805D9" Type="Text" Created="2025-05-03 16:31:53 +1000" Modified="2026-09-20 18:27:41 +1000">
+                    <Title>The Moe Bogan Experince influences the Jones clones</Title>
+                    <MetaData>
+                        <LabelID>4</LabelID>
+                        <StatusID>33</StatusID>
+                        <NotesTextSelection>34,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>7107,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="9ACF22A0-53E9-414D-BD27-99912B209D9A" Type="Text" Created="2026-09-12 19:14:34 +1000" Modified="2026-09-12 19:14:44 +1000">
+                    <Title>Five disks on the rail</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="DC76011D-058E-4CBB-B8C0-E5A665C587F5" Type="Text" Created="2025-06-21 09:17:54 +1000" Modified="2026-09-19 10:04:41 +1000">
+                    <Title>Missing Socks</Title>
+                    <MetaData>
+                        <LabelID>4</LabelID>
+                        <StatusID>33</StatusID>
+                        <NotesTextSelection>1351,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1428,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="10E44F36-DB9C-4081-B3EE-53CBEF3C639B" Type="Text" Created="2025-06-21 10:32:16 +1000" Modified="2026-09-17 14:58:28 +1000">
+                    <Title>The Interdimensional Institute for Missing Hosiery Research: A Brief and Incomplete History</Title>
+                    <MetaData>
+                        <LabelID>4</LabelID>
+                        <StatusID>33</StatusID>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1658,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="29EF664C-C007-4ECB-A376-07B7EAC92CDB" Type="Text" Created="2026-09-13 09:58:53 +1000" Modified="2026-09-13 11:41:04 +1000">
+                    <Title>Local quake + Gibson Desert quake reports</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F67A1232-C823-4E67-BBD2-0E74DCE4BF91" Type="Text" Created="2025-05-03 17:12:57 +1000" Modified="2026-09-19 10:04:41 +1000">
+                    <Title>The Gibson correlation</Title>
+                    <MetaData>
+                        <LabelID>4</LabelID>
+                        <StatusID>33</StatusID>
+                        <NotesTextSelection>220,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
     <Collections>
-        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.190666 0.172706 0.216531">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No" IgnoreDiacritics="No">Planck</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No" IgnoreDiacritics="No">apophen</SearchSettings>
         </Collection>
-        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.091141 0.091141 0.091141">
             <Title>Binder</Title>
         </Collection>
     </Collections>
@@ -5544,14 +5627,14 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-09-24 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="275" Characters="1572" Date="2026-09-23 09:14:28 +1000"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-09-25 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2026-09-24 09:10:10 +1000"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-09-23 00:00:00 +1000">
-        <DraftWordCount>161</DraftWordCount>
-        <DraftCharCount>718</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2026-09-24 00:00:00 +1000">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>-2902</OtherWordCount>
+        <OtherCharCount>-22652</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="D1D0F461-F88C-43A0-9715-34D7D574472E" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

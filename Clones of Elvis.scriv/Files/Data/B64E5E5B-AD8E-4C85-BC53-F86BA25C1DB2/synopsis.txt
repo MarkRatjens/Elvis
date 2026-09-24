@@ -1,0 +1,1 @@
+Late Night Experiments: the new elliptical rail is operational with the original two discs only. Johnny can test the genuinely new features: articulated harnesses, discs spinning coin-toss-style, harness positions moving/changing around the ellipse, phase compensation while geometry changes. Importantly, nothing catastrophic happens.
