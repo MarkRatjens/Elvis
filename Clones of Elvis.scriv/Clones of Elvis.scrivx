@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-09-24 18:39:05 +1000" ModID="9E775E7E-F8C6-4D73-A239-FA36289A96C6">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-09-25 13:38:42 +1000" ModID="2F630437-5983-4FB1-B149-D472D5F1593F">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -3382,7 +3382,7 @@
                                         <TextSelection>11300,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="B4ACDE93-CB20-433A-8736-585CEEF3231D" Type="Text" Created="2025-05-03 16:31:53 +1000" Modified="2026-09-24 18:37:59 +1000">
+                                <BinderItem UUID="B4ACDE93-CB20-433A-8736-585CEEF3231D" Type="Text" Created="2025-05-03 16:31:53 +1000" Modified="2026-09-25 13:26:11 +1000">
                                     <Title>The Moe Bogan Experience influences the Jones clones</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3390,16 +3390,16 @@
                                         <NotesTextSelection>34,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>4024,0</TextSelection>
+                                        <TextSelection>5364,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="47AD3FE9-6325-41A4-8910-E1A99B2AD0E5" Type="Text" Created="2026-09-12 19:14:34 +1000" Modified="2026-09-12 19:14:44 +1000">
+                                <BinderItem UUID="47AD3FE9-6325-41A4-8910-E1A99B2AD0E5" Type="Text" Created="2026-09-12 19:14:34 +1000" Modified="2026-09-25 13:38:42 +1000">
                                     <Title>Five disks on the rail</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>10837,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3424,14 +3424,15 @@
                                         <TextSelection>3406,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="698188F2-1B91-4418-99F7-5B030D4CE6C1" Type="Text" Created="2025-06-21 10:32:16 +1000" Modified="2026-09-17 14:58:28 +1000">
+                                <BinderItem UUID="698188F2-1B91-4418-99F7-5B030D4CE6C1" Type="Text" Created="2025-06-21 10:32:16 +1000" Modified="2026-09-24 19:06:38 +1000">
                                     <Title>The Interdimensional Institute for Missing Hosiery Research: A Brief and Incomplete History</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
                                         <StatusID>33</StatusID>
+                                        <NotesTextSelection>21,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1658,0</TextSelection>
+                                        <TextSelection>1296,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="8347E9A8-6828-43D2-A1A1-28428ADB649C" Type="Text" Created="2026-09-13 09:58:53 +1000" Modified="2026-09-13 11:41:04 +1000">
@@ -5359,11 +5360,11 @@
         </BinderItem>
     </Binder>
     <Collections>
-        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.190666 0.172706 0.216531">
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No" IgnoreDiacritics="No">apophen</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No" IgnoreDiacritics="No">Monte</SearchSettings>
         </Collection>
-        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.091141 0.091141 0.091141">
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
             <Title>Binder</Title>
         </Collection>
     </Collections>
@@ -5627,14 +5628,14 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-09-25 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-09-24 09:10:10 +1000"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-09-26 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="1857" Characters="10849" Date="2026-09-25 08:46:51 +1000"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-09-24 00:00:00 +1000">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>-2902</OtherWordCount>
-        <OtherCharCount>-22652</OtherCharCount>
+    <RecentWritingHistory Date="2026-09-25 00:00:00 +1000">
+        <DraftWordCount>1148</DraftWordCount>
+        <DraftCharCount>6203</DraftCharCount>
+        <OtherWordCount>27</OtherWordCount>
+        <OtherCharCount>144</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="D1D0F461-F88C-43A0-9715-34D7D574472E" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
