@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-09-25 13:38:42 +1000" ModID="2F630437-5983-4FB1-B149-D472D5F1593F">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-09-26 12:13:28 +1000" ModID="A512A9E5-088E-43DB-9AE4-A598C0350FD9">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -3379,7 +3379,7 @@
                                         <NotesTextSelection>259,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>11300,0</TextSelection>
+                                        <TextSelection>4975,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="B4ACDE93-CB20-433A-8736-585CEEF3231D" Type="Text" Created="2025-05-03 16:31:53 +1000" Modified="2026-09-25 13:26:11 +1000">
@@ -3393,13 +3393,14 @@
                                         <TextSelection>5364,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="47AD3FE9-6325-41A4-8910-E1A99B2AD0E5" Type="Text" Created="2026-09-12 19:14:34 +1000" Modified="2026-09-25 13:38:42 +1000">
+                                <BinderItem UUID="47AD3FE9-6325-41A4-8910-E1A99B2AD0E5" Type="Text" Created="2026-09-12 19:14:34 +1000" Modified="2026-09-25 14:51:45 +1000">
                                     <Title>Five disks on the rail</Title>
                                     <MetaData>
+                                        <LabelID>4</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>10837,0</TextSelection>
+                                        <TextSelection>1490,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3413,7 +3414,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="9FA4A8DA-7A89-4702-B789-AABE9352D8E4" Type="Text" Created="2025-06-21 09:17:54 +1000" Modified="2026-09-23 17:25:40 +1000">
+                                <BinderItem UUID="9FA4A8DA-7A89-4702-B789-AABE9352D8E4" Type="Text" Created="2025-06-21 09:17:54 +1000" Modified="2026-09-26 11:17:12 +1000">
                                     <Title>Missing Socks</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3421,7 +3422,7 @@
                                         <NotesTextSelection>1351,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>3406,0</TextSelection>
+                                        <TextSelection>7629,45</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="698188F2-1B91-4418-99F7-5B030D4CE6C1" Type="Text" Created="2025-06-21 10:32:16 +1000" Modified="2026-09-24 19:06:38 +1000">
@@ -3432,7 +3433,7 @@
                                         <NotesTextSelection>21,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1296,0</TextSelection>
+                                        <TextSelection>2949,14</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="8347E9A8-6828-43D2-A1A1-28428ADB649C" Type="Text" Created="2026-09-13 09:58:53 +1000" Modified="2026-09-13 11:41:04 +1000">
@@ -3467,7 +3468,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="8D5B2E72-0CC1-411E-895A-CBD55D80708A" Type="Text" Created="2025-05-03 17:15:30 +1000" Modified="2026-09-17 14:59:17 +1000">
+                                <BinderItem UUID="8D5B2E72-0CC1-411E-895A-CBD55D80708A" Type="Text" Created="2025-05-03 17:15:30 +1000" Modified="2026-09-26 12:01:37 +1000">
                                     <Title>Eloise argues for another test</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3866,6 +3867,15 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
+                <BinderItem UUID="48CB24D1-B50B-4D72-993B-E6D7DF22331F" Type="Text" Created="2026-09-26 12:02:53 +1000" Modified="2026-09-26 12:13:28 +1000">
+                    <Title>Missing socks options</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem UUID="910CD68B-F9BF-425B-858F-99747BCEE983" Type="Text" Created="2026-09-12 13:08:29 +1000" Modified="2026-09-20 18:08:04 +1000">
                     <Title>Development Kit</Title>
                     <MetaData>
@@ -5628,14 +5638,14 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-09-26 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="1857" Characters="10849" Date="2026-09-25 08:46:51 +1000"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-09-27 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2026-09-26 10:13:53 +1000"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-09-25 00:00:00 +1000">
-        <DraftWordCount>1148</DraftWordCount>
-        <DraftCharCount>6203</DraftCharCount>
-        <OtherWordCount>27</OtherWordCount>
-        <OtherCharCount>144</OtherCharCount>
+    <RecentWritingHistory Date="2026-09-26 00:00:00 +1000">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>-359</OtherWordCount>
+        <OtherCharCount>-2768</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="D1D0F461-F88C-43A0-9715-34D7D574472E" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
