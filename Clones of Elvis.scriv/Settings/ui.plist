@@ -810,6 +810,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>2AFE640F-32B1-41B6-BBA6-983ADFE8565B</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>2B2D5DA4-5CDA-4445-8985-576563A24D80</key>
 		<dict>
 			<key>Row</key>
@@ -886,6 +891,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>35F08C7D-0E47-4C17-A7FD-DC50FCCE54B4</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>3626016F-DC71-486D-BB6C-75BD8830CE7F</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -2512,6 +2522,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>EB76119A-FCF9-475D-8C27-6F0F4A1DC08F</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>EBDE9D08-BC50-46D4-9A21-58261E2813B7</key>
 		<dict>
 			<key>Row</key>
@@ -2709,6 +2724,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>FCAE97EF-9799-490C-BC0A-A541964529ED</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>FDAA7E14-8B0C-4003-B0B2-C642552F296B</key>
 		<dict>
 			<key>Row</key>
@@ -2900,7 +2920,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 2597.333333333333}, {524.66666666666663, 532.66666666666697}}</string>
+	<string>{{0, -21.333333333333332}, {291.33333333333331, 532.66666666666663}}</string>
 	<key>mainDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -3013,7 +3033,7 @@
 		<string>{{0, 400.5}, {553, 399.5}}</string>
 	</array>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{-1, 0}, {621, 290}}</string>
+	<string>{{0, 0}, {533.33333333333326, 532.66666666666663}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
 	<string>{4263, 0}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
