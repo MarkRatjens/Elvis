@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-09-27 15:11:22 +1000" ModID="B2B93D7E-CF9E-4568-9DE8-CC83228EDBEC">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-09-28 15:15:52 +1000" ModID="9621F348-136A-4877-B30D-B713A50AC255">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -1652,7 +1652,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="A6E60E88-12B8-4F5D-8B88-45C16B53D60A" Type="Text" Created="2023-01-21 13:18:06 +1100" Modified="2026-08-06 10:25:47 +1000">
+                                <BinderItem UUID="A6E60E88-12B8-4F5D-8B88-45C16B53D60A" Type="Text" Created="2023-01-21 13:18:06 +1100" Modified="2026-09-28 11:35:03 +1000">
                                     <Title>Eloise takes Sarah to Sublime Point</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -1660,7 +1660,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>10059,0</TextSelection>
+                                        <TextSelection>6348,2720</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="BCBBDB95-AF22-40B1-AEA4-4C7300A80B09" Type="Text" Created="2023-01-21 13:18:06 +1100" Modified="2026-08-06 10:25:47 +1000">
@@ -3339,14 +3339,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="A9D359E1-AFDA-416D-BA92-767333D85E88" Type="Text" Created="2025-06-15 12:55:38 +1000" Modified="2026-09-22 11:07:36 +1000">
+                                <BinderItem UUID="A9D359E1-AFDA-416D-BA92-767333D85E88" Type="Text" Created="2025-06-15 12:55:38 +1000" Modified="2026-09-28 11:24:54 +1000">
                                     <Title>Johnny takes Chanta to Sarah</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
                                         <StatusID>2</StatusID>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>5028,0</TextSelection>
+                                        <TextSelection>8757,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="9D996A4A-E690-423F-8417-25FD1158CC9A" Type="Text" Created="2026-09-18 15:00:37 +1000" Modified="2026-09-22 11:11:58 +1000">
@@ -3396,8 +3396,8 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="9723625D-0091-423C-8412-459008FC9D4B" Type="Folder" Created="2026-08-10 16:55:41 +1000" Modified="2026-09-26 14:43:54 +1000">
-                            <Title>Missing socks</Title>
+                        <BinderItem UUID="9723625D-0091-423C-8412-459008FC9D4B" Type="Folder" Created="2026-08-10 16:55:41 +1000" Modified="2026-09-28 15:06:13 +1000">
+                            <Title>Laundry, missed laundry</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <NotesTextSelection>1025,0</NotesTextSelection>
@@ -3472,9 +3472,10 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="2AFE640F-32B1-41B6-BBA6-983ADFE8565B" Type="Folder" Created="2026-09-26 14:43:10 +1000" Modified="2026-09-26 14:43:41 +1000">
-                            <Title>Sock fallout</Title>
+                        <BinderItem UUID="2AFE640F-32B1-41B6-BBA6-983ADFE8565B" Type="Folder" Created="2026-09-26 14:43:10 +1000" Modified="2026-09-28 15:04:25 +1000">
+                            <Title>Socks are all fluff</Title>
                             <MetaData>
+                                <LabelID>2</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
@@ -3489,21 +3490,21 @@
                                         <NotesTextSelection>220,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>4,145</TextSelection>
+                                        <TextSelection>1243,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="B1C40985-D60F-4259-8A1D-7764A4552374" Type="Text" Created="2025-05-03 17:15:30 +1000" Modified="2026-09-27 10:26:14 +1000">
-                                    <Title>Eloise makes the sock inference</Title>
+                                <BinderItem UUID="B1C40985-D60F-4259-8A1D-7764A4552374" Type="Text" Created="2025-05-03 17:15:30 +1000" Modified="2026-09-28 15:15:51 +1000">
+                                    <Title>Sarah tries to get Johnny fired</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <StatusID>33</StatusID>
-                                        <NotesTextSelection>17,0</NotesTextSelection>
+                                        <StatusID>2</StatusID>
+                                        <NotesTextSelection>210,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>8700,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="698188F2-1B91-4418-99F7-5B030D4CE6C1" Type="Text" Created="2025-06-21 10:32:16 +1000" Modified="2026-09-27 10:04:53 +1000">
+                                <BinderItem UUID="698188F2-1B91-4418-99F7-5B030D4CE6C1" Type="Text" Created="2025-06-21 10:32:16 +1000" Modified="2026-09-27 17:36:56 +1000">
                                     <Title>The Interdimensional Institute for Missing Hosiery Research: A Brief and Incomplete History</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3511,10 +3512,10 @@
                                         <NotesTextSelection>21,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1750,0</TextSelection>
+                                        <TextSelection>2486,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="8D5B2E72-0CC1-411E-895A-CBD55D80708A" Type="Text" Created="2025-05-03 17:15:30 +1000" Modified="2026-09-26 12:01:37 +1000">
+                                <BinderItem UUID="8D5B2E72-0CC1-411E-895A-CBD55D80708A" Type="Text" Created="2025-05-03 17:15:30 +1000" Modified="2026-09-27 18:14:55 +1000">
                                     <Title>Eloise argues for another test</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3522,7 +3523,7 @@
                                         <NotesTextSelection>17,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>4884,0</TextSelection>
+                                        <TextSelection>232,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3545,7 +3546,7 @@
                                         <NotesTextSelection>574,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>23,0</TextSelection>
+                                        <TextSelection>700,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="35B1F8E1-1403-47ED-B11E-108A2A59E969" Type="Text" Created="2026-09-18 11:19:11 +1000" Modified="2026-09-18 11:20:36 +1000">
@@ -4364,7 +4365,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1522,0</TextSelection>
+                                        <TextSelection>1035,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -5416,7 +5417,7 @@
     <Collections>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No" IgnoreDiacritics="No">king parrot</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No" IgnoreDiacritics="No">scientists</SearchSettings>
         </Collection>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
             <Title>Binder</Title>
@@ -5682,14 +5683,14 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-09-28 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-09-27 10:03:46 +1000"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-09-29 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="1" Characters="6" Date="2026-09-28 10:27:37 +1000"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-09-27 00:00:00 +1000">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>-484</OtherWordCount>
-        <OtherCharCount>-4614</OtherCharCount>
+    <RecentWritingHistory Date="2026-09-28 00:00:00 +1000">
+        <DraftWordCount>1</DraftWordCount>
+        <DraftCharCount>5</DraftCharCount>
+        <OtherWordCount>319</OtherWordCount>
+        <OtherCharCount>1959</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="2A3CF4E0-BBF6-41A4-998A-67C3C1884687" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

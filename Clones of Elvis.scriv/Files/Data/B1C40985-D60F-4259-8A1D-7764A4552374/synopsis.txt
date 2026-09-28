@@ -1,5 +1,42 @@
-Eloise jump in a cart to make the tunnel journey back to sublime point and Eloise’s office.
+I’d do this next, in order:
 
-The scientists did all the things the scientists do. Give the message, the had to eliminate the possibly it’s origin was terrestrial. It wasn’t. Shakti Intelligence checked that it wasn’t some kind of espionage. They quickly ruled out Russia, Canada, Pacifica, and Andorra. The ruled out the Screen Actors Guild and the International College of Quantity Surveyors and Hip Hop Gangstas. Cirque du Soleil denied responsibility. They even ruled pout that it came from Gliese 581d.
+1. **Lock the scene function and endpoint**
+   - Sarah goes to Eloise’s House to get Johnny fired.
+   - She leaves having discovered she is under effective house arrest.
+   - That is the scene. Everything else serves that movement.
 
-The was no were in the known universe that the message could have come from, even if it had been ejected from a black hole in The Big Sock, as some cosmologists hypothesised.
+2. **Define the conversational turns before drafting**
+   - Sarah asserts access/status by coming to Eloise directly.
+   - Eloise makes the sock inference.
+   - Sarah presses Johnny’s dismissal.
+   - Eloise refuses.
+   - Sarah probes the refusal and begins to see a larger motive.
+   - Sarah threatens resignation.
+   - Eloise reveals the apartment is gone.
+   - Sarah proposes Tony.
+   - Eloise laughs.
+   - Little Clinton/succession motive surfaces.
+   - Eloise makes clear Sarah is not leaving Sublime Point.
+
+3. **Decide the exact insertion point for the Institute diversion**
+   - Most likely immediately after Eloise’s sock inference.
+   - Before the conversation becomes coercive.
+   - Keep it out of the resignation/house-arrest section.
+
+4. **Decide how house arrest is imposed**
+   - Who tells Sarah?
+   - Does Eloise say it directly or euphemistically?
+   - When does Sarah realise Hayley and Kathy are being removed from her townhouse?
+   - This should probably be administratively calm, not melodramatic.
+
+5. **Seed Bala Chuglingham lightly**
+   - Only enough to make later alliance plausible.
+   - Don’t turn this scene into Bala’s scene.
+
+6. **Then draft the scene lean**
+   - Dialogue-led.
+   - Minimal explanation.
+   - Let the loss of agency reveal itself incrementally.
+   - Stop once Sarah understands the practical reality of her confinement.
+
+After that, I’d revisit **Eloise argues for another test**, because Sarah’s removal from that scene changes its participants and purpose.
