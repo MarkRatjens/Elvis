@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-09-28 15:15:52 +1000" ModID="9621F348-136A-4877-B30D-B713A50AC255">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-09-30 13:53:27 +1000" ModID="02833C70-5E7F-46ED-98CA-62450747E30C">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -2291,10 +2291,10 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>2,17933</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="2AA7FCB3-9DE0-4FF8-9D95-05225D06B3EF" Type="Text" Created="2025-05-10 13:06:49 +1000" Modified="2026-08-07 16:39:03 +1000">
+                                <BinderItem UUID="2AA7FCB3-9DE0-4FF8-9D95-05225D06B3EF" Type="Text" Created="2025-05-10 13:06:49 +1000" Modified="2026-09-29 12:01:16 +1000">
                                     <Title>Alexander gets reassigned</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -2302,10 +2302,10 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>10453,0</TextSelection>
+                                        <TextSelection>7776,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="03ED52CD-7333-43BE-8BA0-3C887585099A" Type="Text" Created="2025-05-10 13:37:55 +1000" Modified="2026-08-07 16:48:33 +1000">
+                                <BinderItem UUID="03ED52CD-7333-43BE-8BA0-3C887585099A" Type="Text" Created="2025-05-10 13:37:55 +1000" Modified="2026-09-29 12:19:19 +1000">
                                     <Title>The VorpalTech Contingency</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -2313,7 +2313,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1620,8</TextSelection>
+                                        <TextSelection>2514,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3383,7 +3383,7 @@
                                         <TextSelection>4975,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="B4ACDE93-CB20-433A-8736-585CEEF3231D" Type="Text" Created="2025-05-03 16:31:53 +1000" Modified="2026-09-25 13:26:11 +1000">
+                                <BinderItem UUID="B4ACDE93-CB20-433A-8736-585CEEF3231D" Type="Text" Created="2025-05-03 16:31:53 +1000" Modified="2026-09-29 09:24:22 +1000">
                                     <Title>The Moe Bogan Experience influences the Jones clones</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3391,7 +3391,7 @@
                                         <NotesTextSelection>34,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>5364,0</TextSelection>
+                                        <TextSelection>2950,11</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3413,7 +3413,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6705,0</TextSelection>
+                                        <TextSelection>378,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="9FA4A8DA-7A89-4702-B789-AABE9352D8E4" Type="Text" Created="2025-06-21 09:17:54 +1000" Modified="2026-09-26 15:13:51 +1000">
@@ -3427,14 +3427,14 @@
                                         <TextSelection>1660,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="FCAE97EF-9799-490C-BC0A-A541964529ED" Type="Text" Created="2025-05-03 17:15:30 +1000" Modified="2026-09-26 15:35:01 +1000">
+                                <BinderItem UUID="FCAE97EF-9799-490C-BC0A-A541964529ED" Type="Text" Created="2025-05-03 17:15:30 +1000" Modified="2026-09-29 09:27:53 +1000">
                                     <Title>Message Check</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
                                         <StatusID>33</StatusID>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>943,0</TextSelection>
+                                        <TextSelection>681,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3449,25 +3449,26 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="B763D939-5F19-42FB-ACE9-7EC715E6F910" Type="Text" Created="2025-05-10 11:33:11 +1000" Modified="2026-09-17 14:59:25 +1000">
+                                <BinderItem UUID="81D24044-36CF-40A0-952B-6C39913CA3E0" Type="Text" Created="2025-05-04 13:58:18 +1000" Modified="2026-09-30 11:48:22 +1000">
+                                    <Title>The Sages' night out</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <StatusID>2</StatusID>
+                                        <NotesTextSelection>7352,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>4833,66</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="B763D939-5F19-42FB-ACE9-7EC715E6F910" Type="Text" Created="2025-05-10 11:33:11 +1000" Modified="2026-09-30 13:53:27 +1000">
                                     <Title>Alexander surveils the Sages</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
                                         <StatusID>33</StatusID>
-                                        <NotesTextSelection>1588,0</NotesTextSelection>
+                                        <NotesTextSelection>5302,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>5354,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="81D24044-36CF-40A0-952B-6C39913CA3E0" Type="Text" Created="2025-05-04 13:58:18 +1000" Modified="2026-09-19 10:04:41 +1000">
-                                    <Title>Wrestlemania - The Sages' Night Out</Title>
-                                    <MetaData>
-                                        <LabelID>4</LabelID>
-                                        <StatusID>33</StatusID>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>523,5</TextSelection>
+                                        <TextSelection>1632,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3493,7 +3494,7 @@
                                         <TextSelection>1243,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="B1C40985-D60F-4259-8A1D-7764A4552374" Type="Text" Created="2025-05-03 17:15:30 +1000" Modified="2026-09-28 15:15:51 +1000">
+                                <BinderItem UUID="B1C40985-D60F-4259-8A1D-7764A4552374" Type="Text" Created="2025-05-03 17:15:30 +1000" Modified="2026-09-28 15:21:12 +1000">
                                     <Title>Sarah tries to get Johnny fired</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3501,7 +3502,7 @@
                                         <NotesTextSelection>210,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>8700,0</TextSelection>
+                                        <TextSelection>8905,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="698188F2-1B91-4418-99F7-5B030D4CE6C1" Type="Text" Created="2025-06-21 10:32:16 +1000" Modified="2026-09-27 17:36:56 +1000">
@@ -3515,15 +3516,15 @@
                                         <TextSelection>2486,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="8D5B2E72-0CC1-411E-895A-CBD55D80708A" Type="Text" Created="2025-05-03 17:15:30 +1000" Modified="2026-09-27 18:14:55 +1000">
+                                <BinderItem UUID="8D5B2E72-0CC1-411E-895A-CBD55D80708A" Type="Text" Created="2025-05-03 17:15:30 +1000" Modified="2026-09-28 16:01:16 +1000">
                                     <Title>Eloise argues for another test</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
                                         <StatusID>33</StatusID>
-                                        <NotesTextSelection>17,0</NotesTextSelection>
+                                        <NotesTextSelection>1628,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>232,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -5417,7 +5418,7 @@
     <Collections>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No" IgnoreDiacritics="No">scientists</SearchSettings>
+            <SearchSettings Operator="All" Type="All" CaseSensitive="No" IgnoreDiacritics="No">Alexander Johnny</SearchSettings>
         </Collection>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
             <Title>Binder</Title>
@@ -5683,14 +5684,14 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-09-29 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="1" Characters="6" Date="2026-09-28 10:27:37 +1000"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-10-01 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2026-09-30 09:50:27 +1000"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-09-28 00:00:00 +1000">
-        <DraftWordCount>1</DraftWordCount>
-        <DraftCharCount>5</DraftCharCount>
-        <OtherWordCount>319</OtherWordCount>
-        <OtherCharCount>1959</OtherCharCount>
+    <RecentWritingHistory Date="2026-09-30 00:00:00 +1000">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>9</OtherWordCount>
+        <OtherCharCount>-428</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="2A3CF4E0-BBF6-41A4-998A-67C3C1884687" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

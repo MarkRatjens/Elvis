@@ -24,7 +24,7 @@
 		</array>
 		<key>2655DDF6-4AB8-42CB-A433-1CD76FC351D2</key>
 		<array>
-			<string>4C7C7336-7451-4086-B837-A91234F07BCD</string>
+			<string>81D24044-36CF-40A0-952B-6C39913CA3E0</string>
 		</array>
 		<key>332095B9-1CE1-49DD-B826-E1E5A1FBFC9D</key>
 		<array>
@@ -362,8 +362,8 @@
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {331.5, 889}}</string>
-		<string>{{332.5, 0}, {1179.5, 889}}</string>
+		<string>{{0, 0}, {288, 889}}</string>
+		<string>{{289, 0}, {1223, 889}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -2764,7 +2764,7 @@
 	<true/>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
-		<integer>12</integer>
+		<integer>11</integer>
 	</array>
 	<key>collectionsHeight</key>
 	<real>100</real>
@@ -2847,8 +2847,8 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {792.5, 859}}</string>
-		<string>{{793.5, 0}, {386, 859}}</string>
+		<string>{{0, 0}, {836, 859}}</string>
+		<string>{{837, 0}, {386, 859}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>229.5</real>
@@ -2974,7 +2974,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>299.5</real>
+			<real>256</real>
 		</dict>
 	</dict>
 	<key>selectedCollectionTabIndex</key>
