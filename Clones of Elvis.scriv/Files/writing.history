@@ -1274,5 +1274,7 @@
     <Day dwc="0" dcc="0" dtwc="0" owc="553" occ="1037" dtcc="0">2026-09-27</Day>
     <Day dwc="1" dcc="5" dtwc="0" owc="558" occ="2340" dtcc="0">2026-09-28</Day>
     <Day dwc="0" dcc="-5" dtwc="0" owc="185" occ="911" dtcc="0">2026-09-29</Day>
-    <Day dwc="0" dcc="0" owc="9" occ="-428">2026-09-30</Day>
+    <Day dwc="-4" dcc="-18" dtwc="0" owc="865" occ="4947" dtcc="0">2026-09-30</Day>
+    <Day dwc="1828" dcc="11906" dtwc="1762" owc="1530" occ="9283" dtcc="11180">2026-10-01</Day>
+    <Day dwc="963" dcc="5250" owc="-1120" occ="-7103">2026-10-02</Day>
 </WritingHistory>

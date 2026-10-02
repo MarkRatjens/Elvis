@@ -772,9 +772,8 @@ Start is after end of Ajent infiltrates the digging  0 seconds
 Start is after end of Dunilton & Gerry review a vid  0 seconds
 Start is after start of The Inauguration of the High E 3 days, 6 hours
 End is before start of Occupy Bent Street 0 seconds"	""		""	""	""	""	"Gerry’s Rise"	"Gerry’s Rise"	""	""	""	""		
-"Event"	"Pastor Rex Humble converts the Memphis Mafia"	"EV258"	"Pastor Rex Humble converts the"		109		#9FA8DA		False	2370-08-25 12:42			2370-08-25 12:42	"0 seconds"		""	""	""	"Start is before start of The High Elvis kidnaps Chanta -2 weeks, -5 days"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"The Elvi parachuted into St Hedges"	"EV181"	"The Elvi parachuted into St He"		110		#9FA8DA		False	2370-09-05 17:18			2370-09-05 17:18	"0 seconds"		""	""	""	"End is before start of Holy Joint Venture -42 minutes"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Holy Joint Venture"	"EV109"	"Holy Joint Venture"		111		#ffffff		False	2370-09-05 18:00			2370-09-05 18:45	"45 minutes"		""	""	""	"Start is after end of The Inauguration of the High E 0 seconds
+"Event"	"The Elvi parachuted into St Hedges"	"EV181"	"The Elvi parachuted into St He"		109		#9FA8DA		False	2370-09-05 17:18			2370-09-05 17:18	"0 seconds"		""	""	""	"End is before start of Holy Joint Venture -42 minutes"	""		""	""	""	""	""	""	""	""	""	""		
+"Event"	"Holy Joint Venture"	"EV109"	"Holy Joint Venture"		110		#ffffff		False	2370-09-05 18:00			2370-09-05 18:45	"45 minutes"		""	""	""	"Start is after end of The Inauguration of the High E 0 seconds
 End is before start of Alexander gets reassigned -36 hours
 End is before start of Dunhilton & Gerry inspect the  -14 hours
 End equals start of HJV Reception -1 hours, -15 minutes
@@ -804,7 +803,7 @@ The Rise of the Elvi
 Alexander loves Sarah
 Holy Momma
 Nightclub Vampire"	"St Hedge’s Cathedral"	"St Hedge’s Cathedral"	""	""		
-"Event"	"HJV Reception"	"EV128"	"HJV Reception"		112		#9FA8DA		False	2370-09-05 20:00			2370-09-05 24:00	"4 hours"		""	""	""	"End equals start of Halo Assaults Sarah 0 seconds
+"Event"	"HJV Reception"	"EV128"	"HJV Reception"		111		#9FA8DA		False	2370-09-05 20:00			2370-09-05 24:00	"4 hours"		""	""	""	"End equals start of Halo Assaults Sarah 0 seconds
 Start equals end of Holy Joint Venture 1 hour, 15 minutes"	""		"Dr Kathy Logan
 Ignatius d’Molesto
 Alexander Shakti
@@ -832,7 +831,7 @@ The Rise of the Elvi
 Alexander loves Sarah
 Holy Momma
 Nightclub Vampire"	"Gravity Well Restaurant"	"Gravity Well Restaurant"	""	""		
-"Event"	"Halo Assaults Sarah"	"EV47"	"Halo Assaults Sarah"		113		#9FA8DA		False	2370-09-06 00:00:00			2370-09-06 00:15:00	"15 minutes"		""	""	""	"Start equals end of HJV Reception 0 seconds
+"Event"	"Halo Assaults Sarah"	"EV47"	"Halo Assaults Sarah"		112		#9FA8DA		False	2370-09-06 00:00:00			2370-09-06 00:15:00	"15 minutes"		""	""	""	"Start equals end of HJV Reception 0 seconds
 End is before start of Chanta goes back to his old ap -8 hours
 End is before start of Dunhilton & Hardman review the -8 hours"	""		"Dr Kathy Logan
 Alexander Shakti
@@ -859,7 +858,7 @@ Tony’s Inheritance
 Alexander loves Sarah
 Hayley’s Investigations
 Nightclub Vampire"	"Gravity Well Restaurant"	"Gravity Well Restaurant"	""	""		
-"Event"	"Dunhilton & Hardman review the SSS situation"	"EV35"	"Dunhilton & Hardman review the"		114		#9FA8DA		False	2370-09-06 08:15			2370-09-06 08:57	"42 minutes"		""	""	""	"End is before start of Dunhilton reconvenes the war c 0 seconds
+"Event"	"Dunhilton & Hardman review the SSS situation"	"EV35"	"Dunhilton & Hardman review the"		113		#9FA8DA		False	2370-09-06 08:15			2370-09-06 08:57	"42 minutes"		""	""	""	"End is before start of Dunhilton reconvenes the war c 0 seconds
 Start is after end of Gerry acquires the TMinusVirus 0 seconds
 Start is after end of Halo Assaults Sarah 8 hours"	""		"Gerald “Very” Hardman
 Director of Freedom
@@ -868,18 +867,18 @@ Director of Freedom
 Piotr Dunhilton"	""	""	"Dunhilton exerts Power
 The Rise of the Elvi"	"Dunhilton exerts Power
 The Rise of the Elvi"	""	""	""	""		
-"Event"	"Chanta goes back to his old apartment"	"EV249"	"Chanta goes back to his old ap"		115		#9FA8DA		False	2370-09-06 08:15			2370-09-06 08:57	"42 minutes"		""	""	""	"Start is after end of Halo Assaults Sarah 8 hours
+"Event"	"Chanta goes back to his old apartment"	"EV249"	"Chanta goes back to his old ap"		114		#9FA8DA		False	2370-09-06 08:15			2370-09-06 08:57	"42 minutes"		""	""	""	"Start is after end of Halo Assaults Sarah 8 hours
 End is before start of Tony watches Halo’s Vid 0 seconds
 End is before start of Chanta  finds Jamison's pentho -42 minutes"	""		"Tony Chantara"	"Tony Chantara"	""	""	""	""	""	""	""	""		
-"Event"	"Dunhilton & Gerry inspect the parachute site"	"EV250"	"Dunhilton & Gerry inspect the "		116		#9FA8DA		False	2370-09-06 08:45			2370-09-06 09:27	"42 minutes"		""	""	""	"Start is after end of Holy Joint Venture 14 hours
+"Event"	"Dunhilton & Gerry inspect the parachute site"	"EV250"	"Dunhilton & Gerry inspect the "		115		#9FA8DA		False	2370-09-06 08:45			2370-09-06 09:27	"42 minutes"		""	""	""	"Start is after end of Holy Joint Venture 14 hours
 End is before start of Dunhilton reconvenes the war c -42 minutes"	""		"Gerald “Very” Hardman
 Piotr Dunhilton"	"Gerald “Very” Hardman
 Piotr Dunhilton"	""	""	""	""	"St Hedge’s Cathedral"	"St Hedge’s Cathedral"	""	""		
-"Event"	"Tony watches Halo’s Vid"	"EV10"	"Tony watches Halo’s Vid"		117		#9FA8DA		False	2370-09-06 08:57			2370-09-06 09:01:02	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Chanta goes back to his old ap 0 seconds"	""		"Tony Chantara"	"Tony Chantara"	""	""	"Tony’s Inheritance"	"Tony’s Inheritance"	"American Sound Studios"	"American Sound Studios"	""	""		
-"Event"	"Chanta  finds Jamison's penthouse"	"EV148"	"Chanta  finds Jamison's pentho"		118		#9FA8DA		False	2370-09-06 09:39			2370-09-06 12:39	"3 hours"		""	""	""	"Start is after end of Chanta goes back to his old ap 42 minutes"	""		"Tony Chantara"	"Tony Chantara"	""	""	"Tony’s Inheritance
+"Event"	"Tony watches Halo’s Vid"	"EV10"	"Tony watches Halo’s Vid"		116		#9FA8DA		False	2370-09-06 08:57			2370-09-06 09:01:02	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Chanta goes back to his old ap 0 seconds"	""		"Tony Chantara"	"Tony Chantara"	""	""	"Tony’s Inheritance"	"Tony’s Inheritance"	"American Sound Studios"	"American Sound Studios"	""	""		
+"Event"	"Chanta  finds Jamison's penthouse"	"EV148"	"Chanta  finds Jamison's pentho"		117		#9FA8DA		False	2370-09-06 09:39			2370-09-06 12:39	"3 hours"		""	""	""	"Start is after end of Chanta goes back to his old ap 42 minutes"	""		"Tony Chantara"	"Tony Chantara"	""	""	"Tony’s Inheritance
 TPlus viral transmission"	"Tony’s Inheritance
 TPlus viral transmission"	"Starborne One"	"Starborne One"	""	""		
-"Event"	"Dunhilton reconvenes the war cabinet"	"EV104"	"Dunhilton reconvenes the war c"		119		"Pink"		False	2370-09-06 10:09			2370-09-06 10:51	"42 minutes"		""	""	""	"Start is after end of Dunhilton & Hardman review the 0 seconds
+"Event"	"Dunhilton reconvenes the war cabinet"	"EV104"	"Dunhilton reconvenes the war c"		118		"Pink"		False	2370-09-06 10:09			2370-09-06 10:51	"42 minutes"		""	""	""	"Start is after end of Dunhilton & Hardman review the 0 seconds
 Start is after end of The Inauguration of the High E 0 seconds
 Start is after end of Dunilton & Gerry review a vid  0 seconds
 Start is before start of Gerry proposes using gospel mu -5 days
@@ -902,15 +901,15 @@ Gerry’s Rise
 The Rise of the Elvi"	"Dunhilton exerts Power
 Gerry’s Rise
 The Rise of the Elvi"	""	""	""	""		
-"Event"	"Alexander gets reassigned"	"EV180"	"Alexander gets reassigned"		120		#9FA8DA		False	2370-09-07 06:45			2370-09-07 07:27	"42 minutes"		""	""	""	"End is before start of VorpalTech Contingency 0 seconds
+"Event"	"Alexander gets reassigned"	"EV180"	"Alexander gets reassigned"		119		#9FA8DA		False	2370-09-07 06:45			2370-09-07 07:27	"42 minutes"		""	""	""	"End is before start of VorpalTech Contingency 0 seconds
 Start is after end of Holy Joint Venture 36 hours
 Start is before start of Alexander returns secretly 0 seconds"	""		"Alexander Shakti
 Eloise Shakti"	"Alexander Shakti
 Eloise Shakti"	""	""	""	""	""	""	""	""		
-"Event"	"VorpalTech Contingency"	"EV178"	"VorpalTech Contingency"		121		#9FA8DA		False	2370-09-07 07:27			2370-09-07 07:31:02	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Alexander gets reassigned 0 seconds"	""		"Eloise Shakti
+"Event"	"VorpalTech Contingency"	"EV178"	"VorpalTech Contingency"		120		#9FA8DA		False	2370-09-07 07:27			2370-09-07 07:31:02	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Alexander gets reassigned 0 seconds"	""		"Eloise Shakti
 Heinrich"	"Eloise Shakti
 Heinrich"	""	""	""	""	""	""	""	""		
-"Event"	"The Chuglinghams Hold a BBQ"	"EV67"	"The Chuglinghams Hold a BBQ"		122		#ffffff		False	2370-09-13 12:00			2370-09-13 19:00	"7 hours"		""	""	""	"Start equals start of the Johnny gatecrashes the BBQ -2 hours
+"Event"	"The Chuglinghams Hold a BBQ"	"EV67"	"The Chuglinghams Hold a BBQ"		121		#ffffff		False	2370-09-13 12:00			2370-09-13 19:00	"7 hours"		""	""	""	"Start equals start of the Johnny gatecrashes the BBQ -2 hours
 Start is after end of Eloise hires Chip 0 seconds
 End is before start of Hayley & Kathy hook up 0 seconds
 Start is after start of Holy Joint Venture 7 days, 18 hours
@@ -942,15 +941,15 @@ Padmala Chuglingham
 Bala Chuglingham
 Tiki Chuglingham
 Shyamala Chuglingham"	""	""	""	""	""	""	""	""		
-"Event"	"the Johnny gatecrashes the BBQ with the late Chilo in tow"	"EV73"	"the Johnny gatecrashes the BBQ"		123		#9FA8DA		False	2370-09-13 14:00:00			2370-09-13 14:04:02	"4 minutes, 2 seconds"		""	""	""	"Start equals start of The Chuglinghams Hold a BBQ 2 hours
+"Event"	"the Johnny gatecrashes the BBQ with the late Chilo in tow"	"EV73"	"the Johnny gatecrashes the BBQ"		122		#9FA8DA		False	2370-09-13 14:00:00			2370-09-13 14:04:02	"4 minutes, 2 seconds"		""	""	""	"Start equals start of The Chuglinghams Hold a BBQ 2 hours
 End is before start of Johnny visits Sarah -1 days"	""		""	""	""	""	"Gyges Disc Research"	"Gyges Disc Research"	""	""	""	""		
-"Event"	"Hayley & Kathy hook up"	"EV251"	"Hayley & Kathy hook up"		124		#9FA8DA		False	2370-09-14 05:03			2370-09-14 05:45	"42 minutes"		""	""	""	"Start is after end of The Chuglinghams Hold a BBQ 0 seconds"	""		"Hayley Lanning
+"Event"	"Hayley & Kathy hook up"	"EV251"	"Hayley & Kathy hook up"		123		#9FA8DA		False	2370-09-14 05:03			2370-09-14 05:45	"42 minutes"		""	""	""	"Start is after end of The Chuglinghams Hold a BBQ 0 seconds"	""		"Hayley Lanning
 Dr Kathy Logan"	"Hayley Lanning
 Dr Kathy Logan"	""	""	""	""	""	""	""	""		
-"Event"	"Johnny visits Sarah"	"EV183"	"Johnny visits Sarah"		125		#9FA8DA		False	2370-09-15 01:07:02			2370-09-15 01:11:04	"4 minutes, 2 seconds"		""	""	""	"Start is after end of the Johnny gatecrashes the BBQ 1 day"	""		"John Stoat
+"Event"	"Johnny visits Sarah"	"EV183"	"Johnny visits Sarah"		124		#9FA8DA		False	2370-09-15 01:07:02			2370-09-15 01:11:04	"4 minutes, 2 seconds"		""	""	""	"Start is after end of the Johnny gatecrashes the BBQ 1 day"	""		"John Stoat
 Sarah Jacobson"	"John Stoat
 Sarah Jacobson"	""	""	""	""	""	""	""	""		
-"Event"	"Gerry proposes using gospel music against the Elvi"	"EV15"	"Gerry proposes using gospel mu"		126		"Pink"		False	2370-09-15 19:00			2370-09-15 19:42	"42 minutes"		""	""	""	"End is before start of Occupy Bent Street 0 seconds
+"Event"	"Gerry proposes using gospel music against the Elvi"	"EV15"	"Gerry proposes using gospel mu"		125		"Pink"		False	2370-09-15 19:00			2370-09-15 19:42	"42 minutes"		""	""	""	"End is before start of Occupy Bent Street 0 seconds
 Start is after start of Dunhilton reconvenes the war c 5 days
 End is before start of Melbourne Cup Day 0 seconds
 Start is after end of The Chuglinghams Hold a BBQ 2 days
@@ -967,24 +966,25 @@ Gerry’s Rise
 The Rise of the Elvi"	"Dunhilton exerts Power
 Gerry’s Rise
 The Rise of the Elvi"	""	""	""	""		
-"Event"	"Ajent sabotages Elvi juke boxes"	"EV184"	"Ajent sabotages Elvi juke boxe"		127		#9FA8DA		False	2370-09-20 03:00			2370-09-20 03:42	"42 minutes"		""	""	""	"Start is after end of Gerry proposes using gospel mu 4 days
+"Event"	"Ajent sabotages Elvi juke boxes"	"EV184"	"Ajent sabotages Elvi juke boxe"		126		#9FA8DA		False	2370-09-20 03:00			2370-09-20 03:42	"42 minutes"		""	""	""	"Start is after end of Gerry proposes using gospel mu 4 days
 Start is after start of The Chuglinghams Hold a BBQ 6 days, 15 hours
 Start is before start of Lonnie discovers the jukebox s -13 hours, -30 minutes"	""		"Special Agent Ajent Jones"	"Special Agent Ajent Jones"	""	""	""	""	""	""	""	""		
-"Event"	"Lonnie discovers the jukebox sabotage"	"EV189"	"Lonnie discovers the jukebox s"		128		#9FA8DA		False	2370-09-20 16:30			2370-09-20 16:30	"0 seconds"		""	""	""	"Start is before start of The High Elvis kidnaps Chanta 0 seconds
+"Event"	"Lonnie discovers the jukebox sabotage"	"EV189"	"Lonnie discovers the jukebox s"		127		#9FA8DA		False	2370-09-20 16:30			2370-09-20 16:30	"0 seconds"		""	""	""	"Start is before start of The High Elvis kidnaps Chanta 0 seconds
 Start is after start of Ajent sabotages Elvi juke boxe 13 hours, 30 minutes"	""		"Lonnie"	"Lonnie"	""	""	""	""	""	""	""	""		
-"Event"	"Tony invites Sarah to dinner"	"EV187"	"Tony invites Sarah to dinner"		129		#9FA8DA		False	2370-09-25 19:00			2370-09-25 21:00	"2 hours"		""	""	""	"End is before start of Chanta watches Harem Scarum -30 minutes
+"Event"	"Tony invites Sarah to dinner"	"EV187"	"Tony invites Sarah to dinner"		128		#9FA8DA		False	2370-09-25 19:00			2370-09-25 21:00	"2 hours"		""	""	""	"End is before start of Chanta watches Harem Scarum -30 minutes
 Start is after end of The Chuglinghams Hold a BBQ 12 days
 End is before start of Kathy Gives Sarah a Medical -3 days
 Start is before start of The High Elvis kidnaps Chanta -3 weeks
 End is before start of Johnny enlists Chanta to acqui 0 seconds"	""		"Sarah Jacobson
 Tony Chantara"	"Sarah Jacobson
 Tony Chantara"	""	""	""	""	"Starborne One"	"Starborne One"	""	""		
-"Event"	"Chanta watches Harem Scarum"	"EV239"	"Chanta watches Harem Scarum"		130		#9FA8DA		False	2370-09-25 21:30			2370-09-25 23:30	"2 hours"		""	""	""	"Start is after end of Tony invites Sarah to dinner 30 minutes
+"Event"	"Chanta watches Harem Scarum"	"EV239"	"Chanta watches Harem Scarum"		129		#9FA8DA		False	2370-09-25 21:30			2370-09-25 23:30	"2 hours"		""	""	""	"Start is after end of Tony invites Sarah to dinner 30 minutes
 End is before start of Chanta searches for the Harum  0 seconds"	""		"Tony Chantara"	"Tony Chantara"	""	""	""	""	""	""	""	""		
-"Event"	"Chanta searches for the Harum Scarum clone series"	"EV254"	"Chanta searches for the Harum "		131		#9FA8DA		False	2370-09-25 23:30			2370-09-26 01:30	"2 hours"		""	""	""	"Start is after end of Chanta watches Harem Scarum 0 seconds
+"Event"	"Chanta searches for the Harum Scarum clone series"	"EV254"	"Chanta searches for the Harum "		130		#9FA8DA		False	2370-09-25 23:30			2370-09-26 01:30	"2 hours"		""	""	""	"Start is after end of Chanta watches Harem Scarum 0 seconds
 End is before start of Chanta activates the Ajent Jon 0 seconds"	""		"Tony Chantara
 Fisher"	"Tony Chantara
 Fisher"	""	""	""	""	"Starborne One"	"Starborne One"	""	""		
+"Event"	"Pastor Rex Humble converts the Memphis Mafia"	"EV258"	"Pastor Rex Humble converts the"		131		#9FA8DA		False	2370-09-27 19:00			2370-09-27 19:00	"0 seconds"		""	""	""	"Start is before start of The High Elvis kidnaps Chanta -2 weeks, -5 days"	""		""	""	""	""	""	""	""	""	""	""		
 "Event"	"Kathy Gives Sarah a Medical"	"EV256"	"Kathy Gives Sarah a Medical"		132		#9FA8DA		False	2370-09-28 21:00			2370-09-28 21:00	"0 seconds"		""	""	""	"Start is after end of Tony invites Sarah to dinner 3 days"	""		"Dr Kathy Logan
 Sarah Jacobson"	"Dr Kathy Logan
 Sarah Jacobson"	""	""	""	""	"Sublime Point"	"Sublime Point"	""	""		
@@ -1237,7 +1237,7 @@ Dr Kathy Logan"	""	""	""	""	""	""	""	""
 "Event"	"Chanta activates the Ajent Jones clones"	"EV278"	"Chanta activates the Ajent Jon"		165		#9FA8DA		False	2370-12-09 20:08:04			2370-12-14 20:08:04	"5 days"		""	""	""	"Start is after end of Johnny smuggles Chanta into Su 3 days
 Start is after end of Chanta searches for the Harum  0 seconds
 End is before start of Moe Bogan podcast influences t -3 days"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Testing the elliptical-rail apparatus"	"EV285"	"Testing the elliptical-rail ap"		166		#9FA8DA		False	2370-12-14 07:30			2370-12-14 08:12	"42 minutes"		""	""	""	"Start is after start of Johhny reveals the first opera 2 weeks
+"Event"	"Testing the elliptical-rail apparatus"	"EV285"	"Testing the elliptical-rail ap"		166		#9FA8DA		False	2370-12-14 06:34:02			2370-12-14 07:16:02	"42 minutes"		""	""	""	"Start is after start of Johhny reveals the first opera 2 weeks
 End is before start of Five discs revealed on the rai -7 days"	""		"John Stoat
 Chip Stockwell
 Sarah Jacobson
@@ -1253,7 +1253,7 @@ Solo Athena
 Dr Quark"	""	""	""	""	""	""	""	""		
 "Event"	"Moe Bogan podcast influences the Jones clones"	"EV300"	"Moe Bogan podcast influences t"		167		#9FA8DA		False	2370-12-18			2370-12-23	"6 days"		""	""	""	"Start is after end of Chanta activates the Ajent Jon 3 days
 End is before start of Chanta and the Ajent Jones Clo 0 seconds"	""		"Special Agent Ajent Jones"	"Special Agent Ajent Jones"	""	""	""	""	""	""	""	""		
-"Event"	"Five discs revealed on the rail"	"EV236"	"Five discs revealed on the rai"		168		#9FA8DA		False	2370-12-21 08:12			2370-12-21 08:16:02	"4 minutes, 2 seconds"		""	""	""	"End is before start of Missing Socks 0 seconds
+"Event"	"Five discs revealed on the rail"	"EV236"	"Five discs revealed on the rai"		168		#9FA8DA		False	2370-12-21 07:16:02			2370-12-21 07:20:04	"4 minutes, 2 seconds"		""	""	""	"End is before start of Missing Socks 0 seconds
 Start is after end of Testing the elliptical-rail ap 7 days"	""		"Chip Stockwell
 John Stoat
 Dr Quark
@@ -1265,7 +1265,7 @@ Dr Quark
 Chilo Damagetus
 Kleoboulos Windus
 Solo Athena"	""	""	""	""	""	""	""	""		
-"Event"	"Missing Socks"	"EV275"	"Missing Socks"		169		#9FA8DA		False	2370-12-21 08:16:02			2370-12-21 08:20:04	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Five discs revealed on the rai 0 seconds
+"Event"	"Missing Socks"	"EV275"	"Missing Socks"		169		#9FA8DA		False	2370-12-21 07:20:04			2370-12-21 07:24:06	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Five discs revealed on the rai 0 seconds
 End is before start of The Gibson Desert meeting -1 days
 End is before start of Sarah tries to get Johnny fire -1 days"	""		"Chip Stockwell
 John Stoat
@@ -1299,9 +1299,8 @@ Start is after end of Missing Socks 1 day
 Start is after end of The Gibson Desert meeting 7 hours"	""		"Sarah Jacobson
 Eloise Shakti"	"Sarah Jacobson
 Eloise Shakti"	""	""	""	""	""	""	""	""		
-"Event"	"Eloise argues for another test"	"EV274"	"Eloise argues for another test"		172		"Orange"		False	2370-12-22 17:06:06			2370-12-22 17:10:08	"4 minutes, 2 seconds"		""	""	""	"Start is after end of The Gibson Desert meeting 42 minutes
+"Event"	"Eloise argues for another test"	"EV274"	"Eloise argues for another test"		172		#9FA8DA		False	2370-12-22 17:06:06			2370-12-22 17:10:08	"4 minutes, 2 seconds"		""	""	""	"Start is after end of The Gibson Desert meeting 42 minutes
 End is before start of Johnny escalates the testing -2 days
-End is before start of Wrestlemania - The Sages' Nigh -11 hours
 Start is after end of Sarah tries to get Johnny fire 42 minutes"	""		"Eloise Shakti
 Chip Stockwell
 John Stoat
@@ -1309,7 +1308,7 @@ Dr Quark"	"Eloise Shakti
 Chip Stockwell
 John Stoat
 Dr Quark"	""	""	""	""	""	""	""	""		
-"Event"	"Alexander surveils the Sages"	"EV289"	"Alexander surveils the Sages"		173		"Orange"		False	2370-12-22 19:28:08			2370-12-22 22:28:08	"3 hours"		""	""	""	"End is before start of Alexander and Candid Criminal  0 seconds
+"Event"	"Alexander surveils the Sages"	"EV289"	"Alexander surveils the Sages"		173		#9FA8DA		False	2370-12-22 19:28:08			2370-12-22 22:28:08	"3 hours"		""	""	""	"End is before start of Alexander and Candid Criminal  0 seconds
 Start is before start of Wrestlemania - The Sages' Nigh -42 minutes
 Start is after start of Alexander returns secretly 15 days
 End is before end of Wrestlemania - The Sages' Nigh -2 hours"	""		"Alexander Shakti
@@ -1319,22 +1318,21 @@ Kleoboulos Windus"	"Alexander Shakti
 Solo Athena
 Chilo Damagetus
 Kleoboulos Windus"	""	""	""	""	""	""	""	""		
-"Event"	"23rd December"	"EV243"	"23rd December"		174		#ffffff		False	2370-12-23			2370-12-23	"1 day"		""	""	""	"End is before end of Ascension Day -1 days
-Start is before start of Christmas Special Candid Crimi -18 hours
-End is before start of Nautical twilight -4 hours, -39 minutes
-End is before start of Civil twilight -5 hours, -15 minutes
-Start is before start of Vigil for the Holy Momma forms -16 hours"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"UDF begins containment of Sublime Point"	"EV218"	"UDF begins containment of Subl"		175		"Orange"		False	2370-12-23 03:57			2370-12-23 06:57	"3 hours"		""	""	""	"Start is before start of Alexander and Candid Criminal  -1 days
-End is before start of Nautical twilight 0 seconds
-End is before start of UDF settles positioning and ch 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Wrestlemania - The Sages' Night Out"	"EV290"	"Wrestlemania - The Sages' Nigh"		176		"Orange"		False	2370-12-23 04:10:08			2370-12-23 10:10:08	"6 hours"		""	""	""	"End is before start of Alexander and Candid Criminal  0 seconds
-Start is after end of Eloise argues for another test 11 hours
+"Event"	"Wrestlemania - The Sages' Night Out"	"EV290"	"Wrestlemania - The Sages' Nigh"		174		#9FA8DA		False	2370-12-22 20:10:08			2370-12-23 02:10:08	"6 hours"		""	""	""	"End is before start of Alexander and Candid Criminal  0 seconds
 Start is after start of Alexander surveils the Sages 42 minutes
 End is after end of Alexander surveils the Sages 2 hours"	""		"Solo Athena
 Chilo Damagetus
 Kleoboulos Windus"	"Solo Athena
 Chilo Damagetus
 Kleoboulos Windus"	""	""	""	""	""	""	""	""		
+"Event"	"23rd December"	"EV243"	"23rd December"		175		#ffffff		False	2370-12-23			2370-12-23	"1 day"		""	""	""	"End is before end of Ascension Day -1 days
+Start is before start of Christmas Special Candid Crimi -18 hours
+End is before start of Nautical twilight -4 hours, -39 minutes
+End is before start of Civil twilight -5 hours, -15 minutes
+Start is before start of Vigil for the Holy Momma forms -16 hours"	""		""	""	""	""	""	""	""	""	""	""		
+"Event"	"UDF begins containment of Sublime Point"	"EV218"	"UDF begins containment of Subl"		176		"Orange"		False	2370-12-23 03:57			2370-12-23 06:57	"3 hours"		""	""	""	"Start is before start of Alexander and Candid Criminal  -1 days
+End is before start of Nautical twilight 0 seconds
+End is before start of UDF settles positioning and ch 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
 "Event"	"UDF settles positioning and checkpoints"	"EV291"	"UDF settles positioning and ch"		177		"Orange"		False	2370-12-23 06:57			2370-12-23 12:57	"6 hours"		""	""	""	"Start is before start of Chanta and the Ajent Jones Clo 0 seconds
 End is before start of Nautical twilight 0 seconds
 Start is after end of UDF begins containment of Subl 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
@@ -1360,15 +1358,11 @@ Start is after end of Alexander and Candid Criminal  0 seconds"	""		""	""	""	""	
 Eloise Shakti"	"Alexander Shakti
 Eloise Shakti"	""	""	""	""	""	""	""	""		
 "Event"	"Johnny escalates the testing"	"EV276"	"Johnny escalates the testing"		187		"Orange"		False	2370-12-24 17:10:08			2370-12-24 17:14:10	"4 minutes, 2 seconds"		""	""	""	"End is before start of The Johnny vs Chip 0 seconds
-Start is after end of Eloise argues for another test 2 days"	""		"Sarah Jacobson
-Eloise Shakti
-Chip Stockwell
+Start is after end of Eloise argues for another test 2 days"	""		"Eloise Shakti
 John Stoat
 Solo Athena
 Chilo Damagetus
-Kleoboulos Windus"	"Sarah Jacobson
-Eloise Shakti
-Chip Stockwell
+Kleoboulos Windus"	"Eloise Shakti
 John Stoat
 Solo Athena
 Chilo Damagetus
@@ -1438,3 +1432,608 @@ Start equals end of Fridge Force drones attack 18 minutes
 Start equals end of MoSES drones  inflitrate Subli 0 seconds
 Start equals end of The Johnny vs Chip 0 seconds
 Start is after end of Chilo gets Chip out of the con 50 minutes"	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Emil Kalheri"	""	"Emil Kalheri"	""			#73c619		False	2345-02-12 02:17:00			2345-02-12 02:17:00	"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Travis Teh"	""	"Travis Teh"	""			#00a2ef		False	2370-02-12 01:57:00			2370-02-12 01:57:00	"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Hayley Lanning"	""	"Hayley Lanning"	""			#004fef		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Piotr Dunhilton"	""	"Piotr Dunhilton"	""			#bc28c8		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Sarah Jacobson"	""	"Sarah Jacobson"	""			#f89dff		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"John Stoat"	""	"John Stoat"	""			#e79102		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Dick van Dyke"	""	"Dick van Dyke"	""			#f5e309		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Rick van Reich"	""	"Rick van Reich"	""			#f5e309		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Tony Chantara"	""	"Tony Chantara"	""			#bc28c8		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Chip Stockwell"	""	"Chip Stockwell"	""			#b59dff		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Padmala Chuglingham"	""	"Padmala Chuglingham"	""			#fe3d5a		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Special Agent Ajent Jones"	""	"Special Agent Ajent Jones"	""			#e79102		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Abe"	""	"Abe"	""			#73c619		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Major"	""	"Major"	""			#00a2ef		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Haloren Smythe"	""	"Haloren Smythe"	""			#f5e309		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Alexander Shakti"	""	"Alexander Shakti"	""			#d0011b		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Hamish Hammersmith"	""	"Hamish Hammersmith"	""			#bc28c8		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Avi Grubler"	""	"Avi Grubler"	""			#b59dff		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Corporal Sman"	""	"Corporal Sman"	""			#fe3d5a		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Captain Junkers"	""	"Captain Junkers"	""			#e79102		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Lonnie"	""	"Lonnie"	""			#00a2ef		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Kleoboulos Windus"	""	"Kleoboulos Windus"	""			#f5e309		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Chilo Damagetus"	""	"Chilo Damagetus"	""			#d0011b		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Elmer Elvis"	""	"Elmer Elvis"	""			#bc28c8		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Solo Athena"	""	"Solo Athena"	""			#b59dff		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Police Commissioner"	""	"Police Commissioner"	""			#fe3d5a		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Nancy"	""	"Nancy"	""			#e79102		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Dr John"	""	"Dr John"	""			#73c619		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Dr Nick"	""	"Dr Nick"	""			#00a2ef		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Gerald “Very” Hardman"	""	"Gerald “Very” Hardman"	""			#f5e309		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Dr Kathy Logan"	""	"Dr Kathy Logan"	""			#2fc286		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Tulsa McLean"	""	"Tulsa McLean"	""			#bc28c8		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Director of Moral Observance"	""	"Director of Moral Observance"	""			#b59dff		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Director of Freedom"	""	"Director of Freedom"	""			#fe3d5a		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Commissioner of Elvi Rights"	""	"Commissioner of Elvi Rights"	""			#e79102		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Refrigeration Ombudsman"	""	"Refrigeration Ombudsman"	""			#73c619		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"President of the Humpty Doo Tank Battle Reenactment Club"	""	"President of the Humpty Doo Ta"	""			#00a2ef		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Director of Defence"	""	"Director of Defence"	""			#f5e309		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Director of Housing"	""	"Director of Housing"	""			#d0011b		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Director of Tourism"	""	"Director of Tourism"	""			#bc28c8		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Director of Foreign Affairs"	""	"Director of Foreign Affairs"	""			#b59dff		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Eloise Shakti"	""	"Eloise Shakti"	""			#fe3d5a		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Captain Denver A. Elvis"	""	"Captain Denver A. Elvis"	""			#73c619		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Orion Contolan"	""	"Orion Contolan"	""			#00a2ef		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Jody"	""	"Jody"	""			#f5e309		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Blake Mudrak"	""	"Blake Mudrak"	""			#d0011b		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Stacy"	""	"Stacy"	""			#bc28c8		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Macy"	""	"Macy"	""			#b59dff		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Ahmed Siddig"	""	"Ahmed Siddig"	""			#fe3d5a		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"The High Elvis"	""	"The High Elvis"	""			#fe3d5a		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Ignatius d’Molesto"	""	"Ignatius d’Molesto"	""			#00a2ef		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Little Clinton"	""	"Little Clinton"	""			#f5e309		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"New Entity"	""	"New Entity"	""			#e79102		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Fisher"	"PER1"	"Fisher"				"Blue"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Marguerita"	"PER2"	"Marguerita"				"Blue"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Valerie"	"PER3"	"Valerie"				"Blue"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Peggy"	"PER4"	"Peggy"				"Blue"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Nelly"	"PER5"	"Nelly"				"Blue"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Rusty"	"PER6"	"Rusty"				"Blue"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Maile"	"PER7"	"Maile"				"Blue"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Walter"	"PER8"	"Walter"				"Blue"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Heinrich"	"PER9"	"Heinrich"				"Blue"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Bala Chuglingham"	"PER10"	"Bala Chuglingham"				"Blue"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Tiki Chuglingham"	"PER11"	"Tiki Chuglingham"				"Blue"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Shyamala Chuglingham"	"PER12"	"Shyamala Chuglingham"				"Blue"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Pastor Rex Humble"	"PER13"	"Pastor Rex Humble"				"Blue"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Steve Grayson"	"PER14"	"Steve Grayson"				"Blue"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Character"	"Dr Quark"	"PER15"	"Dr Quark"				"Blue"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Story Arc"	"TPlus viral transmission"	""	"TPlus viral transmission"	""			"Orange"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Story Arc"	"The Rise of the Elvi"	""	"The Rise of the Elvi"	""			#d0011b		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Story Arc"	"Gyges Disc Research"	""	"Gyges Disc Research"	""			#bc28c8		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Story Arc"	"Travis Teh’s Murder"	""	"Travis Teh’s Murder"	""			#b59dff		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Story Arc"	"Hayley’s Investigations"	""	"Hayley’s Investigations"	""			#fe3d5a		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Story Arc"	"Sarah & Tony"	""	"Sarah & Tony"	""			#e79102		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Story Arc"	"Tony’s Inheritance"	""	"Tony’s Inheritance"	""			#73c619		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Story Arc"	"Agent Jones wants the Gyges Disc"	""	"Agent Jones wants the Gyges Di"	""			#00a2ef		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Story Arc"	"Stickett Inn Bombing"	""	"Stickett Inn Bombing"	""			#d0011b		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Story Arc"	"Nightclub Vampire"	""	"Nightclub Vampire"	""			#bc28c8		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Story Arc"	"Alexander loves Sarah"	""	"Alexander loves Sarah"	""			#fe3d5a		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Story Arc"	"Prophecy"	""	"Prophecy"	""			#b59dff		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Story Arc"	"Holy Momma"	""	"Holy Momma"	""			#e79102		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Story Arc"	"Dunhilton exerts Power"	""	"Dunhilton exerts Power"	""			#f5e309		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Story Arc"	"Gerry’s Rise"	""	"Gerry’s Rise"	""			#b59dff		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Story Arc"	"Great Teacher"	""	"Great Teacher"	""			#fe3d5a		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Story Arc"	"Gerry’s Virus"	""	"Gerry’s Virus"	""			#e79102		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Story Arc"	"Eloise wants to retire"	""	"Eloise wants to retire"	""			#73c619		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Story Arc"	"Three Sisters"	""	"Three Sisters"	""			#f5e309		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Story Arc"	"Tony’s Sex Life"	"ARC2"	"Tony’s Sex Life"				"Pink"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Location"	"Blue Suede Bar"	""	"Blue Suede Bar"	""			#e79102		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Location"	"Sarah’s Office"	""	"Sarah’s Office"	""			#73c619		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Location"	"A bar"	""	"A bar"	""			#00a2ef		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Location"	"Outside the Bar"	""	"Outside the Bar"	""			#f5e309		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Location"	"Chuglingham’s Apartment"	""	"Chuglingham’s Apartment"	""			#d0011b		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Location"	"Travis Teh’s Apartment"	""	"Travis Teh’s Apartment"	""			#bc28c8		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Location"	"Stickett Inn"	""	"Stickett Inn"	""			#fe3d5a		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Location"	"Random Camera Studio"	""	"Random Camera Studio"	""			#e79102		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Location"	"Avi’s Apartment"	""	"Avi’s Apartment"	""			#73c619		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Location"	"Tony’s Apartment"	""	"Tony’s Apartment"	""			#00a2ef		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Location"	"Truth"	""	"Truth"	""			#f5e309		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Location"	"Memphis Mafia Bar"	""	"Memphis Mafia Bar"	""			#d0011b		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Location"	"the Ghetto"	""	"the Ghetto"	""			#fe3d5a		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Location"	"Graceland"	""	"Graceland"	""			#73c619		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Location"	"the Mansion"	""	"the Mansion"	""			#bc28c8		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Location"	"Sublime Point"	""	"Sublime Point"	""			#00a2ef		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Location"	"Shakti Tower"	""	"Shakti Tower"	""			#d0011b		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Location"	"The Travelator"	""	"The Travelator"	""			#bc28c8		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Location"	"Gravity Well Restaurant"	""	"Gravity Well Restaurant"	""			#b59dff		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Location"	"St Hedge’s Cathedral"	""	"St Hedge’s Cathedral"	""			#fe3d5a		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Location"	"American Sound Studios"	""	"American Sound Studios"	""			#fe3d5a		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Location"	"Starborne One"	"LOC1"	"Starborne One"				"Fuschia"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Location"	"Elvi Parliament"	"LOC2"	"Elvi Parliament"				"Fuschia"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Love Me Cleaner"	"NF4"	"Love Me Cleaner"	""		"Chapter 4"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Malicious Signs"	"NF5"	"Malicious Signs"	""		"Chapter 5"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Recidivist Grinds"	"NF6"	"Recidivist Grinds"	"Key elements in this chapter:
+ 
+1. Halo's perspective and inner thoughts are revealed.
+2. Introduction of Avi, a mysterious woman who turns out to be an operative.
+3. A sexual encounter that turns into a deadly confrontation.
+4. Revelation that Avi was responsible for the bombing at the Stickett Inn.
+5. Halo is exposed as a serial killer."		"Chapter 6"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"You Got That Tender Bleeding"	"NF7"	"You Got That Tender Bleeding"	"Key elements in this chapter:
+ 
+1. Alexander's involvement in the aftermath of the bombing.
+2. Introduction of Constable Sman and his ""Demographically Sensitive Culling"" approach.
+3. The arbitrary and brutal nature of law enforcement in this world.
+4. Alexander's sudden infatuation with Sarah, whom he sees injured at the scene.
+5. Alexander's recognition of Chanta and his decision to protect him.
+ "		"Chapter 7"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Return to Mender"	"NF8"	"Return to Mender"	"Key elements in this chapter:
+ 
+1. The stark contrast between Airborne and Cloudborne medical care.
+2. Sarah's rapid healing and the doctors' dismissal of it as superior Airborne genes.
+3. Sarah's decision to rescue Chanta from the substandard Cloudborne hospital.
+4. The growing bond between Sarah and Chanta as she cares for him in his apartment.
+5. Sarah's discovery of the mysterious disc in Chanta's possession."		"Chapter 8"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Imaginary Pains"	"NF9"	"Imaginary Pains"	"Key elements in this chapter:
+ 
+1. Introduction of Dick and Rick, part-time PAPER contractors and ambulance workers.
+2. Agent Jones's interrogation methods, including the use of ""experience sheaths"" for torture.
+3. The revelation that a cleaner (likely Chanta) was seen at the scene of Emil Kalheri's death.
+4. Agent Jones's growing frustration and paranoia about a possible side operation.
+5. The brutal and graphic nature of the interrogation."		"Chapter 9"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Precarious Signs"	"NF10"	"Precarious Signs"	"Key elements in this chapter:
+ 
+1. Agent Jones confronts Sarah and Chanta in Chanta's apartment.
+2. The focus of Agent Jones's search shifts explicitly to ""the disc.""
+3. Sarah's quick thinking and improvised defense using a case of beer.
+4. Chanta and Sarah's escape and subsequent car chase.
+5. Sarah's discovery that Chanta has been hiding information about the disc.
+6. The mysterious properties of the disc causing their van to crash."		"Chapter 10"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"The Sages' Aims"	"NF11"	"The Sages' Aims"	"Key elements in this chapter:
+ 
+1. Sarah and Chanta seek refuge in the Memphis Mafia Bar, deep in the Ghetto.
+2. Introduction of the Elvi culture and their significance in this world.
+3. Sarah's attempt to scan for security and her growing paranoia.
+4. Johnny's arrival and his reaction to the disc.
+5. Introduction of Kleoboulos Windus and the Seven Sages Corp.
+6. The shocking proposal to get Sarah pregnant.
+"		"Chapter 11"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Propitious Signs"	"NF12"	"Propitious Signs"	"Key elements in this chapter:
+ 
+1. Agent Jones's raid on the Memphis Mafia Bar.
+2. Kleoboulos's attempt to defuse the situation through conversation and possible mind control.
+3. The revelation of the Elvi's combat capabilities and their past as clones.
+4. Sarah and Chanta's escape with the help of Lonnie.
+5. Johnny being left behind.
+ "		"Chapter 12"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Sarah Does Vegas"	"NF13"	"Sarah Does Vegas"	"Key elements in this chapter:
+ 
+1. The immersive experience of the Vegas Show and its profound effect on Sarah.
+2. Chanta's aggressive confrontation with the Three Sages after the show.
+3. The Sages' revelation about their intention to bring about the end of the universe.
+4. The attempt to drug Sarah and Chanta.
+5. The Gyges Disc's bizarre behavior and its attachment to Sarah."		"Chapter 13"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Return to Santa, undress a gnome"	"NF14"	"Return to Santa, undress a gno"	"Key elements in Part 2:
+ 
+1. The development of Sarah's pregnancy and its mysterious nature.
+2. Chanta's imprisonment, torture, and eventual rescue by the Elvi.
+3. The growing importance of the Elvi as a faction.
+4. The introduction of new powerful figures like Eloise Shakti and CEO Piotr Dunhilton.
+5. The revelation of the Gyges Disc's powers and its changing hands.
+6. The government's reaction to the Elvi threat.
+7. The mystery of HIBReLabs and Jamison Hardy.
+8. The revelation that Sarah is carrying a clone of Richard Dawkins."		"Chapter 14"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Infectious Games"	"NF15"	"Infectious Games"	"Key elements in this chapter:
+ 
+1. Introduction of Chip Stockwell, a Stasis Anomalies Investigator from Fridge Force.
+2. The concept of stasis units as a revolutionary food preservation technology.
+3. The investigation of Missus Chuglingham's malfunctioning stasis unit.
+4. The dystopian nature of law enforcement and consumer rights in this society.
+5. The mysterious disappearance of something from the Chuglingham's stasis unit."		"Chapter 15"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Officious Binds"	"NF16"	"Officious Binds"	"Key elements in this chapter:
+ 
+1. Alexander's arrest of Chanta and their conversation in the police vehicle.
+2. The revelation of multiple charges against Chanta, including theft of the Gyges Disc.
+3. Alexander's obsession with Sarah and his request for Chanta to reveal her location.
+4. The ambiguous nature of Alexander's intentions towards Chanta.
+5. The suggestion that Alexander's memories of rescuing Chanta and Sarah might be implanted."		"Chapter 16"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Egregious Lies"	"NF17"	"Egregious Lies"	"Key elements in this chapter:
+ 
+1. Halo's true nature as a serial killer is further revealed.
+2. His obsession with Sarah and frustration with Chanta being framed for his crimes.
+3. The public announcement framing Chanta for various crimes, including Halo's murders.
+4. Halo's decision to shift from serial killing to political assassination.
+5. The assassination of the Commissioner of Ulyssia Police Incorporated."		"Chapter 17"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Contentious Files"	"NF18"	"Contentious Files"	"Key elements in this chapter:
+ 
+1. Introduction of Detective Superintendent Hayley Lanning, a competent and ethical cop in a corrupt system.
+2. Alexander Shakti's attempt to take over the Scarlet Shower Surgeon case from Hayley.
+3. The revelation of Alexander's incompetence and his tendency to treat real police work as if it were a TV show.
+4. The contrast between Hayley's genuine investigative skills and Alexander's celebrity-focused approach.
+5. The discussion of recent murders that contradict the official narrative about Chanta being the Scarlet Shower Surgeon."		"Chapter 18"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Shake, Rattle and Drug"	"NF19"	"Shake, Rattle and Drug"	"Key elements in this chapter:
+ 
+1. Sarah's unexpected illness and morning sickness.
+2. The introduction of Dr John and Dr Nick, Elvi doctors with questionable medical practices.
+3. The offering of ""Dr Nick's Mix"" as a cure-all.
+4. Sarah's experience with the drug and its aftereffects.
+5. Sarah's realization that she needs a ""real doctor""."		"Chapter 19"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"G. Hardman Spies"	"NF20"	"G. Hardman Spies"	"Key elements in this chapter:
+ 
+1. Gerry Hardman's promotion to Commissioner of Police.
+2. The briefing between Gerry and Agent Jones about the current situation.
+3. Agent Jones' suspicion of Gerry as a spy.
+4. Halo's reaction to Gerry's appointment and his plans to break Chanta out of Truth.
+5. The revelation that the Elvi have already rescued Chanta."		"Chapter 20"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"In Craving Times"	"NF21"	"In Craving Times"	"Key elements in this chapter:
+ 
+1. Introduction of Dr Katherine (Kathy) Logan, a more competent and trustworthy doctor.
+2. The medical examination of Sarah and collection of DNA samples.
+3. The revelation that Chanta is not the father of Sarah's baby.
+4. The discovery that Sarah is not the biological mother of the fetus she's carrying.
+5. The identification of the fetus as a clone of Richard Dawkins."		"Chapter 21"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Battle Hymn of the Elvi"	"NF22"	"Battle Hymn of the Elvi"	"Key elements in this chapter:
+ 
+1. The Elvi's dramatic rescue of Chanta from the PAPER facility called Truth.
+2. The use of tanks and military-style tactics by the Elvi.
+3. The revelation that the Elvi see Chanta as a hero and the father of the ""Holy Momma's"" child.
+4. The introduction of Specialist 5 Tulsa McLean, an Elvi leader.
+5. The disruption of Chanta's interrogation and the Curb Your Individualism show.
+"		"Chapter 22"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Dear Woman Blues"	"NF23"	"Dear Woman Blues"	"Key elements in this chapter:
+ 
+1. Introduction of Eloise Shakti, a powerful and influential figure.
+2. Eloise's visit to Sarah and her demand for the Gyges Disc.
+3. Eloise's manipulation and threats to get Sarah to comply.
+4. The involvement of Johnny Stoat in acquiring the disc.
+5. The reunion of Sarah and Chanta."		"Chapter 23"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Lathe my Fender"	"NF24"	"Lathe my Fender"	"Key elements in this chapter:
+ 
+1. Sarah's DNA test results reveal the fetus is a clone of Richard Dawkins.
+2. The implications of this revelation for Sarah, Chanta, and the Elvi.
+3. Chanta's eviction from the mansion by the Elvi.
+4. Chanta's spontaneous creation of a new song that captivates the Elvi.
+5. The potential shift in Chanta's status among the Elvi due to his song."		"Chapter 24"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Bite lice itchy gonna sell my small air fryer"	"NF25"	"Bite lice itchy gonna sell my "	"Key elements in Part 3:
+ 
+1. Hayley's thorough investigation into the case, uncovering connections between Chanta, Sarah, and various agencies.
+2. The revelation of Sarah's pregnancy and its true nature (a clone of Richard Dawkins).
+3. The Elvi's growing political organization and their reverence for Sarah as the ""Holy Momma"".
+4. Johnny's disastrous experiments with the Gyges Disc.
+5. Alexander's siege of the Elvi mansion and Eloise's intervention.
+6. The complex interplay between various factions: police, PAPER, Elvi, and Shakti Enterprises.
+ "		"Chapter 25"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Holy Momma Blues"	"NF26"	"Holy Momma Blues"	"Key elements in this chapter:
+ 
+1. CEO Piotr Dunhilton assembles a group of high-ranking officials to address the Elvi situation.
+2. Discussion of the Elvi's tank attack on the PAPER facility and Chanta's rescue.
+3. Revelation of the ""Holy Momma"" as a potential religious figure for the Elvi.
+4. Debate over how to handle the Elvi threat, including suggestions of concentration camps and extermination.
+5. Introduction of Gerry Hardman's mysterious file about Jamison Hardy and HIBReLabs.
+ "		"Chapter 26"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Will you Login Tonight?"	"NF27"	"Will you Login Tonight?"	"Key elements in this chapter:
+ 
+1. Hayley's determination to investigate the case despite Shakti taking over.
+2. The lack of records and data on Anthony Hardy (Chanta).
+3. Hayley's discovery of suspicious patterns in Chanta Jack Cleaning's customer records.
+4. The connection between Chanta and the Department of Traffic Movement and Property Security.
+5. Hayley's investigation into the Travis Teh case and its connection to the bombing.
+ "		"Chapter 27"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"This Sarah’s Mine"	"NF28"	"This Sarah’s Mine"	"Key elements in this chapter:
+ 
+1. Sarah's confinement in the mansion guarded by Elvi.
+2. Alexander's persistent romantic pursuit through gifts and messages.
+3. The presence of Dr Kathy Logan as Sarah's caretaker.
+4. Sarah's recurring nightmares and their potential connection to her pregnancy.
+5. The introduction of the Elvi's new songs and Chanta's role as the ""Great Teacher"".
+ "		"Chapter 28"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"A Mess of Brews"	"NF29"	"A Mess of Brews"	"Key elements in this chapter:
+ 
+1. Hayley's visit to the site of the Stick It Inn bombing.
+2. The discovery that the bombed-out club is still operating in the street.
+3. Hayley's conversation with Chanta's friends, Abe and Major.
+4. The revelation about Sarah and Chanta's relationship, and Halo's involvement.
+5. Hayley's subtle manipulation to gather information and photographic evidence.
+ "		"Chapter 29"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Viva Las Fungus"	"NF30"	"Viva Las Fungus"	"Key elements in this chapter:
+ 
+1. The arrival of Elvi doctors (Dr John and Dr Nick) to treat Sarah's symptoms.
+2. The revelation of Sarah's pregnancy to the Elvi and their reaction to it.
+3. Sarah's consideration of abortion and the Elvi's strong opposition to it.
+4. The performance of a threatening song by the Elvi to prevent Sarah from considering abortion.
+5. Sarah's official confinement by order of the ""Supreme Kingness"" until the birth of the baby.
+ "		"Chapter 30"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Concerned Defender"	"NF31"	"Concerned Defender"	"Key elements in this chapter:
+ 
+1. Hayley's investigation of Chanta's apartment.
+2. The discovery of evidence suggesting Sarah had been staying with Chanta.
+3. Hayley's attempt to investigate Halo's address.
+4. The confrontation with PAPER agents at Halo's supposed residence.
+5. Hayley's narrow escape from a PAPER attack.
+ "		"Chapter 31"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Dig, Boss Man"	"NF32"	"Dig, Boss Man"	"Key elements in this chapter:
+ 
+1. Gerry Hardman's mission to locate and open the HIBReLabs facilities.
+2. The search for the Pararetrovirus (mistakenly called Parramatta Virus by CEO Dunhilton).
+3. The discovery of multiple buried lab facilities across Ulyssia.
+4. The revelation of a potential virus that can target specific genetic profiles.
+5. The ethical implications of using such a virus against the Elvi.
+ "		"Chapter 32"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Reconnoitre, Baby"	"NF33"	"Reconnoitre, Baby"	"Key elements in this chapter:
+ 
+1. Hayley's thorough investigation into Chanta Jack Cleaning's financial records.
+2. The discovery of suspicious patterns in Chanta's business dealings, particularly with major corporations.
+3. Hayley's uncovering of Chanta's connection to crime scene clean-ups for the police department.
+4. The revelation of the events surrounding Travis Teh's death and its connection to Sarah Jacobson.
+5. Hayley's conversation with John Stoat and her manipulation to gain information and evidence."		"Chapter 33"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Fuels Rushin'"	"NF34"	"Fuels Rushin'"	"Don’t forget: Little Richard has the DNA from the Gyges disc 
+
+… who will find out… and how?
+
+Key elements in this chapter:
+ 
+1. Johnny Stoat's living situation and his relationship with his dog, Levi.
+2. The introduction of Leon Husk, a thinly veiled parody of Elon Musk.
+3. Johnny's work at a secret Shakti Enterprises facility.
+4. The series of tests conducted on the Gyges Disc.
+5. The catastrophic results of spinning the disc at high speeds."		"Chapter 34"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Blue Shade Blues"	"NF35"	"Blue Shade Blues"	"Key elements in this chapter:
+ 
+1. Sarah's recurring nightmares and their potential connection to her pregnancy.
+2. The growing relationship between Sarah and Kathy.
+3. The revelation that Sarah is carrying a clone of Richard Dawkins.
+4. Johnny's attempt to contact Sarah and his subsequent firing from Shakti Enterprises.
+5. The Elvi's new songs written by Chanta and their impact."		"Chapter 35"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"It's Nose In to Smell a Lie"	"NF36"	"It's Nose In to Smell a Lie"	"Key elements in this chapter:
+ 
+1. Hayley's thorough investigation into Chanta Jack Cleaning's financial records.
+2. The discovery of suspicious patterns in Chanta's business dealings, particularly with major corporations.
+3. Hayley's uncovering of Chanta's connection to crime scene clean-ups for the police department.
+4. The revelation of the events surrounding Travis Teh's death and its connection to Sarah Jacobson.
+5. Hayley's conversation with John Stoat and her manipulation to gain information and evidence."		"Chapter 36"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Shame and Fortune"	"NF37"	"Shame and Fortune"	"Key elements in this chapter:
+ 
+1. Alexander's public siege of the mansion where Sarah is being held.
+2. The media coverage of the event, particularly by Blake Mudrake of Channel Forty-Eight.
+3. Alexander's portrayal of the siege as a Candid Criminal special.
+4. The revelation of PAPER gunships hovering above the scene.
+5. Eloise Shakti's phone call to Alexander, warning him about the PAPER presence."		"Chapter 37"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Just Descend"	"NF38"	"Just Descend"	"Key elements in this chapter:
+ 
+1. Hayley's arrival at the police cordon around the mansion.
+2. Her confrontation with Alexander Shakti.
+3. Hayley's revelation of her findings about Chanta and Sarah's relationship.
+4. The introduction of Dr Kathy Logan.
+5. The arrival of a PAPER gunship and Agent Jones.
+ "		"Chapter 38"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Fudge of Reality"	"NF39"	"Fudge of Reality"	"Key elements in this chapter:
+ 
+1. Agent Jones' aggressive confrontation with Hayley and Dr Kathy Logan.
+2. The Elvi guards' protective stance towards Sarah (referred to as ""Holy Momma"").
+3. Alexander Shakti's attempt to assert control over the situation.
+4. The revelation that Sarah and Chanta are inside the mansion.
+5. The escalating tension between PAPER, the police, and the Elvi."		"Chapter 39"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Cantalope Calling a Bluff"	"NF40"	"Cantalope Calling a Bluff"	"Key elements in this chapter:
+ 
+1. Eloise Shakti's arrival at the mansion and her takeover of the situation.
+2. The revelation of Alexander's background and Eloise's role in shaping his life.
+3. Eloise's interrogation of Sarah about her pregnancy and the father.
+4. The introduction of ""Clinton Dawkins"" as the supposed father of Sarah's child.
+5. Eloise's proposal that Sarah marry Alexander and her child become Eloise's heir.
+ "		"Chapter 40"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Devil Linda Skies"	"NF41"	"Devil Linda Skies"	"Key elements in this chapter:
+ 
+1. The attack on the mansion and Eloise's calm handling of the situation.
+2. Eloise's technological control over both PAPER and Elvi weaponry.
+3. The escape of Sarah, Kathy, Hayley, and Eloise from the mansion.
+4. Chanta's heartbreak as he watches Sarah leave with Eloise.
+5. The Elvi's reaction to losing Sarah, their ""Holy Momma""."		"Chapter 41"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Let Your Momma Go"	"NF42"	"Let Your Momma Go"	"Key elements in this chapter:
+- Chanta's emotional devastation after losing Sarah
+- The Elvi's attempts to comfort and inspire Chanta
+- Chanta's eventual breakthrough in writing a new song, ""Let Your Momma Go"""		"Chapter 42"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Take my ham steak my ol' knife too"	"NF43"	"Take my ham steak my ol' knife"	"Key elements in this part:
+- Chanta's emotional journey and his role as the Great Teacher for the Elvi
+- Sarah's transition into Eloise's organization and her joint venture with Alexander
+- The growing influence and evolution of the Elvi culture
+- The development of Project Kebab and the Gyges Disc technology
+- The machinations of various factions including PAPER, Fridge Force, and the Sages
+- The climactic events at the holy joint venture ceremony and reception
+ "		"Chapter 43"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Welcome to My Wall"	"NF44"	"Welcome to My Wall"	"Key elements in this chapter:
+- Sarah, Kathy, and Hayley are brought to Eloise's compound, Sublime Point
+- The architectural marvel of Eloise's residence, described as a palace of interweaving triangles and curved glass
+- Sarah's profound realization about the relationship between Airborne and Cloudborne
+- Eloise and Sarah's private conversation about Sarah's future
+"		"Chapter 44"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"A Little Fresh Consolation"	"NF45"	"A Little Fresh Consolation"	"Key elements in this chapter:
+- Three members of the Seven Sages Corp visit different characters:
+  1. Solo visits Chanta
+  2. Kleoboulos visits Sarah
+  3. Chilo visits Johnny Stoat
+- Each Sage provides information or items that will impact future events"		"Chapter 45"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"A Little More Kitchen"	"NF46"	"A Little More Kitchen"	"Key elements in this chapter:
+- Sarah and Eloise have a private conversation at Sublime Point
+- They discuss Sarah's future, including a potential marriage to Alexander
+- Sarah's first experience of the view from Sublime Point without the Layer
+- The negotiation of Sarah's role in Eloise's organization"		"Chapter 46"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Sententious Lines"	"NF47"	"Sententious Lines"	""		"Chapter 47"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Your Shook Cup"	"NF48"	"Your Shook Cup"	"Key elements in this chapter:
+- Hayley conducts an interview with Sarah about recent events
+- Sarah reveals details about her interactions with Chanta (Anthony Hardy) and other characters
+- Information about Halo (Haloren Smythe) and his potential role as an undercover agent is disclosed
+- Sarah admits to having possessed and subsequently surrendered the Gyges Disc
+The Chuglinghams move into a townhouse at Sublime point.
+"		"Chapter 48"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"I'm Fresh, You're Ripe, She's Gone"	"NF49"	"I'm Fresh, You're Ripe, She's "	"Key elements in this chapter:
+- Hayley conducts an interview with Sarah about recent events
+- Sarah reveals details about her interactions with Chanta (Anthony Hardy) and other characters
+- Information about Halo (Haloren Smythe) and his potential role as an undercover agent is disclosed
+- Sarah admits to having possessed and subsequently surrendered the Gyges Disc
+ "		"Chapter 49"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Bruise Wade's Shoes"	"NF50"	"Bruise Wade's Shoes"	""		"Chapter 50"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Triple Sisters"	"NF51"	"Triple Sisters"	"Key elements in this chapter:
+- Sarah, Kathy, and Hayley are briefly imprisoned after the fridge incident
+- Eloise meets with Sarah to discuss her future role in the organization
+- Sarah agrees to marry Alexander under certain conditions
+- Sarah expresses interest in running the Gyges Disc project
+"		"Chapter 51"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Kitchen Cozens"	"NF52"	"Kitchen Cozens"	"Key elements in this chapter:
+- Hayley interviews Chip Stockwell, a Stasis Anomalies Investigator from Fridge Force
+- The conversation revolves around the Chuglingham family and their connection to Travis Teh
+- Hayley probes into the nature of Fridge Force's operations and the Preservation Secrets Act
+- Hayley hints at her knowledge of Gyges Discs and their connection to stasis technology
+ "		"Chapter 52"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"A Beggar View"	"NF53"	"A Beggar View"	"Key elements in this chapter:
+- Sarah meets with Johnny Stoat in Eloise's office
+- Sarah is now head of Project Kebab, overseeing Gyges technology for Shakti Enterprises
+- Johnny claims to have another Gyges Disc
+- Sarah recognizes patterns from the Gyges Disc in her dreams
+ "		"Chapter 53"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"A Macing Race"	"NF54"	"A Macing Race"	"Key elements in this chapter:
+- Chanta researches Clinton Richard Dawkins to find inspiration for lyrics
+- The Elvi join in the research and become fascinated by Dawkins' ideas
+- The group discovers Dawkins' critiques of religion and faith
+- The Elvi begin to interpret Dawkins' words as prophecy about themselves
+ "		"Chapter 54"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Prophet and a King"	"NF55"	"Prophet and a King"	"Key elements in this chapter:
+ 
+1. The transformation of a former brothel into the Elvi Parliament House.
+2. The inauguration ceremony of the High Elvis.
+3. The High Elvis's speech, blending Elvis song lyrics and political rhetoric.
+4. The revelation of the Elvi's plan to ""clean up the Ghetto"".
+5. The Elvi's resistance to actual manual labor."		"Chapter 55"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Heart-Shredding Woman"	"NF56"	"Heart-Shredding Woman"	"Key elements in this chapter:
+- Hayley meets Chip Stockwell at the Gravity Well restaurant
+- Eloise orchestrates the meeting, applying pressure on Chip
+- Hayley confronts Chip about Fridge Force's activities and the Chuglinghams
+- The nature and power of the Preservation Secrets Act is discussed
+ "		"Chapter 56"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Hard Baked Hot Towels"	"NF57"	"Hard Baked Hot Towels"	"Key elements in this chapter:
+- Gerry Hardman meets with CEO Dunhilton to discuss Operation Parramatta
+- They debate the naming of a virus (Parramatta Virus vs. TMinusVirus)
+- Gerry reports on the recovery of the TMinusVirus
+
+ "		"Chapter 57"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Can't Trust a Train"	"NF58"	"Can't Trust a Train"	"Key elements in this chapter:
+- Kathy is sent on a mission by Sarah to collect the Sages
+- Kathy meets with the High Elvis and a squad of Tulsa Macleans
+- They wait at the Travelator station for the Sages to arrive
+- The concept of ""Travelator Uncertainty"" is introduced
+ "		"Chapter 58"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Hallways in My Mind "	"NF59"	"Hallways in My Mind "	"Key elements:
+- Johnny Stoat, Chip Stockwell, and Chilo (one of the Sages) are involved in a dispute
+- The conflict centers around Project Kebab (Sarah's Gyges Disc project)"		"Chapter 59"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Where's My Ring-a-Round of Cheques"	"NF60"	"Where's My Ring-a-Round of Che"	"Key elements:
+- The holy joint venture ceremony between Sarah Jacobson and Alexander Shakti
+- St Hedges Cathedral, a grandiose symbol of Airborne capitalism
+- The unexpected arrival of the Elvi at the ceremony
+- The religious-like rituals centered around capitalism and the market
+ "		"Chapter 60"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"(Chew the) Gravity in the Skies"	"NF61"	"(Chew the) Gravity in the Skie"	"Key elements:
+- The reception following Sarah and Alexander's holy joint venture ceremony
+- The mingling of Airborne and Elvi guests
+- Performances by various Elvi bands
+- The presence of Chanta (the Great Teacher) at the event
+- Halo's undercover presence as a waiter
+- the High Elvis's performance and Alexander's interruption
+- The outbreak of violence following Alexander's actions
+ "		"Chapter 61"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Grudge of the Troubled Waiter"	"NF62"	"Grudge of the Troubled Waiter"	"Key elements:
+- Halo's attempted abduction of Sarah
+- Sarah's unexpected fighting skills and resilience
+- The intervention of Hayley
+- Chanta's discovery of Halo's true identity
+- The chaotic aftermath of the assault
+ "		"Chapter 62"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"No such llama, no such foam"	"NF63"	"No such llama, no such foam"	""		"Chapter 63"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Alexander, one dressing gown"	"NF64"	"Alexander, one dressing gown"	"Key elements:
+- Alexander's focus on media coverage rather than Sarah
+- Kathy and Eloise redirecting Alexander away from Sarah
+- Hayley's involvement in distracting Alexander"		"Chapter 64"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Gee, I Bruise"	"NF65"	"Gee, I Bruise"	"Key elements:
+- Chanta's physical and emotional state after the wedding reception
+- Halo's posthumous video message to Chanta
+- The revelation of Halo's true identity as a PAPER agent
+- Halo's misogynistic views and warnings about Sarah
+- Directions to a mysterious address
+ "		"Chapter 65"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Flying to the Chapel"	"NF66"	"Flying to the Chapel"	"Key elements:
+- Dunhilton's reaction to recent events, particularly the Elvi's actions at the wedding
+- A cabinet meeting to address the Elvi situation
+- Revelations about Haloren Smythe (the Scarlet Shower Surgeon) being a PAPER agent
+- Gerry Hardman's increasing power and influence
+- The decision to use religion, specifically gospel music, against the Elvi"		"Chapter 66"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Heir You Won Some Tonight"	"NF67"	"Heir You Won Some Tonight"	"Key elements:
+- Chanta discovers he is the heir to Jamison Hardy's fortune
+- The mysterious ""Rose Door"" that responds to Chanta's DNA
+- The accidental death of the homeless man
+- Chanta's interaction with Fisher, the King Creole Series ELVIS
+- The revelation that the penthouse staff have been in stasis since Hardy's death"		"Chapter 67"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Let me Feel Your Belly There"	"NF68"	"Let me Feel Your Belly There"	""		"Chapter 68"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Star-render"	"NF69"	"Star-render"	"Key elements:
+- Chip has moved into a townhouse, presumably provided by Eloise
+- He's received a significant payment, likely as part of his new role with Shakti Enterprises
+- Chip is still wary of the stasis unit in the kitchen"		"Chapter 69"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"The Devil in His Ties"	"NF70"	"The Devil in His Ties"	"Key elements:
+- Agent Jones carrying out a mission to sabotage jukeboxes in Elvi establishments
+- The introduction of gospel music records into the jukeboxes
+- Jones' unexpected emotional reaction to the gospel music
+- The mission's focus on the Memphis Mafia Bar & Grill"		"Chapter 70"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Chip complains"	"NF71"	"Chip complains"	""		"Chapter 71"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"How Fake Thou Art"	"NF72"	"How Fake Thou Art"	""		"Chapter 72"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Amazing Grease"	"NF73"	"Amazing Grease"	""		"Chapter 73"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Struck on Cue"	"NF74"	"Struck on Cue"	"Key elements:
+- The immediate effects of the gospel music on the Elvi
+- The Elvi's extreme reactions, ranging from fits to evangelism
+- the High Elvis's response to the crisis
+- The involvement of Kleo, Solo, and Chilo in attempting to ""cure"" the affected Elvi
+- the High Elvis's performance of a new song"		"Chapter 74"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Amazing Grass"	"NF75"	"Amazing Grass"	""		"Chapter 75"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Blue Howahya"	"NF76"	"Blue Howahya"	""		"Chapter 76"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Wisdom of the Sages"	"NF77"	"Wisdom of the Sages"	""		"Chapter 77"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Piglicious Minds"	"NF78"	"Piglicious Minds"	""		"Chapter 78"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Lazy duck grease let the rice stay hot"	"NF79"	"Lazy duck grease let the rice "	"# Prompt for New Thread: ""The Honeymoon is Over"" - Final Arc Development
+
+I'm working on the final section of my satirical sci-fi novel, “Clones of Elvis.” This is the culmination of a complex multi-character narrative with influences from Douglas Adams, Terry Pratchett, and Australian political satire.
+
+I need assistance developing scenes for this final arc where all plot threads converge around a cosmic cataclysm. The main event centers on:
+
+1) A pregnant woman named Sarah giving birth at the exact moment that experimental technology (Gyges Discs) causes dimensional collapse
+
+2) Multiple antagonistic groups converging on Sublime Point (a mountain facility) during this crisis
+
+3) Personal vendettas being settled amid apocalyptic events
+
+I'll provide a comprehensive plot analysis that outlines all major characters, their arcs, and the significant plot points that need resolution. The tone combines absurdist humor with genuine emotional payoffs, featuring satirical commentary on class warfare (Airborne vs. Cloudborne vs. Elvi), corporate power struggles, and the conflict between science and religion.
+
+Key stylistic elements include:
+- Douglas Adams-style humorous asides and absurdist descriptions
+- Multi-perspective narrative jumping between characters
+- Scientific concepts explained with philosophical depth
+- Australian cultural and political references
+
+For this thread, I need help:
+1) Developing scenes. I will iterate, each time describing a scene I want fleshed out
+2) Maintaining the established tone while delivering satisfying resolutions
+3) Ensuring all antagonistic relationships reach meaningful conclusions"		"Chapter 79"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"In the Brothel"	"NF80"	"In the Brothel"	""		"Chapter 80"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"TPlus origins"	"NF81"	"TPlus origins"	""		"Chapter 81"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"A humpin' humpin' bugger glove"	"NF82"	"A humpin' humpin' bugger glove"	""		"Chapter 82"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Seven Hours"	"NF83"	"Seven Hours"	""		"Chapter 83"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Night Work"	"NF84"	"Night Work"	""		"Chapter 84"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"The Morning After"	"NF85"	"The Morning After"	""		"Chapter 85"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"First Contact"	"NF86"	"First Contact"	""		"Chapter 86"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"The Gospel Truth"	"NF87"	"The Gospel Truth"	""		"Chapter 87"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Warnings"	"NF88"	"Warnings"	""		"Chapter 88"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Risk Assessment"	"NF89"	"Risk Assessment"	""		"Chapter 89"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Missing Socks"	"NF90"	"Missing Socks"	""		"Chapter 90"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Strategic Applications"	"NF91"	"Strategic Applications"	""		"Chapter 91"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Power Plays"	"NF92"	"Power Plays"	""		"Chapter 92"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"The Greatest Discovery in the History of the World"	"NF93"	"The Greatest Discovery in the "	""		"Chapter 93"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"The Confession"	"NF94"	"The Confession"	""		"Chapter 94"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"An Army in Boxes"	"NF95"	"An Army in Boxes"	""		"Chapter 95"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Arrivals"	"NF96"	"Arrivals"	""		"Chapter 96"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Christmas Eve"	"NF97"	"Christmas Eve"	""		"Chapter 97"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Dawn"	"NF98"	"Dawn"	""		"Chapter 98"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Nemeses"	"NF99"	"Nemeses"	""		"Chapter 99"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"More Nemeses"	"NF100"	"More Nemeses"	""		"Chapter 100"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"The Last Chapter"	"NF101"	"The Last Chapter"	""		"Chapter 101"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"The Beginning"	"NF102"	"The Beginning"	""		"Chapter 102"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Epilogue"	"NF103"	"Epilogue"	""		"Chapter 103"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Mysterious Rhymes"	"NF104"	"Mysterious Rhymes"	""		"Chapter 2"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Your aunt buffing up a groundhog"	"NF105"	"Your aunt buffing up a groundh"	""		"Chapter 1"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Narrative Folder"	"Ambitious Crimes"	"NF106"	"Ambitious Crimes"	""		"Chapter 3"	"Purple"		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
