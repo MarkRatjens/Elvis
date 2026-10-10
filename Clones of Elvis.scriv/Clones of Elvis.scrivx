@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-10-08 19:28:24 +1100" ModID="6FDC4ACC-B2B7-4B5D-8301-0E8AFBDF9652">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-10-10 12:43:02 +1100" ModID="2148251D-FCE7-42F7-A9CD-B18EC09C015F">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -3628,86 +3628,79 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>11796,23</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="D61D40ED-EB57-4B1C-B770-57ACE2539114" Type="Text" Created="2025-06-21 16:09:09 +1000" Modified="2026-10-08 13:16:58 +1100">
+                                <BinderItem UUID="D61D40ED-EB57-4B1C-B770-57ACE2539114" Type="Text" Created="2025-06-21 16:09:09 +1000" Modified="2026-10-09 16:38:28 +1100">
                                     <Title>Sages watch Candid Criminal</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <StatusID>33</StatusID>
+                                        <StatusID>2</StatusID>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>8697,150</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="346AB4C8-9826-49D8-A75D-B1FF99C94987" Type="Text" Created="2025-06-21 16:09:09 +1000" Modified="2026-10-08 13:06:46 +1100">
+                                <BinderItem UUID="346AB4C8-9826-49D8-A75D-B1FF99C94987" Type="Text" Created="2025-06-21 16:09:09 +1000" Modified="2026-10-10 11:03:16 +1100">
                                     <Title>Chip watches Candid Criminal</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <StatusID>33</StatusID>
+                                        <StatusID>2</StatusID>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6268,0</TextSelection>
+                                        <TextSelection>2498,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="AE4DFD87-830A-4A99-8918-B2633E1CFBC6" Type="Text" Created="2025-06-21 16:09:09 +1000" Modified="2026-10-08 13:38:08 +1100">
+                                <BinderItem UUID="AE4DFD87-830A-4A99-8918-B2633E1CFBC6" Type="Text" Created="2025-06-21 16:09:09 +1000" Modified="2026-10-09 16:38:37 +1100">
                                     <Title>3 Sisters watch Candid Criminal</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <StatusID>33</StatusID>
+                                        <StatusID>2</StatusID>
                                         <NotesTextSelection>1057,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>1700,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="27DBDD5D-94E2-43DF-AC10-AE15894ACD21" Type="Text" Created="2025-06-21 16:09:09 +1000" Modified="2026-10-08 19:28:24 +1100">
+                                <BinderItem UUID="27DBDD5D-94E2-43DF-AC10-AE15894ACD21" Type="Text" Created="2025-06-21 16:09:09 +1000" Modified="2026-10-10 10:40:27 +1100">
                                     <Title>Voting -&gt; wheelspin</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <StatusID>33</StatusID>
-                                        <NotesTextSelection>1057,0</NotesTextSelection>
+                                        <StatusID>2</StatusID>
+                                        <NotesTextSelection>359,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>7645,0</TextSelection>
+                                        <TextSelection>0,7682</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="89A9B880-55F3-4FF7-A4D2-4EC515C87090" Type="Text" Created="2025-06-21 16:09:09 +1000" Modified="2026-10-08 12:44:38 +1100">
-                                    <Title>The Three Sisters watch Candid Criminal-1</Title>
+                                <BinderItem UUID="89A9B880-55F3-4FF7-A4D2-4EC515C87090" Type="Text" Created="2025-06-21 16:09:09 +1000" Modified="2026-10-10 12:43:01 +1100">
+                                    <Title>Blackout and backstage regroup</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <StatusID>33</StatusID>
-                                        <NotesTextSelection>1057,0</NotesTextSelection>
+                                        <StatusID>2</StatusID>
+                                        <NotesTextSelection>1274,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2177,18</TextSelection>
+                                        <TextSelection>4725,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="86262381-5DC0-4D57-B0FA-6FAA4D187C37" Type="Text" Created="2026-10-07 17:49:17 +1100" Modified="2026-10-07 17:50:02 +1100">
-                                    <Title>Stale notes</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>10364,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="FF5301DC-B29E-4217-847D-ED5618686D3F" Type="Text" Created="2026-10-07 17:46:03 +1100" Modified="2026-10-07 18:04:51 +1100">
+                                <BinderItem UUID="FF5301DC-B29E-4217-847D-ED5618686D3F" Type="Text" Created="2026-10-07 17:46:03 +1100" Modified="2026-10-10 10:31:35 +1100">
                                     <Title>Major Midler decides</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>92,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>4,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="BEB96BAC-423A-4A33-9959-7FCD9556E9A2" Type="Text" Created="2026-10-05 16:56:36 +1100" Modified="2026-10-05 16:56:41 +1100">
+                                <BinderItem UUID="BEB96BAC-423A-4A33-9959-7FCD9556E9A2" Type="Text" Created="2026-10-05 16:56:36 +1100" Modified="2026-10-09 16:43:27 +1100">
+                                    <Title>Candid Criminal Christmas Special — development kit</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>585,5</TextSelection>
+                                        <TextSelection>0,51</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3741,7 +3734,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="F9589AD3-C196-435A-9F61-1EF7E560B91F" Type="Text" Created="2025-06-21 17:43:11 +1000" Modified="2026-09-17 15:00:10 +1000">
+                                <BinderItem UUID="F9589AD3-C196-435A-9F61-1EF7E560B91F" Type="Text" Created="2025-06-21 17:43:11 +1000" Modified="2026-10-09 14:54:42 +1100">
                                     <Title>Chanta and the Jones Clones arrive at Sublime Point</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3749,7 +3742,7 @@
                                         <NotesTextSelection>296,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1411,0</TextSelection>
+                                        <TextSelection>17,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3895,6 +3888,15 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="86262381-5DC0-4D57-B0FA-6FAA4D187C37" Type="Text" Created="2026-10-07 17:49:17 +1100" Modified="2026-10-09 11:35:17 +1100">
+                                    <Title>Where everyone is at the final instant</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>3,38</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -5668,7 +5670,7 @@
     <Collections>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No" IgnoreDiacritics="No">Superi</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No" IgnoreDiacritics="No">Night Infiltration</SearchSettings>
         </Collection>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
             <Title>Binder</Title>
@@ -5934,14 +5936,14 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-10-09 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="1" Date="2026-10-08 09:21:49 +1100"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-10-11 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2026-10-10 10:29:20 +1100"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-10-08 00:00:00 +1100">
+    <RecentWritingHistory Date="2026-10-10 00:00:00 +1100">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>-1231</OtherWordCount>
-        <OtherCharCount>-8324</OtherCharCount>
+        <OtherWordCount>252</OtherWordCount>
+        <OtherCharCount>1464</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="2A3CF4E0-BBF6-41A4-998A-67C3C1884687" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
