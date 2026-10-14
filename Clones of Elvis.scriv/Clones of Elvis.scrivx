@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-10-14 14:10:39 +1100" ModID="A2CD8A4B-64F4-446F-82A8-E5BFBC70A038">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-10-14 15:42:03 +1100" ModID="4061A0F9-5B84-49F4-A6E8-4D689D8B86D0">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -2823,7 +2823,7 @@
                                                 <TextSelection>3810,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="1F68C321-6E55-492F-80CD-D37FDB4588E6" Type="Text" Created="2026-07-11 21:56:19 +1000" Modified="2026-08-11 11:33:39 +1000">
+                                        <BinderItem UUID="1F68C321-6E55-492F-80CD-D37FDB4588E6" Type="Text" Created="2026-07-11 21:56:19 +1000" Modified="2026-10-14 14:21:09 +1100">
                                             <Title>The three little laws</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
@@ -2831,7 +2831,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>2713,1</TextSelection>
+                                                <TextSelection>8834,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="7CE85A48-E714-4C64-9351-E3C86464AA79" Type="Text" Created="2026-07-11 21:56:19 +1000" Modified="2026-08-21 12:45:32 +1000">
@@ -3233,7 +3233,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="A835CE46-075C-42E9-92BE-5FA6C37300A5" Type="Text" Created="2025-04-27 14:23:44 +1000" Modified="2026-09-19 10:04:41 +1000">
+                                        <BinderItem UUID="A835CE46-075C-42E9-92BE-5FA6C37300A5" Type="Text" Created="2025-04-27 14:23:44 +1000" Modified="2026-10-14 14:16:24 +1100">
                                             <Title>Hayley finds Eloise's old Fridge Force project</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
@@ -3241,7 +3241,7 @@
                                                 <NotesTextSelection>4768,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>2420,0</TextSelection>
+                                                <TextSelection>5919,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="55744E56-0AA8-433D-8B10-4DEE26A88068" Type="Text" Created="2025-06-15 11:33:51 +1000" Modified="2026-09-19 10:04:41 +1000">
@@ -3323,10 +3323,10 @@
                                         <StatusID>2</StatusID>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>101,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="124D78E1-5A43-4F62-BC8E-0AD610F76F28" Type="Text" Created="2025-06-15 11:35:30 +1000" Modified="2026-09-19 10:04:41 +1000">
+                                        <BinderItem UUID="124D78E1-5A43-4F62-BC8E-0AD610F76F28" Type="Text" Created="2025-06-15 11:35:30 +1000" Modified="2026-10-14 14:16:57 +1100">
                                             <Title>the High Elvis executes the heist</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
@@ -3580,7 +3580,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>3973,6</TextSelection>
+                                                <TextSelection>3412,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="50B8E9EC-0E30-4AFB-9447-356D2613F0B5" Type="Text" Created="2026-09-18 15:29:09 +1000" Modified="2026-10-03 13:17:16 +1000">
@@ -3757,27 +3757,27 @@
                                                 <TextSelection>781,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="FF5301DC-B29E-4217-847D-ED5618686D3F" Type="Text" Created="2026-10-07 17:46:03 +1100" Modified="2026-10-12 12:55:42 +1100">
+                                        <BinderItem UUID="FF5301DC-B29E-4217-847D-ED5618686D3F" Type="Text" Created="2026-10-07 17:46:03 +1100" Modified="2026-10-14 15:42:01 +1100">
                                             <Title>Major Midler suspend Operation Hermès</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
-                                                <StatusID>2</StatusID>
+                                                <StatusID>28</StatusID>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>342,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>3009,17</TextSelection>
+                                                <TextSelection>0,3342</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="89A9B880-55F3-4FF7-A4D2-4EC515C87090" Type="Text" Created="2025-06-21 16:09:09 +1000" Modified="2026-10-11 17:04:59 +1100">
+                                        <BinderItem UUID="89A9B880-55F3-4FF7-A4D2-4EC515C87090" Type="Text" Created="2025-06-21 16:09:09 +1000" Modified="2026-10-14 15:37:07 +1100">
                                             <Title>Blackout and backstage regroup</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
-                                                <StatusID>2</StatusID>
+                                                <StatusID>28</StatusID>
                                                 <NotesTextSelection>1274,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>3268,0</TextSelection>
+                                                <TextSelection>4910,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -5487,12 +5487,26 @@
         </BinderItem>
         <BinderItem UUID="97C6EED7-F5DD-46E5-A9B3-F4D4C379E0C2" Type="TrashFolder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Trash</Title>
+            <Children>
+                <BinderItem UUID="A6676107-4FF3-4297-94F3-BB9A4B0ACC43" Type="Text" Created="2026-10-07 17:46:03 +1100" Modified="2026-10-14 15:22:01 +1100">
+                    <Title>Major Midler suspend Operation Hermès-1</Title>
+                    <MetaData>
+                        <LabelID>4</LabelID>
+                        <StatusID>2</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>342,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1261,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <Collections>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="WholeWord" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">Quark</SearchSettings>
+            <SearchSettings Operator="WholeWord" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">toe</SearchSettings>
         </Collection>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
             <Title>Binder</Title>
@@ -5759,13 +5773,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-10-15 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="105" Characters="812" Date="2026-10-14 09:21:24 +1100"/>
+        <PreviousSession Words="157" Characters="1083" Date="2026-10-14 09:21:24 +1100"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2026-10-14 00:00:00 +1100">
-        <DraftWordCount>-301</DraftWordCount>
-        <DraftCharCount>-1792</DraftCharCount>
-        <OtherWordCount>-768</OtherWordCount>
-        <OtherCharCount>-4338</OtherCharCount>
+        <DraftWordCount>-249</DraftWordCount>
+        <DraftCharCount>-1521</DraftCharCount>
+        <OtherWordCount>-770</OtherWordCount>
+        <OtherCharCount>-4341</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="2A3CF4E0-BBF6-41A4-998A-67C3C1884687" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

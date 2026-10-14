@@ -24,7 +24,7 @@
 		</array>
 		<key>2655DDF6-4AB8-42CB-A433-1CD76FC351D2</key>
 		<array>
-			<string>DC76011D-058E-4CBB-B8C0-E5A665C587F5</string>
+			<string>F52C280C-E2B3-4CD6-9EA4-20518CACEC0C</string>
 		</array>
 		<key>332095B9-1CE1-49DD-B826-E1E5A1FBFC9D</key>
 		<array>
@@ -686,6 +686,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>2022E61B-DB91-4A3F-827C-4EEE909A69B6</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>203518A1-91D1-49D4-8FED-99EAF368A0FA</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -1417,6 +1422,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>7657BFD7-C8DE-47FF-B632-0D8EB6564A70</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>767A41E5-A5C7-4ADB-8402-A15ED4FBD933</key>
 		<dict>
 			<key>Row</key>
@@ -1841,6 +1851,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>A6676107-4FF3-4297-94F3-BB9A4B0ACC43</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>A6D94F16-A617-4AEB-BDEC-0699A5877AA2</key>
 		<dict>
 			<key>Row</key>
@@ -1984,6 +1999,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>B4B23D08-18EB-4544-A38E-047BA8E84A95</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>B5106D3C-AFF5-4ADB-BD93-ABA7AE8AD55A</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -2492,6 +2512,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>E6CF2750-83F9-40A7-8F6D-56E951B88C1E</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>E6DC6E2F-26A5-4506-8516-5E692FA49301</key>
 		<dict>
 			<key>Row</key>
@@ -2781,7 +2806,7 @@
 	<true/>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
-		<integer>2</integer>
+		<integer>6</integer>
 	</array>
 	<key>collectionsHeight</key>
 	<real>100</real>
@@ -2803,7 +2828,7 @@
 	<true/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{491, 0}, {483, 859}}</string>
+		<string>{{442, 0}, {442, 859}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>0</integer>
