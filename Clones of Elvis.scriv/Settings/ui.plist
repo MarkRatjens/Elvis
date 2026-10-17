@@ -24,7 +24,7 @@
 		</array>
 		<key>2655DDF6-4AB8-42CB-A433-1CD76FC351D2</key>
 		<array>
-			<string>F52C280C-E2B3-4CD6-9EA4-20518CACEC0C</string>
+			<string>50B8E9EC-0E30-4AFB-9447-356D2613F0B5</string>
 		</array>
 		<key>332095B9-1CE1-49DD-B826-E1E5A1FBFC9D</key>
 		<array>
@@ -362,8 +362,8 @@
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {342, 889}}</string>
-		<string>{{343, 0}, {1169, 889}}</string>
+		<string>{{0, 0}, {367, 889}}</string>
+		<string>{{368, 0}, {1144, 889}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -1015,6 +1015,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>447B063A-70E3-4897-BB1D-F9A659AF4FAA</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>45C50508-DC1D-4B9E-9A0C-142F6BF9DEC6</key>
 		<dict>
 			<key>DocID</key>
@@ -1358,6 +1363,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>699CDF7A-C505-4076-893D-BCEFA5E584C2</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>6B463FAC-F81B-4038-B5EC-9B56E3B8D8FF</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -2113,6 +2123,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>BF995031-C107-4898-82EA-4F472CCF10C7</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>BFD10721-3E5C-4673-AD33-95F1763E50A3</key>
 		<dict>
 			<key>Row</key>
@@ -2659,6 +2674,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>F4007BD1-4CF6-4858-9287-F5CC54B62F76</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>F47939E1-7305-44D5-827C-36536AD35CB4</key>
 		<dict>
 			<key>Row</key>
@@ -2806,7 +2826,7 @@
 	<true/>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
-		<integer>6</integer>
+		<integer>0</integer>
 	</array>
 	<key>collectionsHeight</key>
 	<real>100</real>
@@ -2889,8 +2909,8 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {884, 859}}</string>
-		<string>{{885, 0}, {284, 859}}</string>
+		<string>{{0, 0}, {872, 859}}</string>
+		<string>{{873, 0}, {271, 859}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>229.5</real>
@@ -3016,7 +3036,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>310</real>
+			<real>262.5</real>
 		</dict>
 	</dict>
 	<key>selectedCollectionTabIndex</key>
