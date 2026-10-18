@@ -362,8 +362,8 @@
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {367, 889}}</string>
-		<string>{{368, 0}, {1144, 889}}</string>
+		<string>{{0, 0}, {175, 889}}</string>
+		<string>{{176, 0}, {1336, 889}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -756,6 +756,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>26CA6BD1-2BFA-45FE-B481-DEC1B8608A80</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>27CC1500-F081-4E0D-AC6A-B3191E3D96F7</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -1654,6 +1659,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>8EA38B01-ED98-4499-9F56-A29EB5EA6695</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>8EC014C0-21CD-4031-AF47-88A1E277284E</key>
 		<dict>
 			<key>Row</key>
@@ -2178,6 +2188,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>C3196AC2-B005-493D-89B6-8FF58B9CEB09</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>C3899E97-E156-443E-8FC6-AB08A90F94C0</key>
 		<dict>
 			<key>Row</key>
@@ -2194,6 +2209,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>C5FF0CE1-63FC-4D27-9215-D647EEF83E40</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>C64479ED-E81F-469C-AF0B-12B7366C146B</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -2517,6 +2537,11 @@
 			<key>Row</key>
 			<integer>0</integer>
 		</dict>
+		<key>E5EF7E9E-9F32-4C76-9127-0238F5DDC6A2</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>E653B5BE-8AC0-4A1B-A821-9B0C827CF212</key>
 		<dict>
 			<key>Row</key>
@@ -2831,7 +2856,7 @@
 	<true/>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
-		<integer>3</integer>
+		<integer>1</integer>
 	</array>
 	<key>collectionsHeight</key>
 	<real>100</real>
@@ -2853,7 +2878,8 @@
 	<true/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{442, 0}, {442, 859}}</string>
+		<string>{{0, 0}, {555, 859}}</string>
+		<string>{{556, 0}, {552, 859}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>0</integer>
@@ -2914,8 +2940,8 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {872, 859}}</string>
-		<string>{{873, 0}, {271, 859}}</string>
+		<string>{{0, 0}, {1108, 859}}</string>
+		<string>{{1109, 0}, {227, 859}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>229.5</real>
@@ -3041,7 +3067,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>335</real>
+			<real>304.5</real>
 		</dict>
 	</dict>
 	<key>selectedCollectionTabIndex</key>
