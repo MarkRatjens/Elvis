@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-10-18 19:42:23 +1100" ModID="E1CF7A2D-4327-46DF-848A-D5CB8295A549">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-10-19 15:53:31 +1100" ModID="816B166B-B831-4866-92FC-E4856566A56D">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -2476,7 +2476,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>2,26733</TextSelection>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
                                         <SelectedSubdocumentUUIDs>744254E7-E892-4F08-B1A0-CD04CB20A087</SelectedSubdocumentUUIDs>
@@ -2491,7 +2491,7 @@
                                                 <NotesTextSelection>285,24</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>13263,6</TextSelection>
+                                                <TextSelection>0,2194</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="91A7CEEC-8A38-45A3-AC9A-A6BB193E7218" Type="Text" Created="2025-06-09 15:15:11 +1000" Modified="2026-09-19 10:04:41 +1000">
@@ -3137,7 +3137,7 @@
                                                 <TextSelection>2643,22</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="3F449996-B599-4E2F-8568-CE957B5249A8" Type="Text" Created="2025-05-04 14:27:53 +1000" Modified="2026-10-11 15:48:57 +1100">
+                                        <BinderItem UUID="3F449996-B599-4E2F-8568-CE957B5249A8" Type="Text" Created="2025-05-04 14:27:53 +1000" Modified="2026-10-19 13:34:40 +1100">
                                             <Title>Gerry presents a viral update</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
@@ -3145,7 +3145,7 @@
                                                 <NotesTextSelection>79,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>5131,6</TextSelection>
+                                                <TextSelection>5970,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="305A94C8-646F-4211-8239-8F26633F4335" Type="Text" Created="2025-05-04 14:27:53 +1000" Modified="2026-09-17 14:53:24 +1000">
@@ -3506,11 +3506,11 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="2AFE640F-32B1-41B6-BBA6-983ADFE8565B" Type="Folder" Created="2026-09-26 14:43:10 +1000" Modified="2026-10-02 16:56:30 +1000">
+                                <BinderItem UUID="2AFE640F-32B1-41B6-BBA6-983ADFE8565B" Type="Folder" Created="2026-09-26 14:43:10 +1000" Modified="2026-10-19 15:48:08 +1100">
                                     <Title>Socks are all fluff</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
-                                        <StatusID>33</StatusID>
+                                        <StatusID>2</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
@@ -3594,22 +3594,23 @@
                                                 <TextSelection>1151,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="447B063A-70E3-4897-BB1D-F9A659AF4FAA" Type="Text" Created="2026-10-16 14:28:42 +1100" Modified="2026-10-16 15:43:02 +1100">
+                                        <BinderItem UUID="447B063A-70E3-4897-BB1D-F9A659AF4FAA" Type="Text" Created="2026-10-16 14:28:42 +1100" Modified="2026-10-19 15:50:52 +1100">
                                             <Title>THe High Elvis arrives for the vigil</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1896,0</TextSelection>
+                                                <TextSelection>1917,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="AB14986E-08E1-4B83-8BFC-98654EA0C45C" Type="Folder" Created="2026-08-10 16:55:41 +1000" Modified="2026-10-03 13:24:39 +1000">
+                                <BinderItem UUID="AB14986E-08E1-4B83-8BFC-98654EA0C45C" Type="Folder" Created="2026-08-10 16:55:41 +1000" Modified="2026-10-19 15:51:28 +1100">
                                     <Title>Love my putter</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
+                                        <StatusID>2</StatusID>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -3649,10 +3650,11 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="62B785AD-E99C-4956-8C57-84121507E48F" Type="Folder" Created="2026-08-10 16:55:41 +1000" Modified="2026-10-14 13:39:11 +1100">
+                                <BinderItem UUID="62B785AD-E99C-4956-8C57-84121507E48F" Type="Folder" Created="2026-08-10 16:55:41 +1000" Modified="2026-10-19 15:51:46 +1100">
                                     <Title>It’s TV for You</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
+                                        <StatusID>2</StatusID>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>1864,8</TextSelection>
@@ -3694,17 +3696,18 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="20543468-F672-4A59-A720-FD54E4A4A2CA" Type="Folder" Created="2026-10-13 17:01:14 +1100" Modified="2026-10-13 17:16:16 +1100">
+                                <BinderItem UUID="20543468-F672-4A59-A720-FD54E4A4A2CA" Type="Folder" Created="2026-10-13 17:01:14 +1100" Modified="2026-10-19 15:52:08 +1100">
                                     <Title>Just a Little Talk with Geezers</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
+                                        <StatusID>2</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>7098,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="6B463FAC-F81B-4038-B5EC-9B56E3B8D8FF" Type="Text" Created="2026-10-14 16:03:31 +1100" Modified="2026-10-17 18:36:01 +1100">
+                                        <BinderItem UUID="6B463FAC-F81B-4038-B5EC-9B56E3B8D8FF" Type="Text" Created="2026-10-14 16:03:31 +1100" Modified="2026-10-19 13:53:07 +1100">
                                             <Title>Ticket-holders enter Sublime Point</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
@@ -3712,7 +3715,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1900,0</TextSelection>
+                                                <TextSelection>935,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="4655C5DA-274B-4205-94A4-CE2AE01A3AEE" Type="Text" Created="2026-09-18 15:27:38 +1000" Modified="2026-10-14 13:57:07 +1100">
@@ -3728,10 +3731,11 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="89C4EAC1-3860-4145-8DD6-EB7118014B95" Type="Folder" Created="2026-10-05 14:27:11 +1100" Modified="2026-10-08 13:36:42 +1100">
+                                <BinderItem UUID="89C4EAC1-3860-4145-8DD6-EB7118014B95" Type="Folder" Created="2026-10-05 14:27:11 +1100" Modified="2026-10-19 15:52:30 +1100">
                                     <Title>If the world wasn't talking matricide</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
+                                        <StatusID>2</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
@@ -3745,7 +3749,7 @@
                                                 <StatusID>2</StatusID>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>8377,0</TextSelection>
+                                                <TextSelection>6469,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="346AB4C8-9826-49D8-A75D-B1FF99C94987" Type="Text" Created="2025-06-21 16:09:09 +1000" Modified="2026-10-10 11:03:16 +1100">
@@ -3780,7 +3784,7 @@
                                                 <TextSelection>781,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="FF5301DC-B29E-4217-847D-ED5618686D3F" Type="Text" Created="2026-10-07 17:46:03 +1100" Modified="2026-10-17 18:52:16 +1100">
+                                        <BinderItem UUID="FF5301DC-B29E-4217-847D-ED5618686D3F" Type="Text" Created="2026-10-07 17:46:03 +1100" Modified="2026-10-19 13:22:32 +1100">
                                             <Title>Major Midler suspends Operation Hermès</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
@@ -3789,7 +3793,7 @@
                                                 <NotesTextSelection>342,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>2125,247</TextSelection>
+                                                <TextSelection>54,15</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="89A9B880-55F3-4FF7-A4D2-4EC515C87090" Type="Text" Created="2025-06-21 16:09:09 +1000" Modified="2026-10-14 15:55:16 +1100">
@@ -3805,34 +3809,37 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="C3196AC2-B005-493D-89B6-8FF58B9CEB09" Type="Folder" Created="2026-10-17 16:13:39 +1100" Modified="2026-10-17 16:13:57 +1100">
-                                    <Title>Paper clowns and tigers</Title>
+                                <BinderItem UUID="C3196AC2-B005-493D-89B6-8FF58B9CEB09" Type="Folder" Created="2026-10-17 16:13:39 +1100" Modified="2026-10-19 15:52:48 +1100">
+                                    <Title>Clean up your armed backyard</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
+                                        <StatusID>2</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>81,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="C64479ED-E81F-469C-AF0B-12B7366C146B" Type="Text" Created="2026-10-17 16:14:04 +1100" Modified="2026-10-18 19:42:23 +1100">
+                                        <BinderItem UUID="C64479ED-E81F-469C-AF0B-12B7366C146B" Type="Text" Created="2026-10-17 16:14:04 +1100" Modified="2026-10-19 15:53:20 +1100">
                                             <Title>PAPER TIGER team traverse from Echo Point -&gt; Copeland Pass, ascend to Sublime Point</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
+                                                <StatusID>2</StatusID>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>7553,0</TextSelection>
+                                                <TextSelection>6056,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="8EA38B01-ED98-4499-9F56-A29EB5EA6695" Type="Text" Created="2026-10-17 16:14:08 +1100" Modified="2026-10-17 18:02:47 +1100">
-                                            <Title>Gerry and PAPER CLOWNs rendevous with PAPER TIGER team remnants</Title>
+                                        <BinderItem UUID="8EA38B01-ED98-4499-9F56-A29EB5EA6695" Type="Text" Created="2026-10-17 16:14:08 +1100" Modified="2026-10-19 15:53:28 +1100">
+                                            <Title>Gerry and PAPER CLOWNs rendevous with PAPER TIGER remnants</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
+                                                <StatusID>2</StatusID>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>2689,0</TextSelection>
+                                                <TextSelection>1841,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -5597,11 +5604,11 @@
         </BinderItem>
     </Binder>
     <Collections>
-        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.190666 0.172706 0.216531">
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="WholeWord" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">Solitary</SearchSettings>
+            <SearchSettings Operator="WholeWord" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">Gerry</SearchSettings>
         </Collection>
-        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.091141 0.091141 0.091141">
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
             <Title>Binder</Title>
         </Collection>
     </Collections>
@@ -5865,14 +5872,14 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-10-19 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="7" Characters="29" Date="2026-10-18 09:45:44 +1100"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-10-20 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="740" Characters="4320" Date="2026-10-19 10:27:24 +1100"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-10-18 00:00:00 +1100">
-        <DraftWordCount>-635</DraftWordCount>
-        <DraftCharCount>-4121</DraftCharCount>
-        <OtherWordCount>1653</OtherWordCount>
-        <OtherCharCount>10279</OtherCharCount>
+    <RecentWritingHistory Date="2026-10-19 00:00:00 +1100">
+        <DraftWordCount>304</DraftWordCount>
+        <DraftCharCount>1631</DraftCharCount>
+        <OtherWordCount>2</OtherWordCount>
+        <OtherCharCount>20</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="2A3CF4E0-BBF6-41A4-998A-67C3C1884687" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
