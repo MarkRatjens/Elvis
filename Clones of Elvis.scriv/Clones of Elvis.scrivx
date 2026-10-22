@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-10-22 12:05:12 +1100" ModID="EA3179EC-3087-4BBF-A57D-1FF904FD1C0C">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-10-22 17:35:42 +1100" ModID="49DABDC9-CEE5-49DA-BED3-DF3254DDB4E5">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -3389,7 +3389,7 @@
                                                 <StatusID>2</StatusID>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1461,0</TextSelection>
+                                                <TextSelection>8299,1857</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="9D996A4A-E690-423F-8417-25FD1158CC9A" Type="Text" Created="2026-09-18 15:00:37 +1000" Modified="2026-09-22 11:11:58 +1000">
@@ -3896,10 +3896,10 @@
                                                 <NotesTextSelection>39,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1370,0</TextSelection>
+                                                <TextSelection>2220,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="C3C0F8C6-4E40-4626-8E94-8E4A8C63429E" Type="Text" Created="2026-10-10 17:55:53 +1100" Modified="2026-10-22 12:05:12 +1100">
+                                        <BinderItem UUID="C3C0F8C6-4E40-4626-8E94-8E4A8C63429E" Type="Text" Created="2026-10-10 17:55:53 +1100" Modified="2026-10-22 13:57:06 +1100">
                                             <Title>Hayley boots up the bunker command post</Title>
                                             <MetaData>
                                                 <LabelID>2</LabelID>
@@ -3907,7 +3907,7 @@
                                                 <NotesTextSelection>307,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,1067</TextSelection>
+                                                <TextSelection>3648,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -3921,23 +3921,14 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="F9589AD3-C196-435A-9F61-1EF7E560B91F" Type="Text" Created="2025-06-21 17:43:11 +1000" Modified="2026-10-20 23:36:22 +1100">
+                                        <BinderItem UUID="F9589AD3-C196-435A-9F61-1EF7E560B91F" Type="Text" Created="2025-06-21 17:43:11 +1000" Modified="2026-10-22 17:35:42 +1100">
                                             <Title>Chanta and the Jones Clones arrive at Sublime Point</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>33</StatusID>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="3764E2A5-1003-4631-925A-0DAD7A333738" Type="Text" Created="2026-10-10 17:57:29 +1100" Modified="2026-10-10 17:57:31 +1100">
-                                            <Title>The Elvi move to protect Chanta’s position</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
+                                                <TextSelection>0,4947</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -5657,6 +5648,24 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="3764E2A5-1003-4631-925A-0DAD7A333738" Type="Text" Created="2026-10-10 17:57:29 +1100" Modified="2026-10-10 17:57:31 +1100">
+                    <Title>The Elvi move to protect Chanta’s position</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="EA69B2F6-63EB-4B9B-B79E-105CAE2DB3D0" Type="Text" Created="2026-10-22 12:47:36 +1100" Modified="2026-10-22 12:47:40 +1100">
+                    <Title>Sarah calls &amp; reassures Chanta</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -5930,13 +5939,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-10-23 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="720" Characters="4292" Date="2026-10-22 10:00:14 +1100"/>
+        <PreviousSession Words="723" Characters="4306" Date="2026-10-22 10:00:14 +1100"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2026-10-22 00:00:00 +1100">
-        <DraftWordCount>354</DraftWordCount>
-        <DraftCharCount>2032</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <DraftWordCount>357</DraftWordCount>
+        <DraftCharCount>2046</DraftCharCount>
+        <OtherWordCount>850</OtherWordCount>
+        <OtherCharCount>4942</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="2A3CF4E0-BBF6-41A4-998A-67C3C1884687" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
