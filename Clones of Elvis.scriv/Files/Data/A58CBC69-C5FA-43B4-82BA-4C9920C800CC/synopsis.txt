@@ -1,0 +1,154 @@
+The final conversation with Kathy belongs in this work unit. I wrongly excluded it. The revised kit below retains the previous development material and adds the full emotional sequence through Kathy’s immediate response.
+
+**Boundary:** Ortolan waking → Johnny ordering everyone to work → Little Clinton waking Sarah → Sarah preparing to leave for the Ironing Room and her last conversation with Kathy → Kathy pulling herself together. The Washing Machine’s autonomous restart is the incoming condition. Ajent, Gerry and Halo remain outside this work unit.
+
+**Development kit: “Nemeses”**
+
+**Engine**
+
+The Washing Machine has restarted without being asked. Ortolan discovers an operational problem; Johnny discovers an opportunity. While they assemble the people needed to investigate, Little Clinton wakes Sarah.
+
+The useful asymmetry is that Johnny wants to make something happen, while Ortolan and Sarah are responding to something already happening.
+
+Sarah’s response carries the emotional weight: she understands something about Little Clinton and what is coming that Kathy does not. Preparing to leave becomes their last conversation. Sarah sends Kathy towards Hayley; Kathy is left to absorb what Sarah has told her.
+
+**Existing material**
+
+The end of “Please restrain your children” already supplies Ortolan’s disturbed sleep, his sense that the machine has woken him, his return to the Ironing Room and the installation message:
+
+> GygesOS Daintree 42.42.42 installed.  
+> Enjoy smoother running and faster speeds.  
+> Licensed for 5 monkeys only.  
+> Thank you for choosing Gyges budget-dimension discs.
+
+That material is available to use without inventing another waking episode.
+
+The notes under “Johnny orders everyone to work” supply the main comic resources: profiles, passwords, connecting with friendly universes, plugins, unreliable download estimates, subscription levels, an offered test scenario and the interface’s reaction to their five-disc apparatus.
+
+The recovered Sarah–Kathy decisions are central:
+
+- Sarah insists she is a survivor.
+- Little Clinton has helped her understand.
+- She knew he would consume her.
+- “A mother always knows.”
+- Sarah sends Kathy to Hayley.
+- Kathy tears off her patches and cries.
+
+These belong in the kit as specific dramatic material, not merely as an instruction to make the farewell affecting.
+
+**Causal spine — proposed**
+
+1. **Ortolan wakes and finds the installation active.** His first concern is what the machine is doing. The upgrade message answers a different question: what the supplier claims to have improved.
+
+2. **He alerts Johnny.** Ortolan reports unsolicited changes; Johnny hears “smoother running and faster speeds”. Their disagreement can begin with which part of the message each considers important.
+
+3. **Johnny orders the staff back to work.** He wants the people who can operate and interpret the apparatus. The command also lets him establish himself as the person directing events, despite arriving after the machine has begun.
+
+4. **The interface presents something actionable.** A configuration question, profile requirement or offered test draws attention from the unexplained installation towards what they can now do with it.
+
+5. **The staff begin arriving while Johnny negotiates the interface.** Expertise assembles around a consumer-software experience that treats their extraordinary machine as a modest installation.
+
+6. **Little Clinton wakes Sarah.** Familiar bodily movement acquires enough urgency or significance to keep her awake. Her response establishes recognition: she has been learning something through him.
+
+7. **Sarah begins preparing to leave for the Ironing Room.** Kathy encounters a decision already taking physical form. The conversation can begin in practical care—where Sarah is going, whether she should be moving, what she needs—before Kathy discovers how much more Sarah means by leaving.
+
+8. **Sarah tells Kathy what she understands.** Little Clinton has helped her. She knew he would consume her. “A mother always knows.” Her insistence that she is a survivor belongs alongside that knowledge, without the narration resolving the apparent contradiction for the reader.
+
+9. **Kathy tries to respond as someone who can still help.** Her medical competence and love for Sarah give her reasons to question, intervene or accompany her. The exact response remains development work; the conversation must allow Kathy to register what Sarah has actually said.
+
+10. **Sarah sends Kathy to Hayley.** The direction gives Kathy somewhere to go and someone to be with. It is also a personal act towards both women. It need not become a speech explaining their relationship.
+
+11. **Sarah leaves; Kathy tears off her patches and cries.** Give these actions their own space. They are not an incidental reaction to be folded into Sarah’s departure.
+
+12. **Kathy pulls herself together.** She has something to do after crying. Her recovery need not imply that she has accepted, understood or ceased to hurt.
+
+These are development beats, not a proposed division of the prose.
+
+**Character collisions**
+
+**Ortolan and Johnny: what changed versus what improved.**  
+Ortolan needs to know what has been altered before trusting the controls. Johnny wants to see what the new controls permit. Both can be interested in the upgrade; they differ over what deserves attention first.
+
+Ortolan’s questions can remain concrete: whether the displayed settings still mean what they meant yesterday, whether the machine retained its limits, whether anyone has a record of the installation. Johnny can regard each question as something they are about to discover by using it.
+
+**Johnny and GygesOS: exceptional genius meets ordinary customer service.**  
+The software need not mock him. Its categories do that. Five discs represent a major achievement to Johnny and a configuration requiring special accommodation to the interface.
+
+His vanity gives him two competing impulses: reject its condescension and obtain everything it offers.
+
+**Sarah and Little Clinton: recognition before explanation.**  
+The physical vocabulary already includes Little Clinton responding to the apparatus. This waking can develop that familiarity. Sarah need not begin by asking what is wrong; she may recognise something before Kathy or the reader can.
+
+Her degree of certainty should emerge through behaviour. Whether she lies still, answers inwardly, checks the time or starts getting dressed can carry more than an account of what she understands.
+
+The conversation with Kathy then gives that behaviour its personal significance. Sarah’s understanding comes through her relationship with Little Clinton. It need not become a technical explanation of the apparatus or a reliable account of the cosmological outcome.
+
+**Sarah and Kathy: the survivor and the person trying to preserve her.**  
+Kathy has repeatedly used her expertise to help Sarah survive. Sarah now insists on her identity as a survivor while describing something Kathy cannot readily reconcile with survival.
+
+That contradiction gives Kathy something real to resist. Sarah’s certainty does not require Kathy’s immediate agreement. Nor does Kathy’s distress make Sarah confused or incapable of choosing.
+
+“A mother always knows” can be intimate, unsettling and insufficient as an explanation—all at once. Its force depends on what Sarah has just admitted. It does not need an accompanying narrator’s statement about maternal instinct.
+
+**Sarah, Kathy and Hayley: care redirected.**  
+Sending Kathy to Hayley is consequential. Sarah is asking Kathy to leave her at the moment Kathy may most want to stay.
+
+There is room for a small resistance: a practical objection, an unfinished task, a claim that Hayley can manage. Sarah’s answer can show that she understands why Kathy is resisting. The exchange need not explicitly announce itself as permission to love Hayley or as a final goodbye.
+
+**Concrete handles**
+
+- Ortolan’s watch and spectacles; familiar routines applied to an unfamiliar situation.
+- A completed installation notice where the previous conversation had been.
+- Camera views showing that the apparatus is physically active.
+- Johnny seizing on “faster speeds”.
+- Staff arriving with the untidy remains of interrupted sleep.
+- A profile field that refuses to accept Johnny’s preferred description.
+- The distinction between the apparatus’s five discs and the software’s “five monkeys”.
+- A progress estimate that changes faster than the progress.
+- A test scenario awaiting a seemingly innocuous acceptance.
+- Sarah recognising movement in the dark before looking at anything.
+- The brief quiet in which she decides whether to wake Kathy.
+- Sarah dressing or finding her footwear while Kathy initially treats this as a practical problem.
+- An ordinary act of assistance continuing after the conversation has become extraordinary.
+- Sarah’s hand resting on her belly while she refers to what Little Clinton has helped her understand.
+- Kathy stopping in the middle of something she knows how to do.
+- The patches themselves: Kathy’s deliberate movement towards them, their removal, what she does with them.
+- The space Sarah has just occupied.
+- Kathy having to make herself ready to face Hayley after crying.
+
+**Modular comic material**
+
+- **No friends yet?** The interface treats contact with another universe as a neglected social profile.
+- **Forgotten password.** Nobody remembers creating an account. The recovery process assumes this is a personal failing.
+- **Interests.** Your physics, free speech and KKK memorabilia combination can expose the account-holder through supposedly helpful personalisation.
+- **Subscription levels.** Johnny encounters an arbitrary distinction between what the machine can do and what their account permits.
+- **Five discs.** The system initially takes the answer as a joke, then loads another onboarding process.
+- **Plugins.** Each installed component discovers another requirement. Ortolan wants to know what the components do; Johnny wants the installation to finish.
+- **Missing socks.** A customer-support question reduces their breakthrough communication to an earlier notification.
+- **Recommended test.** The software offers a convenient way forward while the humans are still disputing how it got there.
+
+Choose among these rather than treating them as a checklist. The strongest sequence lets each inconvenience provoke Johnny into the next commitment.
+
+**Development possibilities for the last conversation**
+
+These are optional means of carrying the established material, not replacements for it.
+
+- **Kathy initially answers the wrong concern.** She offers a practical remedy before understanding that Sarah is not describing an ordinary symptom or fear.
+- **Sarah’s survivor assertion arrives as a correction.** Kathy says or does something that treats her as already lost; Sarah refuses that treatment.
+- **An ordinary task gives Kathy somewhere to put her hands.** She finishes helping Sarah with something because stopping would mean confronting the full meaning of the conversation.
+- **“Consume” receives a direct response.** Kathy may repeat the word, challenge it or ask what Sarah means. Sarah need not supply an explanation that makes it medically manageable.
+- **Sarah redirects a question towards Hayley.** Kathy wants to establish what Sarah needs; Sarah asks where Hayley is or tells Kathy to go to her.
+- **A familiar piece of their intimacy survives.** A brisk correction, irritation or small joke can remain theirs without being inserted to relieve the reader.
+- **Kathy holds herself together until Sarah has gone.** The patch removal and crying then become actions she no longer has to conceal from Sarah.
+- **Pulling herself together is incomplete.** She can become capable of moving and speaking while still visibly affected.
+
+**Later seeds and limits**
+
+- Preserve the difference between the machine restarting and Johnny authorising further activity.
+- Let the upgrade produce observable changes without explaining the final catastrophe.
+- Keep the Ironing Room’s controls and displays distinct from the Laundry apparatus.
+- Preserve Sarah’s exact emotional position: survivor, growing understanding through Little Clinton, knowledge that he would consume her. Do not reconcile these into a simpler statement about sacrifice or certain death.
+- Let Kathy respond fully. The patches and crying are part of the action, not a shorthand transition.
+- Sarah sending Kathy to Hayley establishes a personal reason for their separation and Kathy’s subsequent movement.
+- The seismic-egress release overlaps the departure preparations in the timeline. If it registers here, it can affect the physical surroundings without taking over the farewell.
+- Sarah’s journey and arrival at the Ironing Room, and the later confrontations, remain downstream.

@@ -1,0 +1,111 @@
+**Development kit: Chanta wakes → disc use at the Traverse → crossing → bunker seismic-egress release**
+
+This is one work unit covering the four specified events. The timeline places the waking at **04:36**, disc use and the beginning of the crossing at **04:41:02**, the egress release at **04:41:12**, and completion of the crossing at **04:45:32**. The bunker therefore responds while Chanta’s party is travelling.
+
+The timeline establishes those events but does not specify the observed movement, the immediate trigger for disc use or its exact physical effect. The mechanisms below are development proposals.
+
+**Engine**
+
+Sarah’s reassurance has allowed Chanta to wait. Movement around the Traverse now gives the High Elvis reason to question whether waiting remains sensible. Chanta wants to reach Sarah; the Elvi want to protect him and their Holy Momma; the Joneses encounter an institution whose divided behaviour rewards their suspicions.
+
+The Elvi solve the immediate access problem with discs. Their intervention has a second consequence elsewhere: the disturbance triggers the bunker’s seismic-egress release. People acting to reach Sarah help create the conditions in which she can leave.
+
+**Causal spine — proposed**
+
+1. **The High Elvis notices that the Traverse access has become active.** People are moving with purpose after the comparatively settled overnight interval. The useful question is what has changed, rather than simply why anybody is awake.
+
+2. **He wakes Chanta with an observation.** Something he has seen gives Chanta a reason to get up: personnel being admitted, guards repositioning, an argument at the entrance, or movement that appears connected with the people underground. Choose a concrete observation before assigning it a meaning.
+
+3. **They approach to find out what is happening.** Sarah’s earlier reassurance still matters. Chanta can begin by asking rather than arriving already committed to a breach. The Jones contingent comes with him; nearby Elvi respond to the Great Teacher moving.
+
+4. **The access dispute becomes immediate.** A workable possibility is that research staff are passing through following Johnny’s summons while Chanta is refused information or passage. Conflicting security instructions make the refusal more alarming. Somebody tries to move Chanta back or separate him from his companions.
+
+5. **The Elvi use their discs against the immediate obstruction.** Their objective remains passage and protection. The intervention needs one legible physical consequence that changes what the people at the access point can do.
+
+6. **Chanta’s party gets onto the Traverse and crosses.** Gaining access and travelling remain distinct actions. The transport must remain usable after whatever the discs have done.
+
+7. **The disturbance registers at Ruined Castle.** The recovered earlier reasoning offers a useful mechanism: a seismic warning releases designated bunker egress safeties. The release occurs during the crossing, not as a consequence of Chanta arriving.
+
+8. **The crossing finishes at Ruined Castle’s arrival/security area.** They have reached the installation. The subsequent containment of the breach remains beyond this kit.
+
+**What movement might wake the High Elvis?**
+
+The strongest connection available in the timeline is **Johnny calling personnel back to work shortly beforehand**. That makes the activity purposeful and causally connected to the morning’s restart.
+
+Its value lies in unequal access: other people are being taken towards the underground research while Chanta is still waiting outside. The High Elvis need not know why they have been summoned. He can recognise that the situation has changed.
+
+The security split can sharpen this. Personnel loyal to Alexander may be demanding information about him or trying to send someone down; others refuse. Chanta and the Elvi encounter an existing disagreement rather than manufacture one from nothing.
+
+Those are compatible possibilities, but neither needs a complete account of factional deployment. A few people moving, an overheard instruction and a refusal can supply the necessary evidence.
+
+**Character collisions**
+
+**Chanta and the High Elvis: reassurance meets observation.**  
+Chanta has Sarah’s word that she is safe. The High Elvis has seen something happening now. Neither must be foolish or deceitful. Their disagreement can be about whether the new activity changes what Sarah told them.
+
+The High Elvis’s urgency works best when grounded in what he can point to. Chanta’s first response may be sleep, irritation or confidence that Sarah would call if she needed him.
+
+**Chanta and security: a personal question receives an institutional answer.**  
+He asks where Sarah is or whether he can speak to her. Security answers with admission restrictions, orders or instructions to stand back. The mismatch becomes threatening when nobody will answer the question he actually asked.
+
+**The Elvi and the Joneses: two kinds of protection.**  
+The Elvi recognise obligations to Chanta and the Holy Momma. The Joneses examine people, commands and inconsistencies. Both can make security more uncomfortable without cooperating neatly with each other.
+
+The Joneses’ competence and paranoia can coexist. A Jones may correctly notice conflicting instructions and supply a wildly excessive explanation. Their shared appearance does not require shared reactions, simultaneous speech or a fixed headcount.
+
+**The Elvi and Chanta: help that outruns permission.**  
+An Elvis acting before Chanta has decided what to do would preserve the gathering’s independent agency. Chanta can find himself committed to a crossing because his protectors have already made one possible.
+
+**The disc intervention**
+
+This is the mechanical choice that most needs specificity during development.
+
+A useful working design is **a local, physically disruptive effect at the access point**: enough to break the confrontation and permit passage, while leaving the Traverse operational. Possible consequences include displaced footing, a damaged obstruction or a short interruption of the guards’ ability to hold their position.
+
+Choose the effect according to established disc behaviour when drafting. Avoid bundling several convenient powers into the same throw. The reader needs to understand:
+
+- what the Elvis aims to affect;
+- what visibly happens;
+- why that permits the party to proceed;
+- what disturbance can plausibly register elsewhere.
+
+The disc use should not automatically switch off every security system. Nor should it require the party to travel through transport machinery they have just destroyed.
+
+**The bunker response**
+
+The useful distinction is between **security admission** and **emergency egress**. A seismic response can release designated escape paths without granting Chanta access to laboratories or disabling the installation’s remaining internal controls.
+
+The earlier proposal that observers misattribute the disturbance to the Washing Machine remains available. It offers dramatic irony: the reader has seen the disc use, while people underground have a recently restarted apparatus to suspect. That interpretation should belong to whoever makes it; the narrator need not endorse it.
+
+Concrete manifestations could be modest:
+
+- a warning changing state;
+- an audible release;
+- a door previously held becoming available;
+- a display identifying an evacuation condition.
+
+One or two effects can establish the change. An explanation of the entire safety architecture would spend attention the characters do not have.
+
+**Concrete handles and modular incidents**
+
+- The High Elvis waking Chanta without the ceremony his title might suggest.
+- Chanta trying to understand an urgent report before he is properly awake.
+- Staff carrying the ordinary paraphernalia of being called into work.
+- An admitted employee trying very hard not to become involved in the argument behind them.
+- A Jones asking who issued an instruction, then asking who authorised that person.
+- Elvi arriving with instruments or belongings gathered from their overnight position.
+- The guitar cases finally yielding something more consequential than guitars.
+- A disc-user having to make companions move out of the way.
+- The physical aftermath persisting as people board: an awkward step, displaced equipment, somebody retrieving an object.
+- A polite transport announcement continuing as though its passengers had arrived normally.
+- Chanta trying to call Sarah once aboard, while others offer competing accounts of what just happened.
+- The bunker’s quiet mechanical release contrasting with the noisy dispute that caused it.
+
+**Later seeds and limits**
+
+- Preserve Sarah’s earlier reassurance as sincere. Changed circumstances provide the reason to act.
+- Establish who can recognise the Traverse entrance and what they actually know about its destination.
+- Keep the disc action local and the crossing physically possible.
+- The whole Jones contingent accompanies Chanta; tie colours do not establish numbers.
+- The egress release overlaps Sarah’s preparations to leave and her conversation with Kathy. This chapter can establish the release without retelling that conversation.
+- The chapter’s arrival point is the Ruined Castle security zone. Containment, further demands for Sarah and later admission remain subsequent developments.

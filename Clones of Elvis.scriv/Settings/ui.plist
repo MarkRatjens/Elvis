@@ -24,7 +24,7 @@
 		</array>
 		<key>2655DDF6-4AB8-42CB-A433-1CD76FC351D2</key>
 		<array>
-			<string>FF5301DC-B29E-4217-847D-ED5618686D3F</string>
+			<string>CD9825D5-8519-4B96-B8EC-6083F1B3A840</string>
 		</array>
 		<key>332095B9-1CE1-49DD-B826-E1E5A1FBFC9D</key>
 		<array>
@@ -362,8 +362,8 @@
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {339, 889}}</string>
-		<string>{{340, 0}, {1172, 889}}</string>
+		<string>{{0, 0}, {356.5, 889}}</string>
+		<string>{{357.5, 0}, {1154.5, 889}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -605,6 +605,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>18A0FD71-DEE3-4F97-9FBE-92D760E61F20</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>18AA758E-A792-4B4A-A0AB-00974B6ADB5E</key>
 		<dict>
 			<key>Row</key>
@@ -836,6 +841,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>2ECC1FD8-A47A-489B-89A7-24F265DB8D0B</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>2F281AD1-D355-4B28-889C-371A9DCF218B</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -2355,6 +2365,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>D4F97657-1F42-434A-AD51-A03E6EF2FE54</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>D5439FEF-0D74-4586-8A7A-735DA246537C</key>
 		<dict>
 			<key>Row</key>
@@ -2537,6 +2552,11 @@
 			<key>Row</key>
 			<integer>0</integer>
 		</dict>
+		<key>E59C0BF0-042E-4AF5-BE53-FF1DE9E207A8</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>E5EF7E9E-9F32-4C76-9127-0238F5DDC6A2</key>
 		<dict>
 			<key>Row</key>
@@ -2588,6 +2608,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>E9669DD3-DC32-4C4E-A065-E720A8226D90</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>EA392611-32EC-495F-BAEB-EC507E2B1C9A</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -2939,8 +2964,8 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {898, 859}}</string>
-		<string>{{899, 0}, {273, 859}}</string>
+		<string>{{0, 0}, {832.5, 859}}</string>
+		<string>{{833.5, 0}, {321, 859}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>229.5</real>
@@ -3066,7 +3091,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>307</real>
+			<real>324.5</real>
 		</dict>
 	</dict>
 	<key>selectedCollectionTabIndex</key>

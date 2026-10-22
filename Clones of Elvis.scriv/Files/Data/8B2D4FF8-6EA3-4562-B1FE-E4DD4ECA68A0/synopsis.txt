@@ -1,0 +1,83 @@
+**Development kit: “Escape from the auditorium” → “Hayley boots up the bunker command post”**
+
+The existing prose leaves all seven in the service tunnel: Bala, Eloise, Alexander, Sarah, Kathy, Hayley and Chip. Bala has freed Eloise and acknowledged causing the blackout; Hayley has destroyed Alexander’s device. Their destination is already agreed. The material below develops the passage from that point through establishing themselves underground and bringing the command post into use.
+
+**Engine**
+
+They need Eloise’s refuge, but reaching it returns them to the infrastructure through which she previously controlled them. Eloise instinctively resumes giving orders. Hayley needs those orders to get them somewhere defensible, while making sure their rescue does not end with Alexander comfortably accommodated and everyone else back under Eloise’s authority. Sarah needs somewhere to sit down without becoming somebody’s patient, prisoner or responsibility again.
+
+Alexander remains convinced he has something useful to contribute. The immediate problem is that other people might still agree with him.
+
+**Causal spine — proposed development**
+
+1. **Bala leads them towards the office station.** The route can largely pass in compression. The useful particulars are those that affect the group: Sarah’s pace, Alexander’s attempts to speak to somebody, and Eloise’s growing impatience with being conducted through her own installation.
+
+2. **A contact with underground personnel tests Eloise’s remaining authority.** Recognition alone need not resolve the incongruity of her arriving with Alexander at gunpoint. Eloise has to make an unambiguous instruction about her son. One such exchange can establish that the underground staff have not joined his surface supporters.
+
+3. **The Traverse gives them their first enforced pause.** They are briefly passengers together after the broadcast. Sarah can sit; Hayley still has to watch Alexander; Chip cannot escape the company of the woman whose imprisonment his interview helped bring about. Eloise has time to start asking questions nobody wants to answer.
+
+4. **Arrival turns “somewhere safe” into actual arrangements.** Accommodation, Alexander’s custody, access to communications and Sarah’s immediate needs must now be handled. Eloise starts allocating people as though the emergency has restored the ordinary chain of command.
+
+5. **Alexander’s confinement makes that assumption contested.** Hayley wants effective custody. Eloise may want discretion, control over who handles him, or freedom from hearing him. Sarah has reason to insist that his access to her is not for either of them to negotiate.
+
+6. **Kathy creates a little room for Sarah to stop.** Practical attention—somewhere comfortable, water, privacy—can interrupt the argument without resolving it. Sarah remains involved in decisions. Chip’s freedom also needs to become clear through what he is allowed to do next.
+
+7. **Hayley asks to see what is happening above them.** Eloise’s assurances cannot answer which guards are following whom, what the public is doing, or whether anyone is coming down after them. That need takes them to the bunker command post.
+
+8. **Hayley brings the post into use and begins selecting information.** The displays turn an indistinct emergency into several different situations: the dark auditorium, the continuing carpark concert, the closed entrance, functioning security and the UDF outside. They have gained shelter and visibility. What they can actually command remains more complicated.
+
+**Concrete handles**
+
+- **The remaining adhesive on Eloise’s wrists.** She can be giving instructions while still picking at it. The evidence of her humiliation persists after she has recovered her manner.
+- **Hayley’s gun becoming inconvenient.** Keeping Alexander covered while using doors, boarding transport and helping anyone else is work. Handing him into custody should feel like a practical relief.
+- **A seat on the Traverse.** Sarah gets first claim without a ceremony. Alexander might sit automatically, then discover that his present circumstances include standing up again.
+- **Their appearance under ordinary lighting.** Backstage darkness concealed the aftermath. Clean underground lighting reveals damaged clothes, fatigue, adhesive and faces nobody has yet had time to compose.
+- **Bala’s maintenance knowledge.** He knows how to get somewhere and which facilities are actually usable. Eloise knows what the installation is supposed to provide.
+- **Bala’s family.** His call to Tiki is already established in the parallel rendezvous passage. A brief check for a reply or confirmation that Tiki is indoors gives Bala a concern beyond continuing to escort these people.
+- **Accommodation designed by an arms manufacturer.** A room may provide excellent protection from external threats and surprisingly little privacy from whoever owns it.
+- **A security camera in Alexander’s confinement.** It is the first available camera nobody wants him to perform for.
+- **The command-post chair.** Hayley taking the working position can establish more than an argument about who is in charge.
+- **A live view of the carpark.** People have escaped a televised execution and are now watching Elvi. The Sages with ukuleles are already established there.
+- **Chip’s freedom of movement.** His pass working, his being consulted rather than escorted, or simply nobody stopping him can carry this without a formal pardon.
+
+**Character collisions**
+
+**Eloise and Hayley: ownership versus immediate competence.**  
+Eloise has the installation, authority and knowledge. Hayley has just kept her alive and is still managing the armed prisoner. Their cooperation can be abrasive without turning into another large confrontation. Eloise gives an instruction; Hayley asks the practical question that instruction omitted.
+
+The command post is a productive place for this. Eloise may initially treat Hayley as someone to whom information will be supplied. Hayley wants to operate the system herself. Access can be granted for a specific practical purpose without transferring the whole corporation to her.
+
+**Eloise and Chip: neither has clean hands.**  
+Chip’s guilt is already on the page. Eloise imprisoned him; Alexander exploited his truthful warnings. Their next exchange has that history underneath it.
+
+A useful possibility is Eloise asking whether anything he said was untrue. His answer could leave her without the accusation she wanted to make. Equally, Chip need not deliver a defence immediately: being asked for technical help by the person who locked him up carries its own discomfort.
+
+**Sarah and Kathy: care without disappearance.**  
+Kathy notices what the others are making Sarah endure. Sarah notices when care becomes another conversation conducted over her head. Their intimacy allows Kathy to be brisk rather than reverential. Keep the consequential goodbye between them for its later place.
+
+**Alexander and his custodians: captivity mistaken for negotiation.**  
+He can accept that people are angry while remaining certain this can be managed through credits, explanations, interviews or access to Sarah. He need not recognise the moral seriousness of what happened to recognise that he needs a phone.
+
+**Modular possibilities**
+
+These are optional pieces of material, not additional required events.
+
+- **Alexander attempts to recognise a staff member.** He remembers a face, invents a familiarity, offers a future appearance. The employee’s response helps establish whether he has influence here.
+- **Eloise specifies an unusually comfortable confinement.** Hayley examines whether it actually confines him. Their disagreement can concern a connecting door, communications or visitors rather than prison philosophy.
+- **Alexander addresses the security camera.** Hayley checks that nobody has enabled two-way audio. Eloise may be more interested in disabling the sound than the picture.
+- **Bala corrects a facility assumption.** The room Eloise requests is unavailable for a mundane maintenance reason. Its actual readiness briefly matters more than her preference.
+- **Someone offers refreshment to the wrong person first.** Ordinary deference to the Shakti name survives the circumstances. Sarah’s needs or Hayley’s response expose it.
+- **Eloise wants one feed; Hayley wants several.** Eloise looks for particular disloyal employees. Hayley looks at routes, movements and the condition of the people left upstairs.
+- **The concert intrudes on the command post.** An enabled audio feed fills the room with music at an inappropriate volume. Alexander, already confined, might be the only person who would have considered this an improvement.
+- **A mundane question lands after the danger.** Clothes, food, a bathroom, Bala’s children. Let the practical need have its full importance to the person asking.
+
+**Boundaries and later seeds**
+
+- Carry the route already established: service tunnel → office station → Traverse → Ruined Castle. No new escape passage is needed.
+- The blackout affected the auditorium. Underground power and security do not need restoring.
+- Alexander’s custody should be credible now. His later escape need not be prepared by an obvious unlocked door.
+- Establish enough of accommodation, command facilities and their connections for later movement to feel familiar; avoid a guided tour.
+- Hayley gaining useful access does not mean every Shakti guard or system obeys her.
+- Leave Johnny’s work outside this passage unless a specific observation earns its inclusion.
+- Chanta’s arrival comes later. The command post makes their subsequent awareness and response possible.
+- Preserve the distinction between being sheltered, being free and being in control. Different members of this group have achieved different combinations of those things.
