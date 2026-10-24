@@ -24,7 +24,7 @@
 		</array>
 		<key>2655DDF6-4AB8-42CB-A433-1CD76FC351D2</key>
 		<array>
-			<string>3CA9D7D3-E1D0-4BD4-A4BF-284381E462A3</string>
+			<string>0451B146-E2B7-4B8C-A75C-8F86C22E750B</string>
 		</array>
 		<key>332095B9-1CE1-49DD-B826-E1E5A1FBFC9D</key>
 		<array>
@@ -636,6 +636,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>1732E6D6-D709-4159-90D2-4B19B49F5E9B</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>1803AF89-BE01-4822-B43E-7373BF440FA5</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -2936,7 +2941,7 @@
 	<true/>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
-		<integer>1</integer>
+		<integer>9</integer>
 	</array>
 	<key>collectionsHeight</key>
 	<real>100</real>
@@ -3146,7 +3151,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>186</real>
+			<real>320.5</real>
 		</dict>
 	</dict>
 	<key>selectedCollectionTabIndex</key>
