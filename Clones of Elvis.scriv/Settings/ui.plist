@@ -24,7 +24,7 @@
 		</array>
 		<key>2655DDF6-4AB8-42CB-A433-1CD76FC351D2</key>
 		<array>
-			<string>4655C5DA-274B-4205-94A4-CE2AE01A3AEE</string>
+			<string>3CA9D7D3-E1D0-4BD4-A4BF-284381E462A3</string>
 		</array>
 		<key>332095B9-1CE1-49DD-B826-E1E5A1FBFC9D</key>
 		<array>
@@ -256,6 +256,51 @@
 			<key>WindowFrame</key>
 			<string>482 62 555 726 0 0 1440 875 </string>
 		</dict>
+		<key>94EFCE41-BEFE-4A3E-89C0-D6BFA7F61DB4</key>
+		<dict>
+			<key>BinderUUID</key>
+			<string>94EFCE41-BEFE-4A3E-89C0-D6BFA7F61DB4</string>
+			<key>CurrentMetaData</key>
+			<integer>-1</integer>
+			<key>MainPaneWidth</key>
+			<real>475</real>
+			<key>ProjectBookmarksSplitInfo</key>
+			<array>
+				<string>{{0, 0}, {228, 495}}</string>
+				<string>{{229, 0}, {449, 495}}</string>
+			</array>
+			<key>ProjectBookmarksVisible</key>
+			<false/>
+			<key>ShowsFormatBar</key>
+			<true/>
+			<key>ShowsMetaData</key>
+			<false/>
+			<key>SplitInfo</key>
+			<array>
+				<string>{{0, 272}, {475, 168}}</string>
+			</array>
+			<key>TextSettings</key>
+			<dict>
+				<key>hasMultiplePages</key>
+				<false/>
+				<key>isRulerVisible</key>
+				<false/>
+				<key>lineNumberingInterval</key>
+				<integer>1</integer>
+				<key>showsLineNumbers</key>
+				<false/>
+				<key>textFocusMode</key>
+				<integer>0</integer>
+				<key>textScaleFactor</key>
+				<real>1</real>
+				<key>usesFacingPages</key>
+				<false/>
+				<key>usesTypewriterScrolling</key>
+				<false/>
+			</dict>
+			<key>WindowFrame</key>
+			<string>518 312 475 532 0 0 1512 949 </string>
+		</dict>
 		<key>A14FCA71-BF0C-457D-8893-EA84AD6C806C</key>
 		<dict>
 			<key>BinderUUID</key>
@@ -362,8 +407,8 @@
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {349.5, 889}}</string>
-		<string>{{350.5, 0}, {1161.5, 889}}</string>
+		<string>{{0, 0}, {352.5, 889}}</string>
+		<string>{{353.5, 0}, {1158.5, 889}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -2891,7 +2936,7 @@
 	<true/>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
-		<integer>13</integer>
+		<integer>1</integer>
 	</array>
 	<key>collectionsHeight</key>
 	<real>100</real>
@@ -2974,8 +3019,8 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {731.5, 859}}</string>
-		<string>{{732.5, 0}, {429, 859}}</string>
+		<string>{{0, 0}, {754, 859}}</string>
+		<string>{{755, 0}, {403.5, 859}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>229.5</real>
@@ -3052,7 +3097,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, -21.333333333333332}, {291.33333333333331, 532.66666666666663}}</string>
+	<string>{{0, 403.33333333333331}, {532, 532.66666666666674}}</string>
 	<key>mainDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -3101,7 +3146,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>143</real>
+			<real>186</real>
 		</dict>
 	</dict>
 	<key>selectedCollectionTabIndex</key>
@@ -3165,7 +3210,7 @@
 		<string>{{0, 400.5}, {553, 399.5}}</string>
 	</array>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {533.33333333333326, 532.66666666666663}}</string>
+	<string>{{0, 0}, {282.66666666666663, 532.66666666666663}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
 	<string>{4263, 0}</string>
 	<key>supportingDocumentEditor.textEditorState</key>

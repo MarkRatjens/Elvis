@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-10-23 14:04:22 +1100" ModID="D556A97D-7D59-4653-BA64-5C4A0B60697C">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-10-24 13:20:44 +1100" ModID="F837C7A0-DDA1-4242-8365-63D794588E51">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -1716,7 +1716,7 @@
                                                 <NotesTextSelection>15,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>3576,0</TextSelection>
+                                                <TextSelection>1194,54</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="1A415D51-F300-4F51-BA2D-32F0C226B8CA" Type="Text" Created="2022-10-21 12:34:35 +1100" Modified="2026-10-06 12:50:19 +1100">
@@ -2952,9 +2952,6 @@
                 </BinderItem>
                 <BinderItem UUID="7657BFD7-C8DE-47FF-B632-0D8EB6564A70" Type="Folder" Created="2026-10-14 14:10:11 +1100" Modified="2026-10-14 14:10:15 +1100">
                     <Title>Book 3</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
@@ -2963,6 +2960,7 @@
                             <Title>Lazy duck grease let the rice stay hot</Title>
                             <MetaData>
                                 <LabelID>7</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,1640</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
@@ -2988,7 +2986,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="A24483AB-B2E7-47F5-A038-FE4AE677A715" Type="Text" Created="2026-08-08 17:54:26 +1000" Modified="2026-10-19 16:42:09 +1100">
+                                        <BinderItem UUID="A24483AB-B2E7-47F5-A038-FE4AE677A715" Type="Text" Created="2026-08-08 17:54:26 +1000" Modified="2026-10-23 18:17:05 +1100">
                                             <Title>Jamison Hardy</Title>
                                             <MetaData>
                                                 <LabelID>8</LabelID>
@@ -3000,7 +2998,7 @@
                                                 <TextSelection>1400,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="9758E9D0-045B-49E6-B0F5-3183070BA292" Type="Text" Created="2026-08-10 16:55:41 +1000" Modified="2026-09-18 21:52:31 +1000">
+                                        <BinderItem UUID="9758E9D0-045B-49E6-B0F5-3183070BA292" Type="Text" Created="2026-08-10 16:55:41 +1000" Modified="2026-10-23 18:27:12 +1100">
                                             <Title>Mama koka</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
@@ -3011,7 +3009,7 @@
                                                 <TextSelection>2508,6</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="0FF0BCA2-4D0D-4891-B171-EAC6CBB1FE67" Type="Text" Created="2026-08-10 16:55:41 +1000" Modified="2026-09-17 14:52:27 +1000">
+                                        <BinderItem UUID="0FF0BCA2-4D0D-4891-B171-EAC6CBB1FE67" Type="Text" Created="2026-08-10 16:55:41 +1000" Modified="2026-10-23 18:30:39 +1100">
                                             <Title>Twelve juniors, seven hours</Title>
                                             <MetaData>
                                                 <LabelID>7</LabelID>
@@ -3029,12 +3027,13 @@
                                     <MetaData>
                                         <LabelID>2</LabelID>
                                         <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="D5439FEF-0D74-4586-8A7A-735DA246537C" Type="Text" Created="2026-08-30 15:00:55 +1000" Modified="2026-09-17 14:52:04 +1000">
+                                        <BinderItem UUID="D5439FEF-0D74-4586-8A7A-735DA246537C" Type="Text" Created="2026-08-30 15:00:55 +1000" Modified="2026-10-24 11:44:04 +1100">
                                             <Title>Kathy Investigates the cause of deaths</Title>
                                             <MetaData>
                                                 <LabelID>9</LabelID>
@@ -3042,18 +3041,19 @@
                                                 <NotesTextSelection>122,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>6379,0</TextSelection>
+                                                <TextSelection>5150,5</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="DB8939A5-B5F1-41A3-B70A-FC1D3E115D4A" Type="Text" Created="2026-07-08 17:04:45 +1000" Modified="2026-09-19 10:04:41 +1000">
+                                        <BinderItem UUID="DB8939A5-B5F1-41A3-B70A-FC1D3E115D4A" Type="Text" Created="2026-07-08 17:04:45 +1000" Modified="2026-10-23 18:38:30 +1100">
                                             <Title>The Inauguration of the new High Elvis</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>4849,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>4210,0</TextSelection>
+                                                <TextSelection>2805,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="D892A5FE-03F9-41D5-A740-751DF0E0CEC0" Type="Text" Created="2026-07-08 17:04:45 +1000" Modified="2026-09-17 14:51:58 +1000">
@@ -3061,6 +3061,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>4849,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
@@ -3122,6 +3123,7 @@
                                     <MetaData>
                                         <LabelID>2</LabelID>
                                         <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -3132,6 +3134,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>2643,22</TextSelection>
@@ -3142,6 +3145,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>79,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
@@ -3153,6 +3157,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>4997,6</TextSelection>
@@ -3177,6 +3182,7 @@
                                     <MetaData>
                                         <LabelID>2</LabelID>
                                         <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -3227,6 +3233,7 @@
                                     <MetaData>
                                         <LabelID>2</LabelID>
                                         <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>823,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
@@ -3238,6 +3245,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>4768,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
@@ -3249,6 +3257,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>50,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
@@ -3260,6 +3269,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>1,4236</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
@@ -3318,9 +3328,10 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="EA392611-32EC-495F-BAEB-EC507E2B1C9A" Type="Folder" Created="2026-10-20 17:03:21 +1100" Modified="2026-10-23 10:51:53 +1100">
+                        <BinderItem UUID="EA392611-32EC-495F-BAEB-EC507E2B1C9A" Type="Folder" Created="2026-10-20 17:03:21 +1100" Modified="2026-10-23 18:08:33 +1100">
                             <Title>Sublime Point</Title>
                             <MetaData>
+                                <LabelID>7</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
@@ -3332,6 +3343,7 @@
                                     <MetaData>
                                         <LabelID>2</LabelID>
                                         <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>101,0</TextSelection>
@@ -3342,6 +3354,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>213,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
@@ -3353,6 +3366,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
@@ -3367,7 +3381,7 @@
                                                 <NotesTextSelection>980,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,1905</TextSelection>
+                                                <TextSelection>1362,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -3377,6 +3391,7 @@
                                     <MetaData>
                                         <LabelID>2</LabelID>
                                         <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -3387,6 +3402,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>8299,1857</TextSelection>
@@ -3411,6 +3427,7 @@
                                     <MetaData>
                                         <LabelID>2</LabelID>
                                         <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -3421,6 +3438,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>259,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
@@ -3432,6 +3450,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>34,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
@@ -3445,6 +3464,7 @@
                                     <MetaData>
                                         <LabelID>2</LabelID>
                                         <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>1025,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
@@ -3466,6 +3486,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>1569,0</TextSelection>
@@ -3476,6 +3497,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>33</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>681,0</TextSelection>
@@ -3488,6 +3510,7 @@
                                     <MetaData>
                                         <LabelID>2</LabelID>
                                         <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>15177,6</TextSelection>
@@ -3498,6 +3521,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>7352,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
@@ -3509,6 +3533,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>5302,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
@@ -3533,6 +3558,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>220,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
@@ -3544,6 +3570,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>210,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
@@ -3555,6 +3582,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>21,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
@@ -3566,6 +3594,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>2201,0</TextSelection>
@@ -3575,9 +3604,10 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="2F281AD1-D355-4B28-889C-371A9DCF218B" Type="Folder" Created="2026-10-20 17:03:21 +1100" Modified="2026-10-22 18:44:33 +1100">
+                        <BinderItem UUID="2F281AD1-D355-4B28-889C-371A9DCF218B" Type="Folder" Created="2026-10-20 17:03:21 +1100" Modified="2026-10-23 18:08:52 +1100">
                             <Title>Ascension Eve</Title>
                             <MetaData>
+                                <LabelID>7</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
@@ -3589,6 +3619,7 @@
                                     <MetaData>
                                         <LabelID>2</LabelID>
                                         <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -3633,6 +3664,7 @@
                                     <MetaData>
                                         <LabelID>2</LabelID>
                                         <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -3643,6 +3675,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>5523,0</TextSelection>
@@ -3677,6 +3710,7 @@
                                     <MetaData>
                                         <LabelID>2</LabelID>
                                         <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>1864,8</TextSelection>
@@ -3769,6 +3803,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>6469,0</TextSelection>
@@ -3779,6 +3814,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>2498,0</TextSelection>
@@ -3789,6 +3825,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>1057,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
@@ -3800,6 +3837,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>359,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
@@ -3823,6 +3861,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>28</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>1274,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
@@ -3870,6 +3909,7 @@
                                     <Title>Please Don’t Start Shoving Me</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>1743,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
@@ -3916,6 +3956,7 @@
                                     <Title>Chanta and the Jones Clones</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -3926,6 +3967,7 @@
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>33</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>730,0</TextSelection>
@@ -3937,9 +3979,6 @@
                         </BinderItem>
                         <BinderItem UUID="B2F5D823-BEDA-4D02-8237-53F36B29729E" Type="Folder" Created="2026-10-22 18:42:59 +1100" Modified="2026-10-22 18:44:49 +1100">
                             <Title>Ascension Day</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
@@ -3953,36 +3992,24 @@
                                         <TextSelection>4493,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="E144A631-933F-4BBA-9D46-6C0821DA251D" Type="Text" Created="2026-10-10 18:01:32 +1100" Modified="2026-10-23 14:04:22 +1100">
-                                            <Title>Johnny orders everyone to work</Title>
+                                        <BinderItem UUID="E144A631-933F-4BBA-9D46-6C0821DA251D" Type="Text" Created="2026-10-10 18:01:32 +1100" Modified="2026-10-23 14:46:26 +1100">
+                                            <Title>Johnny completes the Gyges subscription</Title>
                                             <MetaData>
                                                 <SectionType>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</SectionType>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                                <NotesTextSelection>698,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1079,0</TextSelection>
+                                                <TextSelection>2390,35</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="5DF19BCF-07DD-44E9-992A-C60BE58DC067" Type="Text" Created="2026-10-10 18:02:02 +1100" Modified="2026-10-10 18:02:13 +1100">
-                                            <Title>Little Clinton wakes Sarah</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="E59C0BF0-042E-4AF5-BE53-FF1DE9E207A8" Type="Text" Created="2026-10-20 23:38:50 +1100" Modified="2026-10-23 10:21:26 +1100">
+                                        <BinderItem UUID="E59C0BF0-042E-4AF5-BE53-FF1DE9E207A8" Type="Text" Created="2026-10-20 23:38:50 +1100" Modified="2026-10-24 13:20:44 +1100">
                                             <Title>Sarah prepares to leave the bunker for the Ironing Room; last conversation with Kathy</Title>
                                             <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>0,340</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
+                                                <TextSelection>4500,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -3991,7 +4018,6 @@
                                     <Title>Chanta &amp; the Traverse</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
@@ -3999,9 +4025,6 @@
                                 </BinderItem>
                                 <BinderItem UUID="F1201A31-4A21-4DFE-9890-D8F3395B7040" Type="Folder" Created="2026-10-10 18:06:26 +1100" Modified="2026-10-10 18:06:26 +1100">
                                     <Title>New Folder</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
@@ -4018,9 +4041,6 @@
                                         </BinderItem>
                                         <BinderItem UUID="04F21FFE-E6F4-43B4-AFB0-540B35AF4B30" Type="Text" Created="2026-10-10 18:12:27 +1100" Modified="2026-10-10 18:12:33 +1100">
                                             <Title>MoSES Drone Light show begins</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
@@ -4061,7 +4081,6 @@
                                             <Title>Fridge Force drones attack</Title>
                                             <MetaData>
                                                 <StatusID>33</StatusID>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                                 <NotesTextSelection>0,12</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
@@ -4070,9 +4089,6 @@
                                         </BinderItem>
                                         <BinderItem UUID="FDAA7E14-8B0C-4003-B0B2-C642552F296B" Type="Text" Created="2026-09-18 16:44:27 +1000" Modified="2026-09-18 17:06:38 +1000">
                                             <Title>MoSES drones inflitrate Sublime Point</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
                                             <TextSettings>
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
@@ -4103,7 +4119,6 @@
                                             <Title>Johnny vs Chip</Title>
                                             <MetaData>
                                                 <StatusID>33</StatusID>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>4484,0</TextSelection>
@@ -4121,9 +4136,6 @@
                                         </BinderItem>
                                         <BinderItem UUID="86262381-5DC0-4D57-B0FA-6FAA4D187C37" Type="Text" Created="2026-10-07 17:49:17 +1100" Modified="2026-10-14 13:58:58 +1100">
                                             <Title>Where everyone is at the final instant</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
                                             <TextSettings>
                                                 <TextSelection>389,0</TextSelection>
                                             </TextSettings>
@@ -4815,7 +4827,7 @@
                                 <NotesTextSelection>106,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>823,452</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="EB30104B-CCAC-413A-BB59-4BB7AF2FFFB2" Type="Text" Created="2022-10-08 12:15:37 +1100" Modified="2026-09-19 10:04:41 +1000">
@@ -4871,7 +4883,7 @@
                         <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>470,0</TextSelection>
+                        <TextSelection>0,95129</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="82FEFF35-271D-4AE3-9853-390C75BEFC63" Type="Text" Created="2022-07-01 16:19:31 +1000" Modified="2026-08-06 10:25:47 +1000">
@@ -4922,7 +4934,7 @@
                         <IndexCardBinderUUID Position="1.083916,1.93986" TimeStamp="2023-04-10 16:16:21 +1000">C941BC3E-6CB1-4C6F-85C2-627D568AC096</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="2.248252,1.322378" TimeStamp="2023-04-10 16:16:21 +1000">6089D095-2834-4369-937C-511ADA7A6A13</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="2.248252,0.673427" TimeStamp="2023-04-10 16:16:21 +1000">8CEBCECC-8A20-4904-AA7D-E5291FCE1E30</IndexCardBinderUUID>
-                        <IndexCardBinderUUID Position="0.059441,1.374825" TimeStamp="2023-04-10 16:16:21 +1000">D2B7E2CA-B86D-48AE-95C2-DD3534ABC84B</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="3.258741,0.673427" TimeStamp="2023-04-10 16:16:21 +1000">EA83A6D0-37D3-4C4E-8218-6D302CC91630</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="2.167832,0.08042" TimeStamp="2023-04-10 16:16:21 +1000">6C9BD06D-4DD7-48F3-B6DD-4067679ED7CB</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="4.328671,1.346853" TimeStamp="2023-04-10 16:16:21 +1000">65A7DCD4-8B8D-4D52-8726-E1F5922B0297</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="4.286713,0.087413" TimeStamp="2023-04-10 16:16:21 +1000">643655C6-6D84-4106-9CE0-9867DD45C7BC</IndexCardBinderUUID>
@@ -4936,7 +4948,7 @@
                         <IndexCardBinderUUID Position="0.059441,1.93986" TimeStamp="2023-04-10 16:16:21 +1000">2B2D5DA4-5CDA-4445-8985-576563A24D80</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="2.237762,1.988811" TimeStamp="2023-04-10 16:16:21 +1000">DA0694DC-E72A-49C3-A142-967FC147A466</IndexCardBinderUUID>
                         <IndexCardBinderUUID Position="3.13986,1.985315" TimeStamp="2023-04-10 16:16:21 +1000">4F95C2E7-93A1-4DE1-9515-CB1AB3A472CF</IndexCardBinderUUID>
-                        <IndexCardBinderUUID Position="3.258741,0.673427" TimeStamp="2023-04-10 16:16:21 +1000">EA83A6D0-37D3-4C4E-8218-6D302CC91630</IndexCardBinderUUID>
+                        <IndexCardBinderUUID Position="0.059441,1.374825" TimeStamp="2023-04-10 16:16:21 +1000">D2B7E2CA-B86D-48AE-95C2-DD3534ABC84B</IndexCardBinderUUID>
                     </FreeformCorkboardDocuments>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
@@ -5681,13 +5693,19 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="5DF19BCF-07DD-44E9-992A-C60BE58DC067" Type="Text" Created="2026-10-10 18:02:02 +1100" Modified="2026-10-10 18:02:13 +1100">
+                    <Title>Little Clinton wakes Sarah</Title>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
     <Collections>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="WholeWord" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">budget</SearchSettings>
+            <SearchSettings Operator="WholeWord" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">Rosetta</SearchSettings>
         </Collection>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
             <Title>Binder</Title>
@@ -5953,14 +5971,14 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-10-24 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="733" Characters="4624" Date="2026-10-23 10:20:24 +1100"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-10-25 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2026-10-24 12:15:33 +1100"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-10-23 00:00:00 +1100">
-        <DraftWordCount>733</DraftWordCount>
-        <DraftCharCount>4620</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2026-10-24 00:00:00 +1100">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>215</OtherWordCount>
+        <OtherCharCount>1091</OtherCharCount>
     </RecentWritingHistory>
-    <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="2A3CF4E0-BBF6-41A4-998A-67C3C1884687" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+    <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="42E645E5-F8CC-4776-B54D-1E028FE9CA3D" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
