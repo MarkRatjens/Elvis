@@ -2963,7 +2963,7 @@
 	<true/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{426, 0}, {424.5, 859}}</string>
+		<string>{{0, 0}, {547, 227}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>0</integer>
@@ -3024,8 +3024,8 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {754, 859}}</string>
-		<string>{{755, 0}, {403.5, 859}}</string>
+		<string>{{0, 0}, {757, 859}}</string>
+		<string>{{758, 0}, {400.5, 859}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>229.5</real>
