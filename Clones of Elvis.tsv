@@ -744,7 +744,7 @@ End is before start of Recording is not going well -42 minutes"	""		""	""	"Tony 
 Start is after end of Tony & the Elvisettes 42 minutes"	""		"Tony Chantara"	"Tony Chantara"	""	""	""	""	""	""	""	""		
 "Event"	"Tony & the Elvi research the Dawkins"	"EV246"	"Tony & the Elvi research the D"		105		#9FA8DA		False	2370-07-15 00:53:44			2370-07-15 01:35:44	"42 minutes"		""	""	""	"End is before start of The Inauguration of the High E 0 seconds
 Start is after end of Recording is not going well 0 seconds"	""		"Tony Chantara"	"Tony Chantara"	""	""	"TPlus viral transmission"	"TPlus viral transmission"	""	""	""	""		
-"Event"	"Johnny searches for the Rosetta Rock"	"EV364"	"Johnny searches for the Rosett"		106		"Pink"		False	2370-07-15 09:49:42			2370-07-15 10:49:42	"1 hour"		""	""	""	"Start is after end of Eloise hires Chip 1 day
+"Event"	"Johnny searches for the Rosetta Rock"	"EV364"	"Johnny searches for the Rosett"		106		#9FA8DA		False	2370-07-15 09:49:42			2370-07-15 10:49:42	"1 hour"		""	""	""	"Start is after end of Eloise hires Chip 1 day
 End is before start of Chip's Integration into Projec 0 seconds"	""		"Dr Kathy Logan
 Eloise Shakti
 Chilo Damagetus
@@ -795,7 +795,7 @@ TPlus viral transmission"	""	""	""	""
 "Event"	"Dunilton & Gerry review a vid of the inauguration"	"EV230"	"Dunilton & Gerry review a vid "		109		#9FA8DA		False	2370-08-09 08:57			2370-08-09 08:57	"0 seconds"		""	""	""	"End is before start of Dunhilton reconvenes the war c 0 seconds
 Start is after end of The Inauguration of the High E 1 day
 End is before start of Gerry acquires the TMinusVirus 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Gerry acquires the TMinusVirus"	"EV8"	"Gerry acquires the TMinusVirus"		110		"Pink"		False	2370-08-11 14:15			2370-08-11 14:57	"42 minutes"		""	""	""	"Start is after end of Ajent hones in on Gerry 0 seconds
+"Event"	"Gerry acquires the TMinusVirus"	"EV8"	"Gerry acquires the TMinusVirus"		110		#9FA8DA		False	2370-08-11 14:15			2370-08-11 14:57	"42 minutes"		""	""	""	"Start is after end of Ajent hones in on Gerry 0 seconds
 Start is after end of Gerry acquires the bomb site 28 days
 End is before start of Dunhilton & Hardman review the 0 seconds
 Start is after end of Ajent infiltrates the digging  0 seconds
@@ -908,7 +908,7 @@ Piotr Dunhilton"	""	""	""	""	"St Hedge’s Cathedral"	"St Hedge’s Cathedral"	"
 "Event"	"Chanta  finds Jamison's penthouse"	"EV148"	"Chanta  finds Jamison's pentho"		119		#9FA8DA		False	2370-09-06 09:39			2370-09-06 12:39	"3 hours"		""	""	""	"Start is after end of Chanta goes back to his old ap 42 minutes"	""		"Tony Chantara"	"Tony Chantara"	""	""	"Tony’s Inheritance
 TPlus viral transmission"	"Tony’s Inheritance
 TPlus viral transmission"	"Starborne One"	"Starborne One"	""	""		
-"Event"	"Dunhilton reconvenes the war cabinet"	"EV104"	"Dunhilton reconvenes the war c"		120		"Pink"		False	2370-09-06 10:09			2370-09-06 10:51	"42 minutes"		""	""	""	"Start is after end of Dunhilton & Hardman review the 0 seconds
+"Event"	"Dunhilton reconvenes the war cabinet"	"EV104"	"Dunhilton reconvenes the war c"		120		#9FA8DA		False	2370-09-06 10:09			2370-09-06 10:51	"42 minutes"		""	""	""	"Start is after end of Dunhilton & Hardman review the 0 seconds
 Start is after end of The Inauguration of the High E 0 seconds
 Start is after end of Dunilton & Gerry review a vid  0 seconds
 Start is before start of Gerry proposes using gospel mu -5 days
@@ -979,7 +979,7 @@ Dr Kathy Logan"	""	""	""	""	""	""	""	""
 "Event"	"Johnny visits Sarah"	"EV183"	"Johnny visits Sarah"		126		#9FA8DA		False	2370-09-15 01:07:02			2370-09-15 01:11:04	"4 minutes, 2 seconds"		""	""	""	"Start is after end of the Johnny gatecrashes the BBQ 1 day"	""		"John Stoat
 Sarah Jacobson"	"John Stoat
 Sarah Jacobson"	""	""	""	""	""	""	""	""		
-"Event"	"Gerry proposes using gospel music against the Elvi"	"EV15"	"Gerry proposes using gospel mu"		127		"Pink"		False	2370-09-15 19:00			2370-09-15 19:42	"42 minutes"		""	""	""	"End is before start of Occupy Bent Street 0 seconds
+"Event"	"Gerry proposes using gospel music against the Elvi"	"EV15"	"Gerry proposes using gospel mu"		127		#9FA8DA		False	2370-09-15 19:00			2370-09-15 19:42	"42 minutes"		""	""	""	"End is before start of Occupy Bent Street 0 seconds
 Start is after start of Dunhilton reconvenes the war c 5 days
 End is before start of Melbourne Cup Day 0 seconds
 Start is after end of The Chuglinghams Hold a BBQ 2 days
@@ -1073,7 +1073,7 @@ The High Elvis
 Kleoboulos Windus
 Solo Athena
 Chilo Damagetus"	""	""	""	""	"Elvi Parliament"	"Elvi Parliament"	""	""		
-"Event"	"The High Elvis kidnaps Chanta"	"EV188"	"The High Elvis kidnaps Chanta"		141		"Pink"		False	2370-10-16 19:00:00			2370-10-16 19:00:00	"0 seconds"		""	""	""	"Start is after start of Lonnie discovers the jukebox s 0 seconds
+"Event"	"The High Elvis kidnaps Chanta"	"EV188"	"The High Elvis kidnaps Chanta"		141		#9FA8DA		False	2370-10-16 19:00:00			2370-10-16 19:00:00	"0 seconds"		""	""	""	"Start is after start of Lonnie discovers the jukebox s 0 seconds
 Start is after start of Tony invites Sarah to dinner 3 weeks
 Start is after start of Pastor Rex Humble converts the 2 weeks, 5 days
 End is before start of The High Elvis takes Chanta to -42 minutes"	""		"The High Elvis
@@ -1585,12 +1585,12 @@ Start is before start of Johnny completes the Gyges sub -2 minutes"	""		"Dr Orto
 "Event"	"Johnny completes the Gyges subscription"	"EV313"	"Johnny completes the Gyges sub"		218		#9FA8DA		False	2370-12-25 04:29:00			2370-12-25 04:30:00	"1 minute"		""	""	""	"Start is after start of Ortolan wakes 2 minutes
 End equals start of Project Kebab runs last test -12 minutes
 Start is before start of The High Elvis wakes Chanta af -7 minutes"	""		"John Stoat"	"John Stoat"	""	""	""	""	""	""	""	""		
-"Event"	"Little Clinton wakes Sarah"	"EV311"	"Little Clinton wakes Sarah"		219		"Fuschia"		False	2370-12-25 04:32			2370-12-25 04:39	"7 minutes"		""	""	""	"Start is after start of Washing Machine boots and init 1 minute
+"Event"	"Little Clinton wakes Sarah"	"EV311"	"Little Clinton wakes Sarah"		219		#9FA8DA		False	2370-12-25 04:32			2370-12-25 04:39	"7 minutes"		""	""	""	"Start is after start of Washing Machine boots and init 1 minute
 End is before start of Sarah prepares to leave the bu 0 seconds"	""		"Sarah Jacobson"	"Sarah Jacobson"	""	""	""	""	""	""	""	""		
 "Event"	"The High Elvis wakes Chanta after noticing movement around the Traverse access"	"EV351"	"The High Elvis wakes Chanta af"		220		"Green"		False	2370-12-25 04:36			2370-12-25 04:36:24	"24 seconds"		""	""	""	"Start is after start of Johnny completes the Gyges sub 7 minutes"	""		"Tony Chantara
 The High Elvis"	"Tony Chantara
 The High Elvis"	""	""	""	""	""	""	""	""		
-"Event"	"Sarah prepares to leave the bunker for the Ironing Room; last conversation with Kathy"	"EV335"	"Sarah prepares to leave the bu"		221		"Fuschia"		False	2370-12-25 04:39:10			2370-12-25 04:43:12	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Little Clinton wakes Sarah 0 seconds
+"Event"	"Sarah prepares to leave the bunker for the Ironing Room; last conversation with Kathy"	"EV335"	"Sarah prepares to leave the bu"		221		#9FA8DA		False	2370-12-25 04:39:10			2370-12-25 04:43:12	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Little Clinton wakes Sarah 0 seconds
 End is before start of Kathy pulls herself together 0 seconds
 Start is before start of Ruined Castle bunker seismic e 0 seconds
 End is after end of Ruined Castle bunker seismic e 0 seconds

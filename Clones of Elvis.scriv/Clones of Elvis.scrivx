@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-10-25 12:55:30 +1100" ModID="311E4859-0B72-45AF-9886-ABACDDD3FB6A">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-10-26 15:07:55 +1100" ModID="B37A7772-BB47-4EA8-BD61-46DB5124B190">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -2053,13 +2053,13 @@
                                                 <TextSelection>3,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="1803AF89-BE01-4822-B43E-7373BF440FA5" Type="Text" Created="2026-10-24 15:47:24 +1100" Modified="2026-10-25 12:55:30 +1100">
+                                        <BinderItem UUID="1803AF89-BE01-4822-B43E-7373BF440FA5" Type="Text" Created="2026-10-24 15:47:24 +1100" Modified="2026-10-25 13:25:14 +1100">
                                             <Title>Johnny searches for the Rosetta Rock</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>10257,0</TextSelection>
+                                                <TextSelection>9946,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -2123,7 +2123,7 @@
                                                 <NotesTextSelection>223,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>5018,0</TextSelection>
+                                                <TextSelection>4555,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -2174,7 +2174,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>10536,0</TextSelection>
+                                                <TextSelection>2359,516</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="3D4CF3A9-E01A-4D30-A67C-5CE0F2568DA2" Type="Text" Created="2023-10-01 14:10:57 +1100" Modified="2026-10-24 14:43:46 +1100">
@@ -3925,7 +3925,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="82F2282A-015F-46C5-B883-1CE6243B74F4" Type="Text" Created="2026-10-10 17:55:27 +1100" Modified="2026-10-21 15:48:33 +1100">
+                                        <BinderItem UUID="82F2282A-015F-46C5-B883-1CE6243B74F4" Type="Text" Created="2026-10-10 17:55:27 +1100" Modified="2026-10-26 15:07:55 +1100">
                                             <Title>Eloise, Alexander, Chip  &amp; 3 sisters make it to the Traverse</Title>
                                             <MetaData>
                                                 <LabelID>2</LabelID>
@@ -3934,7 +3934,7 @@
                                                 <NotesTextSelection>39,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>8112,0</TextSelection>
+                                                <TextSelection>3471,2930</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="18A0FD71-DEE3-4F97-9FBE-92D760E61F20" Type="Text" Created="2026-10-10 17:55:27 +1100" Modified="2026-10-21 17:31:12 +1100">
@@ -3968,10 +3968,10 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>1533,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="F9589AD3-C196-435A-9F61-1EF7E560B91F" Type="Text" Created="2025-06-21 17:43:11 +1000" Modified="2026-10-22 17:35:42 +1100">
+                                        <BinderItem UUID="F9589AD3-C196-435A-9F61-1EF7E560B91F" Type="Text" Created="2025-06-21 17:43:11 +1000" Modified="2026-10-25 15:50:04 +1100">
                                             <Title>Chanta and the Jones Clones arrive at Sublime Point</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
@@ -3979,7 +3979,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>730,0</TextSelection>
+                                                <TextSelection>2097,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -4031,6 +4031,26 @@
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="78F5CAB2-AE99-452C-A980-0B24D3A9A49B" Type="Text" Created="2026-10-25 15:35:44 +1100" Modified="2026-10-26 11:00:07 +1100">
+                                            <Title>The High Elvis wakes Chanta</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>13137,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="BC665A71-402F-4DE0-8534-62E84A5CB8CF" Type="Text" Created="2026-10-25 18:14:24 +1100" Modified="2026-10-25 18:21:58 +1100">
+                                            <Title>The Elvi use discs at the Traverse</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>5553,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
                                 <BinderItem UUID="F1201A31-4A21-4DFE-9890-D8F3395B7040" Type="Folder" Created="2026-10-10 18:06:26 +1100" Modified="2026-10-10 18:06:26 +1100">
                                     <Title>New Folder</Title>
@@ -4360,7 +4380,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>545,0</TextSelection>
+                        <TextSelection>4670,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="13D37159-5999-4144-B61E-870BD4E8E4FE" Type="Text" Created="2026-09-21 12:48:17 +1000" Modified="2026-09-22 11:48:30 +1000">
@@ -4853,7 +4873,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>369,0</TextSelection>
+                                <TextSelection>4041,166</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -5714,7 +5734,7 @@
     <Collections>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="WholeWord" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">Chip</SearchSettings>
+            <SearchSettings Operator="WholeWord" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">Drop</SearchSettings>
         </Collection>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
             <Title>Binder</Title>
@@ -5980,12 +6000,12 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-10-26 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="408" Characters="2533" Date="2026-10-25 09:07:38 +1100"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-10-27 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="2582" Characters="15918" Date="2026-10-26 10:00:14 +1100"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-10-25 00:00:00 +1100">
-        <DraftWordCount>366</DraftWordCount>
-        <DraftCharCount>2263</DraftCharCount>
+    <RecentWritingHistory Date="2026-10-26 00:00:00 +1100">
+        <DraftWordCount>2582</DraftWordCount>
+        <DraftCharCount>15918</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
