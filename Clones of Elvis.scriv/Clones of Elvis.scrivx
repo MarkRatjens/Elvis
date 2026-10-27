@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-10-26 15:07:55 +1100" ModID="B37A7772-BB47-4EA8-BD61-46DB5124B190">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-10-27 16:08:59 +1100" ModID="978D6DB3-D86D-4FC6-A1B8-8DBFAD35A0CE">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -3968,18 +3968,40 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1533,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="F9589AD3-C196-435A-9F61-1EF7E560B91F" Type="Text" Created="2025-06-21 17:43:11 +1000" Modified="2026-10-25 15:50:04 +1100">
-                                            <Title>Chanta and the Jones Clones arrive at Sublime Point</Title>
+                                        <BinderItem UUID="F9589AD3-C196-435A-9F61-1EF7E560B91F" Type="Text" Created="2025-06-21 17:43:11 +1000" Modified="2026-10-27 14:15:34 +1100">
+                                            <Title>Chanta lands at Sublime Point; Sarah calls</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
-                                                <StatusID>33</StatusID>
+                                                <StatusID>2</StatusID>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>2097,0</TextSelection>
+                                                <TextSelection>4091,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="C9380595-329F-4479-85BE-FD5241088321" Type="Text" Created="2026-10-26 16:53:34 +1100" Modified="2026-10-27 14:15:39 +1100">
+                                            <Title>Chanta wanders around the compound</Title>
+                                            <MetaData>
+                                                <LabelID>4</LabelID>
+                                                <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>1893,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="668BB2B1-8F15-437C-9187-6ECAAF0D90CE" Type="Text" Created="2026-10-27 13:46:36 +1100" Modified="2026-10-27 15:56:22 +1100">
+                                            <Title>The High Elvis delay's Chanta's impetuousness</Title>
+                                            <MetaData>
+                                                <LabelID>4</LabelID>
+                                                <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,25</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -4001,7 +4023,7 @@
                                         <TextSelection>4493,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="E144A631-933F-4BBA-9D46-6C0821DA251D" Type="Text" Created="2026-10-10 18:01:32 +1100" Modified="2026-10-23 14:46:26 +1100">
+                                        <BinderItem UUID="E144A631-933F-4BBA-9D46-6C0821DA251D" Type="Text" Created="2026-10-10 18:01:32 +1100" Modified="2026-10-27 16:04:44 +1100">
                                             <Title>Johnny completes the Gyges subscription</Title>
                                             <MetaData>
                                                 <SectionType>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</SectionType>
@@ -4009,12 +4031,14 @@
                                                 <StatusID>2</StatusID>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>2390,35</TextSelection>
+                                                <TextSelection>1226,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="E59C0BF0-042E-4AF5-BE53-FF1DE9E207A8" Type="Text" Created="2026-10-20 23:38:50 +1100" Modified="2026-10-24 13:20:44 +1100">
+                                        <BinderItem UUID="E59C0BF0-042E-4AF5-BE53-FF1DE9E207A8" Type="Text" Created="2026-10-20 23:38:50 +1100" Modified="2026-10-27 16:08:57 +1100">
                                             <Title>Sarah prepares to leave the bunker for the Ironing Room; last conversation with Kathy</Title>
                                             <MetaData>
+                                                <LabelID>4</LabelID>
+                                                <StatusID>2</StatusID>
                                                 <NotesTextSelection>0,340</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
@@ -4032,22 +4056,13 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="78F5CAB2-AE99-452C-A980-0B24D3A9A49B" Type="Text" Created="2026-10-25 15:35:44 +1100" Modified="2026-10-26 11:00:07 +1100">
-                                            <Title>The High Elvis wakes Chanta</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>13137,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="BC665A71-402F-4DE0-8534-62E84A5CB8CF" Type="Text" Created="2026-10-25 18:14:24 +1100" Modified="2026-10-25 18:21:58 +1100">
+                                        <BinderItem UUID="78F5CAB2-AE99-452C-A980-0B24D3A9A49B" Type="Text" Created="2026-10-25 15:35:44 +1100" Modified="2026-10-26 17:07:19 +1100">
                                             <Title>The Elvi use discs at the Traverse</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>5553,0</TextSelection>
+                                                <TextSelection>1,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -5728,13 +5743,22 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="BC665A71-402F-4DE0-8534-62E84A5CB8CF" Type="Text" Created="2026-10-25 18:14:24 +1100" Modified="2026-10-26 17:00:09 +1100">
+                    <Title>The Elvi use discs at the Traverse</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
     <Collections>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="WholeWord" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">Drop</SearchSettings>
+            <SearchSettings Operator="WholeWord" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">UDF</SearchSettings>
         </Collection>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
             <Title>Binder</Title>
@@ -6000,14 +6024,14 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-10-27 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="2582" Characters="15918" Date="2026-10-26 10:00:14 +1100"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-10-28 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="559" Characters="2866" Date="2026-10-27 10:30:14 +1100"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-10-26 00:00:00 +1100">
-        <DraftWordCount>2582</DraftWordCount>
-        <DraftCharCount>15918</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2026-10-27 00:00:00 +1100">
+        <DraftWordCount>559</DraftWordCount>
+        <DraftCharCount>2866</DraftCharCount>
+        <OtherWordCount>3</OtherWordCount>
+        <OtherCharCount>22</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="42E645E5-F8CC-4776-B54D-1E028FE9CA3D" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
