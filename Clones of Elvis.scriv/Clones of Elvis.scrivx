@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-10-27 16:08:59 +1100" ModID="978D6DB3-D86D-4FC6-A1B8-8DBFAD35A0CE">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-10-28 18:00:51 +1100" ModID="311DD5F7-C728-48DD-A620-4780F32BF15B">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -3993,8 +3993,8 @@
                                                 <TextSelection>1893,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="668BB2B1-8F15-437C-9187-6ECAAF0D90CE" Type="Text" Created="2026-10-27 13:46:36 +1100" Modified="2026-10-27 15:56:22 +1100">
-                                            <Title>The High Elvis delay's Chanta's impetuousness</Title>
+                                        <BinderItem UUID="668BB2B1-8F15-437C-9187-6ECAAF0D90CE" Type="Text" Created="2026-10-27 13:46:36 +1100" Modified="2026-10-28 11:24:49 +1100">
+                                            <Title>The High Elvis delays Chanta's impetuousness</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
@@ -4023,15 +4023,15 @@
                                         <TextSelection>4493,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="E144A631-933F-4BBA-9D46-6C0821DA251D" Type="Text" Created="2026-10-10 18:01:32 +1100" Modified="2026-10-27 16:04:44 +1100">
-                                            <Title>Johnny completes the Gyges subscription</Title>
+                                        <BinderItem UUID="E144A631-933F-4BBA-9D46-6C0821DA251D" Type="Text" Created="2026-10-10 18:01:32 +1100" Modified="2026-10-28 12:03:49 +1100">
+                                            <Title>The washing machine awakens</Title>
                                             <MetaData>
                                                 <SectionType>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</SectionType>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1226,0</TextSelection>
+                                                <TextSelection>1653,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="E59C0BF0-042E-4AF5-BE53-FF1DE9E207A8" Type="Text" Created="2026-10-20 23:38:50 +1100" Modified="2026-10-27 16:08:57 +1100">
@@ -4045,6 +4045,18 @@
                                                 <TextSelection>3695,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
+                                        <BinderItem UUID="8989806D-2073-4D6D-8639-E321523EFE52" Type="Text" Created="2026-10-10 18:01:32 +1100" Modified="2026-10-28 12:10:07 +1100">
+                                            <Title>Johnny completes the Gyges subscription</Title>
+                                            <MetaData>
+                                                <SectionType>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</SectionType>
+                                                <LabelID>4</LabelID>
+                                                <StatusID>2</StatusID>
+                                                <NotesTextSelection>75,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>1433,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
                                     </Children>
                                 </BinderItem>
                                 <BinderItem UUID="D4F97657-1F42-434A-AD51-A03E6EF2FE54" Type="Folder" Created="2026-10-20 23:57:44 +1100" Modified="2026-10-21 00:00:07 +1100">
@@ -4056,13 +4068,13 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="78F5CAB2-AE99-452C-A980-0B24D3A9A49B" Type="Text" Created="2026-10-25 15:35:44 +1100" Modified="2026-10-26 17:07:19 +1100">
+                                        <BinderItem UUID="78F5CAB2-AE99-452C-A980-0B24D3A9A49B" Type="Text" Created="2026-10-25 15:35:44 +1100" Modified="2026-10-28 18:00:51 +1100">
                                             <Title>The Elvi use discs at the Traverse</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1,0</TextSelection>
+                                                <TextSelection>3893,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -5758,7 +5770,7 @@
     <Collections>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="WholeWord" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">UDF</SearchSettings>
+            <SearchSettings Operator="WholeWord" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">aimed</SearchSettings>
         </Collection>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
             <Title>Binder</Title>
@@ -6024,14 +6036,14 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-10-28 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="559" Characters="2866" Date="2026-10-27 10:30:14 +1100"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-10-29 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="13" Characters="58" Date="2026-10-28 10:40:37 +1100"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-10-27 00:00:00 +1100">
-        <DraftWordCount>559</DraftWordCount>
-        <DraftCharCount>2866</DraftCharCount>
-        <OtherWordCount>3</OtherWordCount>
-        <OtherCharCount>22</OtherCharCount>
+    <RecentWritingHistory Date="2026-10-28 00:00:00 +1100">
+        <DraftWordCount>-147</DraftWordCount>
+        <DraftCharCount>-1411</DraftCharCount>
+        <OtherWordCount>67</OtherWordCount>
+        <OtherCharCount>370</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="42E645E5-F8CC-4776-B54D-1E028FE9CA3D" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
