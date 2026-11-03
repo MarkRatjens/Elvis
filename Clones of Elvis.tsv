@@ -1434,13 +1434,7 @@ Chip Stockwell"	""	""	""	""	""	""	""	""
 "Event"	"Gerry; Halo; the High Elvis  accept tickets to Candid Criminal"	"EV280"	"Gerry; Halo; the High Elvis  a"		195		#9FA8DA		False	2370-12-24 16:13			2370-12-24 16:30	"17 minutes"		""	""	""	"Start is after start of Alexander distributes invitati 0 seconds
 End is before end of Alexander distributes invitati 0 seconds
 Start is after end of The High Elvis arrives for the 0 seconds"	""		"Gerald “Very” Hardman"	"Gerald “Very” Hardman"	""	""	""	""	""	""	""	""		
-"Event"	"Sublime Point gates are open"	"EV325"	"Sublime Point gates are open"		196		#9FA8DA		False	2370-12-24 16:30			2370-12-24 18:50	"2 hours, 20 minutes"		""	""	""	"Start is before start of Christmas Special Candid Crimi -90 minutes
-End is after end of Christmas Special Candid Crimi 3 minutes
-Start equals start of Elvi establish the carpark sta -12 minutes
-Start is before start of Candid Criminal ticket admissi -60 seconds"	""		""	""	""	""	""	""	"Sublime Point"	"Sublime Point"	""	""		
-"Event"	"Candid Criminal ticket admission begins"	"EV323"	"Candid Criminal ticket admissi"		197		#9FA8DA		False	2370-12-24 16:31			2370-12-24 16:31	"0 seconds"		""	""	""	"Start is after start of Sublime Point gates are open 60 seconds"	""		""	""	""	""	""	""	"Sublime Point"	"Sublime Point"	""	""		
-"Event"	"Elvi establish the carpark stage"	"EV326"	"Elvi establish the carpark sta"		198		"Fuschia"		False	2370-12-24 16:42			2370-12-24 18:42	"2 hours"		""	""	""	"Start equals start of Sublime Point gates are open 12 minutes"	""		""	""	""	""	""	""	"Sublime Point"	"Sublime Point"	""	""		
-"Event"	"Johnny escalates the testing"	"EV276"	"Johnny escalates the testing"		199		#9FA8DA		False	2370-12-24 17:10:08			2370-12-24 17:22:08	"12 minutes"		""	""	""	"End is before start of Dunhilton gets pillowed 0 seconds
+"Event"	"Johnny escalates the testing"	"EV276"	"Johnny escalates the testing"		196		#9FA8DA		False	2370-12-24 17:10:08			2370-12-24 17:22:08	"12 minutes"		""	""	""	"End is before start of Dunhilton gets pillowed 0 seconds
 Start is after end of Eloise argues for another test 2 days
 End is before start of Johnny vs Chip vs Eloise 0 seconds"	""		"John Stoat
 Solo Athena
@@ -1451,15 +1445,21 @@ Solo Athena
 Chilo Damagetus
 Kleoboulos Windus
 Dr Ortolan"	""	""	""	""	""	""	""	""		
-"Event"	"A Shakti patrol engages PAPER TIGER team"	"EV334"	"A Shakti patrol engages PAPER "		200		#9FA8DA		False	2370-12-24 17:25			2370-12-24 17:45	"20 minutes"		""	""	""	"Start is before end of PAPER TIGER team traverse from 0 seconds
+"Event"	"A Shakti patrol engages PAPER TIGER team"	"EV334"	"A Shakti patrol engages PAPER "		197		#9FA8DA		False	2370-12-24 17:25			2370-12-24 17:45	"20 minutes"		""	""	""	"Start is before end of PAPER TIGER team traverse from 0 seconds
 End is before end of PAPER TIGER team traverse from 0 seconds
 Start is after end of Alexander waylays Eloise for C 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Gerry and PAPER CLOWN team pass through the gates dressed as Elvis tribute artists"	"EV327"	"Gerry and PAPER CLOWN team pas"		201		#9FA8DA		False	2370-12-24 17:48			2370-12-24 17:51	"3 minutes"		""	""	""	"Start is before start of Christmas Special Candid Crimi -12 minutes
+"Event"	"Gerry and PAPER CLOWN team pass through the gates dressed as Elvis tribute artists"	"EV327"	"Gerry and PAPER CLOWN team pas"		198		#9FA8DA		False	2370-12-24 17:48			2370-12-24 17:51	"3 minutes"		""	""	""	"Start is before start of Christmas Special Candid Crimi -12 minutes
 Start is before start of CAKE, BAGEL & ROLL truck passe 0 seconds
 End is after end of CAKE, BAGEL & ROLL truck passe 0 seconds"	""		"Gerald “Very” Hardman"	"Gerald “Very” Hardman"	""	""	""	""	"Sublime Point"	"Sublime Point"	""	""		
-"Event"	"CAKE, BAGEL & ROLL truck passes through with the Gyges disc guitar cases"	"EV331"	"CAKE, BAGEL & ROLL truck passe"		202		#9FA8DA		False	2370-12-24 17:48			2370-12-24 17:51	"3 minutes"		""	""	""	"Start is after start of Gerry and PAPER CLOWN team pas 0 seconds
+"Event"	"CAKE, BAGEL & ROLL truck passes through with the Gyges disc guitar cases"	"EV331"	"CAKE, BAGEL & ROLL truck passe"		199		#9FA8DA		False	2370-12-24 17:48			2370-12-24 17:51	"3 minutes"		""	""	""	"Start is after start of Gerry and PAPER CLOWN team pas 0 seconds
 End is before end of Gerry and PAPER CLOWN team pas 0 seconds"	""		""	""	"Gerald “Very” Hardman"	"Gerald “Very” Hardman"	""	""	"Sublime Point"	"Sublime Point"	""	""		
-"Event"	"Christmas Special Candid Criminal"	"EV208"	"Christmas Special Candid Crimi"		203		#ffffff		False	2370-12-24 18:00			2370-12-24 18:47	"47 minutes"		""	""	""	"End is before start of Chanta vs Alexander 0 seconds
+"Event"	"Sublime Point gates are open"	"EV325"	"Sublime Point gates are open"		200		#9FA8DA		False	2370-12-24 18:00			2370-12-24 20:20	"2 hours, 20 minutes"		""	""	""	"Start is before start of Christmas Special Candid Crimi -90 minutes
+End is after end of Christmas Special Candid Crimi 3 minutes
+Start equals start of Elvi establish the carpark sta -12 minutes
+Start is before start of Candid Criminal ticket admissi -60 seconds"	""		""	""	""	""	""	""	"Sublime Point"	"Sublime Point"	""	""		
+"Event"	"Candid Criminal ticket admission begins"	"EV323"	"Candid Criminal ticket admissi"		201		#9FA8DA		False	2370-12-24 18:01			2370-12-24 18:01	"0 seconds"		""	""	""	"Start is after start of Sublime Point gates are open 60 seconds"	""		""	""	""	""	""	""	"Sublime Point"	"Sublime Point"	""	""		
+"Event"	"Elvi establish the carpark stage"	"EV326"	"Elvi establish the carpark sta"		202		#9FA8DA		False	2370-12-24 18:12			2370-12-24 20:12	"2 hours"		""	""	""	"Start equals start of Sublime Point gates are open 12 minutes"	""		""	""	""	""	""	""	"Sublime Point"	"Sublime Point"	""	""		
+"Event"	"Christmas Special Candid Criminal"	"EV208"	"Christmas Special Candid Crimi"		203		#ffffff		False	2370-12-24 19:30			2370-12-24 20:17	"47 minutes"		""	""	""	"End is before start of Chanta vs Alexander 0 seconds
 Start is after start of 23rd December 18 hours
 Start is after start of Alexander and Candid Criminal  6 hours
 Start is after end of Candid Criminal crew rigs Subl 45 minutes
@@ -1497,7 +1497,7 @@ Chilo Damagetus
 Bala Chuglingham"	""	""	"Sublime Point
 Lysander Shakti Memorial Auditorium"	"Sublime Point
 Lysander Shakti Memorial Audit"	""	""		
-"Event"	"Blackout and backstage regroup"	"EV303"	"Blackout and backstage regroup"		204		"Purple"		False	2370-12-24 18:47			2370-12-24 18:55	"8 minutes"		""	""	""	"Start is after end of Christmas Special Candid Crimi 0 seconds
+"Event"	"Blackout and backstage regroup"	"EV303"	"Blackout and backstage regroup"		204		"Purple"		False	2370-12-24 20:17			2370-12-24 20:25	"8 minutes"		""	""	""	"Start is after end of Christmas Special Candid Crimi 0 seconds
 End is before start of Escape from the auditorium 0 seconds"	""		"Bala Chuglingham
 Eloise Shakti
 Alexander Shakti
@@ -1513,12 +1513,12 @@ Hayley Lanning
 Chip Stockwell"	""	""	""	""	"Sublime Point
 Lysander Shakti Memorial Auditorium"	"Sublime Point
 Lysander Shakti Memorial Audit"	""	""		
-"Event"	"Midler suspends Operation Hermès"	"EV305"	"Midler suspends Operation Herm"		205		#9FA8DA		False	2370-12-24 18:47			2370-12-24 18:59	"12 minutes"		""	""	""	"Start is after end of Christmas Special Candid Crimi 0 seconds
+"Event"	"Midler suspends Operation Hermès"	"EV305"	"Midler suspends Operation Herm"		205		#9FA8DA		False	2370-12-24 20:17			2370-12-24 20:29	"12 minutes"		""	""	""	"Start is after end of Christmas Special Candid Crimi 0 seconds
 Start is after end of Major Midler relocates his com 0 seconds"	""		"Major Midler"	"Major Midler"	""	""	""	""	""	""	""	""		
-"Event"	"The Elvi play in Sublime Point carpark"	"EV328"	"The Elvi play in Sublime Point"		206		"Fuschia"		False	2370-12-24 18:52			2370-12-25 00:15	"5 hours, 23 minutes"		""	""	""	"End is after start of Ascension Day 15 minutes
+"Event"	"The Elvi play in Sublime Point carpark"	"EV328"	"The Elvi play in Sublime Point"		206		#9FA8DA		False	2370-12-24 20:22			2370-12-25 01:45	"5 hours, 23 minutes"		""	""	""	"End is after start of Ascension Day 15 minutes
 Start equals end of Christmas Special Candid Crimi 5 minutes"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Gerry and PAPER Clowns rendevous with PAPER Tiger remnants"	"EV332"	"Gerry and PAPER Clowns rendevo"		207		#9FA8DA		False	2370-12-24 18:54			2370-12-24 18:57	"3 minutes"		""	""	""	"Start is after end of Christmas Special Candid Crimi 7 minutes"	""		"Gerald “Very” Hardman"	"Gerald “Very” Hardman"	""	""	""	""	"Sublime Point"	"Sublime Point"	""	""		
-"Event"	"Escape from the auditorium"	"EV304"	"Escape from the auditorium"		208		#9FA8DA		False	2370-12-24 18:55			2370-12-24 19:19	"24 minutes"		""	""	""	"Start is after end of Blackout and backstage regroup 0 seconds
+"Event"	"Gerry and PAPER Clowns rendevous with PAPER Tiger remnants"	"EV332"	"Gerry and PAPER Clowns rendevo"		207		#9FA8DA		False	2370-12-24 20:24			2370-12-24 20:27	"3 minutes"		""	""	""	"Start is after end of Christmas Special Candid Crimi 7 minutes"	""		"Gerald “Very” Hardman"	"Gerald “Very” Hardman"	""	""	""	""	"Sublime Point"	"Sublime Point"	""	""		
+"Event"	"Escape from the auditorium"	"EV304"	"Escape from the auditorium"		208		#9FA8DA		False	2370-12-24 20:25			2370-12-24 20:49	"24 minutes"		""	""	""	"Start is after end of Blackout and backstage regroup 0 seconds
 End is before start of Alexander is confined 0 seconds
 End is before start of Eloise & 3 sisters settle into 0 seconds"	""		"Bala Chuglingham
 Eloise Shakti
@@ -1535,7 +1535,7 @@ Hayley Lanning
 Chip Stockwell"	""	""	""	""	"Sublime Point
 Lysander Shakti Memorial Auditorium"	"Sublime Point
 Lysander Shakti Memorial Audit"	""	""		
-"Event"	"Alexander is confined"	"EV308"	"Alexander is confined"		209		#9FA8DA		False	2370-12-24 19:19			2370-12-24 19:31	"12 minutes"		""	""	""	"Start is after end of Escape from the auditorium 0 seconds"	""		"Eloise Shakti
+"Event"	"Alexander is confined"	"EV308"	"Alexander is confined"		209		#9FA8DA		False	2370-12-24 20:49			2370-12-24 21:01	"12 minutes"		""	""	""	"Start is after end of Escape from the auditorium 0 seconds"	""		"Eloise Shakti
 Alexander Shakti
 Sarah Jacobson
 Dr Kathy Logan
@@ -1544,7 +1544,7 @@ Alexander Shakti
 Sarah Jacobson
 Dr Kathy Logan
 Hayley Lanning"	""	""	""	""	"Sublime Point"	"Sublime Point"	""	""		
-"Event"	"Eloise & 3 sisters settle into the Ruined Castle Bunker"	"EV309"	"Eloise & 3 sisters settle into"		210		#9FA8DA		False	2370-12-24 19:19			2370-12-24 20:52	"1 hour, 33 minutes"		""	""	""	"Start is after end of Escape from the auditorium 0 seconds
+"Event"	"Eloise & 3 sisters settle into the Ruined Castle Bunker"	"EV309"	"Eloise & 3 sisters settle into"		210		#9FA8DA		False	2370-12-24 20:49			2370-12-24 22:22	"1 hour, 33 minutes"		""	""	""	"Start is after end of Escape from the auditorium 0 seconds
 Start is before start of Hayley boots up the bunker com -21 minutes"	""		"Eloise Shakti
 Sarah Jacobson
 Dr Kathy Logan
@@ -1552,62 +1552,57 @@ Hayley Lanning"	"Eloise Shakti
 Sarah Jacobson
 Dr Kathy Logan
 Hayley Lanning"	""	""	""	""	"Sublime Point"	"Sublime Point"	""	""		
-"Event"	"Hayley boots up the bunker command post"	"EV315"	"Hayley boots up the bunker com"		211		#9FA8DA		False	2370-12-24 19:40			2370-12-24 19:44	"4 minutes"		""	""	""	"Start is after start of Eloise & 3 sisters settle into 21 minutes"	""		"Eloise Shakti
+"Event"	"Hayley boots up the bunker command post"	"EV315"	"Hayley boots up the bunker com"		211		#9FA8DA		False	2370-12-24 21:10			2370-12-24 21:14	"4 minutes"		""	""	""	"Start is after start of Eloise & 3 sisters settle into 21 minutes"	""		"Eloise Shakti
 Sarah Jacobson
 Dr Kathy Logan
 Hayley Lanning"	"Eloise Shakti
 Sarah Jacobson
 Dr Kathy Logan
 Hayley Lanning"	""	""	""	""	"Sublime Point"	"Sublime Point"	""	""		
-"Event"	"Chanta and the Ajent Jones Clones lands Hardy Enterprises  hovercopt  on Sublime Point helipad"	"EV223"	"Chanta and the Ajent Jones Clo"		212		#9FA8DA		False	2370-12-24 20:17			2370-12-24 20:17	"0 seconds"		""	""	""	"End is before start of Ajent vs Jihad Man; Halo inter 0 seconds
+"Event"	"Chanta and the Ajent Jones Clones lands Hardy Enterprises  hovercopt  on Sublime Point helipad"	"EV223"	"Chanta and the Ajent Jones Clo"		212		#9FA8DA		False	2370-12-24 21:37			2370-12-24 21:37	"0 seconds"		""	""	""	"End is before start of Ajent vs Jihad Man; Halo inter 0 seconds
 End is after end of Alexander and Candid Criminal  0 seconds
 End is before start of Gerry vs Chanta and the Jones  0 seconds
 Start is after end of Moe Bogan podcast influences t 0 seconds
 Start is after end of Christmas Special Candid Crimi 1 hour, 20 minutes
 End is before start of The Elvi move to protect Chant 0 seconds
-Start is after start of Major Midler relocates his com 0 seconds
-End is before start of Gerry reaches only the outer R 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"The Elvi move to protect Chanta’s position"	"EV318"	"The Elvi move to protect Chant"		213		#9FA8DA		False	2370-12-24 20:17			2370-12-24 20:31	"14 minutes"		""	""	""	"Start is after end of Chanta and the Ajent Jones Clo 0 seconds
+Start is after start of Major Midler relocates his com 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
+"Event"	"The Elvi move to protect Chanta’s position"	"EV318"	"The Elvi move to protect Chant"		213		#9FA8DA		False	2370-12-24 21:37			2370-12-24 21:51	"14 minutes"		""	""	""	"Start is after end of Chanta and the Ajent Jones Clo 0 seconds
 Start is before start of Sarah calls & reassures Chanta -3 minutes"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Sarah calls & reassures Chanta"	"EV350"	"Sarah calls & reassures Chanta"		214		#9FA8DA		False	2370-12-24 20:20			2370-12-24 20:23	"3 minutes"		""	""	""	"Start is after start of The Elvi move to protect Chant 3 minutes"	""		"Sarah Jacobson
+"Event"	"Sarah calls & reassures Chanta"	"EV350"	"Sarah calls & reassures Chanta"		214		#9FA8DA		False	2370-12-24 21:40			2370-12-24 21:43	"3 minutes"		""	""	""	"Start is after start of The Elvi move to protect Chant 3 minutes
+End is before start of Chanta wanders around the comp 0 seconds"	""		"Sarah Jacobson
 Tony Chantara
 The High Elvis"	"Sarah Jacobson
 Tony Chantara
 The High Elvis"	""	""	""	""	""	""	""	""		
-"Event"	"Ascension Day"	"EV241"	"Ascension Day"		215		#ffffff		False	2370-12-25			2370-12-25	"1 day"		""	""	""	"End is after end of 23rd December 1 day
+"Event"	"Chanta wanders around the compound"	"EV366"	"Chanta wanders around the comp"		215		#9FA8DA		False	2370-12-24 21:43			2370-12-24 22:48	"1 hour, 5 minutes"		""	""	""	"Start is after end of Sarah calls & reassures Chanta 0 seconds
+End is before start of The High Elvis wakes Chanta af 0 seconds"	""		"Tony Chantara"	"Tony Chantara"	""	""	""	""	""	""	""	""		
+"Event"	"Ascension Day"	"EV241"	"Ascension Day"		216		#ffffff		False	2370-12-25			2370-12-25	"1 day"		""	""	""	"End is after end of 23rd December 1 day
 Start is before start of Ascension of the Dawkins -5 hours, -42 minutes
 Start is before end of The Elvi play in Sublime Point -15 minutes"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Washing Machine boots and initialises"	"EV310"	"Washing Machine boots and init"		216		#9FA8DA		False	2370-12-25 04:26:01			2370-12-25 04:31:01	"5 minutes"		""	""	""	"Start is before start of Little Clinton wakes Sarah -1 minutes
-Start is before start of Ortolan wakes -15 seconds
-Start is before start of MoSES Drone Light show begins -36 minutes"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Ortolan wakes"	"EV312"	"Ortolan wakes"		217		#9FA8DA		False	2370-12-25 04:27:00			2370-12-25 04:28:00	"1 minute"		""	""	""	"Start is after start of Washing Machine boots and init 15 seconds
-Start is before start of Johnny completes the Gyges sub -2 minutes"	""		"Dr Ortolan"	"Dr Ortolan"	""	""	""	""	""	""	""	""		
-"Event"	"Johnny completes the Gyges subscription"	"EV313"	"Johnny completes the Gyges sub"		218		#9FA8DA		False	2370-12-25 04:29:00			2370-12-25 04:30:00	"1 minute"		""	""	""	"Start is after start of Ortolan wakes 2 minutes
-End equals start of Project Kebab runs last test -12 minutes
-Start is before start of The High Elvis wakes Chanta af -7 minutes"	""		"John Stoat"	"John Stoat"	""	""	""	""	""	""	""	""		
-"Event"	"Little Clinton wakes Sarah"	"EV311"	"Little Clinton wakes Sarah"		219		#9FA8DA		False	2370-12-25 04:32			2370-12-25 04:39	"7 minutes"		""	""	""	"Start is after start of Washing Machine boots and init 1 minute
-End is before start of Sarah prepares to leave the bu 0 seconds"	""		"Sarah Jacobson"	"Sarah Jacobson"	""	""	""	""	""	""	""	""		
-"Event"	"The High Elvis wakes Chanta after noticing movement around the Traverse access"	"EV351"	"The High Elvis wakes Chanta af"		220		"Green"		False	2370-12-25 04:36			2370-12-25 04:36:24	"24 seconds"		""	""	""	"Start is after start of Johnny completes the Gyges sub 7 minutes"	""		"Tony Chantara
+"Event"	"Washing Machine boots and initialises"	"EV310"	"Washing Machine boots and init"		217		#9FA8DA		False	2370-12-25 03:26:01			2370-12-25 03:31:01	"5 minutes"		""	""	""	"Start is before start of Ortolan wakes -15 seconds"	""		""	""	""	""	""	""	""	""	""	""		
+"Event"	"Ortolan wakes"	"EV312"	"Ortolan wakes"		218		#9FA8DA		False	2370-12-25 03:26:16			2370-12-25 03:27:16	"1 minute"		""	""	""	"Start is after start of Washing Machine boots and init 15 seconds
+Start is before start of Johnny completes the Gyges sub -12 minutes"	""		"Dr Ortolan"	"Dr Ortolan"	""	""	""	""	""	""	""	""		
+"Event"	"Johnny completes the Gyges subscription"	"EV313"	"Johnny completes the Gyges sub"		219		#9FA8DA		False	2370-12-25 04:17:00			2370-12-25 04:30:00	"13 minutes"		""	""	""	"End equals start of Project Kebab runs last test -12 minutes
+Start is before start of The High Elvis wakes Chanta af -7 minutes
+End is before start of The High Elvis wakes Chanta af 0 seconds
+End equals start of Little Clinton wakes Sarah 0 seconds
+Start is after start of Ortolan wakes 12 minutes"	""		"John Stoat"	"John Stoat"	""	""	""	""	""	""	""	""		
+"Event"	"Little Clinton wakes Sarah"	"EV311"	"Little Clinton wakes Sarah"		220		#9FA8DA		False	2370-12-25 04:30			2370-12-25 04:37	"7 minutes"		""	""	""	"End is before start of Sarah prepares to leave the bu 0 seconds
+Start equals end of Johnny completes the Gyges sub 0 seconds"	""		"Sarah Jacobson"	"Sarah Jacobson"	""	""	""	""	""	""	""	""		
+"Event"	"The High Elvis wakes Chanta after noticing movement around the Traverse access"	"EV351"	"The High Elvis wakes Chanta af"		221		#9FA8DA		False	2370-12-25 04:30			2370-12-25 04:34:02	"4 minutes, 2 seconds"		""	""	""	"Start is after start of Johnny completes the Gyges sub 7 minutes
+Start is after end of Chanta wanders around the comp 0 seconds
+Start is after end of Johnny completes the Gyges sub 0 seconds
+End is before start of Chanta and the Elvi watch the  -12 minutes"	""		"Tony Chantara
 The High Elvis"	"Tony Chantara
 The High Elvis"	""	""	""	""	""	""	""	""		
-"Event"	"Sarah prepares to leave the bunker for the Ironing Room; last conversation with Kathy"	"EV335"	"Sarah prepares to leave the bu"		221		#9FA8DA		False	2370-12-25 04:39:10			2370-12-25 04:43:12	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Little Clinton wakes Sarah 0 seconds
+"Event"	"Sarah prepares to leave the bunker for the Ironing Room; last conversation with Kathy"	"EV335"	"Sarah prepares to leave the bu"		222		#9FA8DA		False	2370-12-25 04:38			2370-12-25 05:12	"34 minutes"		""	""	""	"Start is after end of Little Clinton wakes Sarah 0 seconds
 End is before start of Kathy pulls herself together 0 seconds
-Start is before start of Ruined Castle bunker seismic e 0 seconds
-End is after end of Ruined Castle bunker seismic e 0 seconds
+Start is before start of Ruined Castle bunker seismic i 0 seconds
+End is after end of Ruined Castle bunker seismic i 0 seconds
 End is before start of Sarah arrives at the Ironing R -7 minutes"	""		"Sarah Jacobson
 Dr Kathy Logan"	"Sarah Jacobson
 Dr Kathy Logan"	""	""	""	""	""	""	""	""		
-"Event"	"The Elvi use discs at the Traverse"	"EV337"	"The Elvi use discs at the Trav"		222		"Green"		False	2370-12-25 04:41:02			2370-12-25 04:41:02	"0 seconds"		""	""	""	"End is before start of Chip arrives at the Ironing Ro -6 minutes"	""		"Tony Chantara
-The High Elvis"	"Tony Chantara
-The High Elvis"	""	""	""	""	""	""	""	""		
-"Event"	"Chanta’s party crosses the Traverse"	"EV341"	"Chanta’s party crosses the Tra"		223		"Green"		False	2370-12-25 04:41:02			2370-12-25 04:45:32	"4 minutes, 30 seconds"		""	""	""	"End is before start of Ruined Castle security contain 0 seconds"	""		"Tony Chantara
-The High Elvis
-Special Agent Ajent Jones"	"Tony Chantara
-The High Elvis
-Special Agent Ajent Jones"	""	""	""	""	""	""	""	""		
-"Event"	"Ruined Castle bunker seismic egress released"	"EV339"	"Ruined Castle bunker seismic e"		224		"Green"		False	2370-12-25 04:41:12			2370-12-25 04:41:12	"0 seconds"		""	""	""	"Start is after start of Sarah prepares to leave the bu 0 seconds
-End is before end of Sarah prepares to leave the bu 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Project Kebab runs last test"	"EV314"	"Project Kebab runs last test"		225		"Orange"		False	2370-12-25 04:42			2370-12-25 05:42	"1 hour"		""	""	""	"End equals start of Ascension of the Dawkins 0 seconds
+"Event"	"Project Kebab runs last test"	"EV314"	"Project Kebab runs last test"		223		"Orange"		False	2370-12-25 04:42			2370-12-25 05:42	"1 hour"		""	""	""	"End equals start of Ascension of the Dawkins 0 seconds
 Start equals end of Johnny completes the Gyges sub 12 minutes"	""		"John Stoat
 Kleoboulos Windus
 Chilo Damagetus
@@ -1619,83 +1614,58 @@ Chilo Damagetus
 Solo Athena
 Eloise Shakti
 Dr Ortolan"	""	""	""	""	""	""	""	""		
-"Event"	"Kathy pulls herself together"	"EV336"	"Kathy pulls herself together"		226		"Fuschia"		False	2370-12-25 04:43:12			2370-12-25 04:46:12	"3 minutes"		""	""	""	"Start is after end of Sarah prepares to leave the bu 0 seconds
-End is before start of Eloise and Hayley monitor the  -121 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Ruined Castle security contains the breach"	"EV342"	"Ruined Castle security contain"		227		"Green"		False	2370-12-25 04:45:32			2370-12-25 04:50:32	"5 minutes"		""	""	""	"Start is after end of Chanta’s party crosses the Tra 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Chip arrives at the Ironing Room"	"EV340"	"Chip arrives at the Ironing Ro"		228		"Green"		False	2370-12-25 04:47:02			2370-12-25 04:47:02	"0 seconds"		""	""	""	"Start is after end of The Elvi use discs at the Trav 6 minutes"	""		"Chip Stockwell"	"Chip Stockwell"	""	""	""	""	""	""	""	""		
-"Event"	"Eloise and Hayley monitor the crisis from the bunker command post"	"EV352"	"Eloise and Hayley monitor the "		229		"Green"		False	2370-12-25 04:48:13			2370-12-25 04:48:13	"0 seconds"		""	""	""	"Start is after end of Kathy pulls herself together 121 seconds"	""		"Hayley Lanning
-Dr Kathy Logan
-Eloise Shakti"	"Hayley Lanning
-Dr Kathy Logan
-Eloise Shakti"	""	""	""	""	""	""	""	""		
-"Event"	"Sarah arrives at the Ironing Room"	"EV343"	"Sarah arrives at the Ironing R"		230		"Green"		False	2370-12-25 04:50:12			2370-12-25 04:50:12	"0 seconds"		""	""	""	"Start is after end of Sarah prepares to leave the bu 7 minutes"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"MoSES Drone Light show begins"	"EV316"	"MoSES Drone Light show begins"		231		"Orange"		False	2370-12-25 05:02:01			2370-12-25 05:08:01	"6 minutes"		""	""	""	"Start is after start of Washing Machine boots and init 36 minutes
-Start is before start of MoSES Drone infiltration -4 minutes
-End is before start of Chanta presses inward; Elvi de 0 seconds
-End is before start of Shakti Security split worsens  0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Gerry tries to convert the crisis into PAPER access"	"EV346"	"Gerry tries to convert the cri"		232		"Green"		False	2370-12-25 05:04:58			2370-12-25 05:10:28	"5 minutes, 30 seconds"		""	""	""	"End is before start of Ajent vs Jihad Man; Halo inter 0 seconds
-End is before start of Gerry reaches only the outer R 0 seconds
-End is before start of Sarah admits Chanta and the Hi 0 seconds"	""		"Gerald “Very” Hardman"	"Gerald “Very” Hardman"	""	""	""	""	""	""	""	""		
-"Event"	"MoSES Drone infiltration"	"EV317"	"MoSES Drone infiltration"		233		"Orange"		False	2370-12-25 05:06:01			2370-12-25 05:42:01	"36 minutes"		""	""	""	"Start is after start of MoSES Drone Light show begins 4 minutes
-End equals end of Ascension of the Dawkins 0 seconds
-Start equals start of Main MoSES formations engage S 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Main MoSES formations engage Shakti automated defences"	"EV353"	"Main MoSES formations engage S"		234		"Orange"		False	2370-12-25 05:06:01			2370-12-25 05:20:31	"14 minutes, 30 seconds"		""	""	""	"Start equals start of MoSES Drone infiltration 0 seconds
-Start is before start of MoSES penetration pentads make -3 minutes"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Chanta presses inward; Elvi demand the Holy Momma"	"EV344"	"Chanta presses inward; Elvi de"		235		"Green"		False	2370-12-25 05:08:01			2370-12-25 05:28:01	"20 minutes"		""	""	""	"Start is after end of MoSES Drone Light show begins 0 seconds"	""		"Tony Chantara
+"Event"	"Chanta and the Elvi watch the station entrance"	"EV367"	"Chanta and the Elvi watch the "		224		#9FA8DA		False	2370-12-25 04:46:02			2370-12-25 04:51:02	"5 minutes"		""	""	""	"Start is after end of The High Elvis wakes Chanta af 12 minutes
+End is before start of The Elvi use discs at the Trav 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
+"Event"	"The Elvi use discs at the Traverse"	"EV337"	"The Elvi use discs at the Trav"		225		#9FA8DA		False	2370-12-25 04:51:02			2370-12-25 05:02:02	"11 minutes"		""	""	""	"End is before start of Chip arrives at the Ironing Ro -6 minutes
+End equals start of Ruined Castle bunker seismic i 0 seconds
+Start is after end of Chanta and the Elvi watch the  0 seconds"	""		"Tony Chantara
 The High Elvis"	"Tony Chantara
 The High Elvis"	""	""	""	""	""	""	""	""		
-"Event"	"Shakti Security split worsens around the Traverse"	"EV345"	"Shakti Security split worsens "		236		"Green"		False	2370-12-25 05:08:01			2370-12-25 05:28:01	"20 minutes"		""	""	""	"Start is after end of MoSES Drone Light show begins 0 seconds
-End is before start of Eloise goes to the Ironing Roo 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Ajent vs Jihad Man; Halo intervenes"	"EV222"	"Ajent vs Jihad Man; Halo inter"		237		"Orange"		False	2370-12-25 05:10:28			2370-12-25 05:14:30	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Chanta and the Ajent Jones Clo 0 seconds
-Start is after end of Gerry tries to convert the cri 0 seconds
-End is before start of Gerry reaches only the outer R 0 seconds
-End is before start of Sarah admits Chanta and the Hi 0 seconds
-End is before start of Halo penetrates Ruined Castle; 0 seconds"	""		"Gerald “Very” Hardman
+"Event"	"Chanta’s party crosses the Traverse"	"EV341"	"Chanta’s party crosses the Tra"		226		"Pink"		False					"4 minutes, 30 seconds"		""	""	""	""	""		"Tony Chantara
+The High Elvis
+Special Agent Ajent Jones"	"Tony Chantara
+The High Elvis
+Special Agent Ajent Jones"	""	""	""	""	""	""	""	""		
+"Event"	"Ruined Castle bunker seismic ingress released"	"EV339"	"Ruined Castle bunker seismic i"		227		#9FA8DA		False	2370-12-25 05:02:02			2370-12-25 05:02:02	"0 seconds"		""	""	""	"Start is after start of Sarah prepares to leave the bu 0 seconds
+End is before end of Sarah prepares to leave the bu 0 seconds
+Start equals end of The Elvi use discs at the Trav 0 seconds"	""		""	""	"Gerald “Very” Hardman"	"Gerald “Very” Hardman"	""	""	""	""	""	""		
+"Event"	"MoSES Drone infiltration"	"EV317"	"MoSES Drone infiltration"		228		"Orange"		False	2370-12-25 05:06:01			2370-12-25 05:42:01	"36 minutes"		""	""	""	"End equals end of Ascension of the Dawkins 0 seconds
+Start equals start of Main MoSES formations engage S 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
+"Event"	"Main MoSES formations engage Shakti automated defences"	"EV353"	"Main MoSES formations engage S"		229		"Orange"		False	2370-12-25 05:06:01			2370-12-25 05:20:31	"14 minutes, 30 seconds"		""	""	""	"Start equals start of MoSES Drone infiltration 0 seconds
+Start is before start of MoSES penetration pentads make -3 minutes"	""		""	""	""	""	""	""	""	""	""	""		
+"Event"	"Chip arrives at the Ironing Room"	"EV340"	"Chip arrives at the Ironing Ro"		230		"Green"		False	2370-12-25 05:08:02			2370-12-25 05:08:02	"0 seconds"		""	""	""	"Start is after end of The Elvi use discs at the Trav 6 minutes"	""		"Chip Stockwell"	"Chip Stockwell"	""	""	""	""	""	""	""	""		
+"Event"	"Ajent vs Jihad Man; Halo intervenes"	"EV222"	"Ajent vs Jihad Man; Halo inter"		231		"Orange"		False	2370-12-25 05:10:28			2370-12-25 05:14:30	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Chanta and the Ajent Jones Clo 0 seconds
+End is before start of Hayley notices Halo in Ruined  0 seconds"	""		"Gerald “Very” Hardman
 Haloren Smythe
 Special Agent Ajent Jones"	"Gerald “Very” Hardman
 Haloren Smythe
 Special Agent Ajent Jones"	""	""	""	""	""	""	""	""		
-"Event"	"Halo penetrates Ruined Castle; Hayley notices"	"EV355"	"Halo penetrates Ruined Castle;"		238		"Green"		False	2370-12-25 05:14:30			2370-12-25 05:34:30	"20 minutes"		""	""	""	"End is before start of Halo vs Kathy and Hayley -4 minutes, -30 seconds
+"Event"	"Kathy pulls herself together"	"EV336"	"Kathy pulls herself together"		232		"Fuschia"		False	2370-12-25 05:13:10			2370-12-25 05:16:10	"3 minutes"		""	""	""	"Start is after end of Sarah prepares to leave the bu 0 seconds
+End is before start of Eloise and Hayley monitor the  -121 seconds"	""		""	""	""	""	""	""	""	""	""	""		
+"Event"	"Hayley notices Halo in Ruined Castle"	"EV355"	"Hayley notices Halo in Ruined "		233		"Green"		False	2370-12-25 05:14:30			2370-12-25 05:34:30	"20 minutes"		""	""	""	"End is before start of Halo vs Kathy and Hayley -4 minutes, -30 seconds
 Start is after end of Ajent vs Jihad Man; Halo inter 0 seconds"	""		"Haloren Smythe"	"Haloren Smythe"	"Hayley Lanning"	"Hayley Lanning"	""	""	""	""	""	""		
-"Event"	"Gerry reaches only the outer Ruined Castle checkpoint"	"EV347"	"Gerry reaches only the outer R"		239		"Green"		False	2370-12-25 05:15:58			2370-12-25 05:20:00	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Chanta and the Ajent Jones Clo 0 seconds
-End is before start of Gerry vs Chanta and the Jones  0 seconds
-Start is after end of Gerry tries to convert the cri 0 seconds
-Start is after end of Ajent vs Jihad Man; Halo inter 0 seconds"	""		"Gerald “Very” Hardman"	"Gerald “Very” Hardman"	""	""	""	""	""	""	""	""		
-"Event"	"MoSES penetration pentads make repeated attempts"	"EV354"	"MoSES penetration pentads make"		240		"Orange"		False	2370-12-25 05:17:30			2370-12-25 05:29:00	"11 minutes, 30 seconds"		""	""	""	"Start is after start of Main MoSES formations engage S 3 minutes
+"Event"	"MoSES penetration pentads make repeated attempts"	"EV354"	"MoSES penetration pentads make"		234		"Orange"		False	2370-12-25 05:17:30			2370-12-25 05:29:00	"11 minutes, 30 seconds"		""	""	""	"Start is after start of Main MoSES formations engage S 3 minutes
 Start is before start of First MoSES Pentad crosses the 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"First MoSES Pentad crosses the Traverse"	"EV356"	"First MoSES Pentad crosses the"		241		"Orange"		False	2370-12-25 05:17:30			2370-12-25 05:22:00	"4 minutes, 30 seconds"		""	""	""	"Start is before start of Second Pentad crosses the Trav -3 minutes
+"Event"	"First MoSES Pentad crosses the Traverse"	"EV356"	"First MoSES Pentad crosses the"		235		"Orange"		False	2370-12-25 05:17:30			2370-12-25 05:22:00	"4 minutes, 30 seconds"		""	""	""	"Start is before start of Second Pentad crosses the Trav -3 minutes
 Start is after start of MoSES penetration pentads make 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Gerry vs Chanta and the Jones Clones"	"EV298"	"Gerry vs Chanta and the Jones "		242		"Orange"		False	2370-12-25 05:20			2370-12-25 05:25	"5 minutes"		""	""	""	"Start is after end of Chanta and the Ajent Jones Clo 0 seconds
-End is before start of Chanta vs Alexander -12 minutes
-Start is after end of Gerry reaches only the outer R 0 seconds
-End is before start of Sarah admits Chanta and the Hi 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Second Pentad crosses the Traverse"	"EV357"	"Second Pentad crosses the Trav"		243		"Orange"		False	2370-12-25 05:20:30			2370-12-25 05:25:00	"4 minutes, 30 seconds"		""	""	""	"Start is after start of First MoSES Pentad crosses the 3 minutes
+"Event"	"Eloise and Hayley monitor the crisis from the bunker command post"	"EV352"	"Eloise and Hayley monitor the "		236		"Green"		False	2370-12-25 05:18:11			2370-12-25 05:18:11	"0 seconds"		""	""	""	"Start is after end of Kathy pulls herself together 121 seconds"	""		"Hayley Lanning
+Dr Kathy Logan
+Eloise Shakti"	"Hayley Lanning
+Dr Kathy Logan
+Eloise Shakti"	""	""	""	""	""	""	""	""		
+"Event"	"Gerry vs Chanta and the Jones Clones"	"EV298"	"Gerry vs Chanta and the Jones "		237		"Orange"		False	2370-12-25 05:20			2370-12-25 05:25	"5 minutes"		""	""	""	"Start is after end of Chanta and the Ajent Jones Clo 0 seconds
+End is before start of Chanta vs Alexander -12 minutes"	""		""	""	""	""	""	""	""	""	""	""		
+"Event"	"Sarah arrives at the Ironing Room"	"EV343"	"Sarah arrives at the Ironing R"		238		"Green"		False	2370-12-25 05:20:10			2370-12-25 05:20:10	"0 seconds"		""	""	""	"Start is after end of Sarah prepares to leave the bu 7 minutes"	""		""	""	""	""	""	""	""	""	""	""		
+"Event"	"Second Pentad crosses the Traverse"	"EV357"	"Second Pentad crosses the Trav"		239		"Orange"		False	2370-12-25 05:20:30			2370-12-25 05:25:00	"4 minutes, 30 seconds"		""	""	""	"Start is after start of First MoSES Pentad crosses the 3 minutes
 End is before start of Second Pentad advances towards 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Second Pentad advances towards Eloise"	"EV359"	"Second Pentad advances towards"		244		"Orange"		False	2370-12-25 05:25			2370-12-25 05:42	"17 minutes"		""	""	""	"Start is after end of Second Pentad crosses the Trav 0 seconds
+"Event"	"Second Pentad advances towards Eloise"	"EV359"	"Second Pentad advances towards"		240		"Orange"		False	2370-12-25 05:25			2370-12-25 05:42	"17 minutes"		""	""	""	"Start is after end of Second Pentad crosses the Trav 0 seconds
 End is before start of Ascension of the Dawkins 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Eloise goes to the Ironing Room"	"EV360"	"Eloise goes to the Ironing Roo"		245		"Green"		False	2370-12-25 05:28:01			2370-12-25 05:34:01	"6 minutes"		""	""	""	"Start is after end of Shakti Security split worsens  0 seconds
-End is before start of Hayley and Kathy move to inter 0 seconds"	""		"Chip Stockwell"	"Chip Stockwell"	""	""	""	""	""	""	""	""		
-"Event"	"Sarah admits Chanta and the High Elvis to the security facility"	"EV348"	"Sarah admits Chanta and the Hi"		246		"Green"		False	2370-12-25 05:29:02			2370-12-25 05:29:44	"42 seconds"		""	""	""	"Start is after end of Gerry tries to convert the cri 0 seconds
-Start is after end of Ajent vs Jihad Man; Halo inter 0 seconds
-Start is after end of Gerry vs Chanta and the Jones  0 seconds
-End is before start of FINAL SARAH–CHANTA ENCOUNTER 0 seconds
-End is before start of Alexander escapes confinement  0 seconds
-End is before start of Chanta and the High Elvis move 0 seconds"	""		"Sarah Jacobson
-Tony Chantara
-The High Elvis"	"Sarah Jacobson
-Tony Chantara
-The High Elvis"	""	""	""	""	""	""	""	""		
-"Event"	"Chanta and the High Elvis move to the Ironing Room"	"EV362"	"Chanta and the High Elvis move"		247		"Green"		False	2370-12-25 05:29:44			2370-12-25 05:29:44	"0 seconds"		""	""	""	"Start is after end of Sarah admits Chanta and the Hi 0 seconds
-End is before start of FINAL SARAH–CHANTA ENCOUNTER 0 seconds"	""		"Tony Chantara
-The High Elvis"	"Tony Chantara
-The High Elvis"	""	""	""	""	""	""	""	""		
-"Event"	"Alexander escapes confinement and goes to Sarah"	"EV361"	"Alexander escapes confinement "		248		"Green"		False	2370-12-25 05:29:44			2370-12-25 05:35:44	"6 minutes"		""	""	""	"Start is after end of Sarah admits Chanta and the Hi 0 seconds
-End is before start of Chanta vs Alexander 0 seconds"	""		"Chip Stockwell"	"Chip Stockwell"	""	""	""	""	""	""	""	""		
-"Event"	"FINAL SARAH–CHANTA ENCOUNTER"	"EV349"	"FINAL SARAH–CHANTA ENCOUNTER"		249		"Green"		False	2370-12-25 05:29:44			2370-12-25 05:32:44	"3 minutes"		""	""	""	"Start is after end of Sarah admits Chanta and the Hi 0 seconds
-Start is after end of Chanta and the High Elvis move 0 seconds"	""		"Sarah Jacobson
+"Event"	"Eloise goes to the Ironing Room"	"EV360"	"Eloise goes to the Ironing Roo"		241		"Green"		False	2370-12-25 05:28:01			2370-12-25 05:34:01	"6 minutes"		""	""	""	"End is before start of Hayley and Kathy move to inter 0 seconds"	""		"Chip Stockwell"	"Chip Stockwell"	""	""	""	""	""	""	""	""		
+"Event"	"Alexander escapes confinement and goes to Sarah"	"EV361"	"Alexander escapes confinement "		242		"Green"		False	2370-12-25 05:29:44			2370-12-25 05:35:44	"6 minutes"		""	""	""	"End is before start of Chanta vs Alexander 0 seconds"	""		"Chip Stockwell"	"Chip Stockwell"	""	""	""	""	""	""	""	""		
+"Event"	"FINAL SARAH–CHANTA ENCOUNTER"	"EV349"	"FINAL SARAH–CHANTA ENCOUNTER"		243		"Green"		False	2370-12-25 05:29:44			2370-12-25 05:32:44	"3 minutes"		""	""	""	""	""		"Sarah Jacobson
 Tony Chantara"	"Sarah Jacobson
 Tony Chantara"	""	""	""	""	""	""	""	""		
-"Event"	"Johnny vs Chip vs Eloise"	"EV329"	"Johnny vs Chip vs Eloise"		250		"Orange"		False	2370-12-25 05:33:56			2370-12-25 05:42:00	"8 minutes, 4 seconds"		""	""	""	"Start is after end of Johnny escalates the testing 0 seconds
+"Event"	"Johnny vs Chip vs Eloise"	"EV329"	"Johnny vs Chip vs Eloise"		244		"Orange"		False	2370-12-25 05:33:56			2370-12-25 05:42:00	"8 minutes, 4 seconds"		""	""	""	"Start is after end of Johnny escalates the testing 0 seconds
 End equals start of Ascension of the Dawkins 0 seconds"	""		"Chip Stockwell
 John Stoat
 Chilo Damagetus
@@ -1709,24 +1679,24 @@ Kleoboulos Windus
 Solo Athena
 Dr Ortolan
 Eloise Shakti"	""	""	""	""	""	""	""	""		
-"Event"	"Hayley and Kathy move to intercept Halo"	"EV363"	"Hayley and Kathy move to inter"		251		"Green"		False	2370-12-25 05:34:30			2370-12-25 05:39:00	"4 minutes, 30 seconds"		""	""	""	"Start is after end of Eloise goes to the Ironing Roo 0 seconds
+"Event"	"Hayley and Kathy move to intercept Halo"	"EV363"	"Hayley and Kathy move to inter"		245		"Green"		False	2370-12-25 05:34:30			2370-12-25 05:39:00	"4 minutes, 30 seconds"		""	""	""	"Start is after end of Eloise goes to the Ironing Roo 0 seconds
 End is before start of Halo vs Kathy and Hayley 0 seconds"	""		"Hayley Lanning
 Dr Kathy Logan"	"Hayley Lanning
 Dr Kathy Logan"	""	""	""	""	""	""	""	""		
-"Event"	"Chanta vs Alexander"	"EV209"	"Chanta vs Alexander"		252		"Orange"		False	2370-12-25 05:37:00			2370-12-25 05:42:00	"5 minutes"		""	""	""	"End equals start of Ascension of the Dawkins 0 seconds
+"Event"	"Chanta vs Alexander"	"EV209"	"Chanta vs Alexander"		246		"Orange"		False	2370-12-25 05:37:00			2370-12-25 05:42:00	"5 minutes"		""	""	""	"End equals start of Ascension of the Dawkins 0 seconds
 Start is after end of Christmas Special Candid Crimi 0 seconds
 Start is after end of Gerry vs Chanta and the Jones  12 minutes
 Start is after end of Alexander escapes confinement  0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Dunhilton gets pillowed"	"EV199"	"Dunhilton gets pillowed"		253		"Orange"		False	2370-12-25 05:37:58			2370-12-25 05:42:00	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Johnny escalates the testing 0 seconds
+"Event"	"Dunhilton gets pillowed"	"EV199"	"Dunhilton gets pillowed"		247		"Orange"		False	2370-12-25 05:37:58			2370-12-25 05:42:00	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Johnny escalates the testing 0 seconds
 End equals start of Ascension of the Dawkins 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Halo vs Kathy and Hayley"	"EV221"	"Halo vs Kathy and Hayley"		254		"Orange"		False	2370-12-25 05:39			2370-12-25 05:42	"3 minutes"		""	""	""	"End equals start of Ascension of the Dawkins 0 seconds
-Start is after end of Halo penetrates Ruined Castle; 4 minutes, 30 seconds
+"Event"	"Halo vs Kathy and Hayley"	"EV221"	"Halo vs Kathy and Hayley"		248		"Orange"		False	2370-12-25 05:39			2370-12-25 05:42	"3 minutes"		""	""	""	"End equals start of Ascension of the Dawkins 0 seconds
+Start is after end of Hayley notices Halo in Ruined  4 minutes, 30 seconds
 Start is after end of Hayley and Kathy move to inter 0 seconds"	""		"Haloren Smythe
 Dr Kathy Logan
 Hayley Lanning"	"Haloren Smythe
 Dr Kathy Logan
 Hayley Lanning"	""	""	""	""	""	""	""	""		
-"Event"	"Ascension of the Dawkins"	"EV122"	"Ascension of the Dawkins"		255		#ffffff		False	2370-12-25 05:42			2370-12-25 05:42:01	"1 second"		""	""	""	"Start equals end of Chanta vs Alexander 0 seconds
+"Event"	"Ascension of the Dawkins"	"EV122"	"Ascension of the Dawkins"		249		#ffffff		False	2370-12-25 05:42			2370-12-25 05:42:01	"1 second"		""	""	""	"Start equals end of Chanta vs Alexander 0 seconds
 Start is after end of The Sages impregnate Sarah -243 days
 Start is after end of The Gibson Desert meeting 36 hours
 Start is after start of Ascension Day 5 hours, 42 minutes
@@ -1736,7 +1706,7 @@ End equals end of MoSES Drone infiltration 0 seconds
 Start equals end of Johnny vs Chip vs Eloise 0 seconds
 Start equals end of Halo vs Kathy and Hayley 0 seconds
 Start is after end of Second Pentad advances towards 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"First MoSES Pentad fights towards the Laundry"	"EV358"	"First MoSES Pentad fights towa"		256		"Orange"		False					"20 minutes"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
+"Event"	"First MoSES Pentad fights towards the Laundry"	"EV358"	"First MoSES Pentad fights towa"		250		"Orange"		False					"20 minutes"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
 "Character"	"Emil Kalheri"	""	"Emil Kalheri"	""			#73c619		False	2345-02-12 02:17:00			2345-02-12 02:17:00	"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
 "Character"	"Travis Teh"	""	"Travis Teh"	""			#00a2ef		False	2370-02-12 01:57:00			2370-02-12 01:57:00	"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
 "Character"	"Hayley Lanning"	""	"Hayley Lanning"	""			#004fef		False					"0 seconds"		""	""	""	""	""		""	""	""	""	""	""	""	""	""	""		
