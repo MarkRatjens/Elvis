@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-11-03 11:47:28 +1100" ModID="B2C8A2D8-3B0D-4825-9379-729E615B407C">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-11-07 15:01:25 +1100" ModID="A48EFA62-7962-4C10-A564-8FF0EEBE6AFC">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -687,10 +687,10 @@
                                         <NotesTextSelection>508,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>4750,12</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="7A36D7CC-46C2-4B98-A4A9-83113A9FC000" Type="Text" Created="2022-04-18 09:26:10 +1000" Modified="2026-09-11 16:07:34 +1000">
+                                        <BinderItem UUID="7A36D7CC-46C2-4B98-A4A9-83113A9FC000" Type="Text" Created="2022-04-18 09:26:10 +1000" Modified="2026-11-04 12:25:53 +1100">
                                             <Title>Halo discovers Tony has been framed</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
@@ -1047,7 +1047,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>2109,0</TextSelection>
+                                                <TextSelection>2717,6</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -2932,7 +2932,7 @@
                                                 <TextSelection>11362,11</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="3C1CDCEB-9AB4-4ACD-9001-B09F5A3C6BEE" Type="Text" Created="2026-07-23 15:45:51 +1000" Modified="2026-09-05 12:51:24 +1000">
+                                        <BinderItem UUID="3C1CDCEB-9AB4-4ACD-9001-B09F5A3C6BEE" Type="Text" Created="2026-07-23 15:45:51 +1000" Modified="2026-11-07 14:24:04 +1100">
                                             <Title>Dunhilton speaks out against Get Bent</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
@@ -2940,7 +2940,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>6568,131</TextSelection>
+                                                <TextSelection>3445,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="836CB755-8504-4B63-9747-8E264C4508C4" Type="Text" Created="2025-04-27 13:29:57 +1000" Modified="2026-08-06 10:50:13 +1000">
@@ -4030,7 +4030,7 @@
                                                 <StatusID>2</StatusID>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>899,0</TextSelection>
+                                                <TextSelection>1653,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="E59C0BF0-042E-4AF5-BE53-FF1DE9E207A8" Type="Text" Created="2026-10-20 23:38:50 +1100" Modified="2026-10-27 16:08:57 +1100">
@@ -4041,7 +4041,7 @@
                                                 <NotesTextSelection>0,340</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>3695,0</TextSelection>
+                                                <TextSelection>4035,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="8989806D-2073-4D6D-8639-E321523EFE52" Type="Text" Created="2026-10-10 18:01:32 +1100" Modified="2026-10-28 12:10:07 +1100">
@@ -4079,41 +4079,65 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="F1201A31-4A21-4DFE-9890-D8F3395B7040" Type="Folder" Created="2026-10-10 18:06:26 +1100" Modified="2026-10-10 18:06:26 +1100">
+                                <BinderItem UUID="F1201A31-4A21-4DFE-9890-D8F3395B7040" Type="Folder" Created="2026-10-10 18:06:26 +1100" Modified="2026-11-07 15:01:23 +1100">
                                     <Title>New Folder</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                    </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="D7F8A47B-B8F7-4A92-80B8-F089146805F3" Type="Text" Created="2025-06-21 16:11:36 +1000" Modified="2026-11-03 11:47:28 +1100">
+                                        <BinderItem UUID="D7F8A47B-B8F7-4A92-80B8-F089146805F3" Type="Text" Created="2025-06-21 16:11:36 +1000" Modified="2026-11-07 15:00:44 +1100">
                                             <Title>Ajent vs Jihad Man; Halo intervenes</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
-                                                <StatusID>33</StatusID>
+                                                <StatusID>2</StatusID>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>965,6</TextSelection>
+                                                <TextSelection>0,1992</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="0ACAAFA1-7789-462C-8AA1-2FE31C74D38E" Type="Text" Created="2025-06-21 16:11:45 +1000" Modified="2026-10-01 11:00:34 +1000">
-                                            <Title>Halo vs Hayley &amp; Kathy</Title>
+                                        <BinderItem UUID="DB2367DA-4E17-40D3-9F66-632D3D4EE7C3" Type="Text" Created="2026-11-07 12:18:33 +1100" Modified="2026-11-07 15:00:51 +1100">
+                                            <Title>Chanta's Jones clones hear the gunshot</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
-                                                <StatusID>33</StatusID>
-                                                <NotesTextSelection>215,0</NotesTextSelection>
+                                                <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1483,0</TextSelection>
+                                                <TextSelection>884,6</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="7CCBC3C3-3E80-4B24-8D9C-7A60D62C8A48" Type="Text" Created="2025-06-21 16:11:36 +1000" Modified="2026-09-18 16:09:39 +1000">
+                                        <BinderItem UUID="26B119D9-1768-4B73-ADF7-5E8AB50C723E" Type="Text" Created="2026-11-07 12:19:11 +1100" Modified="2026-11-07 15:01:00 +1100">
+                                            <Title>Gerry separates from his team</Title>
+                                            <MetaData>
+                                                <LabelID>4</LabelID>
+                                                <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>555,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="C7890D2D-E379-4237-AAE8-1FD3A5F128E7" Type="Text" Created="2025-06-21 16:11:45 +1000" Modified="2026-11-07 15:01:06 +1100">
+                                            <Title>Halo navigates Ruined Castle</Title>
+                                            <MetaData>
+                                                <LabelID>4</LabelID>
+                                                <StatusID>2</StatusID>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>3843,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="7CCBC3C3-3E80-4B24-8D9C-7A60D62C8A48" Type="Text" Created="2025-06-21 16:11:36 +1000" Modified="2026-11-06 21:22:46 +1100">
                                             <Title>Gerry vs Chanta and the Jones Clones</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>33</StatusID>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>3543,0</TextSelection>
+                                                <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -4167,6 +4191,17 @@
                                             </MetaData>
                                             <TextSettings>
                                                 <TextSelection>3791,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem UUID="0ACAAFA1-7789-462C-8AA1-2FE31C74D38E" Type="Text" Created="2025-06-21 16:11:45 +1000" Modified="2026-11-06 21:19:02 +1100">
+                                            <Title>Halo vs Hayley &amp; Kathy</Title>
+                                            <MetaData>
+                                                <LabelID>4</LabelID>
+                                                <StatusID>33</StatusID>
+                                                <NotesTextSelection>1445,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="44770B29-3A55-41B5-AA85-E24C3ECF64B2" Type="Text" Created="2026-08-10 16:55:41 +1000" Modified="2026-09-08 11:31:26 +1000">
@@ -5650,7 +5685,7 @@
     <Collections>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="WholeWord" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">apophenia</SearchSettings>
+            <SearchSettings Operator="WholeWord" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">TPlus</SearchSettings>
         </Collection>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
             <Title>Binder</Title>
@@ -5916,14 +5951,14 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-11-04 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-11-03 09:52:53 +1100"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-11-08 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="349" Characters="1984" Date="2026-11-07 11:18:06 +1100"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-11-03 00:00:00 +1100">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>159</OtherWordCount>
-        <OtherCharCount>863</OtherCharCount>
+    <RecentWritingHistory Date="2026-11-07 00:00:00 +1100">
+        <DraftWordCount>349</DraftWordCount>
+        <DraftCharCount>1984</DraftCharCount>
+        <OtherWordCount>49</OtherWordCount>
+        <OtherCharCount>296</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="42E645E5-F8CC-4776-B54D-1E028FE9CA3D" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
