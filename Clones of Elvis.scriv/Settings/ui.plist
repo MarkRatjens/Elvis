@@ -24,7 +24,7 @@
 		</array>
 		<key>2655DDF6-4AB8-42CB-A433-1CD76FC351D2</key>
 		<array>
-			<string>B4ACDE93-CB20-433A-8736-585CEEF3231D</string>
+			<string>89749586-B105-4176-9D77-0BA840D1B3E3</string>
 		</array>
 		<key>332095B9-1CE1-49DD-B826-E1E5A1FBFC9D</key>
 		<array>
@@ -407,8 +407,8 @@
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {288.5, 889}}</string>
-		<string>{{289.5, 0}, {1222.5, 889}}</string>
+		<string>{{0, 0}, {375.5, 889}}</string>
+		<string>{{376.5, 0}, {1135.5, 889}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -945,6 +945,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>3654FABC-7A6E-4EC9-AE90-861D428B137C</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>3774CE72-1AE0-4668-BA61-FD5AAD31F3A4</key>
 		<dict>
 			<key>Row</key>
@@ -1138,6 +1143,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>4976D24D-2E1D-4FE4-9F96-28BD81B1A8FA</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>4A4E31C4-3C39-41D7-B31C-B0AC5C55A097</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -1513,6 +1523,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>7A36D7CC-46C2-4B98-A4A9-83113A9FC000</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>7AF1083B-525A-409B-8414-09D841633785</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -2907,7 +2922,7 @@
 	<true/>
 	<key>collectionSelectionAutosaveName</key>
 	<array>
-		<integer>1</integer>
+		<integer>2</integer>
 	</array>
 	<key>collectionsHeight</key>
 	<real>100</real>
@@ -2990,8 +3005,8 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {824.5, 859}}</string>
-		<string>{{825.5, 0}, {397, 859}}</string>
+		<string>{{0, 0}, {737.5, 859}}</string>
+		<string>{{738.5, 0}, {397, 859}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>411</real>
@@ -3117,7 +3132,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>230.5</real>
+			<real>343.5</real>
 		</dict>
 	</dict>
 	<key>selectedCollectionTabIndex</key>

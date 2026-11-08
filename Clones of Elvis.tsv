@@ -1634,7 +1634,7 @@ Start equals start of Main MoSES formations engage S 0 seconds"	""		""	""	""	""	
 "Event"	"Main MoSES formations engage Shakti automated defences"	"EV353"	"Main MoSES formations engage S"		229		"Orange"		False	2370-12-25 05:06:01			2370-12-25 05:20:31	"14 minutes, 30 seconds"		""	""	""	"Start equals start of MoSES Drone infiltration 0 seconds
 Start is before start of MoSES penetration pentads make -3 minutes"	""		""	""	""	""	""	""	""	""	""	""		
 "Event"	"Chip arrives at the Ironing Room"	"EV340"	"Chip arrives at the Ironing Ro"		230		"Green"		False	2370-12-25 05:08:02			2370-12-25 05:08:02	"0 seconds"		""	""	""	"Start is after end of The Elvi use discs at the Trav 6 minutes"	""		"Chip Stockwell"	"Chip Stockwell"	""	""	""	""	""	""	""	""		
-"Event"	"Ajent vs Jihad Man; Halo intervenes"	"EV222"	"Ajent vs Jihad Man; Halo inter"		231		"Orange"		False	2370-12-25 05:10:28			2370-12-25 05:14:30	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Chanta and the Ajent Jones Clo 0 seconds
+"Event"	"Ajent vs Jihad Man; Halo intervenes"	"EV222"	"Ajent vs Jihad Man; Halo inter"		231		#9FA8DA		False	2370-12-25 05:10:28			2370-12-25 05:14:30	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Chanta and the Ajent Jones Clo 0 seconds
 End is before start of Hayley notices Halo in Ruined  0 seconds"	""		"Gerald “Very” Hardman
 Haloren Smythe
 Special Agent Ajent Jones"	"Gerald “Very” Hardman
@@ -1687,7 +1687,7 @@ Dr Kathy Logan"	""	""	""	""	""	""	""	""
 Start is after end of Christmas Special Candid Crimi 0 seconds
 Start is after end of Gerry vs Chanta and the Jones  12 minutes
 Start is after end of Alexander escapes confinement  0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Dunhilton gets pillowed"	"EV199"	"Dunhilton gets pillowed"		247		"Orange"		False	2370-12-25 05:37:58			2370-12-25 05:42:00	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Johnny escalates the testing 0 seconds
+"Event"	"Dunhilton gets pillowed"	"EV199"	"Dunhilton gets pillowed"		247		#9FA8DA		False	2370-12-25 05:37:58			2370-12-25 05:42:00	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Johnny escalates the testing 0 seconds
 End equals start of Ascension of the Dawkins 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
 "Event"	"Halo vs Kathy and Hayley"	"EV221"	"Halo vs Kathy and Hayley"		248		"Orange"		False	2370-12-25 05:39			2370-12-25 05:42	"3 minutes"		""	""	""	"End equals start of Ascension of the Dawkins 0 seconds
 Start is after end of Hayley notices Halo in Ruined  4 minutes, 30 seconds

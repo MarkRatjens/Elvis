@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-11-07 18:58:21 +1100" ModID="8B110476-5895-443C-B276-3186992B3A2D">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-11-08 16:15:22 +1100" ModID="84DF1A1F-70B7-463F-A3C5-7D6777947ED3">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -2213,10 +2213,10 @@
                                                 <NotesTextSelection>1028,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>3368,0</TextSelection>
+                                                <TextSelection>2014,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="31560842-0E26-42F9-BCD2-9EBA8BB9F35B" Type="Text" Created="2017-06-29 03:45:18 +1000" Modified="2026-08-20 11:14:30 +1000">
+                                        <BinderItem UUID="31560842-0E26-42F9-BCD2-9EBA8BB9F35B" Type="Text" Created="2017-06-29 03:45:18 +1000" Modified="2026-11-08 12:43:18 +1100">
                                             <Title>Holy Joint Venture</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
@@ -2226,7 +2226,7 @@
                                                 <NotesTextSelection>587,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>981,77</TextSelection>
+                                                <TextSelection>981,25</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -2406,7 +2406,7 @@
                                                 <TextSelection>8783,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="89749586-B105-4176-9D77-0BA840D1B3E3" Type="Text" Created="2025-12-14 15:28:05 +1100" Modified="2026-08-06 10:25:47 +1000">
+                                        <BinderItem UUID="89749586-B105-4176-9D77-0BA840D1B3E3" Type="Text" Created="2025-12-14 15:28:05 +1100" Modified="2026-11-08 12:51:59 +1100">
                                             <Title>Dunhilton &amp; Gerry inspect the parachute site</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
@@ -2414,7 +2414,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>111,0</TextSelection>
+                                                <TextSelection>3075,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="3176167F-1E40-4E60-A3BF-32FD65E6D9E1" Type="Text" Created="2023-04-27 10:40:00 +1000" Modified="2026-08-06 10:25:47 +1000">
@@ -4013,8 +4013,8 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="A58CBC69-C5FA-43B4-82BA-4C9920C800CC" Type="Folder" Created="2026-08-10 16:55:41 +1000" Modified="2026-11-01 13:02:22 +1100">
-                                    <Title>The last test begins</Title>
+                                <BinderItem UUID="A58CBC69-C5FA-43B4-82BA-4C9920C800CC" Type="Folder" Created="2026-08-10 16:55:41 +1000" Modified="2026-11-07 19:43:03 +1100">
+                                    <Title>Too much monkey business</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
                                     </MetaData>
@@ -4068,15 +4068,25 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="F1201A31-4A21-4DFE-9890-D8F3395B7040" Type="Folder" Created="2026-10-10 18:06:26 +1100" Modified="2026-11-07 15:01:23 +1100">
-                                    <Title>New Folder</Title>
+                                <BinderItem UUID="84BB8974-1A70-4B74-A6D4-ADC9FC06AA95" Type="Folder" Created="2026-08-10 16:55:41 +1000" Modified="2026-11-08 14:57:40 +1100">
+                                    <Title>Jihad Man</Title>
                                     <MetaData>
                                         <LabelID>2</LabelID>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>580,11</TextSelection>
                                     </TextSettings>
                                     <Children>
+                                        <BinderItem UUID="A037B9D3-D666-4AC1-8E6B-5309E83A0C4A" Type="Text" Created="2026-09-15 12:22:38 +1000" Modified="2026-11-08 16:15:22 +1100">
+                                            <Title>Fridge Force drones formations engage Shakti automated defences</Title>
+                                            <MetaData>
+                                                <LabelID>4</LabelID>
+                                                <StatusID>33</StatusID>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>2775,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
                                         <BinderItem UUID="D7F8A47B-B8F7-4A92-80B8-F089146805F3" Type="Text" Created="2025-06-21 16:11:36 +1000" Modified="2026-11-07 16:41:23 +1100">
                                             <Title>Ajent vs Jihad Man; Halo intervenes</Title>
                                             <MetaData>
@@ -4087,7 +4097,7 @@
                                                 <TextSelection>6925,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="DB2367DA-4E17-40D3-9F66-632D3D4EE7C3" Type="Text" Created="2026-11-07 12:18:33 +1100" Modified="2026-11-07 15:00:51 +1100">
+                                        <BinderItem UUID="DB2367DA-4E17-40D3-9F66-632D3D4EE7C3" Type="Text" Created="2026-11-07 12:18:33 +1100" Modified="2026-11-08 15:14:53 +1100">
                                             <Title>Chanta's Jones clones hear the gunshot</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
@@ -4095,7 +4105,28 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>884,6</TextSelection>
+                                                <TextSelection>793,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="F1201A31-4A21-4DFE-9890-D8F3395B7040" Type="Folder" Created="2026-10-10 18:06:26 +1100" Modified="2026-11-07 19:39:55 +1100">
+                                    <Title>Gerry Christmas Maybe</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="3654FABC-7A6E-4EC9-AE90-861D428B137C" Type="Text" Created="2026-09-15 12:22:38 +1000" Modified="2026-11-08 15:24:24 +1100">
+                                            <Title>First Pentad crosses the Traverse</Title>
+                                            <MetaData>
+                                                <StatusID>33</StatusID>
+                                                <NotesTextSelection>0,12</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>940,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="26B119D9-1768-4B73-ADF7-5E8AB50C723E" Type="Text" Created="2026-11-07 12:19:11 +1100" Modified="2026-11-07 15:01:00 +1100">
@@ -4109,46 +4140,24 @@
                                                 <TextSelection>555,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="C7890D2D-E379-4237-AAE8-1FD3A5F128E7" Type="Text" Created="2025-06-21 16:11:45 +1000" Modified="2026-11-07 15:01:06 +1100">
+                                        <BinderItem UUID="C7890D2D-E379-4237-AAE8-1FD3A5F128E7" Type="Text" Created="2025-06-21 16:11:45 +1000" Modified="2026-11-08 12:12:44 +1100">
                                             <Title>Halo navigates Ruined Castle</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>2</StatusID>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>3843,0</TextSelection>
+                                                <TextSelection>389,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="7CCBC3C3-3E80-4B24-8D9C-7A60D62C8A48" Type="Text" Created="2025-06-21 16:11:36 +1000" Modified="2026-11-07 18:58:21 +1100">
+                                        <BinderItem UUID="7CCBC3C3-3E80-4B24-8D9C-7A60D62C8A48" Type="Text" Created="2025-06-21 16:11:36 +1000" Modified="2026-11-08 12:16:30 +1100">
                                             <Title>Gerry vs Chanta and the Jones Clones</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>33</StatusID>
-                                                <NotesTextSelection>4854,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1081,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem UUID="84BB8974-1A70-4B74-A6D4-ADC9FC06AA95" Type="Folder" Created="2026-08-10 16:55:41 +1000" Modified="2026-09-18 17:10:14 +1000">
-                                    <Title>Drones</Title>
-                                    <MetaData>
-                                        <LabelID>2</LabelID>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem UUID="A037B9D3-D666-4AC1-8E6B-5309E83A0C4A" Type="Text" Created="2026-09-15 12:22:38 +1000" Modified="2026-10-30 10:42:15 +1100">
-                                            <Title>Fridge Force drones attack</Title>
-                                            <MetaData>
-                                                <StatusID>33</StatusID>
-                                                <NotesTextSelection>0,12</NotesTextSelection>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>4383,0</TextSelection>
+                                                <TextSelection>2159,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -4162,6 +4171,15 @@
                                         <TextSelection>484,0</TextSelection>
                                     </TextSettings>
                                     <Children>
+                                        <BinderItem UUID="4A4E31C4-3C39-41D7-B31C-B0AC5C55A097" Type="Text" Created="2026-11-08 15:17:15 +1100" Modified="2026-11-08 15:17:47 +1100">
+                                            <Title>Second Pentad crosses the Traverse</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
                                         <BinderItem UUID="3AE243DB-BAD8-4C7C-B400-8E877E15F140" Type="Text" Created="2025-06-21 16:12:27 +1000" Modified="2026-10-12 15:02:19 +1100">
                                             <Title>Chanta vs Alexander</Title>
                                             <MetaData>
@@ -4226,7 +4244,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="B71F35AC-BDBC-419B-9AB3-A7AE64228AE1" Type="Text" Created="2022-09-16 14:27:59 +1000" Modified="2026-08-08 09:46:50 +1000">
+                                        <BinderItem UUID="B71F35AC-BDBC-419B-9AB3-A7AE64228AE1" Type="Text" Created="2022-09-16 14:27:59 +1000" Modified="2026-11-08 11:47:32 +1100">
                                             <Title>Elvis</Title>
                                             <MetaData>
                                                 <LabelID>8</LabelID>
@@ -5684,7 +5702,7 @@
     <Collections>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="WholeWord" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">mycelial</SearchSettings>
+            <SearchSettings Operator="WholeWord" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">Saint</SearchSettings>
         </Collection>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
             <Title>Binder</Title>
@@ -5950,14 +5968,14 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-11-08 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="377" Characters="2104" Date="2026-11-07 11:18:06 +1100"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-11-09 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="2" Characters="13" Date="2026-11-08 11:47:14 +1100"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-11-07 00:00:00 +1100">
-        <DraftWordCount>377</DraftWordCount>
-        <DraftCharCount>2104</DraftCharCount>
-        <OtherWordCount>537</OtherWordCount>
-        <OtherCharCount>3197</OtherCharCount>
+    <RecentWritingHistory Date="2026-11-08 00:00:00 +1100">
+        <DraftWordCount>2</DraftWordCount>
+        <DraftCharCount>9</DraftCharCount>
+        <OtherWordCount>-2887</OtherWordCount>
+        <OtherCharCount>-18201</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="42E645E5-F8CC-4776-B54D-1E028FE9CA3D" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
