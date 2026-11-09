@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-11-08 16:15:22 +1100" ModID="84DF1A1F-70B7-463F-A3C5-7D6777947ED3">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-11-09 15:40:28 +1100" ModID="D3FEBB3D-E6E5-4E8B-8360-B555E6B4764B">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -3382,7 +3382,7 @@
                                                 <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="7D37D849-67F7-44AE-B239-28CC94C0D992" Type="Text" Created="2026-09-19 18:01:41 +1000" Modified="2026-10-14 13:47:25 +1100">
+                                        <BinderItem UUID="7D37D849-67F7-44AE-B239-28CC94C0D992" Type="Text" Created="2026-09-19 18:01:41 +1000" Modified="2026-11-09 14:36:33 +1100">
                                             <Title>Johnny reveals the first operational elliptical-rail apparatus</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
@@ -3391,7 +3391,7 @@
                                                 <NotesTextSelection>980,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1362,0</TextSelection>
+                                                <TextSelection>15674,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -3784,7 +3784,7 @@
                                                 <TextSelection>806,5</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="4655C5DA-274B-4205-94A4-CE2AE01A3AEE" Type="Text" Created="2026-09-18 15:27:38 +1000" Modified="2026-10-23 10:31:08 +1100">
+                                        <BinderItem UUID="4655C5DA-274B-4205-94A4-CE2AE01A3AEE" Type="Text" Created="2026-09-18 15:27:38 +1000" Modified="2026-11-09 14:33:04 +1100">
                                             <Title>Please restrain your children</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
@@ -3792,7 +3792,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>7475,0</TextSelection>
+                                                <TextSelection>1866,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -4077,14 +4077,14 @@
                                         <TextSelection>580,11</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="A037B9D3-D666-4AC1-8E6B-5309E83A0C4A" Type="Text" Created="2026-09-15 12:22:38 +1000" Modified="2026-11-08 16:15:22 +1100">
+                                        <BinderItem UUID="A037B9D3-D666-4AC1-8E6B-5309E83A0C4A" Type="Text" Created="2026-09-15 12:22:38 +1000" Modified="2026-11-09 15:40:28 +1100">
                                             <Title>Fridge Force drones formations engage Shakti automated defences</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>33</StatusID>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>2775,0</TextSelection>
+                                                <TextSelection>2575,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="D7F8A47B-B8F7-4A92-80B8-F089146805F3" Type="Text" Created="2025-06-21 16:11:36 +1000" Modified="2026-11-07 16:41:23 +1100">
@@ -4119,14 +4119,14 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="3654FABC-7A6E-4EC9-AE90-861D428B137C" Type="Text" Created="2026-09-15 12:22:38 +1000" Modified="2026-11-08 15:24:24 +1100">
+                                        <BinderItem UUID="3654FABC-7A6E-4EC9-AE90-861D428B137C" Type="Text" Created="2026-09-15 12:22:38 +1000" Modified="2026-11-09 15:22:31 +1100">
                                             <Title>First Pentad crosses the Traverse</Title>
                                             <MetaData>
+                                                <LabelID>4</LabelID>
                                                 <StatusID>33</StatusID>
-                                                <NotesTextSelection>0,12</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>940,0</TextSelection>
+                                                <TextSelection>2627,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="26B119D9-1768-4B73-ADF7-5E8AB50C723E" Type="Text" Created="2026-11-07 12:19:11 +1100" Modified="2026-11-07 15:01:00 +1100">
@@ -4168,16 +4168,18 @@
                                         <LabelID>2</LabelID>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>484,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="4A4E31C4-3C39-41D7-B31C-B0AC5C55A097" Type="Text" Created="2026-11-08 15:17:15 +1100" Modified="2026-11-08 15:17:47 +1100">
+                                        <BinderItem UUID="4A4E31C4-3C39-41D7-B31C-B0AC5C55A097" Type="Text" Created="2026-11-08 15:17:15 +1100" Modified="2026-11-09 15:23:38 +1100">
                                             <Title>Second Pentad crosses the Traverse</Title>
                                             <MetaData>
+                                                <LabelID>4</LabelID>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>941,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
+                                                <TextSelection>1115,568</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="3AE243DB-BAD8-4C7C-B400-8E877E15F140" Type="Text" Created="2025-06-21 16:12:27 +1000" Modified="2026-10-12 15:02:19 +1100">
@@ -4506,7 +4508,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1114,0</TextSelection>
+                        <TextSelection>0,2180</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="DD73AEC9-A1D3-42E5-9170-1CA1459452ED" Type="Text" Created="2025-06-15 11:37:24 +1000" Modified="2026-09-19 10:04:41 +1000">
@@ -5702,7 +5704,7 @@
     <Collections>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="WholeWord" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">Saint</SearchSettings>
+            <SearchSettings Operator="WholeWord" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">pentad</SearchSettings>
         </Collection>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
             <Title>Binder</Title>
@@ -5968,14 +5970,14 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-11-09 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="2" Characters="13" Date="2026-11-08 11:47:14 +1100"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-11-10 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="341" Characters="2179" Date="2026-11-09 10:53:38 +1100"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-11-08 00:00:00 +1100">
-        <DraftWordCount>2</DraftWordCount>
-        <DraftCharCount>9</DraftCharCount>
-        <OtherWordCount>-2887</OtherWordCount>
-        <OtherCharCount>-18201</OtherCharCount>
+    <RecentWritingHistory Date="2026-11-09 00:00:00 +1100">
+        <DraftWordCount>341</DraftWordCount>
+        <DraftCharCount>2179</DraftCharCount>
+        <OtherWordCount>309</OtherWordCount>
+        <OtherCharCount>2080</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="42E645E5-F8CC-4776-B54D-1E028FE9CA3D" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
