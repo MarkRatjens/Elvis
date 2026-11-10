@@ -1618,7 +1618,8 @@ Dr Ortolan"	""	""	""	""	""	""	""	""
 End is before start of The Elvi use discs at the Trav 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
 "Event"	"The Elvi use discs at the Traverse"	"EV337"	"The Elvi use discs at the Trav"		225		#9FA8DA		False	2370-12-25 04:51:02			2370-12-25 05:02:02	"11 minutes"		""	""	""	"End is before start of Chip arrives at the Ironing Ro -6 minutes
 End equals start of Ruined Castle bunker seismic i 0 seconds
-Start is after end of Chanta and the Elvi watch the  0 seconds"	""		"Tony Chantara
+Start is after end of Chanta and the Elvi watch the  0 seconds
+End is before start of MoSES Drone infiltration 0 seconds"	""		"Tony Chantara
 The High Elvis"	"Tony Chantara
 The High Elvis"	""	""	""	""	""	""	""	""		
 "Event"	"Chanta’s party crosses the Traverse"	"EV341"	"Chanta’s party crosses the Tra"		226		"Pink"		False					"4 minutes, 30 seconds"		""	""	""	""	""		"Tony Chantara
@@ -1629,9 +1630,10 @@ Special Agent Ajent Jones"	""	""	""	""	""	""	""	""
 "Event"	"Ruined Castle bunker seismic ingress released"	"EV339"	"Ruined Castle bunker seismic i"		227		#9FA8DA		False	2370-12-25 05:02:02			2370-12-25 05:02:02	"0 seconds"		""	""	""	"Start is after start of Sarah prepares to leave the bu 0 seconds
 End is before end of Sarah prepares to leave the bu 0 seconds
 Start equals end of The Elvi use discs at the Trav 0 seconds"	""		""	""	"Gerald “Very” Hardman"	"Gerald “Very” Hardman"	""	""	""	""	""	""		
-"Event"	"MoSES Drone infiltration"	"EV317"	"MoSES Drone infiltration"		228		"Orange"		False	2370-12-25 05:06:01			2370-12-25 05:42:01	"36 minutes"		""	""	""	"End equals end of Ascension of the Dawkins 0 seconds
-Start equals start of Main MoSES formations engage S 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Main MoSES formations engage Shakti automated defences"	"EV353"	"Main MoSES formations engage S"		229		"Orange"		False	2370-12-25 05:06:01			2370-12-25 05:20:31	"14 minutes, 30 seconds"		""	""	""	"Start equals start of MoSES Drone infiltration 0 seconds
+"Event"	"MoSES Drone infiltration"	"EV317"	"MoSES Drone infiltration"		228		#9FA8DA		False	2370-12-25 05:06:01			2370-12-25 05:42:01	"36 minutes"		""	""	""	"End equals end of Ascension of the Dawkins 0 seconds
+Start equals start of Main MoSES formations engage S 0 seconds
+Start is after end of The Elvi use discs at the Trav 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
+"Event"	"Main MoSES formations engage Shakti automated defences"	"EV353"	"Main MoSES formations engage S"		229		#9FA8DA		False	2370-12-25 05:06:01			2370-12-25 05:20:31	"14 minutes, 30 seconds"		""	""	""	"Start equals start of MoSES Drone infiltration 0 seconds
 Start is before start of MoSES penetration pentads make -3 minutes"	""		""	""	""	""	""	""	""	""	""	""		
 "Event"	"Chip arrives at the Ironing Room"	"EV340"	"Chip arrives at the Ironing Ro"		230		"Green"		False	2370-12-25 05:08:02			2370-12-25 05:08:02	"0 seconds"		""	""	""	"Start is after end of The Elvi use discs at the Trav 6 minutes"	""		"Chip Stockwell"	"Chip Stockwell"	""	""	""	""	""	""	""	""		
 "Event"	"Ajent vs Jihad Man; Halo intervenes"	"EV222"	"Ajent vs Jihad Man; Halo inter"		231		#9FA8DA		False	2370-12-25 05:10:28			2370-12-25 05:14:30	"4 minutes, 2 seconds"		""	""	""	"Start is after end of Chanta and the Ajent Jones Clo 0 seconds
@@ -1642,21 +1644,21 @@ Haloren Smythe
 Special Agent Ajent Jones"	""	""	""	""	""	""	""	""		
 "Event"	"Kathy pulls herself together"	"EV336"	"Kathy pulls herself together"		232		"Fuschia"		False	2370-12-25 05:13:10			2370-12-25 05:16:10	"3 minutes"		""	""	""	"Start is after end of Sarah prepares to leave the bu 0 seconds
 End is before start of Eloise and Hayley monitor the  -121 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Hayley notices Halo in Ruined Castle"	"EV355"	"Hayley notices Halo in Ruined "		233		"Green"		False	2370-12-25 05:14:30			2370-12-25 05:34:30	"20 minutes"		""	""	""	"End is before start of Halo vs Kathy and Hayley -4 minutes, -30 seconds
+"Event"	"Hayley notices Halo in Ruined Castle"	"EV355"	"Hayley notices Halo in Ruined "		233		"Fuschia"		False	2370-12-25 05:14:30			2370-12-25 05:34:30	"20 minutes"		""	""	""	"End is before start of Halo vs Kathy and Hayley -4 minutes, -30 seconds
 Start is after end of Ajent vs Jihad Man; Halo inter 0 seconds"	""		"Haloren Smythe"	"Haloren Smythe"	"Hayley Lanning"	"Hayley Lanning"	""	""	""	""	""	""		
-"Event"	"MoSES penetration pentads make repeated attempts"	"EV354"	"MoSES penetration pentads make"		234		"Orange"		False	2370-12-25 05:17:30			2370-12-25 05:29:00	"11 minutes, 30 seconds"		""	""	""	"Start is after start of Main MoSES formations engage S 3 minutes
+"Event"	"MoSES penetration pentads make repeated attempts"	"EV354"	"MoSES penetration pentads make"		234		#9FA8DA		False	2370-12-25 05:17:30			2370-12-25 05:29:00	"11 minutes, 30 seconds"		""	""	""	"Start is after start of Main MoSES formations engage S 3 minutes
 Start is before start of First MoSES Pentad crosses the 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"First MoSES Pentad crosses the Traverse"	"EV356"	"First MoSES Pentad crosses the"		235		"Orange"		False	2370-12-25 05:17:30			2370-12-25 05:22:00	"4 minutes, 30 seconds"		""	""	""	"Start is before start of Second Pentad crosses the Trav -3 minutes
+"Event"	"First MoSES Pentad crosses the Traverse"	"EV356"	"First MoSES Pentad crosses the"		235		#9FA8DA		False	2370-12-25 05:17:30			2370-12-25 05:22:00	"4 minutes, 30 seconds"		""	""	""	"Start is before start of Second Pentad crosses the Trav -3 minutes
 Start is after start of MoSES penetration pentads make 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Eloise and Hayley monitor the crisis from the bunker command post"	"EV352"	"Eloise and Hayley monitor the "		236		"Green"		False	2370-12-25 05:18:11			2370-12-25 05:18:11	"0 seconds"		""	""	""	"Start is after end of Kathy pulls herself together 121 seconds"	""		"Hayley Lanning
+"Event"	"Eloise and Hayley monitor the crisis from the bunker command post"	"EV352"	"Eloise and Hayley monitor the "		236		"Fuschia"		False	2370-12-25 05:18:11			2370-12-25 05:18:11	"0 seconds"		""	""	""	"Start is after end of Kathy pulls herself together 121 seconds"	""		"Hayley Lanning
 Dr Kathy Logan
 Eloise Shakti"	"Hayley Lanning
 Dr Kathy Logan
 Eloise Shakti"	""	""	""	""	""	""	""	""		
-"Event"	"Gerry vs Chanta and the Jones Clones"	"EV298"	"Gerry vs Chanta and the Jones "		237		"Orange"		False	2370-12-25 05:20			2370-12-25 05:25	"5 minutes"		""	""	""	"Start is after end of Chanta and the Ajent Jones Clo 0 seconds
+"Event"	"Gerry vs Chanta and the Jones Clones"	"EV298"	"Gerry vs Chanta and the Jones "		237		#9FA8DA		False	2370-12-25 05:20			2370-12-25 05:25	"5 minutes"		""	""	""	"Start is after end of Chanta and the Ajent Jones Clo 0 seconds
 End is before start of Chanta vs Alexander -12 minutes"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Sarah arrives at the Ironing Room"	"EV343"	"Sarah arrives at the Ironing R"		238		"Green"		False	2370-12-25 05:20:10			2370-12-25 05:20:10	"0 seconds"		""	""	""	"Start is after end of Sarah prepares to leave the bu 7 minutes"	""		""	""	""	""	""	""	""	""	""	""		
-"Event"	"Second Pentad crosses the Traverse"	"EV357"	"Second Pentad crosses the Trav"		239		"Orange"		False	2370-12-25 05:20:30			2370-12-25 05:25:00	"4 minutes, 30 seconds"		""	""	""	"Start is after start of First MoSES Pentad crosses the 3 minutes
+"Event"	"Sarah arrives at the Ironing Room"	"EV343"	"Sarah arrives at the Ironing R"		238		"Fuschia"		False	2370-12-25 05:20:10			2370-12-25 05:20:10	"0 seconds"		""	""	""	"Start is after end of Sarah prepares to leave the bu 7 minutes"	""		""	""	""	""	""	""	""	""	""	""		
+"Event"	"Second Pentad crosses the Traverse"	"EV357"	"Second Pentad crosses the Trav"		239		#9FA8DA		False	2370-12-25 05:20:30			2370-12-25 05:25:00	"4 minutes, 30 seconds"		""	""	""	"Start is after start of First MoSES Pentad crosses the 3 minutes
 End is before start of Second Pentad advances towards 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		
 "Event"	"Second Pentad advances towards Eloise"	"EV359"	"Second Pentad advances towards"		240		"Orange"		False	2370-12-25 05:25			2370-12-25 05:42	"17 minutes"		""	""	""	"Start is after end of Second Pentad crosses the Trav 0 seconds
 End is before start of Ascension of the Dawkins 0 seconds"	""		""	""	""	""	""	""	""	""	""	""		

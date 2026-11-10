@@ -24,7 +24,7 @@
 		</array>
 		<key>2655DDF6-4AB8-42CB-A433-1CD76FC351D2</key>
 		<array>
-			<string>A037B9D3-D666-4AC1-8E6B-5309E83A0C4A</string>
+			<string>668BB2B1-8F15-437C-9187-6ECAAF0D90CE</string>
 		</array>
 		<key>332095B9-1CE1-49DD-B826-E1E5A1FBFC9D</key>
 		<array>
@@ -407,8 +407,8 @@
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {313, 889}}</string>
-		<string>{{314, 0}, {1198, 889}}</string>
+		<string>{{0, 0}, {393, 889}}</string>
+		<string>{{394, 0}, {1118, 889}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -1011,6 +1011,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>3CA9D7D3-E1D0-4BD4-A4BF-284381E462A3</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>3CBC78E6-D84D-4E00-8CA3-F30056CD907E</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -2822,6 +2827,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>F6D239C8-07D4-4B59-9222-D8EEDA295B2B</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>F7090AED-417E-45A9-88FF-5240F0C0AE5D</key>
 		<dict>
 			<key>Row</key>
@@ -3005,8 +3015,8 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {800, 859}}</string>
-		<string>{{801, 0}, {397, 859}}</string>
+		<string>{{0, 0}, {757, 859}}</string>
+		<string>{{758, 0}, {360, 859}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>411</real>
@@ -3083,7 +3093,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 403.33333333333331}, {532, 532.66666666666674}}</string>
+	<string>{{0, 0}, {228.66666666666666, 532.66666666666663}}</string>
 	<key>mainDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -3096,7 +3106,7 @@
 	<key>mainDocumentView</key>
 	<string>supportingDocumentEditor</string>
 	<key>mainWindowFrame</key>
-	<string>221 75 1070 842 0 0 1512 949 </string>
+	<string>0 44 1512 905 0 0 1512 949 {"tilingState":{"tilingPosition":9,"normalizedSize":1,"untiledFrame":"{{221, 65}, {1070, 886}}"}}</string>
 	<key>projectNotesSplitState</key>
 	<array>
 		<string>{{0, 0}, {147, 383}}</string>
@@ -3132,7 +3142,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>281</real>
+			<real>361</real>
 		</dict>
 	</dict>
 	<key>selectedCollectionTabIndex</key>
@@ -3196,7 +3206,7 @@
 		<string>{{0, 400.5}, {553, 399.5}}</string>
 	</array>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {282.66666666666663, 532.66666666666663}}</string>
+	<string>{{0, 7}, {210, 480}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
 	<string>{4263, 0}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
