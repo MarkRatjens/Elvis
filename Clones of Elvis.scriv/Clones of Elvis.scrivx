@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-11-09 15:40:28 +1100" ModID="D3FEBB3D-E6E5-4E8B-8360-B555E6B4764B">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-11-10 12:23:19 +1100" ModID="7333E2AB-6782-409F-B77A-D966FE17043A">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -4119,14 +4119,14 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="3654FABC-7A6E-4EC9-AE90-861D428B137C" Type="Text" Created="2026-09-15 12:22:38 +1000" Modified="2026-11-09 15:22:31 +1100">
+                                        <BinderItem UUID="3654FABC-7A6E-4EC9-AE90-861D428B137C" Type="Text" Created="2026-09-15 12:22:38 +1000" Modified="2026-11-09 17:43:46 +1100">
                                             <Title>First Pentad crosses the Traverse</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>33</StatusID>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>2627,0</TextSelection>
+                                                <TextSelection>2026,598</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="26B119D9-1768-4B73-ADF7-5E8AB50C723E" Type="Text" Created="2026-11-07 12:19:11 +1100" Modified="2026-11-07 15:01:00 +1100">
@@ -4150,14 +4150,14 @@
                                                 <TextSelection>389,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="7CCBC3C3-3E80-4B24-8D9C-7A60D62C8A48" Type="Text" Created="2025-06-21 16:11:36 +1000" Modified="2026-11-08 12:16:30 +1100">
+                                        <BinderItem UUID="7CCBC3C3-3E80-4B24-8D9C-7A60D62C8A48" Type="Text" Created="2025-06-21 16:11:36 +1000" Modified="2026-11-10 11:16:40 +1100">
                                             <Title>Gerry vs Chanta and the Jones Clones</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <StatusID>33</StatusID>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>2159,0</TextSelection>
+                                                <TextSelection>2944,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -4171,7 +4171,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="4A4E31C4-3C39-41D7-B31C-B0AC5C55A097" Type="Text" Created="2026-11-08 15:17:15 +1100" Modified="2026-11-09 15:23:38 +1100">
+                                        <BinderItem UUID="4A4E31C4-3C39-41D7-B31C-B0AC5C55A097" Type="Text" Created="2026-11-08 15:17:15 +1100" Modified="2026-11-10 11:54:25 +1100">
                                             <Title>Second Pentad crosses the Traverse</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
@@ -4179,7 +4179,7 @@
                                                 <NotesTextSelection>941,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1115,568</TextSelection>
+                                                <TextSelection>2409,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="3AE243DB-BAD8-4C7C-B400-8E877E15F140" Type="Text" Created="2025-06-21 16:12:27 +1000" Modified="2026-10-12 15:02:19 +1100">
@@ -4190,7 +4190,7 @@
                                                 <NotesTextSelection>222,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1624,0</TextSelection>
+                                                <TextSelection>482,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="ABD84CB4-4A69-4CF7-873C-BB1DECED7B60" Type="Text" Created="2026-09-10 12:28:36 +1000" Modified="2026-11-01 13:03:34 +1100">
@@ -4282,8 +4282,17 @@
                         <TextSelection>5676,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="804B3850-D296-4713-BCA6-BA152F2B304C" Type="Text" Created="2026-11-01 11:39:06 +1100" Modified="2026-11-01 11:59:01 +1100">
-                    <Title>Agent Jones — Tie Colour Specification</Title>
+                <BinderItem UUID="62FA3FEA-D3EF-4B5D-9482-510DF64E9301" Type="Text" Created="2026-08-28 09:02:33 +1000" Modified="2026-09-09 10:48:11 +1000">
+                    <Title>Drafting instructions</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2855,4105</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="DEC87DFB-6D26-4548-8D0E-AB7DEE34B234" Type="Text" Created="2025-06-22 20:37:19 +1000" Modified="2025-07-12 19:07:29 +1000">
+                    <Title>Koala Tic Options for Alexander</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -4291,13 +4300,13 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="EF0042A1-8423-4D2A-A790-74933335DBD0" Type="Text" Created="2026-10-30 12:20:34 +1100" Modified="2026-10-30 12:21:07 +1100">
-                    <Title>MoSES - Narrative Role</Title>
+                <BinderItem UUID="804B3850-D296-4713-BCA6-BA152F2B304C" Type="Text" Created="2026-11-01 11:39:06 +1100" Modified="2026-11-01 11:59:01 +1100">
+                    <Title>Agent Jones — Tie Colour Specification</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>893,5</TextSelection>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="27CC1500-F081-4E0D-AC6A-B3191E3D96F7" Type="Text" Created="2026-10-18 13:04:19 +1100" Modified="2026-10-18 13:06:13 +1100">
@@ -4339,57 +4348,6 @@
                         <Bookmark BinderUUID="D61D40ED-EB57-4B1C-B770-57ACE2539114"/>
                     </Bookmarks>
                 </BinderItem>
-                <BinderItem UUID="B92B9007-AC3D-4B88-B4D1-081B4B8AE52D" Type="Text" Created="2026-10-01 10:23:18 +1000" Modified="2026-10-01 11:57:11 +1000">
-                    <Title>Structural reset-4</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>2113,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="9411D2A7-2BBB-4084-8EC3-16B76C7D6D29" Type="Text" Created="2026-10-01 10:23:18 +1000" Modified="2026-10-01 11:52:40 +1000">
-                    <Title>Structural reset-3</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>10979,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="1A9E44BB-4534-4501-8AB9-DA92C1135410" Type="Text" Created="2026-10-01 10:23:18 +1000" Modified="2026-10-01 11:49:34 +1000">
-                    <Title>Structural reset-2</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>9963,2724</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="B39DA9E9-130A-45BB-A13F-E0E485B10A00" Type="Text" Created="2026-10-01 10:23:18 +1000" Modified="2026-10-01 11:45:01 +1000">
-                    <Title>Structural reset-1</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>25857,0</TextSelection>
-                    </TextSettings>
-                    <Bookmarks>
-                        <Bookmark BinderUUID="1A9E44BB-4534-4501-8AB9-DA92C1135410"/>
-                    </Bookmarks>
-                </BinderItem>
-                <BinderItem UUID="B6A054C7-3551-4E7F-94DF-D94DAF7C5866" Type="Text" Created="2026-10-01 10:23:18 +1000" Modified="2026-10-01 11:33:34 +1000">
-                    <Title>Structural reset</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                    <Bookmarks>
-                        <Bookmark BinderUUID="B39DA9E9-130A-45BB-A13F-E0E485B10A00"/>
-                    </Bookmarks>
-                </BinderItem>
                 <BinderItem UUID="BEB96BAC-423A-4A33-9959-7FCD9556E9A2" Type="Text" Created="2026-10-05 16:56:36 +1100" Modified="2026-10-14 14:01:44 +1100">
                     <Title>Candid Criminal Christmas Special — development kit</Title>
                     <MetaData>
@@ -4408,15 +4366,6 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="CF0CBC1D-4A8D-4345-827C-36956517F722" Type="Text" Created="2026-09-26 15:14:04 +1000" Modified="2026-10-01 10:07:09 +1000">
-                    <Title>Check-notes; run to the end</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
                 <BinderItem UUID="EB76119A-FCF9-475D-8C27-6F0F4A1DC08F" Type="Text" Created="2026-09-26 15:14:04 +1000" Modified="2026-10-02 15:15:59 +1000">
                     <Title>Siege overview</Title>
                     <MetaData>
@@ -4424,7 +4373,7 @@
                         <NotesTextSelection>598,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>3352,4</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="48CB24D1-B50B-4D72-993B-E6D7DF22331F" Type="Text" Created="2026-09-26 12:02:53 +1000" Modified="2026-09-26 12:13:28 +1000">
@@ -4519,7 +4468,7 @@
                         <NotesTextSelection>73,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>2,2167</TextSelection>
+                        <TextSelection>516,7</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="4976D24D-2E1D-4FE4-9F96-28BD81B1A8FA" Type="Text" Created="2026-09-12 19:36:04 +1000" Modified="2026-09-19 10:04:41 +1000">
@@ -4528,7 +4477,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>792,0</TextSelection>
+                        <TextSelection>1971,9</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="131922DE-0006-40ED-807B-AAC5BCC8F351" Type="Text" Created="2026-09-12 19:36:04 +1000" Modified="2026-09-15 16:39:11 +1000">
@@ -4604,15 +4553,6 @@
                             </TextSettings>
                         </BinderItem>
                     </Children>
-                </BinderItem>
-                <BinderItem UUID="62FA3FEA-D3EF-4B5D-9482-510DF64E9301" Type="Text" Created="2026-08-28 09:02:33 +1000" Modified="2026-09-09 10:48:11 +1000">
-                    <Title>Drafting instructions</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>2855,4105</TextSelection>
-                    </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="27E0F003-56E0-4B3C-A668-C72E5BC4F1F8" Type="Text" Created="2026-09-08 11:50:51 +1000" Modified="2026-09-19 10:04:41 +1000">
                     <Title>single escalation arc with nine drafting jobs,</Title>
@@ -4747,15 +4687,6 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>1702,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="DEC87DFB-6D26-4548-8D0E-AB7DEE34B234" Type="Text" Created="2025-06-22 20:37:19 +1000" Modified="2025-07-12 19:07:29 +1000">
-                    <Title>Koala Tic Options for Alexander</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="F63DDBA0-1EE4-40EB-A663-D478C50B0AD9" Type="Text" Created="2025-07-06 11:25:50 +1000" Modified="2026-08-06 10:25:47 +1000">
@@ -5698,13 +5629,82 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="EF0042A1-8423-4D2A-A790-74933335DBD0" Type="Text" Created="2026-10-30 12:20:34 +1100" Modified="2026-10-30 12:21:07 +1100">
+                    <Title>MoSES - Narrative Role</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>893,5</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B92B9007-AC3D-4B88-B4D1-081B4B8AE52D" Type="Text" Created="2026-10-01 10:23:18 +1000" Modified="2026-10-01 11:57:11 +1000">
+                    <Title>Structural reset-4</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2113,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="9411D2A7-2BBB-4084-8EC3-16B76C7D6D29" Type="Text" Created="2026-10-01 10:23:18 +1000" Modified="2026-10-01 11:52:40 +1000">
+                    <Title>Structural reset-3</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>10979,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="1A9E44BB-4534-4501-8AB9-DA92C1135410" Type="Text" Created="2026-10-01 10:23:18 +1000" Modified="2026-10-01 11:49:34 +1000">
+                    <Title>Structural reset-2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>9541,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B39DA9E9-130A-45BB-A13F-E0E485B10A00" Type="Text" Created="2026-10-01 10:23:18 +1000" Modified="2026-10-01 11:45:01 +1000">
+                    <Title>Structural reset-1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>25857,0</TextSelection>
+                    </TextSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="1A9E44BB-4534-4501-8AB9-DA92C1135410"/>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="B6A054C7-3551-4E7F-94DF-D94DAF7C5866" Type="Text" Created="2026-10-01 10:23:18 +1000" Modified="2026-10-01 11:33:34 +1000">
+                    <Title>Structural reset</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="B39DA9E9-130A-45BB-A13F-E0E485B10A00"/>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="CF0CBC1D-4A8D-4345-827C-36956517F722" Type="Text" Created="2026-09-26 15:14:04 +1000" Modified="2026-10-01 10:07:09 +1000">
+                    <Title>Check-notes; run to the end</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>5405,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
     <Collections>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="WholeWord" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">pentad</SearchSettings>
+            <SearchSettings Operator="WholeWord" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">closed resonance</SearchSettings>
         </Collection>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
             <Title>Binder</Title>
@@ -5970,14 +5970,14 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-11-10 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="341" Characters="2179" Date="2026-11-09 10:53:38 +1100"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-11-11 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="102" Characters="546" Date="2026-11-10 10:28:59 +1100"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-11-09 00:00:00 +1100">
-        <DraftWordCount>341</DraftWordCount>
-        <DraftCharCount>2179</DraftCharCount>
-        <OtherWordCount>309</OtherWordCount>
-        <OtherCharCount>2080</OtherCharCount>
+    <RecentWritingHistory Date="2026-11-10 00:00:00 +1100">
+        <DraftWordCount>90</DraftWordCount>
+        <DraftCharCount>475</DraftCharCount>
+        <OtherWordCount>4</OtherWordCount>
+        <OtherCharCount>23</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="42E645E5-F8CC-4776-B54D-1E028FE9CA3D" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

@@ -2,7 +2,7 @@
 <UIStates>
     <Binder Show="Yes">
         <ShowCollections>No</ShowCollections>
-        <SelectedCollection>0</SelectedCollection>
+        <SelectedCollection>1</SelectedCollection>
         <SubdocumentCounts>No</SubdocumentCounts>
         <ExpandedItems>
             <ItemID>3BB54039-9E7B-41CC-899C-296DC6FAE2A7</ItemID>
@@ -21,7 +21,7 @@
             <ItemID>A012E55C-A5C9-4A96-8143-34E6620CC9AC</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>4A4E31C4-3C39-41D7-B31C-B0AC5C55A097</ItemID>
+            <ItemID>3654FABC-7A6E-4EC9-AE90-861D428B137C</ItemID>
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
@@ -156,13 +156,9 @@
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>None</SelectionAffects>
                 <Content>
-                    <ItemID>A037B9D3-D666-4AC1-8E6B-5309E83A0C4A</ItemID>
+                    <ItemID>4A4E31C4-3C39-41D7-B31C-B0AC5C55A097</ItemID>
                 </Content>
-                <NavigationHistory CurrentIndex="99">
-                    <HistoryItem Type="BinderItems" ViewMode="Single">C7890D2D-E379-4237-AAE8-1FD3A5F128E7</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">7CCBC3C3-3E80-4B24-8D9C-7A60D62C8A48</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">D7F8A47B-B8F7-4A92-80B8-F089146805F3</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Scrivenings" ScriveningsSelection="2,18117">F1201A31-4A21-4DFE-9890-D8F3395B7040</HistoryItem>
+                <NavigationHistory CurrentIndex="97">
                     <HistoryItem Type="BinderItems" ViewMode="Single">D7F8A47B-B8F7-4A92-80B8-F089146805F3</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">DB2367DA-4E17-40D3-9F66-632D3D4EE7C3</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">26B119D9-1768-4B73-ADF7-5E8AB50C723E</HistoryItem>
@@ -259,6 +255,10 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">96E5AAF2-09AF-42A4-8BF9-27823CC261CD</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">4A4E31C4-3C39-41D7-B31C-B0AC5C55A097</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">A037B9D3-D666-4AC1-8E6B-5309E83A0C4A</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">3654FABC-7A6E-4EC9-AE90-861D428B137C</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">4A4E31C4-3C39-41D7-B31C-B0AC5C55A097</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">A037B9D3-D666-4AC1-8E6B-5309E83A0C4A</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">3654FABC-7A6E-4EC9-AE90-861D428B137C</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
