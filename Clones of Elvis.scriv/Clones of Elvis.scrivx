@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-11-12 10:01:23 +1100" ModID="56FDC628-5DB3-4F24-8FA8-7FE9D385E01C">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-11-12 11:49:53 +1100" ModID="EB96DE9E-7B35-4B53-B5CF-7BACBAD18FB9">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -3195,7 +3195,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>10683,37</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="A0F882F3-0C8B-43E6-A060-D8B4616FD2BD" Type="Text" Created="2026-08-24 11:42:52 +1000" Modified="2026-09-17 14:52:44 +1000">
@@ -3211,7 +3211,7 @@
                                                 <TextSelection>1599,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="E12198D9-F7B9-46D3-AF32-D83940FA338B" Type="Text" Created="2026-08-24 11:42:52 +1000" Modified="2026-09-17 14:52:47 +1000">
+                                        <BinderItem UUID="E12198D9-F7B9-46D3-AF32-D83940FA338B" Type="Text" Created="2026-08-24 11:42:52 +1000" Modified="2026-11-12 10:34:30 +1100">
                                             <Title>Muscles tearing apart</Title>
                                             <MetaData>
                                                 <SectionType>5770D705-B9A4-4798-AAB1-B2C56190B02E</SectionType>
@@ -3221,7 +3221,7 @@
                                                 <NotesTextSelection>0,35</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>791,25</TextSelection>
+                                                <TextSelection>791,254</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="BCAAB961-2204-46C4-9C69-338E54F25EA9" Type="Text" Created="2026-08-28 09:07:05 +1000" Modified="2026-09-17 14:52:50 +1000">
@@ -4087,14 +4087,14 @@
                                                 <TextSelection>1006,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="466F140C-AAFF-46E9-94D7-5611054BB945" Type="Text" Created="2026-11-11 16:00:38 +1100" Modified="2026-11-11 16:50:50 +1100">
+                                        <BinderItem UUID="466F140C-AAFF-46E9-94D7-5611054BB945" Type="Text" Created="2026-11-11 16:00:38 +1100" Modified="2026-11-12 11:01:28 +1100">
                                             <Title>Seismic activity wakens Chip</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1030,0</TextSelection>
+                                                <TextSelection>1196,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="3CBC78E6-D84D-4E00-8CA3-F30056CD907E" Type="Text" Created="2026-09-15 12:22:38 +1000" Modified="2026-11-10 14:54:59 +1100">
@@ -4115,17 +4115,17 @@
                                                 <NotesTextSelection>222,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1799,0</TextSelection>
+                                                <TextSelection>2294,66</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="6C31CCA8-69B6-49CB-9971-B376250E3B5D" Type="Text" Created="2026-11-12 09:24:33 +1100" Modified="2026-11-12 09:37:23 +1100">
+                                        <BinderItem UUID="6C31CCA8-69B6-49CB-9971-B376250E3B5D" Type="Text" Created="2026-11-12 09:24:33 +1100" Modified="2026-11-12 11:49:53 +1100">
                                             <Title>Sarah and Chip go to the Ironing Room</Title>
                                             <MetaData>
                                                 <LabelID>4</LabelID>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
+                                                <TextSelection>1198,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="D7F8A47B-B8F7-4A92-80B8-F089146805F3" Type="Text" Created="2025-06-21 16:11:36 +1000" Modified="2026-11-07 16:41:23 +1100">
@@ -5745,7 +5745,7 @@
     <Collections>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="WholeWord" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">Johnny</SearchSettings>
+            <SearchSettings Operator="WholeWord" Type="All" CaseSensitive="Yes" IgnoreDiacritics="No">Stoat</SearchSettings>
         </Collection>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
             <Title>Binder</Title>
@@ -6012,11 +6012,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-11-13 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-11-12 09:19:25 +1100"/>
+        <PreviousSession Words="335" Characters="1851" Date="2026-11-12 09:19:25 +1100"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2026-11-12 00:00:00 +1100">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+        <DraftWordCount>335</DraftWordCount>
+        <DraftCharCount>1851</DraftCharCount>
         <OtherWordCount>132</OtherWordCount>
         <OtherCharCount>760</OtherCharCount>
     </RecentWritingHistory>
