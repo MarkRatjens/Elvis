@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-11-18 13:11:22 +1100" ModID="9CA98501-42B4-49E9-B248-812E2ADB651C">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-11-18 17:41:57 +1100" ModID="6E17BBA1-FD74-4933-8664-70DDE7CD46AD">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -552,7 +552,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="1DC09FA6-D331-459D-9722-ABE066EF641E" Type="Text" Created="2022-02-25 20:28:23 +1100" Modified="2026-09-02 18:42:07 +1000">
+                                <BinderItem UUID="1DC09FA6-D331-459D-9722-ABE066EF641E" Type="Text" Created="2022-02-25 20:28:23 +1100" Modified="2026-11-18 15:40:32 +1100">
                                     <Title>Vegas show</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -561,7 +561,7 @@
                                         <NotesTextSelection>165,343</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>5397,0</TextSelection>
+                                        <TextSelection>8034,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="265DCA17-1D5B-480D-87A6-FB3FBEDF8679" Type="Text" Created="2022-03-05 23:06:31 +1100" Modified="2026-08-06 10:25:47 +1000">
@@ -591,7 +591,7 @@
                                         <Bookmark BinderUUID="45C50508-DC1D-4B9E-9A0C-142F6BF9DEC6"/>
                                     </Bookmarks>
                                 </BinderItem>
-                                <BinderItem UUID="F2F62A85-6D53-4C5F-B711-DECC5DC42193" Type="Text" Created="2022-03-05 16:58:14 +1100" Modified="2026-08-06 10:25:47 +1000">
+                                <BinderItem UUID="F2F62A85-6D53-4C5F-B711-DECC5DC42193" Type="Text" Created="2022-03-05 16:58:14 +1100" Modified="2026-11-18 15:35:58 +1100">
                                     <Title>Tony's health improves, and he goes to buy coffee.</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -600,7 +600,7 @@
                                         <NotesTextSelection>0,123</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6,0</TextSelection>
+                                        <TextSelection>2619,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -655,7 +655,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="D108EBD5-2404-41F2-9C5A-BAAB2D9B1A72" Type="Text" Created="2022-04-16 11:52:40 +1000" Modified="2026-08-08 15:01:50 +1000">
+                                <BinderItem UUID="D108EBD5-2404-41F2-9C5A-BAAB2D9B1A72" Type="Text" Created="2022-04-16 11:52:40 +1000" Modified="2026-11-18 15:35:30 +1100">
                                     <Title>Alexander arrests Tony</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -664,7 +664,7 @@
                                         <NotesTextSelection>227,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2906,0</TextSelection>
+                                        <TextSelection>475,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3400,7 +3400,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="36D9E474-65E1-42E4-B9FE-9ACFF65FB91D" Type="Text" Created="2025-06-15 12:55:38 +1000" Modified="2026-10-15 09:27:29 +1100">
+                                <BinderItem UUID="36D9E474-65E1-42E4-B9FE-9ACFF65FB91D" Type="Text" Created="2025-06-15 12:55:38 +1000" Modified="2026-11-18 14:45:30 +1100">
                                     <Title>Johnny takes Chanta to Sarah</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3408,7 +3408,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>8299,1857</TextSelection>
+                                        <TextSelection>9420,71</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="825FD0E0-ED17-4CAB-8229-801D8BF77CDC" Type="Text" Created="2026-09-18 15:00:37 +1000" Modified="2026-11-18 11:11:58 +1100">
@@ -3969,7 +3969,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>4151,0</TextSelection>
+                                        <TextSelection>4869,166</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="F816A52E-59D3-412E-AC06-0F96EAEC69AA" Type="Text" Created="2026-10-26 16:53:34 +1100" Modified="2026-10-27 14:15:39 +1100">
@@ -4327,6 +4327,16 @@
                                         <TextSelection>4542,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
+                                <BinderItem UUID="5755F6B8-D7F3-46B9-8E40-F1CCDFB7A0A4" Type="Text" Created="2025-06-21 16:12:27 +1000" Modified="2026-11-18 17:41:55 +1100">
+                                    <Title>Chanta vs Alexander</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <StatusID>2</StatusID>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,8048</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
                                 <BinderItem UUID="C25FF326-9B89-4D42-BA1C-D1E1909B5D66" Type="Text" Created="2026-11-18 10:29:40 +1100" Modified="2026-11-18 13:11:22 +1100">
                                     <Title>Second pentad arrives at the doors to the Laundry</Title>
                                     <MetaData>
@@ -4334,18 +4344,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>840,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="5755F6B8-D7F3-46B9-8E40-F1CCDFB7A0A4" Type="Text" Created="2025-06-21 16:12:27 +1000" Modified="2026-11-17 16:52:26 +1100">
-                                    <Title>Chanta vs Alexander</Title>
-                                    <MetaData>
-                                        <LabelID>4</LabelID>
-                                        <StatusID>33</StatusID>
-                                        <NotesTextSelection>222,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>348,0</TextSelection>
+                                        <TextSelection>1202,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="B92AD58E-B889-42BE-A9ED-2AA37E22F4E5" Type="Text" Created="2026-09-10 12:28:36 +1000" Modified="2026-11-01 13:03:34 +1100">
@@ -5732,7 +5731,7 @@
     <Collections>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="All" Type="All" CompileSetting="Include" CaseSensitive="No" IgnoreDiacritics="No">black roof</SearchSettings>
+            <SearchSettings Operator="All" Type="All" CompileSetting="Include" CaseSensitive="No" IgnoreDiacritics="No">Gladys</SearchSettings>
         </Collection>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
             <Title>Binder</Title>
@@ -5999,13 +5998,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-11-19 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="4" Date="2026-11-18 10:12:40 +1100"/>
+        <PreviousSession Words="30" Characters="171" Date="2026-11-18 10:12:40 +1100"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2026-11-18 00:00:00 +1100">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>263</OtherWordCount>
-        <OtherCharCount>1630</OtherCharCount>
+        <DraftWordCount>30</DraftWordCount>
+        <DraftCharCount>167</DraftCharCount>
+        <OtherWordCount>1065</OtherWordCount>
+        <OtherCharCount>5873</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="2362A340-C5CF-4815-9DC9-85EDEC1C3911" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
