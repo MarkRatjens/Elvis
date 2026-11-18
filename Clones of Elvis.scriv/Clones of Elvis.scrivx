@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-11-18 11:24:36 +1100" ModID="A42DA85E-4590-450E-AC31-F1CEAFEF09CC">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-11-18 13:11:22 +1100" ModID="9CA98501-42B4-49E9-B248-812E2ADB651C">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -2164,7 +2164,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2359,516</TextSelection>
+                                        <TextSelection>2743,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="B9259790-B3EA-4FD5-AEBD-C13C7BEA7FF4" Type="Text" Created="2023-10-01 14:10:57 +1100" Modified="2026-10-24 14:43:46 +1100">
@@ -3375,7 +3375,7 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="DA4F8C4C-2B10-4870-A459-9A7B9384EAC7" Type="Text" Created="2026-09-19 18:01:41 +1000" Modified="2026-11-18 11:03:40 +1100">
+                                <BinderItem UUID="DA4F8C4C-2B10-4870-A459-9A7B9384EAC7" Type="Text" Created="2026-09-19 18:01:41 +1000" Modified="2026-11-18 12:55:59 +1100">
                                     <Title>Johnny reveals the first operational elliptical-rail apparatus</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3384,7 +3384,7 @@
                                         <NotesTextSelection>980,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2631,0</TextSelection>
+                                        <TextSelection>4014,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3444,7 +3444,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>184,7</TextSelection>
+                                        <TextSelection>1902,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="4ACBD783-9C1D-490F-BFA1-B0BB177BC6E3" Type="Text" Created="2025-05-03 16:31:53 +1000" Modified="2026-11-07 17:10:39 +1100">
@@ -4327,13 +4327,14 @@
                                         <TextSelection>4542,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="C25FF326-9B89-4D42-BA1C-D1E1909B5D66" Type="Text" Created="2026-11-18 10:29:40 +1100" Modified="2026-11-18 11:15:14 +1100">
+                                <BinderItem UUID="C25FF326-9B89-4D42-BA1C-D1E1909B5D66" Type="Text" Created="2026-11-18 10:29:40 +1100" Modified="2026-11-18 13:11:22 +1100">
                                     <Title>Second pentad arrives at the doors to the Laundry</Title>
                                     <MetaData>
+                                        <LabelID>4</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>16983,0</TextSelection>
+                                        <TextSelection>840,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="5755F6B8-D7F3-46B9-8E40-F1CCDFB7A0A4" Type="Text" Created="2025-06-21 16:12:27 +1000" Modified="2026-11-17 16:52:26 +1100">
@@ -5731,7 +5732,7 @@
     <Collections>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="WholeWord" Type="All" CompileSetting="Include" CaseSensitive="No" IgnoreDiacritics="No">ironing</SearchSettings>
+            <SearchSettings Operator="All" Type="All" CompileSetting="Include" CaseSensitive="No" IgnoreDiacritics="No">black roof</SearchSettings>
         </Collection>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
             <Title>Binder</Title>
@@ -6003,8 +6004,8 @@
     <RecentWritingHistory Date="2026-11-18 00:00:00 +1100">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>2914</OtherWordCount>
-        <OtherCharCount>17398</OtherCharCount>
+        <OtherWordCount>263</OtherWordCount>
+        <OtherCharCount>1630</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="2362A340-C5CF-4815-9DC9-85EDEC1C3911" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
