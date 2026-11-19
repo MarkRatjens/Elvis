@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-11-18 17:41:57 +1100" ModID="6E17BBA1-FD74-4933-8664-70DDE7CD46AD">
+<ScrivenerProject Identifier="DB7ADA3F-FBB0-493A-BD2A-AFB67C102622" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="James-Cole" Author="" Modified="2026-11-19 13:06:37 +1100" ModID="B1316DC3-38B0-4E02-8568-276DC815F0E9">
     <Binder>
         <BinderItem UUID="EEE559BF-DA00-4EC5-994A-C94674609FBE" Type="Folder" Created="2016-05-01 17:16:05 +1000" Modified="2016-05-01 17:16:05 +1000">
             <Title>Front Matter</Title>
@@ -2562,7 +2562,7 @@
                                         <FileExtension>rtf</FileExtension>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6074,0</TextSelection>
+                                        <TextSelection>6756,18</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3776,7 +3776,7 @@
                                         <TextSelection>806,5</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="CF32D58F-19CA-4D70-B5C3-B826A2848B20" Type="Text" Created="2026-09-18 15:27:38 +1000" Modified="2026-11-09 14:33:04 +1100">
+                                <BinderItem UUID="CF32D58F-19CA-4D70-B5C3-B826A2848B20" Type="Text" Created="2026-09-18 15:27:38 +1000" Modified="2026-11-19 11:27:41 +1100">
                                     <Title>Please restrain your children</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
@@ -3784,7 +3784,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>7475,25</TextSelection>
+                                        <TextSelection>6035,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -4327,24 +4327,24 @@
                                         <TextSelection>4542,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="5755F6B8-D7F3-46B9-8E40-F1CCDFB7A0A4" Type="Text" Created="2025-06-21 16:12:27 +1000" Modified="2026-11-18 17:41:55 +1100">
+                                <BinderItem UUID="5755F6B8-D7F3-46B9-8E40-F1CCDFB7A0A4" Type="Text" Created="2025-06-21 16:12:27 +1000" Modified="2026-11-19 12:02:00 +1100">
                                     <Title>Chanta vs Alexander</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
                                         <StatusID>2</StatusID>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,8048</TextSelection>
+                                        <TextSelection>736,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="C25FF326-9B89-4D42-BA1C-D1E1909B5D66" Type="Text" Created="2026-11-18 10:29:40 +1100" Modified="2026-11-18 13:11:22 +1100">
+                                <BinderItem UUID="C25FF326-9B89-4D42-BA1C-D1E1909B5D66" Type="Text" Created="2026-11-18 10:29:40 +1100" Modified="2026-11-19 12:40:26 +1100">
                                     <Title>Second pentad arrives at the doors to the Laundry</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1202,0</TextSelection>
+                                        <TextSelection>1165,37</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="B92AD58E-B889-42BE-A9ED-2AA37E22F4E5" Type="Text" Created="2026-09-10 12:28:36 +1000" Modified="2026-11-01 13:03:34 +1100">
@@ -4354,17 +4354,17 @@
                                         <NotesTextSelection>917,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6209,0</TextSelection>
+                                        <TextSelection>9104,9</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="435891D2-CBBA-44A4-9658-3EE50731918E" Type="Text" Created="2026-08-10 16:55:41 +1000" Modified="2026-11-17 15:21:12 +1100">
+                                <BinderItem UUID="435891D2-CBBA-44A4-9658-3EE50731918E" Type="Text" Created="2026-08-10 16:55:41 +1000" Modified="2026-11-19 13:06:37 +1100">
                                     <Title>Sarah confronts Eloise</Title>
                                     <MetaData>
                                         <LabelID>4</LabelID>
-                                        <NotesTextSelection>1744,0</NotesTextSelection>
+                                        <NotesTextSelection>0,1743</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>855,0</TextSelection>
+                                        <TextSelection>2518,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -5731,7 +5731,7 @@
     <Collections>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922173 0.818612 0.999627">
             <Title>Search Results</Title>
-            <SearchSettings Operator="All" Type="All" CompileSetting="Include" CaseSensitive="No" IgnoreDiacritics="No">Gladys</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" CompileSetting="Include" CaseSensitive="No" IgnoreDiacritics="No">resonance</SearchSettings>
         </Collection>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.974804 0.974804 0.974804">
             <Title>Binder</Title>
@@ -5997,14 +5997,14 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:30:48 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-11-19 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="30" Characters="171" Date="2026-11-18 10:12:40 +1100"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2026-11-20 01:00:00 +1100" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2026-11-19 10:52:06 +1100"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-11-18 00:00:00 +1100">
-        <DraftWordCount>30</DraftWordCount>
-        <DraftCharCount>167</DraftCharCount>
-        <OtherWordCount>1065</OtherWordCount>
-        <OtherCharCount>5873</OtherCharCount>
+    <RecentWritingHistory Date="2026-11-19 00:00:00 +1100">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>291</OtherWordCount>
+        <OtherCharCount>1749</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="478.714966,721.13385" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="2362A340-C5CF-4815-9DC9-85EDEC1C3911" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
